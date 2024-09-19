@@ -2,10 +2,11 @@
 
 -- Load the item lists from their individual files
 local function loadItemLists()
-    MyFirstAddon_TrackedItems = {
-        raidItems = MyFirstAddon_RaidItems,       -- Load raid items
-        dungeonItems = MyFirstAddon_DungeonItems, -- Load dungeon items
-        worldItems = MyFirstAddon_WorldItems,     -- Load world items
+    IcyBIS_TrackedItems = {
+        ELEMENTAL_SHAMAN_OVERALL_BIS,
+        RESTORATION_SHAMAN_OVERALL_BIS,
+        ENHANCEMENT_SHAMAN_OVERALL_BIS,
+        -- ELEMENTAL_SHAMAN_MYTHIC_PLUS_BIS,
     }
 end
 
