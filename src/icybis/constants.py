@@ -3,12 +3,17 @@ Contains World of Warcraft classes and their constant values needed for scraping
 building lua files.
 """
 
+from pytz import timezone
 from typing import ClassVar
+
+
+TIMEZONE = timezone("America/New_York")
 
 
 class WoWClasses:
     class DEATHKNIGHT:
         LUA_FILE: str = "DeathKnightBIS.lua"
+        CLASS_COLOR: str = "#C41E3A"
         
         BLOOD: ClassVar[dict] = {
             "OVERALL_BIS": {
@@ -57,6 +62,7 @@ class WoWClasses:
 
     class DEMONHUNTER:
         LUA_FILE: str = "DemonHunterBIS.lua"
+        CLASS_COLOR: str = "#A330C9"
 
         HAVOC: ClassVar[dict] = {
             "OVERALL_BIS": {
@@ -90,6 +96,7 @@ class WoWClasses:
 
     class DRUID:
         LUA_FILE: str = "DruidBIS.lua"
+        CLASS_COLOR: str = "#FF7C0A"
 
         BALANCE: ClassVar[dict] = {
             "OVERALL_BIS": {
@@ -153,6 +160,7 @@ class WoWClasses:
 
     class EVOKER:
         LUA_FILE: str = "EvokerBIS.lua"
+        CLASS_COLOR: str = "#33937F"
 
         AUGMENTATION: ClassVar[dict] = {
             "OVERALL_BIS": {
@@ -201,6 +209,7 @@ class WoWClasses:
 
     class HUNTER:
         LUA_FILE: str = "HunterBIS.lua"
+        CLASS_COLOR: str = "#AAD372"
 
         BEAST_MASTERY: ClassVar[dict] = {
             "OVERALL_BIS": {
@@ -249,6 +258,7 @@ class WoWClasses:
 
     class MAGE:
         LUA_FILE: str = "MageBIS.lua"
+        CLASS_COLOR: str = "#3FC7EB"
 
         ARCANE: ClassVar[dict] = {
             "OVERALL_BIS": {
@@ -297,6 +307,7 @@ class WoWClasses:
 
     class MONK:
         LUA_FILE: str = "MonkBIS.lua"
+        CLASS_COLOR: str = "#00FF98"
 
         BREWMASTER: ClassVar[dict] = {
             "OVERALL_BIS": {
@@ -345,6 +356,7 @@ class WoWClasses:
 
     class PALADIN:
         LUA_FILE: str = "PaladinBIS.lua"
+        CLASS_COLOR: str = "#F48CBA"
 
         HOLY: ClassVar[dict] = {
             "OVERALL_BIS": {
@@ -393,6 +405,7 @@ class WoWClasses:
 
     class PRIEST:
         LUA_FILE: str = "PriestBIS.lua"
+        CLASS_COLOR: str = "#FFFFFF"
 
         DISCIPLINE: ClassVar[dict] = {
             "OVERALL_BIS": {
@@ -441,6 +454,7 @@ class WoWClasses:
 
     class ROGUE:
         LUA_FILE: str = "RogueBIS.lua"
+        CLASS_COLOR: str = "#FFF468"
 
         ASSASSINATION: ClassVar[dict] = {
             "OVERALL_BIS": {
@@ -490,6 +504,7 @@ class WoWClasses:
 
     class SHAMAN:
         LUA_FILE: str = "ShamanBIS.lua"
+        CLASS_COLOR: str = "#0070DD"
 
         ELEMENTAL: ClassVar[dict] = {
             "OVERALL_BIS": {
@@ -538,6 +553,7 @@ class WoWClasses:
 
     class WARLOCK:
         LUA_FILE: str = "WarlockBIS.lua"
+        CLASS_COLOR: str = "#8788EE"
 
         AFFLICTION: ClassVar[dict] = {
             "OVERALL_BIS": {
@@ -586,6 +602,7 @@ class WoWClasses:
 
     class WARRIOR:
         LUA_FILE: str = "WarriorBIS.lua"
+        CLASS_COLOR: str = "#C69B6D"
 
         ARMS: ClassVar[dict] = {
             "OVERALL_BIS": {
