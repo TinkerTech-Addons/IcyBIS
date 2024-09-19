@@ -1,3 +1,8 @@
+"""
+Contains World of Warcraft classes and their constant values needed for scraping and
+building lua files.
+"""
+
 from typing import ClassVar
 
 
@@ -10,11 +15,11 @@ class WoWClasses:
                 "URL": "https://www.icy-veins.com/wow/elemental-shaman-pve-dps-gear-best-in-slot?area=area_1",
                 "NAME": "ELEMENTAL_SHAMAN_OVERALL_BIS",
             },
-            "RAID_BIS":  {
+            "RAID_BIS": {
                 "URL": "https://www.icy-veins.com/wow/elemental-shaman-pve-dps-gear-best-in-slot?area=area_2",
                 "NAME": "ELEMENTAL_SHAMAN_RAID_BIS",
             },
-            "MYTHIC_PLUS_BIS":  {
+            "MYTHIC_PLUS_BIS": {
                 "URL": "https://www.icy-veins.com/wow/elemental-shaman-pve-dps-gear-best-in-slot?area=area_3",
                 "NAME": "ELEMENTAL_SHAMAN_MYTHIC_PLUS_BIS",
             },
@@ -40,7 +45,7 @@ class WoWClasses:
                 "URL": "https://www.icy-veins.com/wow/restoration-shaman-pve-healing-gear-best-in-slot?area=area_1",
                 "NAME": "RESTORATION_SHAMAN_OVERALL_BIS",
             },
-            "RAID_BIS":  {
+            "RAID_BIS": {
                 "URL": "https://www.icy-veins.com/wow/restoration-shaman-pve-healing-gear-best-in-slot?area=area_2",
                 "NAME": "RESTORATION_SHAMAN_RAID_BIS",
             },

@@ -1,6 +1,7 @@
 """
-Enables usage with `python -m icybis`
+Enables usage with `python -m icybis`.
 """
+
 from icybis import build, constants
 
 

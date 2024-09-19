@@ -15,8 +15,8 @@ def version_info() -> str:
     """
     Display the current version of the program, python and platform.
     """
-    icy_bis_version:  str = f"IcyBIS  : {__version__}"
-    python_version:   str = f"Python  : {sys.version.split(" ", maxsplit=1)[0]}"
+    icy_bis_version: str = f"IcyBIS  : {__version__}"
+    python_version: str = f"Python  : {sys.version.split(" ", maxsplit=1)[0]}"
     platform_version: str = f"Platform: {platform.platform()}"
 
     border_length: int = len(

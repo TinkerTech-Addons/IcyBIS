@@ -1,3 +1,7 @@
+"""
+Handles Icy Veins website request and HTML parsing for best in slot (BIS) gear.
+"""
+
 import pathlib
 
 import requests
@@ -9,7 +13,7 @@ def gather(url: str, variable_name: str, lua_file: str) -> None:
 
     soup = BeautifulSoup(response.content, "html5lib")
 
-    area = url[url.index("=") + 1:]
+    area = url[url.index("=") + 1 :]
     data = soup.find("div", attrs={"id": area})
     table_rows = data.find_all("tr")
 
@@ -19,7 +23,9 @@ def gather(url: str, variable_name: str, lua_file: str) -> None:
         for table_row in table_rows:
             try:
                 item_name = table_row.find("span", attrs={"class": "q4"}).text
-                item_id = table_row.find("span", attrs={"class": "q4"})["data-wowhead"].split("&")[0]  # Remove bonus data
+                item_id = table_row.find("span", attrs={"class": "q4"})[
+                    "data-wowhead"
+                ].split("&")[0]  # Remove bonus data
                 item_id = item_id.split("=")[1]  # Remove item=
                 write_file.write(f"\t{item_id}, -- {item_name}\n")
             except AttributeError:
