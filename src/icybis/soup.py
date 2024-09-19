@@ -19,7 +19,7 @@ def gather(url: str, variable_name: str, lua_file: str) -> None:
 
     tmp_lua_file_path: str = f"tmp-{lua_file}"
     with pathlib.Path.open(tmp_lua_file_path, "a+") as write_file:
-        write_file.write(f"local {variable_name} = {{\n")
+        write_file.write(f"{variable_name} = {{\n")
 
         for table_row in table_rows:
             try:
