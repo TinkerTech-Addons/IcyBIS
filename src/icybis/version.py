@@ -6,7 +6,7 @@ import platform
 import sys
 from textwrap import dedent
 
-# This variable is modfied by Commitizen via make bump.
+# This variable is modified by Commitizen via make bump.
 # Do NOT edit it manually.
 __version__: str = "0.0.3"
 
