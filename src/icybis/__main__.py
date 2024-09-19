@@ -1,11 +1,14 @@
 """
 Enables usage with `python -m icybis`.
 """
+
 from rich.console import Console
 from rich.markdown import Markdown
+
 from icybis import build, constants
 
 console = Console()
+
 
 def main() -> None:
     wow_classes = [
@@ -23,7 +26,7 @@ def main() -> None:
         constants.WoWClasses.WARLOCK,
         constants.WoWClasses.WARRIOR,
     ]
-    
+
     for wow_class in wow_classes:
         build.wow_class(wow_class)
 

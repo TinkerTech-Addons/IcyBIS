@@ -5,15 +5,14 @@ Handles the high level building and lua file orchestration.
 import filecmp
 import inspect
 import pathlib
-import shutil
 import re
-
+import shutil
 from datetime import datetime
+
 from rich.progress import track
 
 from icybis import soup
 from icybis.constants import TIMEZONE, WoWClasses
-
 
 update_markdown = ""
 
@@ -62,7 +61,7 @@ def changelog() -> None:
 
 
 def _get_addon_version() -> str:
-    toc_version_pattern =  re.compile(r"(## Version: )([0-9]+.[0-9]+.[0-9]+)")
+    toc_version_pattern = re.compile(r"(## Version: )([0-9]+.[0-9]+.[0-9]+)")
     toc_data = pathlib.Path.open("IcyBIS/IcyBIS.toc").read()
     toc_version = re.search(toc_version_pattern, toc_data).group(2)
     return toc_version

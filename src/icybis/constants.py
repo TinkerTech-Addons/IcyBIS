@@ -3,9 +3,9 @@ Contains World of Warcraft classes and their constant values needed for scraping
 building lua files.
 """
 
-from pytz import timezone
 from typing import ClassVar
 
+from pytz import timezone
 
 TIMEZONE = timezone("America/New_York")
 
@@ -14,7 +14,7 @@ class WoWClasses:
     class DEATHKNIGHT:
         LUA_FILE: str = "DeathKnightBIS.lua"
         CLASS_COLOR: str = "#C41E3A"
-        
+
         BLOOD: ClassVar[dict] = {
             "OVERALL_BIS": {
                 "URL": "https://www.icy-veins.com/wow/blood-death-knight-pve-tank-gear-best-in-slot?area=area_2",
