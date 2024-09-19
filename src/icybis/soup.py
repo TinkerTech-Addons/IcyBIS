@@ -1,20 +1,18 @@
 import requests
 from bs4 import BeautifulSoup
 
-from icybis import constants
 
-def gather(url: str, variable_name: str, write_file):
-    URL = constants.SHAMAN.RESTORATION.MYTHIC_PLUS_BIS["URL"]
-
-    response = requests.get(URL)
+def gather(url: str, variable_name: str, lua_file: str):
+    response = requests.get(url)
 
     soup = BeautifulSoup(response.content, "html5lib")
 
-    data = soup.find("table").parent
+    area = url[url.index("=") + 1:]
+    data = soup.find("div", attrs = {"id": area})
     table_rows = data.find_all("tr")
     
-    with open("BISLists.lua", "w+") as write_file:
-        write_file.write(f"local {constants.SHAMAN.RESTORATION.MYTHIC_PLUS_BIS['NAME']} = {{\n")
+    with open(f"tmp-{lua_file}", "w+") as write_file:
+        write_file.write(f"local {variable_name} = {{\n")
 
         for table_row in table_rows:
             try:
@@ -25,7 +23,3 @@ def gather(url: str, variable_name: str, write_file):
             except AttributeError:
                 continue
         write_file.write("}\n\n")
-
-def gather_shaman():
-    
-    with open(f"new-{constants.SHAMAN.LUA_FILE}", "w+") as write_file:

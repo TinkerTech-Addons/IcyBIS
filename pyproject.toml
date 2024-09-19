@@ -13,6 +13,7 @@ dependencies = [
     "beautifulsoup4",
     "html5lib",
     "requests",
+    "rich",
 ]
 authors = [
     {name = "Dillon Louden"},
