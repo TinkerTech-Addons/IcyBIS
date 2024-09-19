@@ -1,4 +1,4 @@
-local ELEMENTAL_SHAMAN_OVERALL_BIS = {
+ELEMENTAL_SHAMAN_OVERALL_BIS = {
 	222439, -- Everforged Dagger
 	225579, -- Crest of the Caustic Despot
 	212428, -- Final Meal's Horns
@@ -17,7 +17,7 @@ local ELEMENTAL_SHAMAN_OVERALL_BIS = {
 	220202, -- Spymaster's Web
 }
 
-local ELEMENTAL_SHAMAN_RAID_BIS = {
+ELEMENTAL_SHAMAN_RAID_BIS = {
 	212394, -- Sovereign's Disdain
 	225579, -- Crest of the Caustic Despot
 	212428, -- Final Meal's Horns
@@ -37,7 +37,7 @@ local ELEMENTAL_SHAMAN_RAID_BIS = {
 	220202, -- Spymaster's Web
 }
 
-local ELEMENTAL_SHAMAN_MYTHIC_PLUS_BIS = {
+ELEMENTAL_SHAMAN_MYTHIC_PLUS_BIS = {
 	221165, -- Unceremonious Bloodletter
 	178750, -- Encrusted Canopic Lid
 	133285, -- Wildhammer Riding Helm
@@ -56,7 +56,7 @@ local ELEMENTAL_SHAMAN_MYTHIC_PLUS_BIS = {
 	178708, -- Unbound Changeling
 }
 
-local ENHANCEMENT_SHAMAN_OVERALL_BIS = {
+ENHANCEMENT_SHAMAN_OVERALL_BIS = {
 	219877, -- Void Reaper's Warp Blade
 	222446, -- Charged Facesmasher
 	221090, -- Eirich's Fist of Deception
@@ -77,7 +77,7 @@ local ENHANCEMENT_SHAMAN_OVERALL_BIS = {
 	219312, -- Empowering Crystal of Anub'ikkaj
 }
 
-local ENHANCEMENT_SHAMAN_RAID_BIS = {
+ENHANCEMENT_SHAMAN_RAID_BIS = {
 	219877, -- Void Reaper's Warp Blade
 	212398, -- Bludgeons of Blistering Wind
 	212011, -- Noetic of the Forgotten Reservoir
@@ -97,7 +97,7 @@ local ENHANCEMENT_SHAMAN_RAID_BIS = {
 	212456, -- Void Reaper's Contract
 }
 
-local ENHANCEMENT_SHAMAN_MYTHIC_PLUS_BIS = {
+ENHANCEMENT_SHAMAN_MYTHIC_PLUS_BIS = {
 	221090, -- Eirich's Fist of Deception
 	159648, -- Bainbridge's Blackjack
 	221156, -- Cryptbound Headpiece
@@ -117,7 +117,7 @@ local ENHANCEMENT_SHAMAN_MYTHIC_PLUS_BIS = {
 	219312, -- Empowering Crystal of Anub'ikkaj
 }
 
-local RESTORATION_SHAMAN_OVERALL_BIS = {
+RESTORATION_SHAMAN_OVERALL_BIS = {
 	212394, -- Sovereign's Disdain
 	225579, -- Crest of the Caustic Despot
 	212011, -- Noetic of the Forgotten Reservoir
@@ -136,7 +136,7 @@ local RESTORATION_SHAMAN_OVERALL_BIS = {
 	178708, -- Unbound Changeling
 }
 
-local RESTORATION_SHAMAN_RAID_BIS = {
+RESTORATION_SHAMAN_RAID_BIS = {
 	212394, -- Sovereign's Disdain
 	225579, -- Crest of the Caustic Despot
 	212011, -- Noetic of the Forgotten Reservoir
@@ -155,7 +155,7 @@ local RESTORATION_SHAMAN_RAID_BIS = {
 	220305, -- Ovi'nax's Mercurial Egg
 }
 
-local RESTORATION_SHAMAN_MYTHIC_PLUS_BIS = {
+RESTORATION_SHAMAN_MYTHIC_PLUS_BIS = {
 	133283, -- Modgud's Blade
 	221177, -- Old-Blood Hielaman
 	212011, -- Noetic of the Forgotten Reservoir
