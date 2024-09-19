@@ -1,0 +1,7 @@
+## Interface: 110000
+## Title: Icy Veins BIS
+## Version: 0.0.1
+## Author: Shammooz - Illidian
+## Notes: Tooltip information to help distinguish the players best in slot (BIS) item provided by Icy Veins.
+## DefaultState: enabled
+## SavedVariablesPerCharacter: IcyBIS_Settings
