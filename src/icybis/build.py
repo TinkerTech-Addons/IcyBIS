@@ -28,7 +28,7 @@ def wow_class(wow_class: WoWClasses) -> None:
                 spec[1].values(),
                 description=f"[{wow_class.CLASS_COLOR}]Building {spec[0].capitalize()} {wow_class.__name__.capitalize()}...[/{wow_class.CLASS_COLOR}]",
             ):
-                soup.gather(value["URL"], value["NAME"], wow_class.LUA_FILE)
+                soup.gather(value["URL"], value["NAME"], value["TOOLTIP"], wow_class.LUA_FILE)
 
     compare(wow_class)
 
