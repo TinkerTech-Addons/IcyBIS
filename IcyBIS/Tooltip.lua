@@ -12,7 +12,7 @@
 
 -- Tooltip.lua
 
-local addonName, ns = ...
+-- local addonName, ns = ...
 
 -- BIS Tooltip
 function OnBISTooltip(tooltip, data)
@@ -28,14 +28,13 @@ function OnBISTooltip(tooltip, data)
     end
 end
 
+-- local function OnAddonLoaded(self, event)
+--     if addonName == "IcyBIS" then
+--         TooltipDataProcessor.AddTooltipPostCall(Enum.TooltipDataType.Item, OnBISTooltip)
+--     end
+--     self:UnregisterEvent("ADDON_LOADED")
+-- end
 
-local function OnAddonLoaded(self, event)
-    if addonName == "IcyBIS" then
-        TooltipDataProcessor.AddTooltipPostCall(Enum.TooltipDataType.Item, OnBISTooltip)
-    end
-    self:UnregisterEvent("ADDON_LOADED")
-end
-
-local frame = CreateFrame("Frame", "IcyBIS")
-frame:RegisterEvent("ADDON_LOADED")
-frame:SetScript("ONEVENT", OnAddonLoaded)
+-- local frame = CreateFrame("Frame", "IcyBIS")
+-- frame:RegisterEvent("ADDON_LOADED")
+-- frame:SetScript("ONEVENT", OnAddonLoaded)

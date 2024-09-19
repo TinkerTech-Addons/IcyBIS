@@ -7,5 +7,7 @@
 ## SavedVariablesPerCharacter: IcyBIS_Settings
 
 IcyBis_Items/ShamanBIS.lua
+SettingsUI.lua
 Functions.lua
 Tooltip.lua
+IcyBIS.lua

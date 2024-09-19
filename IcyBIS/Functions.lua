@@ -8,6 +8,7 @@ local function loadItemLists()
         ENHANCEMENT_SHAMAN_OVERALL_BIS,
         -- ELEMENTAL_SHAMAN_MYTHIC_PLUS_BIS,
     }
+    table.insert(IcyBIS_TrackedItems, ELEMENTAL_SHAMAN_MYTHIC_PLUS_BIS)
 end
 
 -- Call the function to load all item lists into the main table

@@ -1,15 +1,13 @@
--- simple ui for toggling displays
-
--- SettingnsUI.lua
+-- SettingsUI.lua
 
 -- Table to hold character-specific settings
 IcyBIS_Settings = IcyBIS_Settings or {}
 
 -- Frame for the settings UI
-local settingsFrame = CreateFrame("Frame", "IcyBIS_SettingsFrame", InterfaceOptionsFramePanelContainer)
-settingsFrame.name = "Icy BIS Addon"
+local settingsFrame = CreateFrame("Frame", "SettingsUIFrame", InterfaceOptionsFramePanelContainer)
+settingsFrame.name = "IcyBIS Settings"
 
--- Function to create checkboxes
+-- Function to create a checkbox
 local function createCheckbox(name, label, parent, anchorPoint, relativeTo, relativePoint, x, y, tooltip)
     local checkBox = CreateFrame("CheckButton", name, parent, "InterfaceOptionsCheckButtonTemplate")
     checkBox:SetPoint(anchorPoint, relativeTo, relativePoint, x, y)
@@ -18,81 +16,94 @@ local function createCheckbox(name, label, parent, anchorPoint, relativeTo, rela
     return checkBox
 end
 
--- Class-wide override checkbox
-local classOverrideCheckbox = createCheckbox(
-    "IcyBIS_ClassOverride",
-    "Enable for entire class",
-    settingsFrame,
-    "TOPLEFT",
-    settingsFrame,
-    "TOPLEFT",
-    20,
-    -20,
-    "Overrides spec-specific settings and enables tracking for all specs."
-)
+-- Function to create a category title
+local function createCategoryTitle(label, parent, anchorPoint, relativeTo, relativePoint, x, y)
+    local title = parent:CreateFontString(nil, "ARTWORK", "GameFontNormalLarge")
+    title:SetPoint(anchorPoint, relativeTo, relativePoint, x, y)
+    title:SetText(label)
+    return title
+end
 
--- Checkboxes for character specs
-local spec1Checkbox = createCheckbox(
-    "IcyBIS_Spec1",
-    "Enable for Spec 1",
-    settingsFrame,
-    "TOPLEFT",
-    classOverrideCheckbox,
-    "BOTTOMLEFT",
-    0,
-    -10,
-    "Enable tracking for your first specialization."
-)
-local spec2Checkbox = createCheckbox(
-    "IcyBIS_Spec2",
-    "Enable for Spec 2",
-    settingsFrame,
-    "TOPLEFT",
-    spec1Checkbox,
-    "BOTTOMLEFT",
-    0,
-    -10,
-    "Enable tracking for your second specialization."
-)
-local spec3Checkbox = createCheckbox(
-    "IcyBIS_Spec3",
-    "Enable for Spec 3",
-    settingsFrame,
-    "TOPLEFT",
-    spec2Checkbox,
-    "BOTTOMLEFT",
-    0,
-    -10,
-    "Enable tracking for your third specialization."
-)
+-- Spec and BIS settings checkboxes
+local function createSpecSettings(specName, parent, yOffset)
+    -- Spec title
+    local specTitle = createCategoryTitle(specName, parent, "TOPLEFT", parent, "TOPLEFT", 20, yOffset)
+
+    -- Nested BIS checkboxes for the spec
+    local overallBISCheckbox = createCheckbox(
+        "MyShamanAddon_" .. specName .. "_OverallBIS",
+        "Overall BIS",
+        parent,
+        "TOPLEFT",
+        specTitle,
+        "BOTTOMLEFT",
+        20,
+        -10,
+        "Enable tracking for Overall BIS items."
+    )
+    local raidBISCheckbox = createCheckbox(
+        "MyShamanAddon_" .. specName .. "_RaidBIS",
+        "Raid BIS",
+        parent,
+        "TOPLEFT",
+        overallBISCheckbox,
+        "BOTTOMLEFT",
+        20,
+        -10,
+        "Enable tracking for Raid BIS items."
+    )
+    local mPlusBISCheckbox = createCheckbox(
+        "MyShamanAddon_" .. specName .. "_MPlusBIS",
+        "M+ BIS",
+        parent,
+        "TOPLEFT",
+        raidBISCheckbox,
+        "BOTTOMLEFT",
+        20,
+        -10,
+        "Enable tracking for Mythic+ BIS items."
+    )
+
+    -- Return the checkboxes for later reference
+    return { overallBISCheckbox, raidBISCheckbox, mPlusBISCheckbox }
+end
+
+-- Create checkboxes for each specialization
+local elementalCheckboxes = createSpecSettings("Elemental", settingsFrame, -20)
+local enhancementCheckboxes = createSpecSettings("Enhancement", settingsFrame, -120)
+local restorationCheckboxes = createSpecSettings("Restoration", settingsFrame, -220)
 
 -- Save settings when the options panel is closed
 settingsFrame.okay = function()
-    IcyBIS_Settings.classOverride = classOverrideCheckbox:GetChecked()
-    IcyBIS_Settings.spec1Enabled = spec1Checkbox:GetChecked()
-    IcyBIS_Settings.spec2Enabled = spec2Checkbox:GetChecked()
-    IcyBIS_Settings.spec3Enabled = spec3Checkbox:GetChecked()
+    -- Save each checkbox state for each spec
+    IcyBIS_Settings.Elemental_OverallBIS = elementalCheckboxes[1]:GetChecked()
+    IcyBIS_Settings.Elemental_RaidBIS = elementalCheckboxes[2]:GetChecked()
+    IcyBIS_Settings.Elemental_MPlusBIS = elementalCheckboxes[3]:GetChecked()
+
+    IcyBIS_Settings.Enhancement_OverallBIS = enhancementCheckboxes[1]:GetChecked()
+    IcyBIS_Settings.Enhancement_RaidBIS = enhancementCheckboxes[2]:GetChecked()
+    IcyBIS_Settings.Enhancement_MPlusBIS = enhancementCheckboxes[3]:GetChecked()
+
+    IcyBIS_Settings.Restoration_OverallBIS = restorationCheckboxes[1]:GetChecked()
+    IcyBIS_Settings.Restoration_RaidBIS = restorationCheckboxes[2]:GetChecked()
+    IcyBIS_Settings.Restoration_MPlusBIS = restorationCheckboxes[3]:GetChecked()
 end
 
 -- Load settings when the options panel is opened
 settingsFrame.refresh = function()
-    classOverrideCheckbox:SetChecked(IcyBIS_Settings.classOverride)
-    spec1Checkbox:SetChecked(IcyBIS_Settings.spec1Enabled)
-    spec2Checkbox:SetChecked(IcyBIS_Settings.spec2Enabled)
-    spec3Checkbox:SetChecked(IcyBIS_Settings.spec3Enabled)
+    -- Load the saved states for each spec checkbox
+    elementalCheckboxes[1]:SetChecked(IcyBIS_Settings.Elemental_OverallBIS)
+    elementalCheckboxes[2]:SetChecked(IcyBIS_Settings.Elemental_RaidBIS)
+    elementalCheckboxes[3]:SetChecked(IcyBIS_Settings.Elemental_MPlusBIS)
+
+    enhancementCheckboxes[1]:SetChecked(IcyBIS_Settings.Enhancement_OverallBIS)
+    enhancementCheckboxes[2]:SetChecked(IcyBIS_Settings.Enhancement_RaidBIS)
+    enhancementCheckboxes[3]:SetChecked(IcyBIS_Settings.Enhancement_MPlusBIS)
+
+    restorationCheckboxes[1]:SetChecked(IcyBIS_Settings.Restoration_OverallBIS)
+    restorationCheckboxes[2]:SetChecked(IcyBIS_Settings.Restoration_RaidBIS)
+    restorationCheckboxes[3]:SetChecked(IcyBIS_Settings.Restoration_MPlusBIS)
 end
 
 -- Add the settings frame to the Interface Options
 InterfaceOptions_AddCategory(settingsFrame)
-
-
--- Add to new map addon compartment, clicking should open up ui
-
-AddonCompartmentFrame:RegisterAddon({
-    text = "My Addon",
-    icon = "Interface\\Icons\\TEMP.blp",
-    notCheckable = true,
-    func = function()
-        print("Hello from the addon compartment!")
-    end,
-})
