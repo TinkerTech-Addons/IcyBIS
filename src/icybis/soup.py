@@ -39,6 +39,6 @@ def gather(url: str, variable_name: str, tooltip: str, lua_file: str) -> None:
         message = tooltip.split("-")
         message_left = f"{message[1]}:"
         message_right = message[0]
-        write_file.write(f"\tmessageLeft = \"{message_left}\",\n")
-        write_file.write(f"\tmessageRight = \"{message_right}\"\n")
+        write_file.write(f'\tmessageLeft = "{message_left}",\n')
+        write_file.write(f'\tmessageRight = "{message_right}"\n')
         write_file.write("}\n\n")
