@@ -17,7 +17,8 @@ def gather(url: str, variable_name: str, lua_file: str) -> None:
     data = soup.find("div", attrs={"id": area})
     table_rows = data.find_all("tr")
 
-    with pathlib.Path.open(f"tmp-{lua_file}", "a+") as write_file:
+    tmp_lua_file_path: str = f"tmp-{lua_file}"
+    with pathlib.Path.open(tmp_lua_file_path, "a+") as write_file:
         write_file.write(f"local {variable_name} = {{\n")
 
         for table_row in table_rows:
