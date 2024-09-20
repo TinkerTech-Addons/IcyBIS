@@ -1,13 +1,17 @@
 ## Interface: 110002
-## Title: Icy Veins BIS
+## Title: IcyBIS
 ## Version: 0.0.1
 ## Author: Shammooz - Illidian
+## AddonCompartmentFunc: IcyBIS_OnAddonCompartmentClick
+## AddonCompartmentFuncOnEnter: IcyBIS_OnAddonCompartmentEnter
+## AddonCompartmentFuncOnLeave: IcyBIS_OnAddonCompartmentLeave
 ## Notes: Tooltip information to help distinguish the players best in slot (BIS) item provided by Icy Veins.
 ## DefaultState: enabled
 ## SavedVariablesPerCharacter: IcyBIS_Settings
 
 IcyBis_Items/ShamanBIS.lua
+IcyBIS.lua
 SettingsUI.lua
 Functions.lua
 Tooltip.lua
-IcyBIS.lua
+AddonCompartment.lua

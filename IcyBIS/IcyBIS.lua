@@ -3,24 +3,31 @@
 
 -- #region Create locally and globaly used variables
 local addonName, ns = ...
+ns = ns or {}
 ns.addonVersion = C_AddOns.GetAddOnMetadata("IcyBIS", "Version")
 
-IcyBIS_Settings = {}
+-- Table to hold character-specific settings
+IcyBIS_Settings = IcyBIS_Settings or {}
 -- #endregion
 
 -- #region Local IcyBIS functions
 local function SlashCommandHandler(message)
     if message == "v" or message == "version" then
         print("Addon Name: " .. addonName)
-        print("   Version: " .. ns.addonVersion)
+        print("      Version: " .. ns.addonVersion)
     elseif message == "show" then
-        InterfaceOptionsFrame_OpenToCategory(settingsFrame)
-        InterfaceOptionsFrame_OpenToCategory(settingsFrame) -- Called twice due to a known bug in WoW
+        ns.ShowSettingsFrame()
     else
         print("IcyBIS Usage:")
+        print("  /icybis show      - Open the settings")
         print("  /icybis v|version - Print out the addon name and current version")
     end
 end
+
+-- #region Register the slash command
+SLASH_ICYBIS1 = "/icybis"
+SlashCmdList["ICYBIS"] = SlashCommandHandler
+-- #endregion
 
 local function OnAddonLoaded(self, event)
     if addonName == "IcyBIS" then
@@ -28,11 +35,6 @@ local function OnAddonLoaded(self, event)
     end
     self:UnregisterEvent("ADDON_LOADED")
 end
--- #endregion
-
--- #region Register the slash command
-SLASH_ICYBIS1 = "/icybis"
-SlashCmdList["IcyBIS"] = SlashCommandHandler
 -- #endregion
 
 -- #region Event driver

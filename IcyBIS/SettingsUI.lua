@@ -1,11 +1,27 @@
 -- SettingsUI.lua
 
--- Table to hold character-specific settings
-IcyBIS_Settings = IcyBIS_Settings or {}
+local addonName, ns = ...
 
 -- Frame for the settings UI
-local settingsFrame = CreateFrame("Frame", "SettingsUIFrame", InterfaceOptionsFramePanelContainer)
+local settingsFrame = CreateFrame("Frame", "SettingsUIFrame", UIParent, "BasicFrameTemplate")
 settingsFrame.name = "IcyBIS Settings"
+settingsFrame:Hide()
+settingsFrame:SetSize(375, 400)
+settingsFrame:SetPoint("CENTER")
+settingsFrame:SetMovable(true)
+settingsFrame:EnableMouse(true)
+
+settingsFrame:SetScript("OnMouseDown", function(self, button)
+    if button == "LeftButton" then
+        self:StartMoving()
+    end
+end)
+
+settingsFrame:SetScript("OnMouseUp", function(self, button)
+    if button == "LeftButton" then
+        self:StopMovingOrSizing()
+    end
+end)
 
 -- Function to create a checkbox
 local function createCheckbox(name, label, parent, anchorPoint, relativeTo, relativePoint, x, y, tooltip)
@@ -105,5 +121,6 @@ settingsFrame.refresh = function()
     restorationCheckboxes[3]:SetChecked(IcyBIS_Settings.Restoration_MPlusBIS)
 end
 
--- Add the settings frame to the Interface Options
-InterfaceOptions_AddCategory(settingsFrame)
+function ns.ShowSettingsFrame()
+    settingsFrame:Show()
+end
