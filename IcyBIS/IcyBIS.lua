@@ -8,6 +8,7 @@ ns.addonVersion = C_AddOns.GetAddOnMetadata("IcyBIS", "Version")
 
 -- Table to hold character-specific settings
 IcyBIS_Settings = IcyBIS_Settings or {}
+
 -- #endregion
 
 -- #region Local IcyBIS functions
@@ -27,13 +28,16 @@ end
 -- #region Register the slash command
 SLASH_ICYBIS1 = "/icybis"
 SlashCmdList["ICYBIS"] = SlashCommandHandler
+
 -- #endregion
 
 local function OnAddonLoaded(self, event)
     if addonName == "IcyBIS" then
         TooltipDataProcessor.AddTooltipPostCall(Enum.TooltipDataType.Item, OnBISTooltip)
+        OnLootReadyEvent(event)
+
+        self:UnregisterEvent("ADDON_LOADED")
     end
-    self:UnregisterEvent("ADDON_LOADED")
 end
 -- #endregion
 

@@ -1,5 +1,5 @@
 ## Interface: 110002
-## Title: IcyBIS
+## Title: |cFF38CBFEIcy|r|cFFFF8F00BIS|r
 ## Version: 0.0.1
 ## Author: Shammooz - Illidian
 ## AddonCompartmentFunc: IcyBIS_OnAddonCompartmentClick
@@ -11,7 +11,7 @@
 
 IcyBis_Items/ShamanBIS.lua
 IcyBIS.lua
-SettingsUI.lua
-Functions.lua
-Tooltip.lua
-AddonCompartment.lua
+IcyBIS_SettingsUI.lua
+IcyBIS_Functions.lua
+IcyBIS_Tooltip.lua
+IcyBIS_AddonCompartment.lua
