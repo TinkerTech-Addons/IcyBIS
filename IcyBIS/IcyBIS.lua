@@ -34,9 +34,12 @@ SlashCmdList["ICYBIS"] = SlashCommandHandler
 local function OnAddonLoaded(self, event)
     if addonName == "IcyBIS" then
         TooltipDataProcessor.AddTooltipPostCall(Enum.TooltipDataType.Item, OnBISTooltip)
-        OnLootReadyEvent(event)
 
         self:UnregisterEvent("ADDON_LOADED")
+    end
+
+    if IsInInstance() then
+        OnLootReadyEvent()
     end
 end
 -- #endregion

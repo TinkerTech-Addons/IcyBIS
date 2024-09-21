@@ -10,6 +10,7 @@
 ## SavedVariablesPerCharacter: IcyBIS_Settings
 
 IcyBis_Items/ShamanBIS.lua
+IcyBis_Items/WarriorBIS.lua
 IcyBIS.lua
 IcyBIS_SettingsUI.lua
 IcyBIS_Functions.lua
