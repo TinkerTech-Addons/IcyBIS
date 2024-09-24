@@ -63,7 +63,7 @@ description:SetJustifyH("LEFT")
 --#region Spec checkbox creation function
 local function createSpecCheckbox(name, parent, anchorPoint, x, y, tooltip, icon)
     -- Create and position check button frame
-    local checkbox = CreateFrame("CheckButton", name, parent, "UICheckButtonTemplate")
+    local checkbox = CreateFrame("CheckButton", name, parent, "UICheckButtonTemplate") --[string "WoWLua"]: Wrong object type for function
     checkbox:SetPoint(anchorPoint, x, y)
 
     -- Create check button tooltip
