@@ -9,9 +9,9 @@
 local numberOfSpecs = GetNumSpecializations()
 
 for spec = 1, GetNumSpecializations() do
-    local _, name, _, icon, _, _ = GetSpecializationInfo(spec)
-    print(name)
-    print(icon)
+   local _, name, _, icon, _, _ = GetSpecializationInfo(spec)
+   print(name)
+   print(icon)
 end
 --#endregion
 
@@ -24,24 +24,24 @@ settingsFrame:EnableMouse(true)
 
 -- if class has 4 specs, height=650, elseif class has 2 specs, height=375 else hight=500 for normal 3 spec class
 if numberOfSpecs == 2 then
-    settingsFrame:SetSize(375, 375)
+   settingsFrame:SetSize(300, 375)
 elseif numberOfSpecs == 4 then
-    settingsFrame:SetSize(375, 650)
+   settingsFrame:SetSize(300, 650)
 else
-    settingsFrame:SetSize(375, 500)
+   settingsFrame:SetSize(300, 500)
 end
 
 --#region Allow the settings frame to be moved around the screen.
 settingsFrame:SetScript("OnMouseDown", function(self, button)
-    if button == "LeftButton" then
-        self:StartMoving()
-    end
+      if button == "LeftButton" then
+         self:StartMoving()
+      end
 end)
 
 settingsFrame:SetScript("OnMouseUp", function(self, button)
-    if button == "LeftButton" then
-        self:StopMovingOrSizing()
-    end
+      if button == "LeftButton" then
+         self:StopMovingOrSizing()
+      end
 end)
 --#endregion
 
@@ -53,119 +53,116 @@ title:SetText("|cFF38CBFEIcy|r|cFFFF8F00BIS|r Settings")
 
 --#region Create and display the settings frame short description.
 local description = settingsFrame:CreateFontString("settingsFrameDescription", "OVERLAY", "GameFontHighlightMed2")
-description:SetPoint("TOPLEFT", 15, -40)
-description:SetSize(345, 0)
+description:SetPoint("TOP", 15, -40)
+description:SetSize(250, 0)
 description:SetWordWrap(true)
 description:SetText("Select specalization(s) and Icy Veins BIS tables to track")
 description:SetJustifyH("LEFT")
 --#endregion
 
 --#region Spec checkbox creation function
-local function createSpecCheckbox(name, parent, anchorPoint, x, y, tooltip, icon)
-    -- Create and position check button frame
-    local checkbox = CreateFrame("CheckButton", name, parent, "UICheckButtonTemplate") --[string "WoWLua"]: Wrong object type for function
-    checkbox:SetPoint(anchorPoint, x, y)
-
-    -- Create check button tooltip
-    checkbox.tooltipText = tooltip
-
-    -- Create and position spec image to the right of check button
-    local checkboxSpecImage = checkbox:CreateTexture(name .. "SpecImage", "ARTWORK")
-    checkboxSpecImage:SetSize(19, 19)
-    checkboxSpecImage:SetPoint("RIGHT", 25, 0)
-    checkboxSpecImage:SetTexture(icon)
-
-    -- Create and position check button label
-    local checkboxLabel = checkbox:CreateFontString(name .. "Label", "HIGHLIGHT", "GameFontHighlightMed2")
-    checkboxLabel:SetText(name)
-    checkboxLabel:SetPoint("LEFT", 60, 0)
-
-    -- Set the check button label
-    checkbox:SetFontString(checkboxLabel)
-
-    -- Return the check button
-    return checkbox
+local function createSpecCheckbox(name, parent, anchorPoint, x, y, icon)
+   -- Create and position check button frame
+   local checkbox = CreateFrame("CheckButton", name, parent, "UICheckButtonTemplate")
+   checkbox:SetPoint(anchorPoint, x, y)
+   
+   -- Create and position spec image to the right of check button
+   local checkboxSpecImage = checkbox:CreateTexture(name .. "SpecImage", "ARTWORK")
+   checkboxSpecImage:SetSize(19, 19)
+   checkboxSpecImage:SetPoint("RIGHT", 25, 0)
+   checkboxSpecImage:SetTexture(icon)
+   
+   -- Create and position check button label
+   local checkboxLabel = checkbox:CreateFontString(name .. "Label", "HIGHLIGHT", "GameFontHighlightMed2")
+   checkboxLabel:SetText(name)
+   checkboxLabel:SetPoint("LEFT", 60, 0)
+   
+   -- Set the check button label
+   checkbox:SetFontString(checkboxLabel)
+   
+   -- Return the check button
+   return checkbox
 end
 --#endregion
 
 --#region IcyBIS table checkbox creation function
-local function createBISTableCheckbox(name, parent, anchorPoint, x, y, tooltip)
-    -- Create and position check button frame
-    local checkbox = CreateFrame("CheckButton", name, parent, "UICheckButtonTemplate")
-    checkbox:SetPoint(anchorPoint, x, y)
-
-    -- Create check button tooltip
-    checkbox.tooltipText = tooltip
-
-    -- Create and position check button label
-    local checkboxLabel = checkbox:CreateFontString(name .. "Label", "HIGHLIGHT", "GameFontHighlightMed2")
-    checkboxLabel:SetText(name)
-    checkboxLabel:SetPoint("LEFT", 25, 0)
-
-    -- Set the check button label
-    checkbox:SetFontString(checkboxLabel)
-
-    -- Return the check button
-    return checkbox
+local function createBISTableCheckbox(name, parent, anchorPoint, x, y)
+   -- Create and position check button frame
+   local checkbox = CreateFrame("CheckButton", name, parent, "UICheckButtonTemplate")
+   checkbox:SetPoint(anchorPoint, x, y)
+   
+   -- Create and position check button label
+   local checkboxLabel = checkbox:CreateFontString(name .. "Label", "HIGHLIGHT", "GameFontHighlightMed2")
+   checkboxLabel:SetText(name)
+   checkboxLabel:SetPoint("LEFT", 35, 0)
+   
+   -- Set the check button label
+   checkbox:SetFontString(checkboxLabel)
+   
+   -- Return the check button
+   return checkbox
 end
 --#endregion
 
 -- TODO: Look into making this work with a loop. **See Below**
 local icyBISTableNames = { "Overall BIS:", "Raid BIS:", "M+ BIS:" }
+print(numberOfSpecs)
 if numberOfSpecs == 2 then
-    local _, name, _, icon, _, _ = GetSpecializationInfo(1)
-    local spec1 = createSpecCheckbox(name, description, "TOPLEFT", 15, -50, "SPEC 1 TOOLTIP TEXT", icon)
-    local spec1_overall = createBISTableCheckbox(icyBISTableNames[1], spec1, "LEFT", 35, -30, "TOOLTIP TEX 1T")
-    local sepc1_raid = createBISTableCheckbox(icyBISTableNames[2], spec1_overall, "LEFT", 0, -30, "TOOLTIP TEXT 2")
-    local spec1_m_plus = createBISTableCheckbox(icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30, "TOOLTIP TEXT 3")
-
-    _, name, _, icon, _, _ = GetSpecializationInfo(2)
-    local spec2 = createSpecCheckbox(name, spec1_m_plus, "LEFT", -35, -50, "SPEC 2 TOOLTIP TEXT", icon)
-    local spec2_ocerall = createBISTableCheckbox(icyBISTableNames[1], spec2, "LEFT", 35, -30, "TOOLTIP TEXT 4")
-    local spec2_raid = createBISTableCheckbox(icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30, "TOOLTIP TEXT 5")
-    createBISTableCheckbox(icyBISTableNames[3], spec2_raid, "LEFT", 0, -30, "TOOLTIP TEXT 6")
-    ----------------------------------------------------------------------------------------------------------------
+   local _, name, _, icon, _, _ = GetSpecializationInfo(1)
+   local spec1 = createSpecCheckbox(name, settingsFrame, "TOPLEFT", 15, -80, icon)
+   local spec1_overall = createBISTableCheckbox(icyBISTableNames[1], spec1, "LEFT", 35, -30)
+   local sepc1_raid = createBISTableCheckbox(icyBISTableNames[2], spec1_overall, "LEFT", 0, -30)
+   local spec1_m_plus = createBISTableCheckbox(icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30)
+   
+   _, name, _, icon, _, _ = GetSpecializationInfo(2)
+   local spec2 = createSpecCheckbox(name, spec1_m_plus, "LEFT", -35, -50, icon)
+   local spec2_ocerall = createBISTableCheckbox(icyBISTableNames[1], spec2, "LEFT", 35, -30)
+   local spec2_raid = createBISTableCheckbox(icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30)
+   createBISTableCheckbox(icyBISTableNames[3], spec2_raid, "LEFT", 0, -30)
+   ----------------------------------------------------------------------------------------------------------------
 elseif numberOfSpecs == 4 then
-    local _, name, _, icon, _, _ = GetSpecializationInfo(1)
-    local spec1 = createSpecCheckbox(name, description, "TOPLEFT", 15, -50, "SPEC 1 TOOLTIP TEXT", icon)
-    local spec1_overall = createBISTableCheckbox(icyBISTableNames[1], spec1, "LEFT", 35, -30, "TOOLTIP TEXT 1")
-    local sepc1_raid = createBISTableCheckbox(icyBISTableNames[2], spec1_overall, "LEFT", 0, -30, "TOOLTIP TEXT 2")
-    local spec1_m_plus = createBISTableCheckbox(icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30, "TOOLTIP TEXT 3")
-
-    _, name, _, icon, _, _ = GetSpecializationInfo(2)
-    local spec2 = createSpecCheckbox(name, spec1_m_plus, "LEFT", -35, -50, "SPEC 2 TOOLTIP TEXT", icon)
-    local spec2_ocerall = createBISTableCheckbox(icyBISTableNames[1], spec2, "LEFT", 35, -30, "TOOLTIP TEXT 4")
-    local spec2_raid = createBISTableCheckbox(icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30, "TOOLTIP TEXT 5")
-    local spec2_m_plus = createBISTableCheckbox(icyBISTableNames[3], spec2_raid, "LEFT", 0, -30, "TOOLTIP TEXT 6")
-
-    local spec3 = createSpecCheckbox(name, spec2_m_plus, "TOPLEFT", 15, -50, "SPEC 1 TOOLTIP TEXT", icon)
-    local spec3_overall = createBISTableCheckbox(icyBISTableNames[1], spec3, "LEFT", 35, -30, "TOOLTIP TEXT 7")
-    local sepc3_raid = createBISTableCheckbox(icyBISTableNames[2], spec3_overall, "LEFT", 0, -30, "TOOLTIP TEXT 8")
-    local spec3_m_plus = createBISTableCheckbox(icyBISTableNames[3], sepc3_raid, "LEFT", 0, -30, "TOOLTIP TEXT 9")
-
-    _, name, _, icon, _, _ = GetSpecializationInfo(2)
-    local spec4 = createSpecCheckbox(name, spec3_m_plus, "LEFT", -35, -50, "SPEC 2 TOOLTIP TEXT", icon)
-    local spec4_ocerall = createBISTableCheckbox(icyBISTableNames[1], spec4, "LEFT", 35, -30, "TOOLTIP TEXT 10")
-    local spec4_raid = createBISTableCheckbox(icyBISTableNames[2], spec4_ocerall, "LEFT", 0, -30, "TOOLTIP TEXT 11")
-    createBISTableCheckbox(icyBISTableNames[3], spec4_raid, "LEFT", 0, -30, "TOOLTIP TEXT 12")
-    ----------------------------------------------------------------------------------------------------------------
+   local _, name, _, icon, _, _ = GetSpecializationInfo(1)
+   local spec1 = createSpecCheckbox(name, settingsFrame, "TOPLEFT", 15, -80, icon)
+   local spec1_overall = createBISTableCheckbox(icyBISTableNames[1], spec1, "LEFT", 35, -30)
+   local sepc1_raid = createBISTableCheckbox(icyBISTableNames[2], spec1_overall, "LEFT", 0, -30)
+   local spec1_m_plus = createBISTableCheckbox(icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30)
+   
+   _, name, _, icon, _, _ = GetSpecializationInfo(2)
+   local spec2 = createSpecCheckbox(name, spec1_m_plus, "LEFT", -35, -50, icon)
+   local spec2_ocerall = createBISTableCheckbox(icyBISTableNames[1], spec2, "LEFT", 35, -30)
+   local spec2_raid = createBISTableCheckbox(icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30)
+   local spec2_m_plus = createBISTableCheckbox(icyBISTableNames[3], spec2_raid, "LEFT", 0, -30)
+   
+   _, name, _, icon, _, _ = GetSpecializationInfo(3)
+   local spec3 = createSpecCheckbox(name, spec2_m_plus, "LEFT", -35, -50, icon)
+   local spec3_overall = createBISTableCheckbox(icyBISTableNames[1], spec3, "LEFT", 35, -30)
+   local sepc3_raid = createBISTableCheckbox(icyBISTableNames[2], spec3_overall, "LEFT", 0, -30)
+   local spec3_m_plus = createBISTableCheckbox(icyBISTableNames[3], sepc3_raid, "LEFT", 0, -30)
+   
+   _, name, _, icon, _, _ = GetSpecializationInfo(4)
+   local spec4 = createSpecCheckbox(name, spec3_m_plus, "LEFT", -35, -50, icon)
+   local spec4_ocerall = createBISTableCheckbox(icyBISTableNames[1], spec4, "LEFT", 35, -30)
+   local spec4_raid = createBISTableCheckbox(icyBISTableNames[2], spec4_ocerall, "LEFT", 0, -30)
+   createBISTableCheckbox(icyBISTableNames[3], spec4_raid, "LEFT", 0, -30)
+   ----------------------------------------------------------------------------------------------------------------
 else
-    local _, name, _, icon, _, _ = GetSpecializationInfo(1)
-    local spec1 = createSpecCheckbox(name, description, "TOPLEFT", 15, -50, "SPEC 1 TOOLTIP TEXT", icon)
-    local spec1_overall = createBISTableCheckbox(icyBISTableNames[1], spec1, "LEFT", 35, -30, "TOOLTIP TEXT 1")
-    local sepc1_raid = createBISTableCheckbox(icyBISTableNames[2], spec1_overall, "LEFT", 0, -30, "TOOLTIP TEXT 2")
-    local spec1_m_plus = createBISTableCheckbox(icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30, "TOOLTIP TEXT 3")
-
-    _, name, _, icon, _, _ = GetSpecializationInfo(2)
-    local spec2 = createSpecCheckbox(name, spec1_m_plus, "LEFT", -35, -50, "SPEC 2 TOOLTIP TEXT", icon)
-    local spec2_ocerall = createBISTableCheckbox(icyBISTableNames[1], spec2, "LEFT", 35, -30, "TOOLTIP TEXT 4")
-    local spec2_raid = createBISTableCheckbox(icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30, "TOOLTIP TEXT 5")
-    local spec2_m_plus = createBISTableCheckbox(icyBISTableNames[3], spec2_raid, "LEFT", 0, -30, "TOOLTIP TEXT 6")
-
-    local spec3 = createSpecCheckbox(name, spec2_m_plus, "TOPLEFT", 15, -50, "SPEC 1 TOOLTIP TEXT", icon)
-    local spec3_overall = createBISTableCheckbox(icyBISTableNames[1], spec3, "LEFT", 35, -30, "TOOLTIP TEXT 7")
-    local sepc3_raid = createBISTableCheckbox(icyBISTableNames[2], spec3_overall, "LEFT", 0, -30, "TOOLTIP TEXT 8")
-    createBISTableCheckbox(icyBISTableNames[3], sepc3_raid, "LEFT", 0, -30, "TOOLTIP TEXT 9")
+   local _, name, _, icon, _, _ = GetSpecializationInfo(1)
+   local spec1 = createSpecCheckbox(name, settingsFrame, "TOPLEFT", 15, -80, icon)
+   local spec1_overall = createBISTableCheckbox(icyBISTableNames[1], spec1, "LEFT", 35, -30)
+   local sepc1_raid = createBISTableCheckbox(icyBISTableNames[2], spec1_overall, "LEFT", 0, -30)
+   local spec1_m_plus = createBISTableCheckbox(icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30)
+   
+   _, name, _, icon, _, _ = GetSpecializationInfo(2)
+   local spec2 = createSpecCheckbox(name, spec1_m_plus, "LEFT", -35, -50, icon)
+   local spec2_ocerall = createBISTableCheckbox(icyBISTableNames[1], spec2, "LEFT", 35, -30)
+   local spec2_raid = createBISTableCheckbox(icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30)
+   local spec2_m_plus = createBISTableCheckbox(icyBISTableNames[3], spec2_raid, "LEFT", 0, -30)
+   
+   _, name, _, icon, _, _ = GetSpecializationInfo(3)
+   local spec3 = createSpecCheckbox(name, spec2_m_plus, "TOPLEFT", -35, -50, icon)
+   local spec3_overall = createBISTableCheckbox(icyBISTableNames[1], spec3, "LEFT", 35, -30)
+   local sepc3_raid = createBISTableCheckbox(icyBISTableNames[2], spec3_overall, "LEFT", 0, -30)
+   createBISTableCheckbox(icyBISTableNames[3], sepc3_raid, "LEFT", 0, -30)
 end
 
 -- --#region Loop through class specs and create checkboxes
