@@ -14,5 +14,4 @@ function OnBISTooltip(tooltip, data)
         end
     end
 end
-
 -- #endregion

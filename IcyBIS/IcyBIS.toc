@@ -1,6 +1,7 @@
 ## Interface: 110002
 ## Title: |cFF38CBFEIcy|r|cFFFF8F00BIS|r
-## Version: 0.0.1
+## Version: 0.1.0
+## X-BuildDate: 2024-09-26
 ## Author: Shammooz - Illidian
 ## AddonCompartmentFunc: IcyBIS_OnAddonCompartmentClick
 ## AddonCompartmentFuncOnEnter: IcyBIS_OnAddonCompartmentEnter
@@ -9,8 +10,19 @@
 ## DefaultState: enabled
 ## SavedVariablesPerCharacter: IcyBIS_Settings
 
-IcyBis_Items/ShamanBIS.lua
-IcyBis_Items/WarriorBIS.lua
+IcyBIS_Items/DeathKnightBIS.lua
+IcyBIS_Items/DemonHunterBIS.lua
+IcyBIS_Items/DruidBIS.lua
+IcyBIS_Items/EvokerBIS.lua
+IcyBIS_Items/HunterBIS.lua
+IcyBIS_Items/MageBIS.lua
+IcyBIS_Items/MonkBIS.lua
+IcyBIS_Items/PaladinBIS.lua
+IcyBIS_Items/PriestBIS.lua
+IcyBIS_Items/RogueBIS.lua
+IcyBIS_Items/ShamanBIS.lua
+IcyBIS_Items/WarlockBIS.lua
+IcyBIS_Items/WarriorBIS.lua
 IcyBIS.lua
 IcyBIS_SettingsUI.lua
 IcyBIS_Functions.lua

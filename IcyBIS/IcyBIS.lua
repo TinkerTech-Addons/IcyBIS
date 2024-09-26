@@ -4,7 +4,8 @@
 -- #region Create locally and globaly used variables
 local addonName, ns = ...
 ns = ns or {}
-ns.addonVersion = C_AddOns.GetAddOnMetadata("IcyBIS", "Version")
+ns.addonVersion = C_AddOns.GetAddOnMetadata(addonName, "Version")
+ns.buildDate = C_AddOns.GetAddOnMetadata(addonName, "X-BuildDate")
 
 -- Table to hold character-specific settings
 IcyBIS_Settings = IcyBIS_Settings or {}
@@ -32,7 +33,15 @@ SlashCmdList["ICYBIS"] = SlashCommandHandler
 -- #endregion
 
 local function OnAddonLoaded(self, event)
-    if addonName == "IcyBIS" then
+    if event == "PLAYER_ENTERING_WORLD" then
+        ns.OnInitialize()
+        ns.loadItemLists()
+    end
+
+    if event == "ADDON_LOADED" and addonName == "IcyBIS" then
+        print("|cFF38CBFEIcy|r|cFFFF8F00BIS|r")
+        print("Version: " .. ns.addonVersion)
+        print("Build Date: " .. ns.buildDate)
         TooltipDataProcessor.AddTooltipPostCall(Enum.TooltipDataType.Item, OnBISTooltip)
 
         self:UnregisterEvent("ADDON_LOADED")
@@ -47,5 +56,6 @@ end
 -- #region Event driver
 local frame = CreateFrame("Frame", "IcyBIS")
 frame:RegisterEvent("ADDON_LOADED")
-frame:SetScript("ONEVENT", OnAddonLoaded)
+frame:RegisterEvent("PLAYER_ENTERING_WORLD")
+frame:SetScript("OnEvent", OnAddonLoaded)
 -- #endregion

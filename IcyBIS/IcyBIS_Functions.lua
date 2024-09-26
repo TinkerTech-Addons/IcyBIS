@@ -1,4 +1,5 @@
 -- Functions.lua
+local addonName, ns = ...
 
 --#region Function to help build correct class and spec tables
 local function buildTrackedItems(spec, overallBISTable, raidBISTable, mythicPlusBISTable)
@@ -16,7 +17,7 @@ local function buildTrackedItems(spec, overallBISTable, raidBISTable, mythicPlus
  end
 
 --#region Load the item lists from their individual files
-local function loadItemLists()
+function ns.loadItemLists()
     local localizedClass = UnitClass("player")
     IcyBIS_TrackedItems = {}
 
@@ -75,6 +76,3 @@ local function loadItemLists()
     end
 end
 --#endregion
-
--- Call the function to load all item lists into the main table
-loadItemLists()
