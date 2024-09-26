@@ -31,3 +31,8 @@ I see this addon going many ways and the intention is to start small.
   - Master Loot mode would take the current instance (party or raid) players and instead of providing generic tooltip information on BIS items it would provide the players name, specialization and BIS loot table. This would be extremely helpful if master looting was used as the deciding players can see exactly who's BIS the item is.
 - Addition of class colors for the tooltip text color.
 - Addition of speciation images next or replacing the text within the tooltip.
+- Include ilvl difference on tooltip
+- Include % upgrade on tooltip
+
+### TODO
+- Add python functionality to update BuildDate in the .toc file.
