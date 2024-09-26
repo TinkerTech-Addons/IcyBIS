@@ -72,57 +72,55 @@ local function loadCheckboxSetting(checkbox, settingName)
    checkbox:SetChecked(IcyBIS_Settings[settingName])
 end
 
-local function onCheckboxClick(self)
-   local settingName = self:GetName()
+local function onCheckboxClick(self, checkboxSettingName)
+   local settingName = checkboxSettingName
    IcyBIS_Settings[settingName] = self:GetChecked()
 end
-
 
 --#region Spec checkbox creation function
 local function createSpecCheckbox(name, parent, anchorPoint, x, y, icon)
    -- Create and position check button frame
    local checkbox = CreateFrame("CheckButton", name, parent, "UICheckButtonTemplate")
    checkbox:SetPoint(anchorPoint, x, y)
-   
+
    -- Create and position spec image to the right of check button
    local checkboxSpecImage = checkbox:CreateTexture(name .. "SpecImage", "ARTWORK")
    checkboxSpecImage:SetSize(19, 19)
    checkboxSpecImage:SetPoint("RIGHT", 25, 0)
    checkboxSpecImage:SetTexture(icon)
-   
+
    -- Create and position check button label
    local checkboxLabel = checkbox:CreateFontString(name .. "Label", "HIGHLIGHT", "GameFontHighlightMed2")
    checkboxLabel:SetText(name)
    checkboxLabel:SetPoint("LEFT", 60, 0)
-   
+
    -- Set the check button label
    checkbox:SetFontString(checkboxLabel)
-   
-   loadCheckboxSetting(checkbox, name)
-   checkbox:SetScript("OnClick", onCheckboxClick)
-   
+
    -- Return the check button
    return checkbox
 end
 --#endregion
 
 --#region IcyBIS table checkbox creation function
-local function createBISTableCheckbox(name, parent, anchorPoint, x, y, spec)
+local function createBISTableCheckbox(name, parent, anchorPoint, x, y, checkboxSettingName)
    -- Create and position check button frame
    local checkbox = CreateFrame("CheckButton", name, parent, "UICheckButtonTemplate")
    checkbox:SetPoint(anchorPoint, x, y)
-   
+
    -- Create and position check button label
    local checkboxLabel = checkbox:CreateFontString(name .. "Label", "HIGHLIGHT", "GameFontHighlightMed2")
    checkboxLabel:SetText(name)
    checkboxLabel:SetPoint("LEFT", 35, 0)
-   
+
    -- Set the check button label
    checkbox:SetFontString(checkboxLabel)
-   
-   loadCheckboxSetting(checkbox, name)
-   checkbox:SetScript("OnClick", onCheckboxClick)
-   
+
+   loadCheckboxSetting(checkbox, checkboxSettingName)
+   checkbox:SetScript("OnClick", function(self)
+         onCheckboxClick(self, checkboxSettingName)
+   end)
+
    -- Return the check button
    return checkbox
 end
@@ -134,59 +132,59 @@ print(numberOfSpecs)
 if numberOfSpecs == 2 then
    local _, name, _, icon, _, _ = GetSpecializationInfo(1)
    local spec1 = createSpecCheckbox(name, settingsFrame, "TOPLEFT", 15, -80, icon)
-   local spec1_overall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec1, "LEFT", 35, -30)
-   local sepc1_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec1_overall, "LEFT", 0, -30)
-   local spec1_m_plus = createBISTableCheckbox(name .. " " .. icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30)
-   
+   local spec1_overall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec1, "LEFT", 35, -30, "Spec 1 Overall BIS")
+   local sepc1_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec1_overall, "LEFT", 0, -30, "Spec 1 Raid BIS")
+   local spec1_m_plus = createBISTableCheckbox(name .. " " .. icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30, "Spec 1 M+ BIS")
+
    _, name, _, icon, _, _ = GetSpecializationInfo(2)
    local spec2 = createSpecCheckbox(name, spec1_m_plus, "LEFT", -35, -50, icon)
-   local spec2_ocerall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec2, "LEFT", 35, -30)
-   local spec2_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30)
-   createBISTableCheckbox(name .. " " .. icyBISTableNames[3], spec2_raid, "LEFT", 0, -30)
+   local spec2_ocerall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec2, "LEFT", 35, -30, "Spec 2 Overall BIS")
+   local spec2_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30, "Spec 2 Raid BIS")
+   createBISTableCheckbox(name .. " " .. icyBISTableNames[3], spec2_raid, "LEFT", 0, -30, "Spec 2 M+ BIS")
    ----------------------------------------------------------------------------------------------------------------
 elseif numberOfSpecs == 4 then
    local _, name, _, icon, _, _ = GetSpecializationInfo(1)
    local spec1 = createSpecCheckbox(name, settingsFrame, "TOPLEFT", 15, -80, icon)
-   local spec1_overall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec1, "LEFT", 35, -30)
-   local sepc1_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec1_overall, "LEFT", 0, -30)
-   local spec1_m_plus = createBISTableCheckbox(name .. " " .. icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30)
-   
+   local spec1_overall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec1, "LEFT", 35, -30, "Spec 1 Overall BIS")
+   local sepc1_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec1_overall, "LEFT", 0, -30, "Spec 1 Raid BIS")
+   local spec1_m_plus = createBISTableCheckbox(name .. " " .. icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30, "Spec 1 M+ BIS")
+
    _, name, _, icon, _, _ = GetSpecializationInfo(2)
    local spec2 = createSpecCheckbox(name, spec1_m_plus, "LEFT", -35, -50, icon)
-   local spec2_ocerall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec2, "LEFT", 35, -30)
-   local spec2_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30)
-   local spec2_m_plus = createBISTableCheckbox(name .. " " .. icyBISTableNames[3], spec2_raid, "LEFT", 0, -30)
-   
+   local spec2_ocerall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec2, "LEFT", 35, -30, "Spec 2 Overall BIS")
+   local spec2_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30, "Spec 2 Raid BIS")
+   local spec2_m_plus = createBISTableCheckbox(name .. " " .. icyBISTableNames[3], spec2_raid, "LEFT", 0, -30, "Spec 2 M+ BIS")
+
    _, name, _, icon, _, _ = GetSpecializationInfo(3)
    local spec3 = createSpecCheckbox(name, spec2_m_plus, "LEFT", -35, -50, icon)
-   local spec3_overall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec3, "LEFT", 35, -30)
-   local sepc3_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec3_overall, "LEFT", 0, -30)
-   local spec3_m_plus = createBISTableCheckbox(name .. " " .. icyBISTableNames[3], sepc3_raid, "LEFT", 0, -30)
-   
+   local spec3_overall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec3, "LEFT", 35, -30, "Spec 3 Overall BIS")
+   local sepc3_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec3_overall, "LEFT", 0, -30, "Spec 3 Raid BIS")
+   local spec3_m_plus = createBISTableCheckbox(name .. " " .. icyBISTableNames[3], sepc3_raid, "LEFT", 0, -30, "Spec 3 M+ BIS")
+
    _, name, _, icon, _, _ = GetSpecializationInfo(4)
    local spec4 = createSpecCheckbox(name, spec3_m_plus, "LEFT", -35, -50, icon)
-   local spec4_ocerall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec4, "LEFT", 35, -30)
-   local spec4_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec4_ocerall, "LEFT", 0, -30)
-   createBISTableCheckbox(name .. " " .. icyBISTableNames[3], spec4_raid, "LEFT", 0, -30)
+   local spec4_ocerall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec4, "LEFT", 35, -30, "Spec 4 Overall BIS")
+   local spec4_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec4_ocerall, "LEFT", 0, -30, "Spec 4 Raid BIS")
+   createBISTableCheckbox(name .. " " .. icyBISTableNames[3], spec4_raid, "LEFT", 0, -30, "Spec 4 M+ BIS")
    ----------------------------------------------------------------------------------------------------------------
 else
    local _, name, _, icon, _, _ = GetSpecializationInfo(1)
    local spec1 = createSpecCheckbox(name, settingsFrame, "TOPLEFT", 15, -80, icon)
-   local spec1_overall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec1, "LEFT", 35, -30)
-   local sepc1_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec1_overall, "LEFT", 0, -30)
-   local spec1_m_plus = createBISTableCheckbox(name .. " " .. icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30)
-   
+   local spec1_overall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec1, "LEFT", 35, -30, "Spec 1 Overall BIS")
+   local sepc1_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec1_overall, "LEFT", 0, -30, "Spec 1 Raid BIS")
+   local spec1_m_plus = createBISTableCheckbox(name .. " " .. icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30, "Spec 1 M+ BIS")
+
    _, name, _, icon, _, _ = GetSpecializationInfo(2)
    local spec2 = createSpecCheckbox(name, spec1_m_plus, "LEFT", -35, -50, icon)
-   local spec2_ocerall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec2, "LEFT", 35, -30)
-   local spec2_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30)
-   local spec2_m_plus = createBISTableCheckbox(name .. " " .. icyBISTableNames[3], spec2_raid, "LEFT", 0, -30)
-   
+   local spec2_ocerall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec2, "LEFT", 35, -30, "Spec 2 Overall BIS")
+   local spec2_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30, "Spec 2 Raid BIS")
+   local spec2_m_plus = createBISTableCheckbox(name .. " " .. icyBISTableNames[3], spec2_raid, "LEFT", 0, -30, "Spec 2 M+ BIS")
+
    _, name, _, icon, _, _ = GetSpecializationInfo(3)
    local spec3 = createSpecCheckbox(name, spec2_m_plus, "TOPLEFT", -35, -50, icon)
-   local spec3_overall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec3, "LEFT", 35, -30)
-   local sepc3_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec3_overall, "LEFT", 0, -30)
-   createBISTableCheckbox(name .. " " .. icyBISTableNames[3], sepc3_raid, "LEFT", 0, -30)
+   local spec3_overall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec3, "LEFT", 35, -30, "Spec 3 Overall BIS")
+   local sepc3_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec3_overall, "LEFT", 0, -30, "Spec 3 Raid BIS")
+   createBISTableCheckbox(name .. " " .. icyBISTableNames[3], sepc3_raid, "LEFT", 0, -30, "Spec 3 M+ BIS")
 end
 
 -- --#region Loop through class specs and create checkboxes
@@ -203,59 +201,3 @@ end
 --     end
 -- end
 -- --#endregion
-
--- Above code should make the same structure as below but with using functions. Need to test
--- local checkbox1 = CreateFrame("checkButton", "checkbox1", description, "UICheckButtonTemplate")
--- checkbox1:SetPoint("TOPLEFT", 15, -50)
--- local checkbox1Text = checkbox1:CreateFontString("checkbox1", "HIGHLIGHT", "GameFontHighlightMed2")
--- checkbox1Text:SetText("Arms")
--- checkbox1Text:SetPoint("LEFT", 60, 0)
--- checkbox1:SetFontString(checkbox1Text)
-
--- local subCheckbox1 = CreateFrame("checkButton", "subCheckbox1", checkbox1, "UICheckButtonTemplate")
--- subCheckbox1:SetPoint("LEFT", 35, -30)
--- local subCheckbox2 = CreateFrame("checkButton", "subCheckbox2", subCheckbox1, "UICheckButtonTemplate")
--- subCheckbox2:SetPoint("LEFT", 0, -30)
--- local subCheckbox3 = CreateFrame("checkButton", "subCheckbox3", subCheckbox2, "UICheckButtonTemplate")
--- subCheckbox3:SetPoint("LEFT", 0, -30)
-
--- local checkbox2 = CreateFrame("checkButton", "checkbox2", subCheckbox3, "UICheckButtonTemplate")
--- checkbox2:SetPoint("LEFT", -35, -50)
-
--- local subCheckbox4 = CreateFrame("checkButton", "subCheckbox4", checkbox2, "UICheckButtonTemplate")
--- subCheckbox4:SetPoint("LEFT", 35, -30)
--- local subCheckbox5 = CreateFrame("checkButton", "subCheckbox5", subCheckbox4, "UICheckButtonTemplate")
--- subCheckbox5:SetPoint("LEFT", 0, -30)
--- local subCheckbox6 = CreateFrame("checkButton", "subCheckbox6", subCheckbox5, "UICheckButtonTemplate")
--- subCheckbox6:SetPoint("LEFT", 0, -30)
-
--- local checkbox3 = CreateFrame("checkButton", "checkbox3", subCheckbox6, "UICheckButtonTemplate")
--- checkbox3:SetPoint("LEFT", -35, -50)
-
--- local subCheckbox7 = CreateFrame("checkButton", "subCheckbox7", checkbox3, "UICheckButtonTemplate")
--- subCheckbox7:SetPoint("LEFT", 35, -30)
--- local subCheckbox8 = CreateFrame("checkButton", "subCheckbox8", subCheckbox7, "UICheckButtonTemplate")
--- subCheckbox8:SetPoint("LEFT", 0, -30)
--- local subCheckbox9 = CreateFrame("checkButton", "subCheckbox9", subCheckbox8, "UICheckButtonTemplate")
--- subCheckbox9:SetPoint("LEFT", 0, -30)
-
--- local checkbox4 = CreateFrame("checkButton", "checkbox4", subCheckbox9, "UICheckButtonTemplate")
--- checkbox4:SetPoint("LEFT", -35, -50)
-
--- local subCheckbox10 = CreateFrame("checkButton", "subCheckbox10", checkbox4, "UICheckButtonTemplate")
--- subCheckbox10:SetPoint("LEFT", 35, -30)
--- local subCheckbox11 = CreateFrame("checkButton", "subCheckbox11", subCheckbox10, "UICheckButtonTemplate")
--- subCheckbox11:SetPoint("LEFT", 0, -30)
--- local subCheckbox12 = CreateFrame("checkButton", "subCheckbox12", subCheckbox11, "UICheckButtonTemplate")
--- subCheckbox12:SetPoint("LEFT", 0, -30)
-
-
--- local testImage = checkbox1:CreateTexture(nil, "ARTWORK")
--- testImage:SetSize(19, 19)
--- testImage:SetPoint("RIGHT", 25, 0)
--- testImage:SetTexture(132355)
-
--- local testImage2 = checkbox2:CreateTexture(nil, "ARTWORK")
--- testImage2:SetSize(19, 19)
--- testImage2:SetPoint("RIGHT", 25, 0)
--- testImage2:SetTexture(132341)
