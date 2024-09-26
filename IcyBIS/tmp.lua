@@ -4,6 +4,10 @@
 -- Create function for checkbox creation.
 -- Add spec image to left of spec.
 -- Set text for all checkboxes.
+if not IcyBIS_Settings then
+   IcyBIS_Settings = {}
+end
+
 
 --#region Loop to get players specs
 local numberOfSpecs = GetNumSpecializations()
@@ -60,6 +64,20 @@ description:SetText("Select specalization(s) and Icy Veins BIS tables to track")
 description:SetJustifyH("LEFT")
 --#endregion
 
+--#region Function to load saved settings for checkbox
+local function loadCheckboxSetting(checkbox, settingName)
+   if IcyBIS_Settings[settingName] == nil then
+      IcyBIS_Settings[settingName] = false
+   end
+   checkbox:SetChecked(IcyBIS_Settings[settingName])
+end
+
+local function onCheckboxClick(self)
+   local settingName = self:GetName()
+   IcyBIS_Settings[settingName] = self:GetChecked()
+end
+
+
 --#region Spec checkbox creation function
 local function createSpecCheckbox(name, parent, anchorPoint, x, y, icon)
    -- Create and position check button frame
@@ -80,13 +98,16 @@ local function createSpecCheckbox(name, parent, anchorPoint, x, y, icon)
    -- Set the check button label
    checkbox:SetFontString(checkboxLabel)
    
+   loadCheckboxSetting(checkbox, name)
+   checkbox:SetScript("OnClick", onCheckboxClick)
+   
    -- Return the check button
    return checkbox
 end
 --#endregion
 
 --#region IcyBIS table checkbox creation function
-local function createBISTableCheckbox(name, parent, anchorPoint, x, y)
+local function createBISTableCheckbox(name, parent, anchorPoint, x, y, spec)
    -- Create and position check button frame
    local checkbox = CreateFrame("CheckButton", name, parent, "UICheckButtonTemplate")
    checkbox:SetPoint(anchorPoint, x, y)
@@ -99,6 +120,9 @@ local function createBISTableCheckbox(name, parent, anchorPoint, x, y)
    -- Set the check button label
    checkbox:SetFontString(checkboxLabel)
    
+   loadCheckboxSetting(checkbox, name)
+   checkbox:SetScript("OnClick", onCheckboxClick)
+   
    -- Return the check button
    return checkbox
 end
@@ -110,59 +134,59 @@ print(numberOfSpecs)
 if numberOfSpecs == 2 then
    local _, name, _, icon, _, _ = GetSpecializationInfo(1)
    local spec1 = createSpecCheckbox(name, settingsFrame, "TOPLEFT", 15, -80, icon)
-   local spec1_overall = createBISTableCheckbox(icyBISTableNames[1], spec1, "LEFT", 35, -30)
-   local sepc1_raid = createBISTableCheckbox(icyBISTableNames[2], spec1_overall, "LEFT", 0, -30)
-   local spec1_m_plus = createBISTableCheckbox(icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30)
+   local spec1_overall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec1, "LEFT", 35, -30)
+   local sepc1_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec1_overall, "LEFT", 0, -30)
+   local spec1_m_plus = createBISTableCheckbox(name .. " " .. icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30)
    
    _, name, _, icon, _, _ = GetSpecializationInfo(2)
    local spec2 = createSpecCheckbox(name, spec1_m_plus, "LEFT", -35, -50, icon)
-   local spec2_ocerall = createBISTableCheckbox(icyBISTableNames[1], spec2, "LEFT", 35, -30)
-   local spec2_raid = createBISTableCheckbox(icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30)
-   createBISTableCheckbox(icyBISTableNames[3], spec2_raid, "LEFT", 0, -30)
+   local spec2_ocerall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec2, "LEFT", 35, -30)
+   local spec2_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30)
+   createBISTableCheckbox(name .. " " .. icyBISTableNames[3], spec2_raid, "LEFT", 0, -30)
    ----------------------------------------------------------------------------------------------------------------
 elseif numberOfSpecs == 4 then
    local _, name, _, icon, _, _ = GetSpecializationInfo(1)
    local spec1 = createSpecCheckbox(name, settingsFrame, "TOPLEFT", 15, -80, icon)
-   local spec1_overall = createBISTableCheckbox(icyBISTableNames[1], spec1, "LEFT", 35, -30)
-   local sepc1_raid = createBISTableCheckbox(icyBISTableNames[2], spec1_overall, "LEFT", 0, -30)
-   local spec1_m_plus = createBISTableCheckbox(icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30)
+   local spec1_overall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec1, "LEFT", 35, -30)
+   local sepc1_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec1_overall, "LEFT", 0, -30)
+   local spec1_m_plus = createBISTableCheckbox(name .. " " .. icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30)
    
    _, name, _, icon, _, _ = GetSpecializationInfo(2)
    local spec2 = createSpecCheckbox(name, spec1_m_plus, "LEFT", -35, -50, icon)
-   local spec2_ocerall = createBISTableCheckbox(icyBISTableNames[1], spec2, "LEFT", 35, -30)
-   local spec2_raid = createBISTableCheckbox(icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30)
-   local spec2_m_plus = createBISTableCheckbox(icyBISTableNames[3], spec2_raid, "LEFT", 0, -30)
+   local spec2_ocerall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec2, "LEFT", 35, -30)
+   local spec2_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30)
+   local spec2_m_plus = createBISTableCheckbox(name .. " " .. icyBISTableNames[3], spec2_raid, "LEFT", 0, -30)
    
    _, name, _, icon, _, _ = GetSpecializationInfo(3)
    local spec3 = createSpecCheckbox(name, spec2_m_plus, "LEFT", -35, -50, icon)
-   local spec3_overall = createBISTableCheckbox(icyBISTableNames[1], spec3, "LEFT", 35, -30)
-   local sepc3_raid = createBISTableCheckbox(icyBISTableNames[2], spec3_overall, "LEFT", 0, -30)
-   local spec3_m_plus = createBISTableCheckbox(icyBISTableNames[3], sepc3_raid, "LEFT", 0, -30)
+   local spec3_overall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec3, "LEFT", 35, -30)
+   local sepc3_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec3_overall, "LEFT", 0, -30)
+   local spec3_m_plus = createBISTableCheckbox(name .. " " .. icyBISTableNames[3], sepc3_raid, "LEFT", 0, -30)
    
    _, name, _, icon, _, _ = GetSpecializationInfo(4)
    local spec4 = createSpecCheckbox(name, spec3_m_plus, "LEFT", -35, -50, icon)
-   local spec4_ocerall = createBISTableCheckbox(icyBISTableNames[1], spec4, "LEFT", 35, -30)
-   local spec4_raid = createBISTableCheckbox(icyBISTableNames[2], spec4_ocerall, "LEFT", 0, -30)
-   createBISTableCheckbox(icyBISTableNames[3], spec4_raid, "LEFT", 0, -30)
+   local spec4_ocerall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec4, "LEFT", 35, -30)
+   local spec4_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec4_ocerall, "LEFT", 0, -30)
+   createBISTableCheckbox(name .. " " .. icyBISTableNames[3], spec4_raid, "LEFT", 0, -30)
    ----------------------------------------------------------------------------------------------------------------
 else
    local _, name, _, icon, _, _ = GetSpecializationInfo(1)
    local spec1 = createSpecCheckbox(name, settingsFrame, "TOPLEFT", 15, -80, icon)
-   local spec1_overall = createBISTableCheckbox(icyBISTableNames[1], spec1, "LEFT", 35, -30)
-   local sepc1_raid = createBISTableCheckbox(icyBISTableNames[2], spec1_overall, "LEFT", 0, -30)
-   local spec1_m_plus = createBISTableCheckbox(icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30)
+   local spec1_overall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec1, "LEFT", 35, -30)
+   local sepc1_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec1_overall, "LEFT", 0, -30)
+   local spec1_m_plus = createBISTableCheckbox(name .. " " .. icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30)
    
    _, name, _, icon, _, _ = GetSpecializationInfo(2)
    local spec2 = createSpecCheckbox(name, spec1_m_plus, "LEFT", -35, -50, icon)
-   local spec2_ocerall = createBISTableCheckbox(icyBISTableNames[1], spec2, "LEFT", 35, -30)
-   local spec2_raid = createBISTableCheckbox(icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30)
-   local spec2_m_plus = createBISTableCheckbox(icyBISTableNames[3], spec2_raid, "LEFT", 0, -30)
+   local spec2_ocerall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec2, "LEFT", 35, -30)
+   local spec2_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30)
+   local spec2_m_plus = createBISTableCheckbox(name .. " " .. icyBISTableNames[3], spec2_raid, "LEFT", 0, -30)
    
    _, name, _, icon, _, _ = GetSpecializationInfo(3)
    local spec3 = createSpecCheckbox(name, spec2_m_plus, "TOPLEFT", -35, -50, icon)
-   local spec3_overall = createBISTableCheckbox(icyBISTableNames[1], spec3, "LEFT", 35, -30)
-   local sepc3_raid = createBISTableCheckbox(icyBISTableNames[2], spec3_overall, "LEFT", 0, -30)
-   createBISTableCheckbox(icyBISTableNames[3], sepc3_raid, "LEFT", 0, -30)
+   local spec3_overall = createBISTableCheckbox(name .. " " .. icyBISTableNames[1], spec3, "LEFT", 35, -30)
+   local sepc3_raid = createBISTableCheckbox(name .. " " .. icyBISTableNames[2], spec3_overall, "LEFT", 0, -30)
+   createBISTableCheckbox(name .. " " .. icyBISTableNames[3], sepc3_raid, "LEFT", 0, -30)
 end
 
 -- --#region Loop through class specs and create checkboxes
