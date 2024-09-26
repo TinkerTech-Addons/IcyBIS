@@ -36,3 +36,4 @@ I see this addon going many ways and the intention is to start small.
 
 ### TODO
 - Add python functionality to update BuildDate in the .toc file.
+- Verify specs match the id order. Can use in game lua script untitled 10
