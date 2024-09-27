@@ -11,6 +11,7 @@ settingsFrame:Hide()
 settingsFrame:SetPoint("CENTER", 0, 150)
 settingsFrame:SetMovable(true)
 settingsFrame:EnableMouse(true)
+settingsFrame:Raise()
 
 -- if class has 4 specs, height=650, elseif class has 2 specs, height=375 else hight=500 for normal 3 spec class
 if ns.numberOfSpecs == 2 then
@@ -93,7 +94,7 @@ local function createBISTableCheckbox(name, parent, anchorPoint, x, y, checkboxS
 
     loadCheckboxSetting(checkbox, checkboxSettingName)
     checkbox:SetScript("OnClick", function(self)
-            onCheckboxClick(self, checkboxSettingName)
+        onCheckboxClick(self, checkboxSettingName)
     end)
 
     -- Return the check button
@@ -107,57 +108,66 @@ function ns.OnInitialize()
     if ns.numberOfSpecs == 2 then
         local _, name, _, icon, _, _ = GetSpecializationInfo(1)
         local spec1 = createSpecHeader(name, settingsFrame, "TOPLEFT", 17, -84, icon)
-        local spec1_overall = createBISTableCheckbox(icyBISTableNames[1], settingsFrame, "TOPLEFT", 35, -114, "Spec 1 Overall BIS")
+        local spec1_overall = createBISTableCheckbox(icyBISTableNames[1], settingsFrame, "TOPLEFT", 35, -114,
+            "Spec 1 Overall BIS")
         local sepc1_raid = createBISTableCheckbox(icyBISTableNames[2], spec1_overall, "LEFT", 0, -30, "Spec 1 Raid BIS")
         local spec1_m_plus = createBISTableCheckbox(icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30, "Spec 1 M+ BIS")
 
         _, name, _, icon, _, _ = GetSpecializationInfo(2)
         local spec2 = createSpecHeader(name, settingsFrame, "TOPLEFT", 17, -224, icon)
-        local spec2_ocerall = createBISTableCheckbox(icyBISTableNames[1], settingsFrame, "TOPLEFT", 35, -258, "Spec 2 Overall BIS")
+        local spec2_ocerall = createBISTableCheckbox(icyBISTableNames[1], settingsFrame, "TOPLEFT", 35, -258,
+            "Spec 2 Overall BIS")
         local spec2_raid = createBISTableCheckbox(icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30, "Spec 2 Raid BIS")
         local spec2_m_plus = createBISTableCheckbox(icyBISTableNames[3], spec2_raid, "LEFT", 0, -30, "Spec 2 M+ BIS")
-    ----------------------------------------------------------------------------------------------------------------
+        ----------------------------------------------------------------------------------------------------------------
     elseif ns.numberOfSpecs == 4 then
         local _, name, _, icon, _, _ = GetSpecializationInfo(1)
         local spec1 = createSpecHeader(name, settingsFrame, "TOPLEFT", 17, -84, icon)
-        local spec1_overall = createBISTableCheckbox(icyBISTableNames[1], settingsFrame, "TOPLEFT", 35, -114, "Spec 1 Overall BIS")
+        local spec1_overall = createBISTableCheckbox(icyBISTableNames[1], settingsFrame, "TOPLEFT", 35, -114,
+            "Spec 1 Overall BIS")
         local sepc1_raid = createBISTableCheckbox(icyBISTableNames[2], spec1_overall, "LEFT", 0, -30, "Spec 1 Raid BIS")
         local spec1_m_plus = createBISTableCheckbox(icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30, "Spec 1 M+ BIS")
 
         _, name, _, icon, _, _ = GetSpecializationInfo(2)
         local spec2 = createSpecHeader(name, settingsFrame, "TOPLEFT", 17, -224, icon)
-        local spec2_ocerall = createBISTableCheckbox(icyBISTableNames[1], settingsFrame, "TOPLEFT", 35, -258, "Spec 2 Overall BIS")
+        local spec2_ocerall = createBISTableCheckbox(icyBISTableNames[1], settingsFrame, "TOPLEFT", 35, -258,
+            "Spec 2 Overall BIS")
         local spec2_raid = createBISTableCheckbox(icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30, "Spec 2 Raid BIS")
         local spec2_m_plus = createBISTableCheckbox(icyBISTableNames[3], spec2_raid, "LEFT", 0, -30, "Spec 2 M+ BIS")
 
         _, name, _, icon, _, _ = GetSpecializationInfo(3)
         local spec3 = createSpecHeader(name, settingsFrame, "TOPLEFT", 17, -368, icon)
-        local spec3_overall = createBISTableCheckbox(icyBISTableNames[1], settingsFrame, "TOPLEFT", 35, -398, "Spec 3 Overall BIS")
+        local spec3_overall = createBISTableCheckbox(icyBISTableNames[1], settingsFrame, "TOPLEFT", 35, -398,
+            "Spec 3 Overall BIS")
         local sepc3_raid = createBISTableCheckbox(icyBISTableNames[2], spec3_overall, "LEFT", 0, -30, "Spec 3 Raid BIS")
         createBISTableCheckbox(icyBISTableNames[3], sepc3_raid, "LEFT", 0, -30, "Spec 3 M+ BIS")
 
         _, name, _, icon, _, _ = GetSpecializationInfo(4)
         local spec4 = createSpecHeader(name, settingsFrame, "TOPLEFT", 17, -508, icon)
-        local spec4_overall = createBISTableCheckbox(icyBISTableNames[1], settingsFrame, "TOPLEFT", 35, -538, "Sec 4 Overall BIS")
+        local spec4_overall = createBISTableCheckbox(icyBISTableNames[1], settingsFrame, "TOPLEFT", 35, -538,
+            "Sec 4 Overall BIS")
         local sepc4_raid = createBISTableCheckbox(icyBISTableNames[2], spec4_overall, "LEFT", 0, -30, "Spec 4 Raid BIS")
         createBISTableCheckbox(icyBISTableNames[3], sepc4_raid, "LEFT", 0, -30, "Spec 4 M+ BIS")
-    ----------------------------------------------------------------------------------------------------------------
+        ----------------------------------------------------------------------------------------------------------------
     else
         local _, name, _, icon, _, _ = GetSpecializationInfo(1)
         local spec1 = createSpecHeader(name, settingsFrame, "TOPLEFT", 17, -84, icon)
-        local spec1_overall = createBISTableCheckbox(icyBISTableNames[1], settingsFrame, "TOPLEFT", 35, -114, "Spec 1 Overall BIS")
+        local spec1_overall = createBISTableCheckbox(icyBISTableNames[1], settingsFrame, "TOPLEFT", 35, -114,
+            "Spec 1 Overall BIS")
         local sepc1_raid = createBISTableCheckbox(icyBISTableNames[2], spec1_overall, "LEFT", 0, -30, "Spec 1 Raid BIS")
         local spec1_m_plus = createBISTableCheckbox(icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30, "Spec 1 M+ BIS")
 
         _, name, _, icon, _, _ = GetSpecializationInfo(2)
         local spec2 = createSpecHeader(name, settingsFrame, "TOPLEFT", 17, -224, icon)
-        local spec2_ocerall = createBISTableCheckbox(icyBISTableNames[1], settingsFrame, "TOPLEFT", 35, -258, "Spec 2 Overall BIS")
+        local spec2_ocerall = createBISTableCheckbox(icyBISTableNames[1], settingsFrame, "TOPLEFT", 35, -258,
+            "Spec 2 Overall BIS")
         local spec2_raid = createBISTableCheckbox(icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30, "Spec 2 Raid BIS")
         local spec2_m_plus = createBISTableCheckbox(icyBISTableNames[3], spec2_raid, "LEFT", 0, -30, "Spec 2 M+ BIS")
 
         _, name, _, icon, _, _ = GetSpecializationInfo(3)
         local spec3 = createSpecHeader(name, settingsFrame, "TOPLEFT", 17, -368, icon)
-        local spec3_overall = createBISTableCheckbox(icyBISTableNames[1], settingsFrame, "TOPLEFT", 35, -398, "Spec 3 Overall BIS")
+        local spec3_overall = createBISTableCheckbox(icyBISTableNames[1], settingsFrame, "TOPLEFT", 35, -398,
+            "Spec 3 Overall BIS")
         local sepc3_raid = createBISTableCheckbox(icyBISTableNames[2], spec3_overall, "LEFT", 0, -30, "Spec 3 Raid BIS")
         createBISTableCheckbox(icyBISTableNames[3], sepc3_raid, "LEFT", 0, -30, "Spec 3 M+ BIS")
     end
