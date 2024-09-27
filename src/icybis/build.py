@@ -67,3 +67,16 @@ def _get_addon_version() -> str:
     toc_data = pathlib.Path.open("IcyBIS/IcyBIS.toc").read()
     toc_version = re.search(toc_version_pattern, toc_data).group(2)
     return toc_version
+
+
+def _update_addon_build_date() -> None:
+    date = datetime.now(tz=TIMEZONE).strftime("%Y-%m-%d")
+    toc_build_date_pattern = re.compile(r"(## X-BuildDate: )(\b\d{4}-\d{2}-\d{2}\b)")
+    toc_data = pathlib.Path.open("IcyBIS/IcyBIS.toc").read()
+    replacement_build_date = (
+        f"{re.search(toc_build_date_pattern, toc_data).group(1)}{date}"
+    )
+    addon_build_date = re.sub(toc_build_date_pattern, replacement_build_date, toc_data)
+    with pathlib.Path.open("IcyBIS/IcyBIS.toc", "w") as write_file:
+        write_file.write(addon_build_date)
+    write_file.close()

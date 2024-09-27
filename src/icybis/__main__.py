@@ -30,6 +30,8 @@ def main() -> None:
     for wow_class in wow_classes:
         build.wow_class(wow_class)
 
+    build._update_addon_build_date()
+
     build.changelog()
 
     md = Markdown(build.update_markdown)
