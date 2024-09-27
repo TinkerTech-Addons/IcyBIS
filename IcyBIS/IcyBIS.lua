@@ -16,13 +16,14 @@ IcyBIS_Settings = IcyBIS_Settings or {}
 local function SlashCommandHandler(message)
     if message == "v" or message == "version" then
         print("Addon Name: " .. addonName)
-        print("      Version: " .. ns.addonVersion)
+        print("   Version: " .. ns.addonVersion)
+        print("Build Date: " .. ns.buildDate)
     elseif message == "show" then
         ns.ShowSettingsFrame()
     else
-        print("IcyBIS Usage:")
-        print("  /icybis show      - Open the settings")
-        print("  /icybis v|version - Print out the addon name and current version")
+        print("|cFF38CBFEIcy|r|cFFFF8F00BIS|r Usage:")
+        print("  /|cFF38CBFEicy|r|cFFFF8F00bis|r |c14cd33show|r      - Open the settings")
+        print("  /|cFF38CBFEicy|r|cFFFF8F00bis|r |c14cd33v|version|r - Print out the addon name and current version")
     end
 end
 
