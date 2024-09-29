@@ -11,7 +11,7 @@ settingsFrame:Hide()
 settingsFrame:SetPoint("CENTER", 0, 150)
 settingsFrame:SetMovable(true)
 settingsFrame:EnableMouse(true)
-settingsFrame:Raise()
+settingsFrame:SetFrameStrata("DIALOG")
 
 -- if class has 4 specs, height=650, elseif class has 2 specs, height=375 else hight=500 for normal 3 spec class
 if ns.numberOfSpecs == 2 then
