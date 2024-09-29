@@ -15,8 +15,7 @@
     <img src="images/logo.png" alt="Logo" width="100" height="80">
   </a>
   <h1 align="center">
-  <style>span1{color:#38CBFE;}</style>
-    <span1>Icy</span><style>span{color:#FF8F00;}</style><span>BIS</span>
+    <span style="color:#38CBFE;">Icy</span><span style="color:#FF8F00;">BIS</span>
   </h1>
   <p align="center">
     A World of Warcraft Retail Character Gearing Addon
