@@ -60,31 +60,35 @@ In years past players would have to swap back and forth to see if an item is BIS
 
 ## Usage
 
+Once installed, IcyBIS will automatically load when the player enters the world. By default IcyBIS is configured **not** to track any [BIS Tables](#1-what-is-a-bis-table) but can easily be configured with character specific saved settings.
+
 ### Configuration
+
+To configure IcyBIS open the settings and select the specialization and BIS Table you wish to track via clicking the respective checkbox.
+
+#### How to open IcyBIS settings
+
+- Addon compartment
+  - Navigate and open the newly added addon compartment.
+  - Search for the IcyBIS addon.
+  - Left click IcyBIS to open the settings.
+- Slash command
+  - ```
+    /icybis show
+    ```
 
 ### Slash Commands
 
-## FAQ
+Other available IcyBIS slash commands are below.
 
-### 1. What is a BIS Table?
+| Slash Command              | Description                                            |
+| :------------------------- | :----------------------------------------------------- |
+| <pre>/icybis</pre>         | Show usage and available IcyBIS slash command options. |
+| <pre>/icybis show</pre>    | Open IcyBIS settings.                                  |
+| <pre>/icybis v</pre>       | Print IcyBIS version information.                      |
+| <pre>/icybis version</pre> | Print IcyBIS version information.                      |
 
-A Best in slot table (BIS table) is a collection of gear items that can be obtained in specific or a combination of end game content. Currently Icy Veins writers create 3 "BIS tables", Overall BIS, Raid BIS and Mythic Plus BIS.
-
-- **Overall BIS Table** can be comprised of Raid, Mythic Plus and crafted gear.
-- **Raid BIS Table** is only comprised of items dropped in the current Raid content.
-- **Mythic Plus BIS Table** is only comprised of items dropped in the current Mythic Plush season content.
-
-## Changelog
-
-## Contributing
-
-Contributions to IcyBIS are welcome! You can submit bug reports, feature requests, or pull requests on [GitHub](https://github.com/Louden7/IcyBIS/issues). To avoid duplication of please search open and closed issues prior to opening a new one.
-
-## License
-
-This project is licensed under the GPL-3.0. See the [LICENSE](./LICENSE) file for details.
-
-## Development Roadmap
+## ## Development Roadmap
 
 I see this addon going many ways and the intention is to start small.
 
@@ -114,6 +118,28 @@ I see this addon going many ways and the intention is to start small.
 
 - Add python functionality to update BuildDate in the .toc file.
 - Verify specs match the id order. Can use in game lua script untitled 10
+
+## FAQ
+
+### 1. What is a BIS Table?
+
+A Best in slot table (BIS table) is a collection of gear items that can be obtained in specific or a combination of end game content. Currently Icy Veins writers create 3 "BIS tables", Overall BIS, Raid BIS and Mythic Plus BIS.
+
+- **Overall BIS Table** can be comprised of Raid, Mythic Plus and crafted gear.
+- **Raid BIS Table** is only comprised of items dropped in the current Raid content.
+- **Mythic Plus BIS Table** is only comprised of items dropped in the current Mythic Plush season content.
+
+## Changelog
+
+Keep up to date with features, deprecations, new builds or other important changes in our [CHANGELOG](./CHANGELOG.md).
+
+## Contributing
+
+Contributions to IcyBIS are welcome! You can submit bug reports, feature requests, or pull requests on [GitHub](https://github.com/Louden7/IcyBIS/issues). To avoid duplication of please search open and closed issues prior to opening a new one.
+
+## License
+
+This project is licensed under the GPL-3.0. See the [LICENSE](./LICENSE) file for details.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
