@@ -37,6 +37,11 @@
     "Lua.diagnostics.globals": [
         "AddonCompartmentFrame",
         "SlashCmdList",
-        "TooltipDataProcessor"
+        "TooltipDataProcessor",
+        "GetSpecializationInfo",
+        "CreateFrame",
+        "UIParent",
+        "GameTooltip",
+        "UnitClass"
     ]
 }

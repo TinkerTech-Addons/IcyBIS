@@ -21,7 +21,7 @@ def gather(url: str, variable_name: str, tooltip: str, lua_file: str) -> None:
     with pathlib.Path.open(tmp_lua_file_path, "a+") as write_file:
         write_file.write(f"{variable_name} = {{\n")
 
-        # Handle itemIDs nested arrary.
+        # Handle itemIDs nested array.
         write_file.write("\titemIDs = {\n")
         for table_row in table_rows:
             try:
