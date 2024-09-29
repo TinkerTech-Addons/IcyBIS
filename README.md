@@ -1,10 +1,6 @@
 <!-- PROJECT SHIELDS -->
 <!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
 *** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
 [![Forks][forks-shield]][forks-url]
@@ -12,15 +8,15 @@
 [![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
 
-<!-- PROJECT LOGO -->
-<br />
+<!-- Project Logo, Title, Short Description and Create Issue Buttons -->
 <div align="center">
+  <br />
   <a href="https://github.com/Louden7/IcyBIS">
     <img src="images/logo.png" alt="Logo" width="100" height="80">
   </a>
-
-  <h1 align="center">IcyBIS</h1>
-
+  <h1 align="center">
+    <span style="color:#38CBFE;">Icy</span><span style="color:#FF8F00;">BIS</span>
+  </h1>
   <p align="center">
     A World of Warcraft Retail Character Gearing Addon
     <br />
@@ -30,13 +26,6 @@
     <a href="https://github.com/Louden7/IcyBIS/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
-
-<details>
-<summary>Table of Contents</summary>
-
-[[_TOC_]]
-
-</details>
 
 ## Introduction
 
