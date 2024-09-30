@@ -7,6 +7,10 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
+[![GitHub Release][release-shield]][release-url]
+[![CurseForge Downloads][curseforge-downloads-shield]][curseforge-downloads-url]
+[![GitHub Downloads][github-downloads-shield]][github-downloads-url]
+[![Buy a Round][buy-a-round-shield]][buy-a-round-url]
 
 <!-- Project Logo, Title, Short Description and Create Issue Buttons -->
 <div align="center">
@@ -169,3 +173,11 @@ This project is licensed under the GPL-3.0. See the [LICENSE](./LICENSE) file fo
 [issues-url]: https://github.com/Louden7/IcyBIS/issues
 [license-shield]: https://img.shields.io/github/license/Louden7/IcyBIS?style=plastic
 [license-url]: https://github.com/Louden7/IcyBIS/blob/main/LICENSE
+[release-shield]: https://img.shields.io/github/v/release/Louden7/IcyBIS?style=plastic&label=Latest%20Release
+[release-url]: https://github.com/Louden7/IcyBIS/releases/latest
+[curseforge-downloads-shield]: https://img.shields.io/curseforge/dt/123456?style=plastic&label=CurseForge%20Downloads
+[curseforge-downloads-url]: https://localhost
+[github-downloads-shield]: https://img.shields.io/github/downloads/Louden7/IcyBIS/total?style=plastic&label=GitHub%20Downloads
+[github-downloads-url]: https://localhost
+[buy-a-round-shield]: https://img.shields.io/badge/Buy_a_round-green?style=plastic
+[buy-a-round-url]: https://localhost
