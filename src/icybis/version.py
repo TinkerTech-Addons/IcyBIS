@@ -8,7 +8,7 @@ from textwrap import dedent
 
 # This variable is modified by Commitizen via make bump.
 # Do NOT edit it manually.
-__version__: str = "1.0.0"
+__version__: str = "1.1.0"
 
 
 def version_info() -> str:

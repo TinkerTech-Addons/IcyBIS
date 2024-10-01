@@ -8,6 +8,7 @@ import pathlib
 import re
 import shutil
 from datetime import datetime
+from zipfile import ZipFile 
 
 from rich.progress import track
 
@@ -60,6 +61,13 @@ def changelog() -> None:
     changelog.insert(4, update_markdown)
 
     pathlib.Path.open("CHANGELOG.md", "w+").writelines(changelog)
+
+
+def _package_addon(root_directory: pathlib.Path, package_name: str) -> None:
+    with ZipFile(package_name, "w") as zip:
+        for file_path in root_directory.rglob("*"):
+            zip.write(file_path)
+    print("All files zipped successfully!")
 
 
 def _get_addon_version() -> str:

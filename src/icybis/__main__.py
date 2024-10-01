@@ -1,7 +1,7 @@
 """
 Enables usage with `python -m icybis`.
 """
-
+import pathlib
 from rich.console import Console
 from rich.markdown import Markdown
 
@@ -31,6 +31,9 @@ def main() -> None:
         build.wow_class(wow_class)
 
     build._update_addon_build_date()
+
+    addon_directory = pathlib.Path("./IcyBIS")
+    build._package_addon(addon_directory, "IcyBIS.zip")
 
     build.changelog()
 
