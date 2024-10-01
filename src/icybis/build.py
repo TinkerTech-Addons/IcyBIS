@@ -8,7 +8,7 @@ import pathlib
 import re
 import shutil
 from datetime import datetime
-from zipfile import ZipFile 
+from zipfile import ZipFile
 
 from rich.progress import track
 
@@ -64,9 +64,9 @@ def changelog() -> None:
 
 
 def _package_addon(root_directory: pathlib.Path, package_name: str) -> None:
-    with ZipFile(package_name, "w") as zip:
+    with ZipFile(package_name, "w") as zipfile:
         for file_path in root_directory.rglob("*"):
-            zip.write(file_path)
+            zipfile.write(file_path)
     print("All files zipped successfully!")
 
 

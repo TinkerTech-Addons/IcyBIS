@@ -1,7 +1,9 @@
 """
 Enables usage with `python -m icybis`.
 """
+
 import pathlib
+
 from rich.console import Console
 from rich.markdown import Markdown
 
