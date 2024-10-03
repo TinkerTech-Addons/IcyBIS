@@ -22,8 +22,8 @@ local function SlashCommandHandler(message)
         ns.ShowSettingsFrame()
     else
         print("|cFF38CBFEIcy|r|cFFFF8F00BIS|r Usage:")
-        print("  /|cFF38CBFEicy|r|cFFFF8F00bis|r |c14cd33show|r      - Open the settings")
-        print("  /|cFF38CBFEicy|r|cFFFF8F00bis|r |c14cd33v|version|r - Print out the addon name and current version")
+        print("  /|cFF38CBFEicy|r|cFFFF8F00bis|r |cFF14cd33show|r      - Open the settings")
+        print("  /|cFF38CBFEicy|r|cFFFF8F00bis|r |cFF14cd33v|version|r - Print out the addon name and current version")
     end
 end
 
@@ -46,10 +46,6 @@ local function OnAddonLoaded(self, event)
         TooltipDataProcessor.AddTooltipPostCall(Enum.TooltipDataType.Item, OnBISTooltip)
 
         self:UnregisterEvent("ADDON_LOADED")
-    end
-
-    if IsInInstance() then
-        OnLootReadyEvent()
     end
 end
 -- #endregion
