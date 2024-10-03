@@ -42,6 +42,7 @@
         "CreateFrame",
         "UIParent",
         "GameTooltip",
-        "UnitClass"
+        "UnitClass",
+        "print"
     ]
 }
