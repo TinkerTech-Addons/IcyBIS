@@ -16,11 +16,11 @@
 <div align="center">
   <br />
   <a href="https://github.com/Louden7/IcyBIS">
-    <img src="images/logo.png" alt="Logo" width="100" height="80">
+    <img src="images/IcyBIS-logo.jpeg" alt="Logo" width="150" height="120">
   </a>
-  <h1 align="center">
+  <!-- <h1 align="center">
     <span style="color:#38CBFE;">Icy</span><span style="color:#FF8F00;">BIS</span>
-  </h1>
+  </h1> -->
   <p align="center">
     A World of Warcraft Retail Character Gearing Addon
     <br />
