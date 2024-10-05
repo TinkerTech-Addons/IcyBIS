@@ -62,7 +62,7 @@ In years past players would have to swap back and forth to see if an item is BIS
 
 1. Download the latest release from [IcyBIS Releases](https://github.com/Louden7/IcyBIS/releases).
 2. Unzip the folder and place it in your WoW Interface/AddOns directory commonly found in the paths below:
-   - For Windows: `C:\Program Files (x86)\World of Warcraft_retail\_\Interface\AddOns\`
+   - For Windows: `C:\Program Files (x86)\World of Warcraft\_retail_\Interface\AddOns\`
    - For macOS: `/Applications/World of Warcraft/_retail_/Interface/AddOns/`
 3. Restart WoW or type /reload in-game.
 

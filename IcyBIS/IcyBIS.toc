@@ -9,6 +9,7 @@
 ## Notes: Tooltip information to help distinguish the players best in slot (BIS) item provided by Icy Veins.
 ## DefaultState: enabled
 ## SavedVariablesPerCharacter: IcyBIS_Settings
+## IconTexture: Interface\AddOns\IcyBIS\Media\Textures\IcyBIS-logo
 
 IcyBIS_Items/DeathKnightBIS.lua
 IcyBIS_Items/DemonHunterBIS.lua
