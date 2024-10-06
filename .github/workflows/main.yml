@@ -42,4 +42,4 @@ jobs:
       - name: Create GitHub Release
         uses: ncipollo/release-action@v1.14.0
         with:
-          artifacts: "IcyBIS-v*.zip"
+          artifacts: "/home/runner/work/IcyBIS/IcyBis/.release/IcyBIS-v*.zip"
