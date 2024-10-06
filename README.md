@@ -14,8 +14,8 @@
 <!-- Project Logo, Title, Short Description and Create Issue Buttons -->
 <div align="center">
   <br />
-  <a href="https://github.com/TinkerTech-Addons/IcyBIS">
-    <img src="images/IcyBIS-logo.jpeg" alt="Logo" width="150" height="120">
+  <a href="https://github.com/Louden7/IcyBIS">
+    <img src="images/logos/IcyBIS-logo.jpeg" alt="Logo" width="150" height="120">
   </a>
   <!-- <h1 align="center">
     <span style="color:#38CBFE;">Icy</span><span style="color:#FF8F00;">BIS</span>
@@ -24,9 +24,9 @@
     A World of Warcraft Retail Character Gearing Addon
     <br />
     <br />
-    <a href="https://github.com/TinkerTech-Addons/IcyBIS/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/Louden7/IcyBIS/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/TinkerTech-Addons/IcyBIS/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/Louden7/IcyBIS/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -46,6 +46,13 @@ In years past players would have to swap back and forth to see if an item is BIS
 - Minimalistic design with IcyBIS information added to **only** BIS tracked items.
 - Lightweight and optimized providing zero impact to gaming.
 
+### In Game BIS Tracked Tooltips
+<p align="center">
+  <img src="images/screenshots/TooltipInfo1.PNG" alt="" height="350" width="150">
+  <img src="images/screenshots/TooltipInfo2.PNG" alt="" height="350" width="150">
+  <img src="images/screenshots/TooltipInfo3.PNG" alt="" height="350" width="150">
+</p>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Installation
@@ -59,7 +66,7 @@ In years past players would have to swap back and forth to see if an item is BIS
 
 ### Method 2: Manual Installation
 
-1. Download the latest release from [IcyBIS Releases](https://github.com/TinkerTech-Addons/IcyBIS/releases).
+1. Download the latest release from [IcyBIS Releases](https://github.com/Louden7/IcyBIS/releases).
 2. Unzip the folder and place it in your WoW Interface/AddOns directory commonly found in the paths below:
    - For Windows: `C:\Program Files (x86)\World of Warcraft\_retail_\Interface\AddOns\`
    - For macOS: `/Applications/World of Warcraft/_retail_/Interface/AddOns/`
@@ -75,16 +82,26 @@ Once installed, IcyBIS will automatically load when the player enters the world.
 
 To configure IcyBIS open the settings and select the specialization and BIS Table you wish to track via clicking the respective checkbox.
 
+<p align="center">
+  <img src="images/screenshots/SettingsFrame1.PNG" alt="Settings frame 1 with Enhancement overall BIS and Restoration overall BIS selected" height="450" width="">
+  <img src="images/screenshots/SettingsFrame2.PNG" alt="Settings frame 2 with all Shaman classes and IcyBIS tables selected" height="450" width="">
+<p>
+
 #### How to open IcyBIS settings
 
 - Addon compartment
   - Navigate and open the newly added addon compartment.
   - Search for the IcyBIS addon.
   - Left click IcyBIS to open the settings.
+
+    <img src="images/screenshots/AddonCompartment.PNG" alt="" >
+
 - Slash command
   - ```
-    /icybis show
+    /icybis
     ```
+    
+    <img src="images/screenshots/SlashCommandOptions.PNG" alt="" >
 
 ### Slash Commands
 
@@ -139,7 +156,7 @@ A Best in slot table (BIS table) is a collection of gear items that can be obtai
 
 ### 2. How do I update the settings?
 
-There are two ways to [open the IcyBIS settings]() and once opened you can select the BIS Table under the respective spec for the addon to begin tracking. The complete BIS items list is updated after each settings update so there is no need to reload or "save" the IcyBIS settings. Simply close the settings menu and continue playing.
+There are two ways to [open the IcyBIS settings](#how-to-open-icybis-settings) and once opened you can select the BIS Table under the respective spec for the addon to begin tracking. The complete BIS items list is updated after each settings update so there is no need to reload or "save" the IcyBIS settings. Simply close the settings menu and continue playing.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,7 +168,7 @@ Keep up to date with features, deprecations, new builds or other important chang
 
 ## Contributing
 
-Contributions to IcyBIS are welcome! You can submit bug reports, feature requests, or pull requests on [GitHub](https://github.com/TinkerTech-Addons/IcyBIS/issues). To avoid duplication please search open and closed issues prior to opening a new one.
+Contributions to IcyBIS are welcome! You can submit bug reports, feature requests, or pull requests on [GitHub](https://github.com/Louden7/IcyBIS/issues). To avoid duplication please search open and closed issues prior to opening a new one.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,17 +181,19 @@ This project is licensed under the GPL-3.0. See the [LICENSE](./LICENSE) file fo
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[forks-shield]: https://img.shields.io/github/forks/TinkerTech-Addons/IcyBIS.svg?style=plastic
-[forks-url]: https://github.com/TinkerTech-Addons/IcyBIS/network/members
-[stars-shield]: https://img.shields.io/github/stars/TinkerTech-Addons/IcyBIS.svg?style=plastic
-[stars-url]: https://github.com/TinkerTech-Addons/IcyBIS/stargazers
-[issues-shield]: https://img.shields.io/github/issues/TinkerTech-Addons/IcyBIS.svg?style=plastic
-[issues-url]: https://github.com/TinkerTech-Addons/IcyBIS/issues
-[license-shield]: https://img.shields.io/github/license/TinkerTech-Addons/IcyBIS?style=plastic
-[license-url]: https://github.com/TinkerTech-Addons/IcyBIS/blob/main/LICENSE
-[release-shield]: https://img.shields.io/github/v/release/TinkerTech-Addons/IcyBIS?style=plastic&label=Latest%20Release
-[release-url]: https://github.com/TinkerTech-Addons/IcyBIS/releases/latest
+[forks-shield]: https://img.shields.io/github/forks/Louden7/IcyBIS.svg?style=plastic
+[forks-url]: https://github.com/Louden7/IcyBIS/network/members
+[stars-shield]: https://img.shields.io/github/stars/Louden7/IcyBIS.svg?style=plastic
+[stars-url]: https://github.com/Louden7/IcyBIS/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Louden7/IcyBIS.svg?style=plastic
+[issues-url]: https://github.com/Louden7/IcyBIS/issues
+[license-shield]: https://img.shields.io/github/license/Louden7/IcyBIS?style=plastic
+[license-url]: https://github.com/Louden7/IcyBIS/blob/main/LICENSE
+[release-shield]: https://img.shields.io/github/v/release/Louden7/IcyBIS?style=plastic&label=Latest%20Release
+[release-url]: https://github.com/Louden7/IcyBIS/releases/latest
 [curseforge-downloads-shield]: https://img.shields.io/curseforge/dt/123456?style=plastic&label=CurseForge%20Downloads
 [curseforge-downloads-url]: https://localhost
-[github-downloads-shield]: https://img.shields.io/github/downloads/TinkerTech-Addons/IcyBIS/total?style=plastic&label=GitHub%20Downloads
-[github-downloads-url]: https://github.com/TinkerTech-Addons/IcyBIS/releases
+[github-downloads-shield]: https://img.shields.io/github/downloads/Louden7/IcyBIS/total?style=plastic&label=GitHub%20Downloads
+[github-downloads-url]: https://localhost
+[buy-a-round-shield]: https://img.shields.io/badge/Buy_a_round-green?style=plastic
+[buy-a-round-url]: https://localhost
