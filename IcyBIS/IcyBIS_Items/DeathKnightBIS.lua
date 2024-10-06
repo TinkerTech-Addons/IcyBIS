@@ -101,12 +101,12 @@ FROST_DEATH_KNIGHT_RAID_BIS = {
 		212001, -- Exhumed Centurion's Chausses
 		212443, -- Shattershell Greaves
 		225578, -- Seal of the Poisoned Pact
-		162542, -- Seal of the City Watch
+		225576, -- Writhing Ringworm
 		212453, -- Skyterror's Corrosive Organ
 		221023, -- Treacherous Transmitter
 		212401, -- Ansurek's Final Judgment
 		212401, -- Ansurek's Final Judgment
-		159972, -- Mutineer's Fate
+		212407, -- Anub'arash's Colossal Mandible
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Frost Death Knight"
@@ -139,7 +139,7 @@ FROST_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 UNHOLY_DEATH_KNIGHT_OVERALL_BIS = {
 	itemIDs = {
 		178694, -- Wrathbark Greathelm
-		221077, -- 'Emergency Stop' Keychain
+		225577, -- Sureki Zealot's Insignia
 		212000, -- Exhumed Centurion's Spikes
 		222817, -- Consecrated Cloak
 		212005, -- Exhumed Centurion's Breastplate
@@ -148,10 +148,10 @@ UNHOLY_DEATH_KNIGHT_OVERALL_BIS = {
 		221133, -- Girdle of Somber Ploys
 		212001, -- Exhumed Centurion's Chausses
 		225590, -- Boots of the Black Bulwark
-		212447, -- Key to the Unseeming
+		225576, -- Writhing Ringworm
 		133299, -- Circle of Bone
 		221023, -- Treacherous Transmitter
-		219314, -- Ara-Kara Sacbrood
+		220305, -- Ovi'nax's Mercurial Egg
 		222447, -- Charged Claymore
 	},
 	messageLeft = "Overall BIS:",
@@ -170,10 +170,10 @@ UNHOLY_DEATH_KNIGHT_RAID_BIS = {
 		212442, -- Greatbelt of the Hungerer
 		212001, -- Exhumed Centurion's Chausses
 		225590, -- Boots of the Black Bulwark
-		212447, -- Key to the Unseeming
+		225576, -- Writhing Ringworm
 		225576, -- Writhing Ringworm
 		221023, -- Treacherous Transmitter
-		212453, -- Skyterror's Corrosive Organ
+		220305, -- Ovi'nax's Mercurial Egg
 		212407, -- Anub'arash's Colossal Mandible
 	},
 	messageLeft = "Raid BIS:",

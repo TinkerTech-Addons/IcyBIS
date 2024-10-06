@@ -26,6 +26,7 @@ build: ## Build IcyBIS tables
 
 .PHONY: release
 release: ## make a commit and push a tag for a new release
-	git commit -m "IcyBIS v${ADDON_VERSION} release"
-	git tag v${ADDON_VERSION}
-	git push --atomic origin main v${ADDON_VERSION}
+	git add --all; \
+	git commit -m "IcyBIS v${ADDON_VERSION} release"; \
+	git tag v${ADDON_VERSION}; \
+	git push --atomic origin main v${ADDON_VERSION}; \

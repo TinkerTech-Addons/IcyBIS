@@ -6,10 +6,10 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
 [![GitHub Release][release-shield]][release-url]
 [![CurseForge Downloads][curseforge-downloads-shield]][curseforge-downloads-url]
 [![GitHub Downloads][github-downloads-shield]][github-downloads-url]
+<!-- [![License][license-shield]][license-url] -->
 
 <!-- Project Logo, Title, Short Description and Create Issue Buttons -->
 <div align="center">
@@ -190,10 +190,10 @@ This project is licensed under the GPL-3.0. See the [LICENSE](./LICENSE) file fo
 [issues-shield]: https://img.shields.io/github/issues/TinkerTech-Addons/IcyBIS.svg?style=plastic
 [issues-url]: https://github.com/TinkerTech-Addons/IcyBIS/issues
 [license-shield]: https://img.shields.io/github/license/TinkerTech-Addons/IcyBIS?style=plastic
-[license-url]: https://github.com/TinkerTech-Addons/IcyBIS/blob/main/LICENSE
+[license-url]: https://github.com/TinkerTech-Addons/IcyBIS?tab=GPL-3.0-1-ov-file#readme
 [release-shield]: https://img.shields.io/github/v/release/TinkerTech-Addons/IcyBIS?style=plastic&label=Latest%20Release
 [release-url]: https://github.com/TinkerTech-Addons/IcyBIS/releases/latest
 [curseforge-downloads-shield]: https://img.shields.io/curseforge/dt/1116430?style=plastic&label=CurseForge%20Downloads
 [curseforge-downloads-url]: https://legacy.curseforge.com/wow/addons/icybis
-[github-downloads-shield]: https://img.shields.io/github/downloads/TinkerTech-Addons/IcyBIS/latest/total?style=plastic
+[github-downloads-shield]: https://img.shields.io/github/downloads/TinkerTech-Addons/IcyBIS/total?style=plastic
 [github-downloads-url]: https://github.com/TinkerTech-Addons/IcyBIS/releases
