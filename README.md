@@ -193,7 +193,7 @@ This project is licensed under the GPL-3.0. See the [LICENSE](./LICENSE) file fo
 [license-url]: https://github.com/TinkerTech-Addons/IcyBIS/blob/main/LICENSE
 [release-shield]: https://img.shields.io/github/v/release/TinkerTech-Addons/IcyBIS?style=plastic&label=Latest%20Release
 [release-url]: https://github.com/TinkerTech-Addons/IcyBIS/releases/latest
-[curseforge-downloads-shield]: https://img.shields.io/curseforge/dt/123456?style=plastic&label=CurseForge%20Downloads
-[curseforge-downloads-url]: https://localhost
+[curseforge-downloads-shield]: https://img.shields.io/curseforge/dt/1116430?style=plastic&label=CurseForge%20Downloads
+[curseforge-downloads-url]: https://legacy.curseforge.com/wow/addons/icybis
 [github-downloads-shield]: https://img.shields.io/github/downloads/TinkerTech-Addons/IcyBIS/latest/total?style=plastic
 [github-downloads-url]: https://github.com/TinkerTech-Addons/IcyBIS/releases
