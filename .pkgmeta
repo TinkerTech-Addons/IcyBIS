@@ -1,4 +1,4 @@
-package-as: IcyBIS
+package-as: IcyBIS/IcyBIS
 
 ignore:
   - .github
