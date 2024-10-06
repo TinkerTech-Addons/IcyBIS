@@ -1,6 +1,6 @@
 ## Interface: 110002
 ## Title: |cFF38CBFEIcy|r|cFFFF8F00BIS|r
-## Version: 1.0.5
+## Version: 1.0.6
 ## X-BuildDate: 2024-10-06
 ## Author: Shammooz - Illidian
 ## AddonCompartmentFunc: IcyBIS_OnAddonCompartmentClick

@@ -40,6 +40,8 @@ jobs:
           GITHUB_OAUTH: ${{ secrets.ICYBIS_BUILD_TOKEN }}
 
       - name: Create GitHub Release
+        run: ls
+        run: ls .release
         uses: ncipollo/release-action@v1.14.0
         with:
-          artifacts: "/home/runner/work/IcyBIS/IcyBis/.release/IcyBIS-v*.zip"
+          artifacts: .release/IcyBIS-v*.zip

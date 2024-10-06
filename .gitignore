@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# WoW Packager
+.release
+
 # Distribution / packaging
 .Python
 build/
