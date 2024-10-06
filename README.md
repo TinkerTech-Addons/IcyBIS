@@ -15,10 +15,10 @@
 <div align="center">
   <br />
   <a href="https://github.com/TinkerTech-Addons/IcyBIS">
-    <img src="images/logos/IcyBIS-logo.jpeg" alt="Logo" width="150" height="120">
+    <img src="images/logos/IcyBIS-logo.jpeg" alt="IcyBIS logo" width="150" height="120">
   </a>
   <p align="center">
-    A World of Warcraft Retail Character Gearing Addon
+    A World of Warcraft Retail best in slot management Addon
     <br />
     <br />
     <a href="https://github.com/TinkerTech-Addons/IcyBIS/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
@@ -29,7 +29,7 @@
 
 ## Introduction
 
-IcyBIS is a lightweight and customizable, character gearing-oriented tooltip addon. It aims to improve your end game gearing progression by providing tooltip information for class and specialization PVE best in slot (BIS) items scraped weekly from the popular World of Warcraft guide website [Icy Veins](https://www.icy-veins.com). No more swapping back and forth to see if that dropped item is BIS according to the Icy Veins writers.
+IcyBIS is a lightweight and customizable, gearing-oriented best in slot management tooltip addon. It aims to improve your end game gearing progression by providing tooltip information for class and specialization PVE best in slot (BIS) items scraped weekly from the popular World of Warcraft guide website [Icy Veins](https://www.icy-veins.com). No more swapping back and forth to see if that dropped item is BIS according to the Icy Veins writers.
 
 World of Warcraft (WoW) retail currently has two main end-game paths, the current raid and mythic plus season. The popular WoW guide website, Icy Veins plays into these two end-game paths by curating class and specialization specific BIS item sets. There is then a combination of the two as well as crafted items for an overall BIS gear set.
 
@@ -45,9 +45,9 @@ In years past players would have to swap back and forth to see if an item is BIS
 
 ### In Game BIS Tracked Tooltips
 <p align="center">
-  <img src="images/screenshots/TooltipInfo1.PNG" alt="" height="375">
-  <img src="images/screenshots/TooltipInfo2.PNG" alt="" height="375">
-  <img src="images/screenshots/TooltipInfo3.PNG" alt="" height="375">
+  <img src="images/screenshots/TooltipInfo1.PNG" alt="World of Warcraft item tooltip with IcyBIS information stating it is the overall BIS for Enhancement and Restoration Shaman" height="375">
+  <img src="images/screenshots/TooltipInfo2.PNG" alt="World of Warcraft item tooltip with IcyBIS information stating it is the overall and raid BIS for Enhancement and Restoration but ony the raid BIS for Elemental Shaman" height="375">
+  <img src="images/screenshots/TooltipInfo3.PNG" alt="World of Warcraft item tooltip with IcyBIS information stating it is the overall BIS for Elemental and Enhancement as well as the mythic plus BIS for Elemental, Enhancement and restoration Shaman" height="375">
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -63,7 +63,7 @@ In years past players would have to swap back and forth to see if an item is BIS
 
 ### Method 2: Manual Installation
 
-1. Download the latest release from [IcyBIS Releases](https://github.com//IcyBIS/releases).
+1. Download the latest release from [IcyBIS Releases](https://github.com/TinkerTech-Addons/IcyBIS/releases).
 2. Unzip the folder and place it in your WoW Interface/AddOns directory commonly found in the paths below:
    - For Windows: `C:\Program Files (x86)\World of Warcraft\_retail_\Interface\AddOns\`
    - For macOS: `/Applications/World of Warcraft/_retail_/Interface/AddOns/`
@@ -92,16 +92,16 @@ To configure IcyBIS open the settings and select the specialization and BIS Tabl
   - Left click IcyBIS to open the settings.
 
     <p align="center">
-      <img src="images/screenshots/AddonCompartment.PNG" alt="" >
+      <img src="images/screenshots/AddonCompartment.PNG" alt="World of Warcraft addon compartment with IcyBIS available to click" >
     </p>
 
 - Slash command
   - ```
-    /icybis
+    /icybis show
     ```
     
     <p align="center">
-      <img src="images/screenshots/SlashCommandOptions.PNG" alt="" >
+      <img src="images/screenshots/SlashCommandOptions.PNG" alt="World of Warcraft chat window after typing the IcyBIS slash command to open the settings" >
     </p>
 
 ### Slash Commands
@@ -142,6 +142,7 @@ Other available IcyBIS slash commands are below.
 - Add a setting to put the addon on "master loot" mode.
   - Master Loot mode would take the current instance (party or raid) players and instead of providing generic tooltip information on BIS items it would provide the players name, specialization and BIS loot table. This would be extremely helpful if master looting was used as the deciding players can see exactly who's BIS the item is.
 - Ability to add items to BIS Table.
+- Include Enchants
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,7 +150,7 @@ Other available IcyBIS slash commands are below.
 
 ### 1. What is a BIS Table?
 
-A Best in slot table (BIS table) is a collection of gear items that can be obtained in specific or a combination of end game content. Currently Icy Veins writers create 3 "BIS tables", Overall BIS, Raid BIS and Mythic Plus BIS.
+A Best in slot (BIS) table is a collection of gear items that can be obtained in specific or a combination of end game content. Currently Icy Veins writers create 3 "BIS tables", Overall BIS, Raid BIS and Mythic Plus BIS.
 
 - **Overall BIS Table** can be comprised of Raid, Mythic Plus and crafted gear.
 - **Raid BIS Table** is only comprised of items dropped in the current Raid content.
@@ -194,7 +195,5 @@ This project is licensed under the GPL-3.0. See the [LICENSE](./LICENSE) file fo
 [release-url]: https://github.com/TinkerTech-Addons/IcyBIS/releases/latest
 [curseforge-downloads-shield]: https://img.shields.io/curseforge/dt/123456?style=plastic&label=CurseForge%20Downloads
 [curseforge-downloads-url]: https://localhost
-[github-downloads-shield]: https://img.shields.io/github/downloads/TinkerTech-Addons/IcyBIS/total?style=plastic&label=GitHub%20Downloads
-[github-downloads-url]: https://localhost
-[buy-a-round-shield]: https://img.shields.io/badge/Buy_a_round-green?style=plastic
-[buy-a-round-url]: https://localhost
+[github-downloads-shield]: https://img.shields.io/github/downloads/TinkerTech-Addons/IcyBIS/latest/total?style=plastic
+[github-downloads-url]: https://github.com/TinkerTech-Addons/IcyBIS/releases
