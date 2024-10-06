@@ -1,0 +1,17 @@
+package-as: IcyBIS
+
+ignore:
+  - .github
+  - .vscode
+  - images
+  - scripts
+  - .gitignore
+  - .release-workflow.md
+  - CHANGELOG.md
+  - LICENSE
+  - Makefile
+  - README.md
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown

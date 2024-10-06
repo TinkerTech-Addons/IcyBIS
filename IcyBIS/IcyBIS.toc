@@ -2,6 +2,7 @@
 ## Title: |cFF38CBFEIcy|r|cFFFF8F00BIS|r
 ## Version: 0.5.4
 ## X-BuildDate: 2024-10-03
+## X-Curse-Project-ID: 1116430
 ## Author: Shammooz - Illidian
 ## AddonCompartmentFunc: IcyBIS_OnAddonCompartmentClick
 ## AddonCompartmentFuncOnEnter: IcyBIS_OnAddonCompartmentEnter
