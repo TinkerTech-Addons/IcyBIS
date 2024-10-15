@@ -11,6 +11,8 @@
 ## SavedVariablesPerCharacter: IcyBIS_Settings
 ## IconTexture: Interface\AddOns\IcyBIS\Media\Textures\IcyBIS-logo
 
+## X-Curse-Project-ID: 1116430
+
 IcyBIS_Items/DeathKnightBIS.lua
 IcyBIS_Items/DemonHunterBIS.lua
 IcyBIS_Items/DruidBIS.lua

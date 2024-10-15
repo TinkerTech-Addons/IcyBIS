@@ -20,9 +20,3 @@ jobs:
           fetch-depth: 0
 
       - uses: BigWigsMods/packager@v2
-        with:
-          pkgmeta: .pkgmeta
-
-      - uses: ncipollo/release-action@v1.14.0
-        with:
-          artifacts: .release/IcyBIS-v*.zip
