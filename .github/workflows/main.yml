@@ -43,3 +43,5 @@ jobs:
         uses: ncipollo/release-action@v1.14.0
         with:
           artifacts: .release/IcyBIS-v*.zip
+          bodyFile: CHANGELOG.md
+          generateReleaseNotes: true
