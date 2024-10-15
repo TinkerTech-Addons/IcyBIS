@@ -3,7 +3,7 @@ BALANCE_DRUID_OVERALL_BIS = {
 		212397, -- Takazj's Entropic Edict
 		212404, -- Scepter of Manifested Miasma
 		212056, -- Mask of the Greatlynx
-		221077, -- 'Emergency Stop' Keychain
+		225577, -- Sureki Zealot's Insignia
 		212054, -- Maw of the Greatlynx
 		212446, -- Royal Emblem of Nerub-ar
 		212059, -- Hide of the Greatlynx
@@ -37,7 +37,7 @@ BALANCE_DRUID_RAID_BIS = {
 		212445, -- Chitin-Spiked Jackboots
 		225576, -- Writhing Ringworm
 		225578, -- Seal of the Poisoned Pact
-		220305, -- Ovi'nax's Mercurial Egg
+		221023, -- Treacherous Transmitter
 		220202, -- Spymaster's Web
 	},
 	messageLeft = "Raid BIS:",
@@ -85,7 +85,7 @@ FERAL_DRUID_OVERALL_BIS = {
 		133286, -- Umbriss Band
 		219314, -- Ara-Kara Sacbrood
 		133282, -- Skardyn's Grace
-		221023, -- Treacherous Transmitter
+		212454, -- Mad Queen's Mandate
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Feral Druid"
@@ -108,7 +108,7 @@ FERAL_DRUID_RAID_BIS = {
 		225578, -- Seal of the Poisoned Pact
 		225576, -- Writhing Ringworm
 		221023, -- Treacherous Transmitter
-		220305, -- Ovi'nax's Mercurial Egg
+		212454, -- Mad Queen's Mandate
 		212456, -- Void Reaper's Contract
 	},
 	messageLeft = "Raid BIS:",
@@ -117,8 +117,8 @@ FERAL_DRUID_RAID_BIS = {
 
 FERAL_DRUID_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		159651, -- Coral-Edged Crescent
-		221084, -- Skardyn Mercybringer
+		221159, -- Harvester's Interdiction
+		221137, -- Black Shepherd's Guisarme
 		221081, -- Guise of the Construct
 		178707, -- Trailspinner Pendant
 		221148, -- Epaulets of the Clipped Wings
