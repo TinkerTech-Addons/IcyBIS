@@ -2,6 +2,10 @@
 
 Provides dates and classes that changes in the addon were made.
 
+## 1.0.0 - 2024-10-15
+
+- **Druid BIS Tables** updated
+
 ## 1.0.0 - 2024-10-06
 
 - **Deathknight** updated
