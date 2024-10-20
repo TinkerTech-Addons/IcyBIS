@@ -9,7 +9,7 @@
 [![GitHub Release][release-shield]][release-url]
 [![CurseForge Downloads][curseforge-downloads-shield]][curseforge-downloads-url]
 [![GitHub Downloads][github-downloads-shield]][github-downloads-url]
-<!-- [![License][license-shield]][license-url] -->
+[![License][license-shield]][license-url]
 
 <!-- Project Logo, Title, Short Description and Create Issue Buttons -->
 <div align="center">
