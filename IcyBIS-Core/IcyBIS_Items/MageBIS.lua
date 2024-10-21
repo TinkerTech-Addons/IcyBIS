@@ -14,7 +14,7 @@ ARCANE_MAGE_OVERALL_BIS = {
 		212094, -- Slippers of Violet Rebirth
 		225578, -- Seal of the Poisoned Pact
 		225576, -- Writhing Ringworm
-		219314, -- Ara-Kara Sacbrood
+		221023, -- Treacherous Transmitter
 		220202, -- Spymaster's Web
 	},
 	messageLeft = "Overall BIS:",
@@ -36,7 +36,7 @@ ARCANE_MAGE_RAID_BIS = {
 		225582, -- Assimilated Eggshell Slippers
 		225578, -- Seal of the Poisoned Pact
 		225576, -- Writhing Ringworm
-		220305, -- Ovi'nax's Mercurial Egg
+		221023, -- Treacherous Transmitter
 		220202, -- Spymaster's Web
 	},
 	messageLeft = "Raid BIS:",

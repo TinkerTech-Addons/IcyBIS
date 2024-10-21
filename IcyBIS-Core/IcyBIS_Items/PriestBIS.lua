@@ -171,8 +171,7 @@ SHADOW_PRIEST_RAID_BIS = {
 		212082, -- Living Luster's Trousers
 		212085, -- Living Luster's Boots
 		133299, -- Circle of Bone
-		225578, -- Seal of the Poisoned Pact
-		212447, -- Key to the Unseeming
+		133286, -- Umbriss Band
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "Raid BIS:",

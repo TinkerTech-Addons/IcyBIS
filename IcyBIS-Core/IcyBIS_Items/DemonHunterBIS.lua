@@ -4,7 +4,7 @@ HAVOC_DEMON_HUNTER_OVERALL_BIS = {
 		222441, -- Everforged Warglaive
 		159651, -- Coral-Edged Crescent
 		212065, -- Impalers of the Hypogeal Nemesis
-		212448, -- Locket of Broken Memories
+		178707, -- Trailspinner Pendant
 		212063, -- War-Mantle of the Hypogeal Nemesis
 		225574, -- Wings of Shattered Sorrow
 		212068, -- Chestguard of the Hypogeal Nemesis
@@ -15,9 +15,10 @@ HAVOC_DEMON_HUNTER_OVERALL_BIS = {
 		221169, -- Whisperer's Echoing Steps
 		225578, -- Seal of the Poisoned Pact
 		162541, -- Band of the Roving Scalawag
-		219314, -- Ara-Kara Sacbrood
+		212454, -- Mad Queen's Mandate
 		133282, -- Skardyn's Grace
-		212456, -- Void Reaper's Contract
+		219314, -- Ara-Kara Sacbrood
+		221023, -- Treacherous Transmitter
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Havoc Demon Hunter"
@@ -39,9 +40,9 @@ HAVOC_DEMON_HUNTER_RAID_BIS = {
 		212445, -- Chitin-Spiked Jackboots
 		225578, -- Seal of the Poisoned Pact
 		225576, -- Writhing Ringworm
-		212456, -- Void Reaper's Contract
-		220305, -- Ovi'nax's Mercurial Egg
 		212454, -- Mad Queen's Mandate
+		221023, -- Treacherous Transmitter
+		220305, -- Ovi'nax's Mercurial Egg
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Havoc Demon Hunter"
@@ -63,8 +64,8 @@ HAVOC_DEMON_HUNTER_MYTHIC_PLUS_BIS = {
 		221169, -- Whisperer's Echoing Steps
 		162541, -- Band of the Roving Scalawag
 		221136, -- Devout Zealot's Ring
-		219314, -- Ara-Kara Sacbrood
 		133282, -- Skardyn's Grace
+		219314, -- Ara-Kara Sacbrood
 		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "M+ BIS:",

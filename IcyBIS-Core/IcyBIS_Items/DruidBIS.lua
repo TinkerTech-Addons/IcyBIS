@@ -83,9 +83,9 @@ FERAL_DRUID_OVERALL_BIS = {
 		221169, -- Whisperer's Echoing Steps
 		225578, -- Seal of the Poisoned Pact
 		133286, -- Umbriss Band
-		219314, -- Ara-Kara Sacbrood
 		133282, -- Skardyn's Grace
 		212454, -- Mad Queen's Mandate
+		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Feral Druid"
@@ -96,7 +96,7 @@ FERAL_DRUID_RAID_BIS = {
 		212413, -- Honored Executioner's Perforator
 		212389, -- Spire of Transfused Horrors
 		212056, -- Mask of the Greatlynx
-		212448, -- Locket of Broken Memories
+		225577, -- Sureki Zealot's Insignia
 		212054, -- Maw of the Greatlynx
 		225574, -- Wings of Shattered Sorrow
 		212059, -- Hide of the Greatlynx
@@ -107,9 +107,9 @@ FERAL_DRUID_RAID_BIS = {
 		212445, -- Chitin-Spiked Jackboots
 		225578, -- Seal of the Poisoned Pact
 		225576, -- Writhing Ringworm
-		221023, -- Treacherous Transmitter
 		212454, -- Mad Queen's Mandate
-		212456, -- Void Reaper's Contract
+		221023, -- Treacherous Transmitter
+		220305, -- Ovi'nax's Mercurial Egg
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Feral Druid"
@@ -131,8 +131,8 @@ FERAL_DRUID_MYTHIC_PLUS_BIS = {
 		221169, -- Whisperer's Echoing Steps
 		133286, -- Umbriss Band
 		162541, -- Band of the Roving Scalawag
-		219314, -- Ara-Kara Sacbrood
 		133282, -- Skardyn's Grace
+		219314, -- Ara-Kara Sacbrood
 		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "M+ BIS:",
@@ -207,9 +207,9 @@ GUARDIAN_DRUID_MYTHIC_PLUS_BIS = {
 
 RESTORATION_DRUID_OVERALL_BIS = {
 	itemIDs = {
-		221085, -- Melodious Iron Songspire
-		212397, -- Takazj's Entropic Edict
-		212056, -- Mask of the Greatlynx
+		212404, -- Scepter of Manifested Miasma
+		222566, -- Vagabond's Torch
+		178691, -- Hood of the Hidden Path
 		225577, -- Sureki Zealot's Insignia
 		212054, -- Maw of the Greatlynx
 		225574, -- Wings of Shattered Sorrow
@@ -253,7 +253,7 @@ RESTORATION_DRUID_RAID_BIS = {
 RESTORATION_DRUID_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		221085, -- Melodious Iron Songspire
-		212056, -- Mask of the Greatlynx
+		178691, -- Hood of the Hidden Path
 		221077, -- 'Emergency Stop' Keychain
 		212054, -- Maw of the Greatlynx
 		221088, -- Anvilhide Cape

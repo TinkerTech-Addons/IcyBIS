@@ -124,7 +124,7 @@ MISTWEAVER_MONK_MYTHIC_PLUS_BIS = {
 		212445, -- Chitin-Spiked Jackboots
 		212447, -- Key to the Unseeming
 		225578, -- Seal of the Poisoned Pact
-		212452, -- Gruesome Syringe
+		220305, -- Ovi'nax's Mercurial Egg
 		221023, -- Treacherous Transmitter
 	},
 	messageLeft = "M+ BIS:",

@@ -66,20 +66,18 @@ BLOOD_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 
 FROST_DEATH_KNIGHT_OVERALL_BIS = {
 	itemIDs = {
-		178694, -- Wrathbark Greathelm
+		222433, -- Everforged Helm
 		178707, -- Trailspinner Pendant
 		212000, -- Exhumed Centurion's Spikes
-		225574, -- Wings of Shattered Sorrow
+		212446, -- Royal Emblem of Nerub-ar
 		212005, -- Exhumed Centurion's Breastplate
-		222435, -- Everforged Vambraces
+		225587, -- Devoted Offering's Irons
 		212003, -- Exhumed Centurion's Gauntlets
 		221079, -- Crystal-Fissure Girdle
 		212001, -- Exhumed Centurion's Chausses
-		159428, -- Ballast Sinkers
+		222429, -- Everforged Sabatons
 		225578, -- Seal of the Poisoned Pact
-		162542, -- Seal of the City Watch
-		133300, -- Mark of Khardros
-		219314, -- Ara-Kara Sacbrood
+		162541, -- Band of the Roving Scalawag
 		212401, -- Ansurek's Final Judgment
 		222451, -- Charged Slicer
 		222447, -- Charged Claymore
@@ -102,7 +100,7 @@ FROST_DEATH_KNIGHT_RAID_BIS = {
 		212443, -- Shattershell Greaves
 		225578, -- Seal of the Poisoned Pact
 		225576, -- Writhing Ringworm
-		212453, -- Skyterror's Corrosive Organ
+		220305, -- Ovi'nax's Mercurial Egg
 		221023, -- Treacherous Transmitter
 		212401, -- Ansurek's Final Judgment
 		212401, -- Ansurek's Final Judgment
@@ -125,7 +123,7 @@ FROST_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 		178739, -- Legplates of Unholy Frenzy
 		221178, -- Ichor-Stained Sollerets
 		221136, -- Devout Zealot's Ring
-		133286, -- Umbriss Band
+		162541, -- Band of the Roving Scalawag
 		133300, -- Mark of Khardros
 		219314, -- Ara-Kara Sacbrood
 		159649, -- Saber of Dread Pirate Lockwood

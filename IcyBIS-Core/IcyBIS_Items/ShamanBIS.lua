@@ -85,10 +85,10 @@ ENHANCEMENT_SHAMAN_OVERALL_BIS = {
 		221075, -- Reinforced Anti-Intruder Chainmail
 		212010, -- Sarong of the Forgotten Reservoir
 		221152, -- Silksteel Striders
-		225578, -- Seal of the Poisoned Pact
+		225576, -- Writhing Ringworm
 		212447, -- Key to the Unseeming
-		219314, -- Ara-Kara Sacbrood
 		133282, -- Skardyn's Grace
+		219314, -- Ara-Kara Sacbrood
 		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "Overall BIS:",
@@ -109,7 +109,7 @@ ENHANCEMENT_SHAMAN_RAID_BIS = {
 		212414, -- Lost Watcher's Remains
 		212010, -- Sarong of the Forgotten Reservoir
 		225586, -- Rasha'nan's Grotesque Talons
-		225578, -- Seal of the Poisoned Pact
+		225576, -- Writhing Ringworm
 		212447, -- Key to the Unseeming
 		221023, -- Treacherous Transmitter
 		220305, -- Ovi'nax's Mercurial Egg
@@ -135,8 +135,8 @@ ENHANCEMENT_SHAMAN_MYTHIC_PLUS_BIS = {
 		221152, -- Silksteel Striders
 		133299, -- Circle of Bone
 		178736, -- Stitchflesh's Misplaced Signet
-		219314, -- Ara-Kara Sacbrood
 		133282, -- Skardyn's Grace
+		219314, -- Ara-Kara Sacbrood
 		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "M+ BIS:",
