@@ -6,6 +6,7 @@ Provides dates and classes that changes in the addon were made.
 
 <details>
 <summary>Expand to view</summary>
+
 - **Deathknight BIS Tables** updated
 - **Demonhunter BIS Tables** updated
 - **Druid BIS Tables** updated
@@ -19,9 +20,17 @@ Provides dates and classes that changes in the addon were made.
 
 ## 1.0.1 - 2024-10-15
 
+<details>
+<summary>Expand to view</summary>
+
 - **Druid BIS Tables** updated
 
+</details>
+
 ## 1.0.0 - 2024-10-06
+
+<details>
+<summary>Expand to view</summary>
 
 - **Deathknight** updated
 - **Demonhunter** updated
@@ -36,3 +45,5 @@ Provides dates and classes that changes in the addon were made.
 - **Shaman** updated
 - **Warlock** updated
 - **Warrior** updated
+
+</details>
