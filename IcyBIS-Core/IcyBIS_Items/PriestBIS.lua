@@ -124,6 +124,7 @@ HOLY_PRIEST_MYTHIC_PLUS_BIS = {
 		212086, -- Living Luster's Raiment
 		178782, -- Necropolis Lord's Shackles
 		212084, -- Living Luster's Touch
+		221158, -- Burrower's Cinch
 		212082, -- Living Luster's Trousers
 		221149, -- Membranous Slippers
 		162541, -- Band of the Roving Scalawag

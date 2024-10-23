@@ -2,6 +2,17 @@
 
 Provides dates and classes that changes in the addon were made.
 
+## 1.0.3 - 2024-10-23
+
+<details>
+<summary>Expand to view</summary>
+
+- **Hunter BIS Tables** updated
+- **Priest BIS Tables** updated
+- **Shaman BIS Tables** updated
+
+</details>
+
 ## 1.0.2 - 2024-10-21
 
 <details>
