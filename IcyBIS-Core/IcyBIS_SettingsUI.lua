@@ -1,11 +1,15 @@
 -- IcyBIS_SettingsUI.lua
+-- Handles the creation and functionality of the settings UI.
 
+--#region Create locally and golbaly used variables
 local addonName, ns = ...
 
 if not IcyBIS_Settings then
     IcyBIS_Settings = {}
 end
+--#endregion
 
+--#region Create and configure the settings frame
 local settingsFrame = CreateFrame("Frame", "IcyBIS Settings", UIParent, "BasicFrameTemplate")
 settingsFrame:Hide()
 settingsFrame:SetPoint("CENTER", 0, 150)
@@ -21,6 +25,7 @@ elseif ns.numberOfSpecs == 4 then
 else
     settingsFrame:SetSize(300, 500)
 end
+--#endregion
 
 --#region Allow the settings frame to be moved around the screen.
 settingsFrame:SetScript("OnMouseDown", function(self, button)
@@ -64,6 +69,7 @@ local function onCheckboxClick(self, checkboxSettingName)
     IcyBIS_Settings[settingName] = self:GetChecked()
     ns.loadItemLists()
 end
+--#endregion
 
 --#region Spec Label creation function
 local function createSpecHeader(name, parent, anchorPoint, x, y, icon)
