@@ -2,6 +2,16 @@
 
 Provides dates and classes that changes in the addon were made.
 
+## 1.0.4 - 2024-10-28
+
+<details>
+<summary>Expand to view</summary>
+
+- **Deathknight BIS Tables** updated
+- **Shaman BIS Tables** updated
+
+</details>
+
 ## 1.0.3 - 2024-10-23
 
 <details>

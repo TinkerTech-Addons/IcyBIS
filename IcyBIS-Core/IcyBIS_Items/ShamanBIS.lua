@@ -57,21 +57,27 @@ ELEMENTAL_SHAMAN_RAID_BIS = {
 
 ELEMENTAL_SHAMAN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221165, -- Unceremonious Bloodletter
+		221085, -- Melodious Iron Songspire
+		178709, -- Scithewood Scepter
 		178712, -- Acidslough Bulwark
 		157612, -- Dragonkin Ward
-		133285, -- Wildhammer Riding Helm
+		178692, -- Soulthorn Visage
 		221077, -- 'Emergency Stop' Keychain
-		159376, -- Hook-Barbed Spaulders
+		178707, -- Trailspinner Pendant
+		133374, -- Courier's Dragonriding Spaulders
+		178695, -- Wintersnap Shoulderguards
+		221088, -- Anvilhide Cape
 		133363, -- Troggstitched Drape
-		221147, -- Goliath's Chitinous Chainmail
-		159372, -- Dread Captain's Irons
+		159362, -- Tri-Heart Chestguard
+		221174, -- Penumbral Rimeguards
 		221162, -- Claws of Tainted Ichor
 		221075, -- Reinforced Anti-Intruder Chainmail
-		221186, -- Entwined Chimeric Legguards
-		133293, -- Red Scale Boots
-		159461, -- Band of the Ancient Dredger
-		178736, -- Stitchflesh's Misplaced Signet
+		157615, -- Flamescale Chain Leggings
+		159379, -- Sure-Foot Sabatons
+		133290, -- Dark Iron Chain Boots
+		133286, -- Umbriss Band
+		162541, -- Band of the Roving Scalawag
+		133299, -- Circle of Bone
 		219314, -- Ara-Kara Sacbrood
 		219312, -- Empowering Crystal of Anub'ikkaj
 	},

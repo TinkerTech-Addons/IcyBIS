@@ -78,6 +78,8 @@ FROST_DEATH_KNIGHT_OVERALL_BIS = {
 		222429, -- Everforged Sabatons
 		225578, -- Seal of the Poisoned Pact
 		162541, -- Band of the Roving Scalawag
+		220305, -- Ovi'nax's Mercurial Egg
+		221023, -- Treacherous Transmitter
 		212401, -- Ansurek's Final Judgment
 		222451, -- Charged Slicer
 		222447, -- Charged Claymore
@@ -168,7 +170,7 @@ UNHOLY_DEATH_KNIGHT_RAID_BIS = {
 		212442, -- Greatbelt of the Hungerer
 		212001, -- Exhumed Centurion's Chausses
 		225590, -- Boots of the Black Bulwark
-		225576, -- Writhing Ringworm
+		212447, -- Key to the Unseeming
 		225576, -- Writhing Ringworm
 		221023, -- Treacherous Transmitter
 		220305, -- Ovi'nax's Mercurial Egg
