@@ -1,7 +1,12 @@
-## Interface: 110002
+## Interface: 110005
 ## Title: |cFF38CBFEIcy|r|cFFFF8F00BIS|r
+<<<<<<< HEAD
 ## Version: 1.0.1
 ## X-BuildDate: 2024-10-14
+=======
+## Version: 1.0.4
+## X-BuildDate: 2024-10-28
+>>>>>>> main
 ## Author: Shammooz - Illidian
 ## AddonCompartmentFunc: IcyBIS_OnAddonCompartmentClick
 ## AddonCompartmentFuncOnEnter: IcyBIS_OnAddonCompartmentEnter
@@ -10,6 +15,8 @@
 ## DefaultState: enabled
 ## SavedVariablesPerCharacter: IcyBIS_Settings
 ## IconTexture: Interface\AddOns\IcyBIS\Media\Textures\IcyBIS-logo
+
+## X-Curse-Project-ID: 1116430
 
 IcyBIS_Items/DeathKnightBIS.lua
 IcyBIS_Items/DemonHunterBIS.lua

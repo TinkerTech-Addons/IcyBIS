@@ -9,7 +9,6 @@ ns.buildDate = C_AddOns.GetAddOnMetadata(addonName, "X-BuildDate")
 
 -- Table to hold character-specific settings
 IcyBIS_Settings = IcyBIS_Settings or {}
-
 -- #endregion
 
 -- #region Local IcyBIS functions
@@ -26,13 +25,14 @@ local function SlashCommandHandler(message)
         print("  /|cFF38CBFEicy|r|cFFFF8F00bis|r |cFF14cd33v|version|r - Print out the addon name and current version")
     end
 end
+--#endregion
 
 -- #region Register the slash command
 SLASH_ICYBIS1 = "/icybis"
 SlashCmdList["ICYBIS"] = SlashCommandHandler
-
 -- #endregion
 
+--#region Addon event handler
 local function OnAddonLoaded(self, event)
     if event == "PLAYER_ENTERING_WORLD" then
         ns.OnInitialize()

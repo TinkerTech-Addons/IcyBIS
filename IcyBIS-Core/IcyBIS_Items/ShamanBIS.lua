@@ -1,23 +1,28 @@
 ELEMENTAL_SHAMAN_OVERALL_BIS = {
 	itemIDs = {
+		212397, -- Takazj's Entropic Edict
 		222439, -- Everforged Dagger
-		225579, -- Crest of the Caustic Despot
-		212428, -- Final Meal's Horns
+		178712, -- Acidslough Bulwark
+		157612, -- Dragonkin Ward
+		212011, -- Noetic of the Forgotten Reservoir
 		225577, -- Sureki Zealot's Insignia
-		215136, -- Amulet of Earthen Craftsmanship
+		212448, -- Locket of Broken Memories
 		212009, -- Concourse of the Forgotten Reservoir
 		225574, -- Wings of Shattered Sorrow
-		212014, -- Vestments of the Forgotten Reservoir
-		225581, -- Ky'veza's Covert Clasps
+		212446, -- Royal Emblem of Nerub-ar
+		133363, -- Troggstitched Drape
+		212421, -- Goresplattered Membrane
+		219342, -- Glyph-Etched Vambraces
+		212415, -- Throne Defender's Bangles
 		212012, -- Covenant of the Forgotten Reservoir
-		212414, -- Lost Watcher's Remains
+		221075, -- Reinforced Anti-Intruder Chainmail
 		212010, -- Sarong of the Forgotten Reservoir
-		133293, -- Red Scale Boots
-		159461, -- Band of the Ancient Dredger
+		212013, -- Shoes of the Forgotten Reservoir
 		225578, -- Seal of the Poisoned Pact
-		178736, -- Stitchflesh's Misplaced Signet
-		219314, -- Ara-Kara Sacbrood
+		225576, -- Writhing Ringworm
 		220202, -- Spymaster's Web
+		219314, -- Ara-Kara Sacbrood
+		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Elemental Shaman"
@@ -25,23 +30,26 @@ ELEMENTAL_SHAMAN_OVERALL_BIS = {
 
 ELEMENTAL_SHAMAN_RAID_BIS = {
 	itemIDs = {
+		212397, -- Takazj's Entropic Edict
 		212394, -- Sovereign's Disdain
 		225579, -- Crest of the Caustic Despot
-		212428, -- Final Meal's Horns
+		212011, -- Noetic of the Forgotten Reservoir
 		225577, -- Sureki Zealot's Insignia
 		212448, -- Locket of Broken Memories
 		212009, -- Concourse of the Forgotten Reservoir
+		212446, -- Royal Emblem of Nerub-ar
 		225574, -- Wings of Shattered Sorrow
-		212014, -- Vestments of the Forgotten Reservoir
-		225581, -- Ky'veza's Covert Clasps
+		212421, -- Goresplattered Membrane
+		212415, -- Throne Defender's Bangles
 		212012, -- Covenant of the Forgotten Reservoir
 		212414, -- Lost Watcher's Remains
 		212010, -- Sarong of the Forgotten Reservoir
 		225586, -- Rasha'nan's Grotesque Talons
 		225578, -- Seal of the Poisoned Pact
-		212447, -- Key to the Unseeming
-		220305, -- Ovi'nax's Mercurial Egg
+		225576, -- Writhing Ringworm
 		220202, -- Spymaster's Web
+		220305, -- Ovi'nax's Mercurial Egg
+		221023, -- Treacherous Transmitter
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Elemental Shaman"
@@ -49,22 +57,29 @@ ELEMENTAL_SHAMAN_RAID_BIS = {
 
 ELEMENTAL_SHAMAN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221165, -- Unceremonious Bloodletter
-		178750, -- Encrusted Canopic Lid
-		133285, -- Wildhammer Riding Helm
+		221085, -- Melodious Iron Songspire
+		178709, -- Scithewood Scepter
+		178712, -- Acidslough Bulwark
+		157612, -- Dragonkin Ward
+		178692, -- Soulthorn Visage
 		221077, -- 'Emergency Stop' Keychain
-		159376, -- Hook-Barbed Spaulders
+		178707, -- Trailspinner Pendant
+		133374, -- Courier's Dragonriding Spaulders
+		178695, -- Wintersnap Shoulderguards
 		221088, -- Anvilhide Cape
-		221147, -- Goliath's Chitinous Chainmail
-		159372, -- Dread Captain's Irons
+		133363, -- Troggstitched Drape
+		159362, -- Tri-Heart Chestguard
+		221174, -- Penumbral Rimeguards
 		221162, -- Claws of Tainted Ichor
-		159386, -- Anchor Chain Girdle
-		221186, -- Entwined Chimeric Legguards
-		133293, -- Red Scale Boots
-		159461, -- Band of the Ancient Dredger
-		178736, -- Stitchflesh's Misplaced Signet
+		221075, -- Reinforced Anti-Intruder Chainmail
+		157615, -- Flamescale Chain Leggings
+		159379, -- Sure-Foot Sabatons
+		133290, -- Dark Iron Chain Boots
+		133286, -- Umbriss Band
+		162541, -- Band of the Roving Scalawag
+		133299, -- Circle of Bone
 		219314, -- Ara-Kara Sacbrood
-		178708, -- Unbound Changeling
+		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Elemental Shaman"
@@ -85,10 +100,10 @@ ENHANCEMENT_SHAMAN_OVERALL_BIS = {
 		221075, -- Reinforced Anti-Intruder Chainmail
 		212010, -- Sarong of the Forgotten Reservoir
 		221152, -- Silksteel Striders
-		225578, -- Seal of the Poisoned Pact
+		225576, -- Writhing Ringworm
 		212447, -- Key to the Unseeming
-		219314, -- Ara-Kara Sacbrood
 		133282, -- Skardyn's Grace
+		219314, -- Ara-Kara Sacbrood
 		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "Overall BIS:",
@@ -109,7 +124,7 @@ ENHANCEMENT_SHAMAN_RAID_BIS = {
 		212414, -- Lost Watcher's Remains
 		212010, -- Sarong of the Forgotten Reservoir
 		225586, -- Rasha'nan's Grotesque Talons
-		225578, -- Seal of the Poisoned Pact
+		225576, -- Writhing Ringworm
 		212447, -- Key to the Unseeming
 		221023, -- Treacherous Transmitter
 		220305, -- Ovi'nax's Mercurial Egg
@@ -135,8 +150,8 @@ ENHANCEMENT_SHAMAN_MYTHIC_PLUS_BIS = {
 		221152, -- Silksteel Striders
 		133299, -- Circle of Bone
 		178736, -- Stitchflesh's Misplaced Signet
-		219314, -- Ara-Kara Sacbrood
 		133282, -- Skardyn's Grace
+		219314, -- Ara-Kara Sacbrood
 		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "M+ BIS:",

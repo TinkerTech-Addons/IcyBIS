@@ -1,4 +1,4 @@
--- Tooltip.lua
+-- IcyBIS_Tooltip.lua
 -- Handles adding best in slot information on gear tooltips.
 
 -- #region BIS Tooltip

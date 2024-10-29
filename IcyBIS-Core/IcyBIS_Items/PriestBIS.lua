@@ -124,6 +124,7 @@ HOLY_PRIEST_MYTHIC_PLUS_BIS = {
 		212086, -- Living Luster's Raiment
 		178782, -- Necropolis Lord's Shackles
 		212084, -- Living Luster's Touch
+		221158, -- Burrower's Cinch
 		212082, -- Living Luster's Trousers
 		221149, -- Membranous Slippers
 		162541, -- Band of the Roving Scalawag
@@ -171,8 +172,7 @@ SHADOW_PRIEST_RAID_BIS = {
 		212082, -- Living Luster's Trousers
 		212085, -- Living Luster's Boots
 		133299, -- Circle of Bone
-		225578, -- Seal of the Poisoned Pact
-		212447, -- Key to the Unseeming
+		133286, -- Umbriss Band
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "Raid BIS:",

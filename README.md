@@ -9,7 +9,7 @@
 [![GitHub Release][release-shield]][release-url]
 [![CurseForge Downloads][curseforge-downloads-shield]][curseforge-downloads-url]
 [![GitHub Downloads][github-downloads-shield]][github-downloads-url]
-<!-- [![License][license-shield]][license-url] -->
+[![License][license-shield]][license-url]
 
 <!-- Project Logo, Title, Short Description and Create Issue Buttons -->
 <div align="center">
@@ -18,6 +18,7 @@
     <img src="images/logos/IcyBIS-logo.jpeg" alt="IcyBIS logo" width="150" height="120">
   </a>
   <p align="center">
+    <br />
     A World of Warcraft Retail best in slot management Addon
     <br />
     <br />
@@ -44,6 +45,7 @@ In years past players would have to swap back and forth to see if an item is BIS
 - Lightweight and optimized providing zero impact to gaming.
 
 ### In Game BIS Tracked Tooltips
+
 <p align="center">
   <img src="images/screenshots/TooltipInfo1.PNG" alt="World of Warcraft item tooltip with IcyBIS information stating it is the overall BIS for Enhancement and Restoration Shaman" height="375">
   <img src="images/screenshots/TooltipInfo2.PNG" alt="World of Warcraft item tooltip with IcyBIS information stating it is the overall and raid BIS for Enhancement and Restoration but ony the raid BIS for Elemental Shaman" height="375">
@@ -87,6 +89,7 @@ To configure IcyBIS open the settings and select the specialization and BIS Tabl
 #### How to open IcyBIS settings
 
 - Addon compartment
+
   - Navigate and open the newly added addon compartment.
   - Search for the IcyBIS addon.
   - Left click IcyBIS to open the settings.
@@ -96,10 +99,11 @@ To configure IcyBIS open the settings and select the specialization and BIS Tabl
     </p>
 
 - Slash command
+
   - ```
     /icybis show
     ```
-    
+
     <p align="center">
       <img src="images/screenshots/SlashCommandOptions.PNG" alt="World of Warcraft chat window after typing the IcyBIS slash command to open the settings" >
     </p>
@@ -119,6 +123,22 @@ Other available IcyBIS slash commands are below.
 
 ## Development Roadmap
 
+### Understanding Release Versions
+
+IcyBIS will update on a regular basis on three occasions and can be denoted by the major (1.X.X), minor(X.1.X) or micro(X.X.1) increment.
+
+#### Major Release (1.X.X)
+
+Major releases happen each for new season or expansion but will likely be released prior to the new content due since Icy Veins writers crate new item sets before the release.
+
+#### Minor Release (X.1.X)
+
+Minor releases happen when new core addon features are added.
+
+#### Micro Release (X.X.1)
+
+Micro releases happen weekly on Monday night prior to the weekly reset in North America **if and only if** IcyBIS Tables have been changed on the Icy Veins website. If the tables are the same weekly update will be pushed out.
+
 ### Initial Release - v1.0.0
 
 - The initial release will only load BIS items for the players class.
@@ -129,14 +149,11 @@ Other available IcyBIS slash commands are below.
 - Add information (class, specialization and BIS loot table) to the respective items tooltip.
 - Will have a working slash command that displays help, print out the installed version and opens the settings frame.
 
-### Minor Version 1 Release
+### Minor Release Ideas
 
 - Include the item level difference in the tooltip.
 - Addition of class colors for the tooltip text color.
 - Addition of speciation images next or replacing the text within the tooltip.
-
-### Major Release - v2.0.0
-
 - Add settings to override character specific class BIS items tooltip display.
   - Ex. As a Shaman I can see item X is a Marksman Hunters Overall BIS item.
 - Add a setting to put the addon on "master loot" mode.
@@ -194,6 +211,6 @@ This project is licensed under the GPL-3.0. See the [LICENSE](./LICENSE) file fo
 [release-shield]: https://img.shields.io/github/v/release/TinkerTech-Addons/IcyBIS?style=plastic&label=Latest%20Release
 [release-url]: https://github.com/TinkerTech-Addons/IcyBIS/releases/latest
 [curseforge-downloads-shield]: https://img.shields.io/curseforge/dt/1116430?style=plastic&label=CurseForge%20Downloads
-[curseforge-downloads-url]: https://legacy.curseforge.com/wow/addons/icybis
+[curseforge-downloads-url]: https://www.curseforge.com/wow/addons/icybis
 [github-downloads-shield]: https://img.shields.io/github/downloads/TinkerTech-Addons/IcyBIS/total?style=plastic
 [github-downloads-url]: https://github.com/TinkerTech-Addons/IcyBIS/releases

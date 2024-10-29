@@ -14,7 +14,7 @@ AUGMENTATION_EVOKER_OVERALL_BIS = {
 		225578, -- Seal of the Poisoned Pact
 		215133, -- Binding of Binding
 		220202, -- Spymaster's Web
-		212454, -- Mad Queen's Mandate
+		219314, -- Ara-Kara Sacbrood
 		133303, -- Staff of Siphoned Essences
 		221156, -- Cryptbound Headpiece
 		225577, -- Sureki Zealot's Insignia
@@ -29,7 +29,7 @@ AUGMENTATION_EVOKER_OVERALL_BIS = {
 		225578, -- Seal of the Poisoned Pact
 		215133, -- Binding of Binding
 		220202, -- Spymaster's Web
-		212454, -- Mad Queen's Mandate
+		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Augmentation Evoker"
