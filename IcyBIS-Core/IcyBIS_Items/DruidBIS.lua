@@ -85,10 +85,7 @@ FERAL_DRUID_OVERALL_BIS = {
 		133286, -- Umbriss Band
 		133282, -- Skardyn's Grace
 		212454, -- Mad Queen's Mandate
-<<<<<<< HEAD
-=======
 		219314, -- Ara-Kara Sacbrood
->>>>>>> main
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Feral Druid"
@@ -112,12 +109,7 @@ FERAL_DRUID_RAID_BIS = {
 		225576, -- Writhing Ringworm
 		212454, -- Mad Queen's Mandate
 		221023, -- Treacherous Transmitter
-<<<<<<< HEAD
-		212454, -- Mad Queen's Mandate
-		212456, -- Void Reaper's Contract
-=======
 		220305, -- Ovi'nax's Mercurial Egg
->>>>>>> main
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Feral Druid"
@@ -279,4 +271,3 @@ RESTORATION_DRUID_MYTHIC_PLUS_BIS = {
 	messageLeft = "M+ BIS:",
 	messageRight = "Restoration Druid"
 }
-

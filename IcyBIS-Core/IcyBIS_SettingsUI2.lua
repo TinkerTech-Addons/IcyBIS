@@ -46,19 +46,19 @@ navBar:SetBackdropColor(0, 0, 0, 0.8)
 
 -- List of WoW class names and their internal identifiers
 local classNames = {
-    { name = "Death Knight", id = "DEATHKNIGHT" },
-    { name = "Demon Hunter", id = "DEMONHUNTER" },
-    { name = "Druid",        id = "DRUID" },
-    { name = "Evoker",       id = "EVOKER" },
-    { name = "Hunter",       id = "HUNTER" },
-    { name = "Mage",         id = "MAGE" },
-    { name = "Monk",         id = "MONK" },
-    { name = "Paladin",      id = "PALADIN" },
-    { name = "Priest",       id = "PRIEST" },
-    { name = "Rogue",        id = "ROGUE" },
-    { name = "Shaman",       id = "SHAMAN" },
-    { name = "Warlock",      id = "WARLOCK" },
-    { name = "Warrior",      id = "WARRIOR" }
+    { name = "Death Knight", id = "DEATHKNIGHT", uid = 6 },
+    { name = "Demon Hunter", id = "DEMONHUNTER", uid = 12 },
+    { name = "Druid",        id = "DRUID",       uid = 11 },
+    { name = "Evoker",       id = "EVOKER",      uid = 13 },
+    { name = "Hunter",       id = "HUNTER",      uid = 3 },
+    { name = "Mage",         id = "MAGE",        uid = 8 },
+    { name = "Monk",         id = "MONK",        uid = 10 },
+    { name = "Paladin",      id = "PALADIN",     uid = 2 },
+    { name = "Priest",       id = "PRIEST",      uid = 5 },
+    { name = "Rogue",        id = "ROGUE",       uid = 4 },
+    { name = "Shaman",       id = "SHAMAN",      uid = 7 },
+    { name = "Warlock",      id = "WARLOCK",     uid = 9 },
+    { name = "Warrior",      id = "WARRIOR",     uid = 1 }
 }
 table.sort(classNames, function(a, b) return a.name < b.name end) -- Sort alphabetically by name
 
@@ -91,17 +91,6 @@ local function updateClassTitle(className, classId)
     else
         selectedClassTitle:SetText(className) -- Default to no color if classColor is not found
     end
-end
-
--- Create clickable class buttons in the navigation bar
-for i, classInfo in ipairs(classNames) do
-    local classButton = CreateFrame("Button", nil, navBar, "UIPanelButtonTemplate")
-    classButton:SetSize(navBar:GetWidth() - 10, 20)
-    classButton:SetPoint("TOPLEFT", navBar, "TOPLEFT", 5, -8 - (i - 1) * 27)
-    classButton:SetText(classInfo.name)
-    classButton:SetScript("OnClick", function(self)
-        updateClassTitle(classInfo.name, classInfo.id)
-    end)
 end
 
 --#region Spec Label creation function
@@ -141,6 +130,69 @@ local function createBISTableCheckbox(name, parent, anchorPoint, x, y, checkboxS
 end
 --#endregion
 
+local function test(classID)
+    local icyBISTableNames = { "Overall BIS:", "Raid BIS:", "M+ BIS:" }
+    local numSpecializations = GetNumSpecializationsForClassID(classID)
+
+    local _, name, _, icon, _, _ = GetSpecializationInfoForClassID(classID, 1)
+    local spec1 = createSpecHeader(name, rightSection, "TOPLEFT", 50, -70, icon)
+    local spec1_overall = createBISTableCheckbox(icyBISTableNames[1], rightSection, "TOPLEFT", 65, -100,
+        "Spec 1 Overall BIS")
+    local sepc1_raid = createBISTableCheckbox(icyBISTableNames[2], spec1_overall, "LEFT", 0, -30, "Spec 1 Raid BIS")
+    local spec1_m_plus = createBISTableCheckbox(icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30, "Spec 1 M+ BIS")
+
+    _, name, _, icon, _, _ = GetSpecializationInfoForClassID(classID, 2)
+    local spec2 = createSpecHeader(name, rightSection, "TOPLEFT", 250, -70, icon)
+    local spec2_ocerall = createBISTableCheckbox(icyBISTableNames[1], rightSection, "TOPLEFT", 265, -100,
+        "Spec 2 Overall BIS")
+    local spec2_raid = createBISTableCheckbox(icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30, "Spec 2 Raid BIS")
+    local spec2_m_plus = createBISTableCheckbox(icyBISTableNames[3], spec2_raid, "LEFT", 0, -30, "Spec 2 M+ BIS")
+
+    if numSpecializations == 2 then
+        settingsFrame:SetSize(600, 400)
+        rightSection:SetSize(settingsFrame:GetWidth() - navBar:GetWidth() - 30, navBar:GetHeight())
+    elseif numSpecializations == 4 then
+        settingsFrame:SetSize(1000, 400)
+        rightSection:SetSize(settingsFrame:GetWidth() - navBar:GetWidth() - 30, navBar:GetHeight())
+
+        _, name, _, icon, _, _ = GetSpecializationInfoForClassID(classID, 3)
+        local spec3 = createSpecHeader(name, rightSection, "TOPLEFT", 450, -70, icon)
+        local spec3_overall = createBISTableCheckbox(icyBISTableNames[1], rightSection, "TOPLEFT", 465, -100,
+            "Spec 3 Overall BIS")
+        local sepc3_raid = createBISTableCheckbox(icyBISTableNames[2], spec3_overall, "LEFT", 0, -30, "Spec 3 Raid BIS")
+        createBISTableCheckbox(icyBISTableNames[3], sepc3_raid, "LEFT", 0, -30, "Spec 3 M+ BIS")
+
+        _, name, _, icon, _, _ = GetSpecializationInfoForClassID(classID, 4)
+        local spec4 = createSpecHeader(name, rightSection, "TOPLEFT", 650, -70, icon)
+        local spec4_overall = createBISTableCheckbox(icyBISTableNames[1], rightSection, "TOPLEFT", 665, -100,
+            "Spec 4 Overall BIS")
+        local sepc4_raid = createBISTableCheckbox(icyBISTableNames[2], spec4_overall, "LEFT", 0, -30, "Spec 4 Raid BIS")
+        createBISTableCheckbox(icyBISTableNames[3], sepc4_raid, "LEFT", 0, -30, "Spec 4 M+ BIS")
+    else
+        settingsFrame:SetSize(800, 400)
+        rightSection:SetSize(settingsFrame:GetWidth() - navBar:GetWidth() - 30, navBar:GetHeight())
+
+        _, name, _, icon, _, _ = GetSpecializationInfoForClassID(classID, 3)
+        local spec3 = createSpecHeader(name, rightSection, "TOPLEFT", 450, -70, icon)
+        local spec3_overall = createBISTableCheckbox(icyBISTableNames[1], rightSection, "TOPLEFT", 465, -100,
+            "Spec 3 Overall BIS")
+        local sepc3_raid = createBISTableCheckbox(icyBISTableNames[2], spec3_overall, "LEFT", 0, -30, "Spec 3 Raid BIS")
+        createBISTableCheckbox(icyBISTableNames[3], sepc3_raid, "LEFT", 0, -30, "Spec 3 M+ BIS")
+    end
+end
+
+-- Create clickable class buttons in the navigation bar
+for i, classInfo in ipairs(classNames) do
+    local classButton = CreateFrame("Button", nil, navBar, "UIPanelButtonTemplate")
+    classButton:SetSize(navBar:GetWidth() - 10, 20)
+    classButton:SetPoint("TOPLEFT", navBar, "TOPLEFT", 5, -8 - (i - 1) * 27)
+    classButton:SetText(classInfo.name)
+    classButton:SetScript("OnClick", function(self)
+        updateClassTitle(classInfo.name, classInfo.id)
+        test(classInfo.uid)
+    end)
+end
+
 -- Automatically select and display the player's class when the frame is shown
 settingsFrame:SetScript("OnShow", function()
     local _, playerClassName = UnitClass("player")       -- Get player's class name in English
@@ -150,31 +202,10 @@ settingsFrame:SetScript("OnShow", function()
     for _, classInfo in ipairs(classNames) do
         if classInfo.id == playerClassId then
             updateClassTitle(classInfo.name, classInfo.id)
+            test(classInfo.uid)
             break
         end
     end
 end)
-
-
-local icyBISTableNames = { "Overall BIS:", "Raid BIS:", "M+ BIS:" }
-local _, name, _, icon, _, _ = GetSpecializationInfo(1)
-local spec1 = createSpecHeader(name, rightSection, "TOPLEFT", 50, -70, icon)
-local spec1_overall = createBISTableCheckbox(icyBISTableNames[1], rightSection, "TOPLEFT", 65, -100, "Spec 1 Overall BIS")
-local sepc1_raid = createBISTableCheckbox(icyBISTableNames[2], spec1_overall, "LEFT", 0, -30, "Spec 1 Raid BIS")
-local spec1_m_plus = createBISTableCheckbox(icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30, "Spec 1 M+ BIS")
-
-_, name, _, icon, _, _ = GetSpecializationInfo(2)
-local spec2 = createSpecHeader(name, rightSection, "TOPLEFT", 250, -70, icon)
-local spec2_ocerall = createBISTableCheckbox(icyBISTableNames[1], rightSection, "TOPLEFT", 265, -100,
-    "Spec 2 Overall BIS")
-local spec2_raid = createBISTableCheckbox(icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30, "Spec 2 Raid BIS")
-local spec2_m_plus = createBISTableCheckbox(icyBISTableNames[3], spec2_raid, "LEFT", 0, -30, "Spec 2 M+ BIS")
-
-_, name, _, icon, _, _ = GetSpecializationInfo(3)
-local spec3 = createSpecHeader(name, rightSection, "TOPLEFT", 450, -70, icon)
-local spec3_overall = createBISTableCheckbox(icyBISTableNames[1], rightSection, "TOPLEFT", 465, -100,
-    "Spec 3 Overall BIS")
-local sepc3_raid = createBISTableCheckbox(icyBISTableNames[2], spec3_overall, "LEFT", 0, -30, "Spec 3 Raid BIS")
-createBISTableCheckbox(icyBISTableNames[3], sepc3_raid, "LEFT", 0, -30, "Spec 3 M+ BIS")
 
 settingsFrame:Show()
