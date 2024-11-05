@@ -138,7 +138,7 @@ DEMONOLOGY_WARLOCK_MYTHIC_PLUS_BIS = {
 
 DESTRUCTION_WARLOCK_OVERALL_BIS = {
 	itemIDs = {
-		212440, -- Devotee's Discarded Headdress
+		212074, -- Hexflame Coven's All-Seeing Eye
 		225577, -- Sureki Zealot's Insignia
 		212072, -- Hexflame Coven's Altar
 		225574, -- Wings of Shattered Sorrow
@@ -146,11 +146,11 @@ DESTRUCTION_WARLOCK_OVERALL_BIS = {
 		222815, -- Consecrated Cuffs
 		212075, -- Hexflame Coven's Sleeves
 		221158, -- Burrower's Cinch
-		212073, -- Hexflame Coven's Leggings
+		221076, -- E.D.N.A. Stabilizers
 		212076, -- Hexflame Coven's Treads
 		225578, -- Seal of the Poisoned Pact
 		159461, -- Band of the Ancient Dredger
-		212454, -- Mad Queen's Mandate
+		219314, -- Ara-Kara Sacbrood
 		220202, -- Spymaster's Web
 		212394, -- Sovereign's Disdain
 		222566, -- Vagabond's Torch
@@ -184,7 +184,7 @@ DESTRUCTION_WARLOCK_RAID_BIS = {
 
 DESTRUCTION_WARLOCK_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		212440, -- Devotee's Discarded Headdress
+		212074, -- Hexflame Coven's All-Seeing Eye
 		221077, -- 'Emergency Stop' Keychain
 		212072, -- Hexflame Coven's Altar
 		133309, -- Shroud of Dark Memories
@@ -192,7 +192,7 @@ DESTRUCTION_WARLOCK_MYTHIC_PLUS_BIS = {
 		222815, -- Consecrated Cuffs
 		212075, -- Hexflame Coven's Sleeves
 		221158, -- Burrower's Cinch
-		212073, -- Hexflame Coven's Leggings
+		221076, -- E.D.N.A. Stabilizers
 		212076, -- Hexflame Coven's Treads
 		221136, -- Devout Zealot's Ring
 		159461, -- Band of the Ancient Dredger
