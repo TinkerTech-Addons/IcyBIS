@@ -2,6 +2,15 @@
 
 Provides dates and classes that changes in the addon were made.
 
+## 1.0.6 - 2024-11-11
+
+<details>
+<summary>Expand to view</summary>
+
+- **Shaman BIS Tables** updated
+
+</details>
+
 ## 1.0.5 - 2024-11-04
 
 <details>

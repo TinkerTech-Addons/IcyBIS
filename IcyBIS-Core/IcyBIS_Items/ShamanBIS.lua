@@ -104,6 +104,7 @@ ENHANCEMENT_SHAMAN_OVERALL_BIS = {
 		212447, -- Key to the Unseeming
 		133282, -- Skardyn's Grace
 		219314, -- Ara-Kara Sacbrood
+		231417, -- Hand of Justice
 		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "Overall BIS:",
