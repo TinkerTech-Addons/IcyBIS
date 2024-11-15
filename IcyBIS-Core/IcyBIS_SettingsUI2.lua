@@ -62,24 +62,35 @@ local classNames = {
 }
 table.sort(classNames, function(a, b) return a.name < b.name end) -- Sort alphabetically by name
 
--- Create right section for displaying selected class information
-local rightSection = CreateFrame("Frame", nil, settingsFrame, "BackdropTemplate")
-rightSection:SetSize(settingsFrame:GetWidth() - navBar:GetWidth() - 30, navBar:GetHeight())
-rightSection:SetPoint("TOPLEFT", navBar, "TOPRIGHT", 10, 0)
-rightSection:SetBackdrop({
-    bgFile = "Interface/Tooltips/UI-Tooltip-Background",
-    edgeFile = "Interface/Tooltips/UI-Tooltip-Border",
-    tile = true,
-    tileSize = 16,
-    edgeSize = 12,
-    insets = { left = 4, right = 4, top = 4, bottom = 4 }
-})
-rightSection:SetBackdropColor(0, 0, 0, 0.8)
+local function createRightSection()
+    -- Create right section for displaying selected class information
+    local rightSection = CreateFrame("Frame", nil, settingsFrame, "BackdropTemplate")
+    rightSection:SetSize(settingsFrame:GetWidth() - navBar:GetWidth() - 30, navBar:GetHeight())
+    rightSection:SetPoint("TOPLEFT", navBar, "TOPRIGHT", 10, 0)
+    rightSection:SetBackdrop({
+        bgFile = "Interface/Tooltips/UI-Tooltip-Background",
+        edgeFile = "Interface/Tooltips/UI-Tooltip-Border",
+        tile = true,
+        tileSize = 16,
+        edgeSize = 12,
+        insets = { left = 4, right = 4, top = 4, bottom = 4 }
+    })
+    rightSection:SetBackdropColor(0, 0, 0, 0.8)
+    return rightSection
+end
 
--- Title for selected class display (define this before using in function)
-local selectedClassTitle = rightSection:CreateFontString(nil, "OVERLAY", "GameFontNormalLarge")
-selectedClassTitle:SetPoint("TOP", rightSection, 0, -10)
-selectedClassTitle:SetFont("Fonts\\FRIZQT__.TTF", 24, "OUTLINE")
+local rightSection = createRightSection()
+
+local function createSelectedClassTitle()
+    -- Title for selected class display (define this before using in function)
+    local selectedClassTitle = rightSection:CreateFontString(nil, "OVERLAY", "GameFontNormalLarge")
+    selectedClassTitle:SetPoint("TOP", rightSection, 0, -10)
+    selectedClassTitle:SetFont("Fonts\\FRIZQT__.TTF", 24, "OUTLINE")
+    return selectedClassTitle
+end
+
+local selectedClassTitle = createSelectedClassTitle()
+
 
 -- Function to update class title with class-specific color
 local function updateClassTitle(className, classId)
@@ -181,6 +192,15 @@ local function test(classID)
     end
 end
 
+local function clearSection(frame)
+    -- Iterate over all child frames
+    for _, child in ipairs({ frame:GetChildren() }) do
+        clearSection(child) -- Clear children recursively
+        child:Hide()        -- Hide the child
+        -- child:SetParent(nil) -- Remove from parent
+    end
+end
+
 -- Create clickable class buttons in the navigation bar
 for i, classInfo in ipairs(classNames) do
     local classButton = CreateFrame("Button", nil, navBar, "UIPanelButtonTemplate")
@@ -188,6 +208,10 @@ for i, classInfo in ipairs(classNames) do
     classButton:SetPoint("TOPLEFT", navBar, "TOPLEFT", 5, -8 - (i - 1) * 27)
     classButton:SetText(classInfo.name)
     classButton:SetScript("OnClick", function(self)
+        --clearSection(rightSection)
+        rightSection:Hide()
+        rightSection = createRightSection()
+        selectedClassTitle = createSelectedClassTitle()
         updateClassTitle(classInfo.name, classInfo.id)
         test(classInfo.uid)
     end)
