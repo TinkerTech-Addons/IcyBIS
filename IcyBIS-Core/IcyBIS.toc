@@ -1,12 +1,7 @@
 ## Interface: 110005
 ## Title: |cFF38CBFEIcy|r|cFFFF8F00BIS|r
-<<<<<<< HEAD
-## Version: 1.0.1
-## X-BuildDate: 2024-10-14
-=======
 ## Version: 1.0.4
 ## X-BuildDate: 2024-10-28
->>>>>>> main
 ## Author: Shammooz - Illidian
 ## AddonCompartmentFunc: IcyBIS_OnAddonCompartmentClick
 ## AddonCompartmentFuncOnEnter: IcyBIS_OnAddonCompartmentEnter
