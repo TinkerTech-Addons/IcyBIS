@@ -5,7 +5,6 @@
 
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![GitHub Release][release-shield]][release-url]
 [![CurseForge Downloads][curseforge-downloads-shield]][curseforge-downloads-url]
 [![GitHub Downloads][github-downloads-shield]][github-downloads-url]
@@ -47,9 +46,9 @@ In years past players would have to swap back and forth to see if an item is BIS
 ### In Game BIS Tracked Tooltips
 
 <p align="center">
-  <img src="images/screenshots/TooltipInfo1.PNG" alt="World of Warcraft item tooltip with IcyBIS information stating it is the overall BIS for Enhancement and Restoration Shaman" height="375">
-  <img src="images/screenshots/TooltipInfo2.PNG" alt="World of Warcraft item tooltip with IcyBIS information stating it is the overall and raid BIS for Enhancement and Restoration but ony the raid BIS for Elemental Shaman" height="375">
-  <img src="images/screenshots/TooltipInfo3.PNG" alt="World of Warcraft item tooltip with IcyBIS information stating it is the overall BIS for Elemental and Enhancement as well as the mythic plus BIS for Elemental, Enhancement and restoration Shaman" height="375">
+  <img src="images/screenshots/TooltipInfo1.PNG" alt="WoW item that is overall bis for multiple classes and specs" height="375">
+  <img src="images/screenshots/TooltipInfo2.PNG" alt="WoW item that is over and M+ bis for multiple shaman specs" height="375">
+  <img src="images/screenshots/TooltipInfo3.PNG" alt="WoW that is overall and raid bis for nearly all classes and specs" height="375">
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -82,8 +81,9 @@ Once installed, IcyBIS will automatically load when the player enters the world.
 To configure IcyBIS open the settings and select the specialization and BIS Table you wish to track via clicking the respective checkbox.
 
 <p align="center">
-  <img src="images/screenshots/SettingsFrame1.PNG" alt="Settings frame 1 with Enhancement overall BIS and Restoration overall BIS selected" height="375">
-  <img src="images/screenshots/SettingsFrame2.PNG" alt="Settings frame 2 with all Shaman classes and IcyBIS tables selected" height="375">
+  <img src="images/screenshots/SettingsFrame1.PNG" alt="Settings frame 1 Shaman specs" height="375">
+  <img src="images/screenshots/SettingsFrame2.PNG" alt="Settings frame 2 Warlock" height="375">
+  <img src="images/screenshots/SettingsFrame3.PNG" alt="Settings frame 3 Paladin" height="375">
 <p>
 
 #### How to open IcyBIS settings
