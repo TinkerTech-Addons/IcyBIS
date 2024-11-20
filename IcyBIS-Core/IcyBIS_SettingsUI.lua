@@ -179,9 +179,9 @@ local function generateClassOptions(classID, className)
 
     _, name, _, icon, _, _ = GetSpecializationInfoForClassID(classID, 2)
     local spec2 = createSpecHeader(name, rightSection, "TOPLEFT", 250, -70, icon)
-    local spec2_ocerall = createBISTableCheckbox(icyBISTableNames[1], rightSection, "TOPLEFT", 265, -100,
+    local spec2_overall = createBISTableCheckbox(icyBISTableNames[1], rightSection, "TOPLEFT", 265, -100,
         className .. " Spec 2 Overall BIS")
-    local spec2_raid = createBISTableCheckbox(icyBISTableNames[2], spec2_ocerall, "LEFT", 0, -30,
+    local spec2_raid = createBISTableCheckbox(icyBISTableNames[2], spec2_overall, "LEFT", 0, -30,
         className .. " Spec 2 Raid BIS")
     local spec2_m_plus = createBISTableCheckbox(icyBISTableNames[3], spec2_raid, "LEFT", 0, -30,
         className .. " Spec 2 M+ BIS")
