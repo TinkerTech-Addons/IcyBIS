@@ -266,6 +266,9 @@ settingsFrame:SetScript("OnShow", function()
     -- Find the matching class name from classNames
     for _, classInfo in ipairs(classNames) do
         if classInfo.id == playerClassId then
+            rightSection:Hide()
+            rightSection = createRightSection()
+            selectedClassTitle = createSelectedClassTitle()
             updateClassTitle(classInfo.name, classInfo.id)
             generateClassOptions(classInfo.uid, classInfo.name)
             break
