@@ -18,7 +18,8 @@ ASSASSINATION_ROGUE_OVERALL_BIS = {
 		133282, -- Skardyn's Grace
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Assassination Rogue"
+	messageRight = "Assassination Rogue",
+	classID = "ROGUE"
 }
 
 ASSASSINATION_ROGUE_RAID_BIS = {
@@ -41,7 +42,8 @@ ASSASSINATION_ROGUE_RAID_BIS = {
 		212456, -- Void Reaper's Contract
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Assassination Rogue"
+	messageRight = "Assassination Rogue",
+	classID = "ROGUE"
 }
 
 ASSASSINATION_ROGUE_MYTHIC_PLUS_BIS = {
@@ -64,7 +66,8 @@ ASSASSINATION_ROGUE_MYTHIC_PLUS_BIS = {
 		133282, -- Skardyn's Grace
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Assassination Rogue"
+	messageRight = "Assassination Rogue",
+	classID = "ROGUE"
 }
 
 OUTLAW_ROGUE_OVERALL_BIS = {
@@ -87,7 +90,8 @@ OUTLAW_ROGUE_OVERALL_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Outlaw Rogue"
+	messageRight = "Outlaw Rogue",
+	classID = "ROGUE"
 }
 
 OUTLAW_ROGUE_RAID_BIS = {
@@ -110,7 +114,8 @@ OUTLAW_ROGUE_RAID_BIS = {
 		212454, -- Mad Queen's Mandate
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Outlaw Rogue"
+	messageRight = "Outlaw Rogue",
+	classID = "ROGUE"
 }
 
 OUTLAW_ROGUE_MYTHIC_PLUS_BIS = {
@@ -133,7 +138,8 @@ OUTLAW_ROGUE_MYTHIC_PLUS_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Outlaw Rogue"
+	messageRight = "Outlaw Rogue",
+	classID = "ROGUE"
 }
 
 SUBTLETY_ROGUE_OVERALL_BIS = {
@@ -156,7 +162,8 @@ SUBTLETY_ROGUE_OVERALL_BIS = {
 		221023, -- Treacherous Transmitter
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Subtlety Rogue"
+	messageRight = "Subtlety Rogue",
+	classID = "ROGUE"
 }
 
 SUBTLETY_ROGUE_RAID_BIS = {
@@ -179,7 +186,8 @@ SUBTLETY_ROGUE_RAID_BIS = {
 		212456, -- Void Reaper's Contract
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Subtlety Rogue"
+	messageRight = "Subtlety Rogue",
+	classID = "ROGUE"
 }
 
 SUBTLETY_ROGUE_MYTHIC_PLUS_BIS = {
@@ -202,6 +210,7 @@ SUBTLETY_ROGUE_MYTHIC_PLUS_BIS = {
 		133282, -- Skardyn's Grace
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Subtlety Rogue"
+	messageRight = "Subtlety Rogue",
+	classID = "ROGUE"
 }
 

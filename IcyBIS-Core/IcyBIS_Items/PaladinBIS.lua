@@ -18,7 +18,8 @@ HOLY_PALADIN_OVERALL_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Holy Paladin"
+	messageRight = "Holy Paladin",
+	classID = "PALADIN"
 }
 
 HOLY_PALADIN_RAID_BIS = {
@@ -40,7 +41,8 @@ HOLY_PALADIN_RAID_BIS = {
 		220305, -- Ovi'nax's Mercurial Egg
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Holy Paladin"
+	messageRight = "Holy Paladin",
+	classID = "PALADIN"
 }
 
 HOLY_PALADIN_MYTHIC_PLUS_BIS = {
@@ -63,7 +65,8 @@ HOLY_PALADIN_MYTHIC_PLUS_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Holy Paladin"
+	messageRight = "Holy Paladin",
+	classID = "PALADIN"
 }
 
 PROTECTION_PALADIN_OVERALL_BIS = {
@@ -86,7 +89,8 @@ PROTECTION_PALADIN_OVERALL_BIS = {
 		219300, -- Skarmorak Shard
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Protection Paladin"
+	messageRight = "Protection Paladin",
+	classID = "PALADIN"
 }
 
 PROTECTION_PALADIN_RAID_BIS = {
@@ -109,7 +113,8 @@ PROTECTION_PALADIN_RAID_BIS = {
 		212449, -- Sikran's Endless Arsenal
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Protection Paladin"
+	messageRight = "Protection Paladin",
+	classID = "PALADIN"
 }
 
 PROTECTION_PALADIN_MYTHIC_PLUS_BIS = {
@@ -132,7 +137,8 @@ PROTECTION_PALADIN_MYTHIC_PLUS_BIS = {
 		219300, -- Skarmorak Shard
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Protection Paladin"
+	messageRight = "Protection Paladin",
+	classID = "PALADIN"
 }
 
 RETRIBUTION_PALADIN_OVERALL_BIS = {
@@ -154,7 +160,8 @@ RETRIBUTION_PALADIN_OVERALL_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Retribution Paladin"
+	messageRight = "Retribution Paladin",
+	classID = "PALADIN"
 }
 
 RETRIBUTION_PALADIN_RAID_BIS = {
@@ -176,7 +183,8 @@ RETRIBUTION_PALADIN_RAID_BIS = {
 		212454, -- Mad Queen's Mandate
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Retribution Paladin"
+	messageRight = "Retribution Paladin",
+	classID = "PALADIN"
 }
 
 RETRIBUTION_PALADIN_MYTHIC_PLUS_BIS = {
@@ -198,6 +206,7 @@ RETRIBUTION_PALADIN_MYTHIC_PLUS_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Retribution Paladin"
+	messageRight = "Retribution Paladin",
+	classID = "PALADIN"
 }
 

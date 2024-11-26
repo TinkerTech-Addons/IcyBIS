@@ -2,6 +2,30 @@
 
 Provides release dates and versions when class BIS tables change and/or core features in the addon were added, removed or modified.
 
+## 1.1.0 - 2024-11-25
+
+### Features Added
+
+- Settings UI redesign
+- Ability to select any combination of class and spec BIS tables to track
+- Added corresponding class color to the tooltip
+
+### Class BIS Table Updates
+
+- **Deathknight BIS Tables** updated
+- **Demonhunter BIS Tables** updated
+- **Druid BIS Tables** updated
+- **Evoker BIS Tables** updated
+- **Hunter BIS Tables** updated
+- **Mage BIS Tables** updated
+- **Monk BIS Tables** updated
+- **Paladin BIS Tables** updated
+- **Priest BIS Tables** updated
+- **Rogue BIS Tables** updated
+- **Shaman BIS Tables** updated
+- **Warlock BIS Tables** updated
+- **Warrior BIS Tables** updated
+
 ## 1.0.6 - 2024-11-11
 
 ### Class BIS Table Updates

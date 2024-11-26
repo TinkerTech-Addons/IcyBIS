@@ -17,7 +17,8 @@ ARMS_WARRIOR_OVERALL_BIS = {
 		221023, -- Treacherous Transmitter
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Arms Warrior"
+	messageRight = "Arms Warrior",
+	classID = "WARRIOR"
 }
 
 ARMS_WARRIOR_RAID_BIS = {
@@ -39,7 +40,8 @@ ARMS_WARRIOR_RAID_BIS = {
 		221023, -- Treacherous Transmitter
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Arms Warrior"
+	messageRight = "Arms Warrior",
+	classID = "WARRIOR"
 }
 
 ARMS_WARRIOR_MYTHIC_PLUS_BIS = {
@@ -61,7 +63,8 @@ ARMS_WARRIOR_MYTHIC_PLUS_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Arms Warrior"
+	messageRight = "Arms Warrior",
+	classID = "WARRIOR"
 }
 
 FURY_WARRIOR_OVERALL_BIS = {
@@ -84,7 +87,8 @@ FURY_WARRIOR_OVERALL_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Fury Warrior"
+	messageRight = "Fury Warrior",
+	classID = "WARRIOR"
 }
 
 FURY_WARRIOR_RAID_BIS = {
@@ -107,7 +111,8 @@ FURY_WARRIOR_RAID_BIS = {
 		221023, -- Treacherous Transmitter
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Fury Warrior"
+	messageRight = "Fury Warrior",
+	classID = "WARRIOR"
 }
 
 FURY_WARRIOR_MYTHIC_PLUS_BIS = {
@@ -130,7 +135,8 @@ FURY_WARRIOR_MYTHIC_PLUS_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Fury Warrior"
+	messageRight = "Fury Warrior",
+	classID = "WARRIOR"
 }
 
 PROTECTION_WARRIOR_OVERALL_BIS = {
@@ -153,7 +159,8 @@ PROTECTION_WARRIOR_OVERALL_BIS = {
 		225579, -- Crest of the Caustic Despot
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Protection Warrior"
+	messageRight = "Protection Warrior",
+	classID = "WARRIOR"
 }
 
 PROTECTION_WARRIOR_RAID_BIS = {
@@ -177,7 +184,8 @@ PROTECTION_WARRIOR_RAID_BIS = {
 		225579, -- Crest of the Caustic Despot
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Protection Warrior"
+	messageRight = "Protection Warrior",
+	classID = "WARRIOR"
 }
 
 PROTECTION_WARRIOR_MYTHIC_PLUS_BIS = {
@@ -200,6 +208,7 @@ PROTECTION_WARRIOR_MYTHIC_PLUS_BIS = {
 		178712, -- Acidslough Bulwark
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Protection Warrior"
+	messageRight = "Protection Warrior",
+	classID = "WARRIOR"
 }
 

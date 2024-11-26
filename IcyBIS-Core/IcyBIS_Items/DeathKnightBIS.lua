@@ -17,7 +17,8 @@ BLOOD_DEATH_KNIGHT_OVERALL_BIS = {
 		178751, -- Spare Meat Hook
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Blood Death Knight"
+	messageRight = "Blood Death Knight",
+	classID = "DEATHKNIGHT"
 }
 
 BLOOD_DEATH_KNIGHT_RAID_BIS = {
@@ -39,7 +40,8 @@ BLOOD_DEATH_KNIGHT_RAID_BIS = {
 		212449, -- Sikran's Endless Arsenal
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Blood Death Knight"
+	messageRight = "Blood Death Knight",
+	classID = "DEATHKNIGHT"
 }
 
 BLOOD_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
@@ -61,7 +63,8 @@ BLOOD_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 		178751, -- Spare Meat Hook
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Blood Death Knight"
+	messageRight = "Blood Death Knight",
+	classID = "DEATHKNIGHT"
 }
 
 FROST_DEATH_KNIGHT_OVERALL_BIS = {
@@ -85,7 +88,8 @@ FROST_DEATH_KNIGHT_OVERALL_BIS = {
 		222447, -- Charged Claymore
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Frost Death Knight"
+	messageRight = "Frost Death Knight",
+	classID = "DEATHKNIGHT"
 }
 
 FROST_DEATH_KNIGHT_RAID_BIS = {
@@ -109,7 +113,8 @@ FROST_DEATH_KNIGHT_RAID_BIS = {
 		212407, -- Anub'arash's Colossal Mandible
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Frost Death Knight"
+	messageRight = "Frost Death Knight",
+	classID = "DEATHKNIGHT"
 }
 
 FROST_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
@@ -133,7 +138,8 @@ FROST_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 		221184, -- Surgical Heartstopper
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Frost Death Knight"
+	messageRight = "Frost Death Knight",
+	classID = "DEATHKNIGHT"
 }
 
 UNHOLY_DEATH_KNIGHT_OVERALL_BIS = {
@@ -155,7 +161,8 @@ UNHOLY_DEATH_KNIGHT_OVERALL_BIS = {
 		222447, -- Charged Claymore
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Unholy Death Knight"
+	messageRight = "Unholy Death Knight",
+	classID = "DEATHKNIGHT"
 }
 
 UNHOLY_DEATH_KNIGHT_RAID_BIS = {
@@ -177,7 +184,8 @@ UNHOLY_DEATH_KNIGHT_RAID_BIS = {
 		212407, -- Anub'arash's Colossal Mandible
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Unholy Death Knight"
+	messageRight = "Unholy Death Knight",
+	classID = "DEATHKNIGHT"
 }
 
 UNHOLY_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
@@ -199,6 +207,7 @@ UNHOLY_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 		133298, -- Wild Hammer
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Unholy Death Knight"
+	messageRight = "Unholy Death Knight",
+	classID = "DEATHKNIGHT"
 }
 

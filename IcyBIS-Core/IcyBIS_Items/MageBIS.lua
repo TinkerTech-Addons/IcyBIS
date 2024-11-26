@@ -18,7 +18,8 @@ ARCANE_MAGE_OVERALL_BIS = {
 		220202, -- Spymaster's Web
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Arcane Mage"
+	messageRight = "Arcane Mage",
+	classID = "MAGE"
 }
 
 ARCANE_MAGE_RAID_BIS = {
@@ -40,7 +41,8 @@ ARCANE_MAGE_RAID_BIS = {
 		220202, -- Spymaster's Web
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Arcane Mage"
+	messageRight = "Arcane Mage",
+	classID = "MAGE"
 }
 
 ARCANE_MAGE_MYTHIC_PLUS_BIS = {
@@ -62,7 +64,8 @@ ARCANE_MAGE_MYTHIC_PLUS_BIS = {
 		219313, -- Mereldar's Toll
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Arcane Mage"
+	messageRight = "Arcane Mage",
+	classID = "MAGE"
 }
 
 FIRE_MAGE_OVERALL_BIS = {
@@ -85,7 +88,8 @@ FIRE_MAGE_OVERALL_BIS = {
 		220202, -- Spymaster's Web
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Fire Mage"
+	messageRight = "Fire Mage",
+	classID = "MAGE"
 }
 
 FIRE_MAGE_RAID_BIS = {
@@ -107,7 +111,8 @@ FIRE_MAGE_RAID_BIS = {
 		220202, -- Spymaster's Web
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Fire Mage"
+	messageRight = "Fire Mage",
+	classID = "MAGE"
 }
 
 FIRE_MAGE_MYTHIC_PLUS_BIS = {
@@ -129,7 +134,8 @@ FIRE_MAGE_MYTHIC_PLUS_BIS = {
 		219308, -- Signet of the Priory
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Fire Mage"
+	messageRight = "Fire Mage",
+	classID = "MAGE"
 }
 
 FROST_MAGE_OVERALL_BIS = {
@@ -152,7 +158,8 @@ FROST_MAGE_OVERALL_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Frost Mage"
+	messageRight = "Frost Mage",
+	classID = "MAGE"
 }
 
 FROST_MAGE_RAID_BIS = {
@@ -175,7 +182,8 @@ FROST_MAGE_RAID_BIS = {
 		220305, -- Ovi'nax's Mercurial Egg
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Frost Mage"
+	messageRight = "Frost Mage",
+	classID = "MAGE"
 }
 
 FROST_MAGE_MYTHIC_PLUS_BIS = {
@@ -198,6 +206,7 @@ FROST_MAGE_MYTHIC_PLUS_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Frost Mage"
+	messageRight = "Frost Mage",
+	classID = "MAGE"
 }
 

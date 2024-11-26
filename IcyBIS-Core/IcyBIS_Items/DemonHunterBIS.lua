@@ -21,7 +21,8 @@ HAVOC_DEMON_HUNTER_OVERALL_BIS = {
 		221023, -- Treacherous Transmitter
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Havoc Demon Hunter"
+	messageRight = "Havoc Demon Hunter",
+	classID = "DEMONHUNTER"
 }
 
 HAVOC_DEMON_HUNTER_RAID_BIS = {
@@ -45,7 +46,8 @@ HAVOC_DEMON_HUNTER_RAID_BIS = {
 		220305, -- Ovi'nax's Mercurial Egg
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Havoc Demon Hunter"
+	messageRight = "Havoc Demon Hunter",
+	classID = "DEMONHUNTER"
 }
 
 HAVOC_DEMON_HUNTER_MYTHIC_PLUS_BIS = {
@@ -69,7 +71,8 @@ HAVOC_DEMON_HUNTER_MYTHIC_PLUS_BIS = {
 		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Havoc Demon Hunter"
+	messageRight = "Havoc Demon Hunter",
+	classID = "DEMONHUNTER"
 }
 
 VENGEANCE_DEMON_HUNTER_OVERALL_BIS = {
@@ -92,7 +95,8 @@ VENGEANCE_DEMON_HUNTER_OVERALL_BIS = {
 		178742, -- Bottled Flayedwing Toxin
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Vengeance Demon Hunter"
+	messageRight = "Vengeance Demon Hunter",
+	classID = "DEMONHUNTER"
 }
 
 VENGEANCE_DEMON_HUNTER_RAID_BIS = {
@@ -115,7 +119,8 @@ VENGEANCE_DEMON_HUNTER_RAID_BIS = {
 		220305, -- Ovi'nax's Mercurial Egg
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Vengeance Demon Hunter"
+	messageRight = "Vengeance Demon Hunter",
+	classID = "DEMONHUNTER"
 }
 
 VENGEANCE_DEMON_HUNTER_MYTHIC_PLUS_BIS = {
@@ -138,6 +143,7 @@ VENGEANCE_DEMON_HUNTER_MYTHIC_PLUS_BIS = {
 		178742, -- Bottled Flayedwing Toxin
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Vengeance Demon Hunter"
+	messageRight = "Vengeance Demon Hunter",
+	classID = "DEMONHUNTER"
 }
 

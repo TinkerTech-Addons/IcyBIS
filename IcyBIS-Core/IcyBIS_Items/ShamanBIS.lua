@@ -25,7 +25,8 @@ ELEMENTAL_SHAMAN_OVERALL_BIS = {
 		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Elemental Shaman"
+	messageRight = "Elemental Shaman",
+	classID = "SHAMAN"
 }
 
 ELEMENTAL_SHAMAN_RAID_BIS = {
@@ -52,7 +53,8 @@ ELEMENTAL_SHAMAN_RAID_BIS = {
 		221023, -- Treacherous Transmitter
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Elemental Shaman"
+	messageRight = "Elemental Shaman",
+	classID = "SHAMAN"
 }
 
 ELEMENTAL_SHAMAN_MYTHIC_PLUS_BIS = {
@@ -82,7 +84,8 @@ ELEMENTAL_SHAMAN_MYTHIC_PLUS_BIS = {
 		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Elemental Shaman"
+	messageRight = "Elemental Shaman",
+	classID = "SHAMAN"
 }
 
 ENHANCEMENT_SHAMAN_OVERALL_BIS = {
@@ -108,7 +111,8 @@ ENHANCEMENT_SHAMAN_OVERALL_BIS = {
 		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Enhancement Shaman"
+	messageRight = "Enhancement Shaman",
+	classID = "SHAMAN"
 }
 
 ENHANCEMENT_SHAMAN_RAID_BIS = {
@@ -132,7 +136,8 @@ ENHANCEMENT_SHAMAN_RAID_BIS = {
 		212456, -- Void Reaper's Contract
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Enhancement Shaman"
+	messageRight = "Enhancement Shaman",
+	classID = "SHAMAN"
 }
 
 ENHANCEMENT_SHAMAN_MYTHIC_PLUS_BIS = {
@@ -156,7 +161,8 @@ ENHANCEMENT_SHAMAN_MYTHIC_PLUS_BIS = {
 		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Enhancement Shaman"
+	messageRight = "Enhancement Shaman",
+	classID = "SHAMAN"
 }
 
 RESTORATION_SHAMAN_OVERALL_BIS = {
@@ -179,7 +185,8 @@ RESTORATION_SHAMAN_OVERALL_BIS = {
 		178708, -- Unbound Changeling
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Restoration Shaman"
+	messageRight = "Restoration Shaman",
+	classID = "SHAMAN"
 }
 
 RESTORATION_SHAMAN_RAID_BIS = {
@@ -202,7 +209,8 @@ RESTORATION_SHAMAN_RAID_BIS = {
 		220305, -- Ovi'nax's Mercurial Egg
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Restoration Shaman"
+	messageRight = "Restoration Shaman",
+	classID = "SHAMAN"
 }
 
 RESTORATION_SHAMAN_MYTHIC_PLUS_BIS = {
@@ -225,6 +233,7 @@ RESTORATION_SHAMAN_MYTHIC_PLUS_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Restoration Shaman"
+	messageRight = "Restoration Shaman",
+	classID = "SHAMAN"
 }
 

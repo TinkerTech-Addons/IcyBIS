@@ -19,7 +19,8 @@ BEAST_MASTERY_HUNTER_OVERALL_BIS = {
 		212454, -- Mad Queen's Mandate
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Beast Mastery Hunter"
+	messageRight = "Beast Mastery Hunter",
+	classID = "HUNTER"
 }
 
 BEAST_MASTERY_HUNTER_RAID_BIS = {
@@ -41,7 +42,8 @@ BEAST_MASTERY_HUNTER_RAID_BIS = {
 		212454, -- Mad Queen's Mandate
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Beast Mastery Hunter"
+	messageRight = "Beast Mastery Hunter",
+	classID = "HUNTER"
 }
 
 BEAST_MASTERY_HUNTER_MYTHIC_PLUS_BIS = {
@@ -64,7 +66,8 @@ BEAST_MASTERY_HUNTER_MYTHIC_PLUS_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Beast Mastery Hunter"
+	messageRight = "Beast Mastery Hunter",
+	classID = "HUNTER"
 }
 
 MARKSMANSHIP_HUNTER_OVERALL_BIS = {
@@ -88,7 +91,8 @@ MARKSMANSHIP_HUNTER_OVERALL_BIS = {
 		220305, -- Ovi'nax's Mercurial Egg
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Marksmanship Hunter"
+	messageRight = "Marksmanship Hunter",
+	classID = "HUNTER"
 }
 
 MARKSMANSHIP_HUNTER_RAID_BIS = {
@@ -111,7 +115,8 @@ MARKSMANSHIP_HUNTER_RAID_BIS = {
 		220305, -- Ovi'nax's Mercurial Egg
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Marksmanship Hunter"
+	messageRight = "Marksmanship Hunter",
+	classID = "HUNTER"
 }
 
 MARKSMANSHIP_HUNTER_MYTHIC_PLUS_BIS = {
@@ -134,7 +139,8 @@ MARKSMANSHIP_HUNTER_MYTHIC_PLUS_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Marksmanship Hunter"
+	messageRight = "Marksmanship Hunter",
+	classID = "HUNTER"
 }
 
 SURVIVAL_HUNTER_OVERALL_BIS = {
@@ -163,7 +169,8 @@ SURVIVAL_HUNTER_OVERALL_BIS = {
 		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Survival Hunter"
+	messageRight = "Survival Hunter",
+	classID = "HUNTER"
 }
 
 SURVIVAL_HUNTER_RAID_BIS = {
@@ -185,7 +192,8 @@ SURVIVAL_HUNTER_RAID_BIS = {
 		220305, -- Ovi'nax's Mercurial Egg
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Survival Hunter"
+	messageRight = "Survival Hunter",
+	classID = "HUNTER"
 }
 
 SURVIVAL_HUNTER_MYTHIC_PLUS_BIS = {
@@ -207,6 +215,7 @@ SURVIVAL_HUNTER_MYTHIC_PLUS_BIS = {
 		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Survival Hunter"
+	messageRight = "Survival Hunter",
+	classID = "HUNTER"
 }
 

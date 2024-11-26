@@ -18,7 +18,8 @@ BALANCE_DRUID_OVERALL_BIS = {
 		220202, -- Spymaster's Web
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Balance Druid"
+	messageRight = "Balance Druid",
+	classID = "DRUID"
 }
 
 BALANCE_DRUID_RAID_BIS = {
@@ -41,7 +42,8 @@ BALANCE_DRUID_RAID_BIS = {
 		220202, -- Spymaster's Web
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Balance Druid"
+	messageRight = "Balance Druid",
+	classID = "DRUID"
 }
 
 BALANCE_DRUID_MYTHIC_PLUS_BIS = {
@@ -64,7 +66,8 @@ BALANCE_DRUID_MYTHIC_PLUS_BIS = {
 		133304, -- Gale of Shadows
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Balance Druid"
+	messageRight = "Balance Druid",
+	classID = "DRUID"
 }
 
 FERAL_DRUID_OVERALL_BIS = {
@@ -88,7 +91,8 @@ FERAL_DRUID_OVERALL_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Feral Druid"
+	messageRight = "Feral Druid",
+	classID = "DRUID"
 }
 
 FERAL_DRUID_RAID_BIS = {
@@ -112,7 +116,8 @@ FERAL_DRUID_RAID_BIS = {
 		220305, -- Ovi'nax's Mercurial Egg
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Feral Druid"
+	messageRight = "Feral Druid",
+	classID = "DRUID"
 }
 
 FERAL_DRUID_MYTHIC_PLUS_BIS = {
@@ -136,7 +141,8 @@ FERAL_DRUID_MYTHIC_PLUS_BIS = {
 		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Feral Druid"
+	messageRight = "Feral Druid",
+	classID = "DRUID"
 }
 
 GUARDIAN_DRUID_OVERALL_BIS = {
@@ -158,7 +164,8 @@ GUARDIAN_DRUID_OVERALL_BIS = {
 		212454, -- Mad Queen's Mandate
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Guardian Druid"
+	messageRight = "Guardian Druid",
+	classID = "DRUID"
 }
 
 GUARDIAN_DRUID_RAID_BIS = {
@@ -180,7 +187,8 @@ GUARDIAN_DRUID_RAID_BIS = {
 		212454, -- Mad Queen's Mandate
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Guardian Druid"
+	messageRight = "Guardian Druid",
+	classID = "DRUID"
 }
 
 GUARDIAN_DRUID_MYTHIC_PLUS_BIS = {
@@ -202,7 +210,8 @@ GUARDIAN_DRUID_MYTHIC_PLUS_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Guardian Druid"
+	messageRight = "Guardian Druid",
+	classID = "DRUID"
 }
 
 RESTORATION_DRUID_OVERALL_BIS = {
@@ -225,7 +234,8 @@ RESTORATION_DRUID_OVERALL_BIS = {
 		133304, -- Gale of Shadows
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Restoration Druid"
+	messageRight = "Restoration Druid",
+	classID = "DRUID"
 }
 
 RESTORATION_DRUID_RAID_BIS = {
@@ -247,7 +257,8 @@ RESTORATION_DRUID_RAID_BIS = {
 		220305, -- Ovi'nax's Mercurial Egg
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Restoration Druid"
+	messageRight = "Restoration Druid",
+	classID = "DRUID"
 }
 
 RESTORATION_DRUID_MYTHIC_PLUS_BIS = {
@@ -269,5 +280,7 @@ RESTORATION_DRUID_MYTHIC_PLUS_BIS = {
 		133304, -- Gale of Shadows
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Restoration Druid"
+	messageRight = "Restoration Druid",
+	classID = "DRUID"
 }
+

@@ -18,7 +18,8 @@ DISCIPLINE_PRIEST_OVERALL_BIS = {
 		133304, -- Gale of Shadows
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Dicipline Priest"
+	messageRight = "Dicipline Priest",
+	classID = "PRIEST"
 }
 
 DISCIPLINE_PRIEST_RAID_BIS = {
@@ -41,7 +42,8 @@ DISCIPLINE_PRIEST_RAID_BIS = {
 		220305, -- Ovi'nax's Mercurial Egg
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Dicipline Priest"
+	messageRight = "Dicipline Priest",
+	classID = "PRIEST"
 }
 
 DISCIPLINE_PRIEST_MYTHIC_PLUS_BIS = {
@@ -64,7 +66,8 @@ DISCIPLINE_PRIEST_MYTHIC_PLUS_BIS = {
 		133304, -- Gale of Shadows
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Dicipline Priest"
+	messageRight = "Dicipline Priest",
+	classID = "PRIEST"
 }
 
 HOLY_PRIEST_OVERALL_BIS = {
@@ -84,10 +87,11 @@ HOLY_PRIEST_OVERALL_BIS = {
 		225578, -- Seal of the Poisoned Pact
 		162541, -- Band of the Roving Scalawag
 		178708, -- Unbound Changeling
-		219312, -- Empowering Crystal of Anub'ikkaj
+		219917, -- Creeping Coagulum
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Holy Priest"
+	messageRight = "Holy Priest",
+	classID = "PRIEST"
 }
 
 HOLY_PRIEST_RAID_BIS = {
@@ -110,7 +114,8 @@ HOLY_PRIEST_RAID_BIS = {
 		220305, -- Ovi'nax's Mercurial Egg
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Holy Priest"
+	messageRight = "Holy Priest",
+	classID = "PRIEST"
 }
 
 HOLY_PRIEST_MYTHIC_PLUS_BIS = {
@@ -133,7 +138,8 @@ HOLY_PRIEST_MYTHIC_PLUS_BIS = {
 		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Holy Priest"
+	messageRight = "Holy Priest",
+	classID = "PRIEST"
 }
 
 SHADOW_PRIEST_OVERALL_BIS = {
@@ -155,7 +161,8 @@ SHADOW_PRIEST_OVERALL_BIS = {
 		220202, -- Spymaster's Web
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Shadow Priest"
+	messageRight = "Shadow Priest",
+	classID = "PRIEST"
 }
 
 SHADOW_PRIEST_RAID_BIS = {
@@ -176,7 +183,8 @@ SHADOW_PRIEST_RAID_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Shadow Priest"
+	messageRight = "Shadow Priest",
+	classID = "PRIEST"
 }
 
 SHADOW_PRIEST_MYTHIC_PLUS_BIS = {
@@ -197,6 +205,7 @@ SHADOW_PRIEST_MYTHIC_PLUS_BIS = {
 		220202, -- Spymaster's Web
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Shadow Priest"
+	messageRight = "Shadow Priest",
+	classID = "PRIEST"
 }
 

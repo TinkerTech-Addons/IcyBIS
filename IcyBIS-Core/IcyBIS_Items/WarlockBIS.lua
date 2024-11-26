@@ -18,7 +18,8 @@ AFFLICTION_WARLOCK_OVERALL_BIS = {
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Affliction Warlock"
+	messageRight = "Affliction Warlock",
+	classID = "WARLOCK"
 }
 
 AFFLICTION_WARLOCK_RAID_BIS = {
@@ -41,7 +42,8 @@ AFFLICTION_WARLOCK_RAID_BIS = {
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Affliction Warlock"
+	messageRight = "Affliction Warlock",
+	classID = "WARLOCK"
 }
 
 AFFLICTION_WARLOCK_MYTHIC_PLUS_BIS = {
@@ -64,7 +66,8 @@ AFFLICTION_WARLOCK_MYTHIC_PLUS_BIS = {
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Affliction Warlock"
+	messageRight = "Affliction Warlock",
+	classID = "WARLOCK"
 }
 
 DEMONOLOGY_WARLOCK_OVERALL_BIS = {
@@ -87,7 +90,8 @@ DEMONOLOGY_WARLOCK_OVERALL_BIS = {
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Demonology Warlock"
+	messageRight = "Demonology Warlock",
+	classID = "WARLOCK"
 }
 
 DEMONOLOGY_WARLOCK_RAID_BIS = {
@@ -110,7 +114,8 @@ DEMONOLOGY_WARLOCK_RAID_BIS = {
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Demonology Warlock"
+	messageRight = "Demonology Warlock",
+	classID = "WARLOCK"
 }
 
 DEMONOLOGY_WARLOCK_MYTHIC_PLUS_BIS = {
@@ -133,7 +138,8 @@ DEMONOLOGY_WARLOCK_MYTHIC_PLUS_BIS = {
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Demonology Warlock"
+	messageRight = "Demonology Warlock",
+	classID = "WARLOCK"
 }
 
 DESTRUCTION_WARLOCK_OVERALL_BIS = {
@@ -156,7 +162,8 @@ DESTRUCTION_WARLOCK_OVERALL_BIS = {
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Destruction Warlock"
+	messageRight = "Destruction Warlock",
+	classID = "WARLOCK"
 }
 
 DESTRUCTION_WARLOCK_RAID_BIS = {
@@ -179,7 +186,8 @@ DESTRUCTION_WARLOCK_RAID_BIS = {
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Destruction Warlock"
+	messageRight = "Destruction Warlock",
+	classID = "WARLOCK"
 }
 
 DESTRUCTION_WARLOCK_MYTHIC_PLUS_BIS = {
@@ -202,6 +210,7 @@ DESTRUCTION_WARLOCK_MYTHIC_PLUS_BIS = {
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Destruction Warlock"
+	messageRight = "Destruction Warlock",
+	classID = "WARLOCK"
 }
 

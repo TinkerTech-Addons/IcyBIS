@@ -32,7 +32,8 @@ AUGMENTATION_EVOKER_OVERALL_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Augmentation Evoker"
+	messageRight = "Augmentation Evoker",
+	classID = "EVOKER"
 }
 
 AUGMENTATION_EVOKER_RAID_BIS = {
@@ -69,7 +70,8 @@ AUGMENTATION_EVOKER_RAID_BIS = {
 		212454, -- Mad Queen's Mandate
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Augmentation Evoker"
+	messageRight = "Augmentation Evoker",
+	classID = "EVOKER"
 }
 
 AUGMENTATION_EVOKER_MYTHIC_PLUS_BIS = {
@@ -106,7 +108,8 @@ AUGMENTATION_EVOKER_MYTHIC_PLUS_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Augmentation Evoker"
+	messageRight = "Augmentation Evoker",
+	classID = "EVOKER"
 }
 
 DEVASTATION_EVOKER_OVERALL_BIS = {
@@ -128,7 +131,8 @@ DEVASTATION_EVOKER_OVERALL_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Devastation Evoker"
+	messageRight = "Devastation Evoker",
+	classID = "EVOKER"
 }
 
 DEVASTATION_EVOKER_RAID_BIS = {
@@ -151,7 +155,8 @@ DEVASTATION_EVOKER_RAID_BIS = {
 		212454, -- Mad Queen's Mandate
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Devastation Evoker"
+	messageRight = "Devastation Evoker",
+	classID = "EVOKER"
 }
 
 DEVASTATION_EVOKER_MYTHIC_PLUS_BIS = {
@@ -173,7 +178,8 @@ DEVASTATION_EVOKER_MYTHIC_PLUS_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Devastation Evoker"
+	messageRight = "Devastation Evoker",
+	classID = "EVOKER"
 }
 
 PRESERVATION_EVOKER_OVERALL_BIS = {
@@ -195,7 +201,8 @@ PRESERVATION_EVOKER_OVERALL_BIS = {
 		178708, -- Unbound Changeling
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Preservation Evoker"
+	messageRight = "Preservation Evoker",
+	classID = "EVOKER"
 }
 
 PRESERVATION_EVOKER_RAID_BIS = {
@@ -217,7 +224,8 @@ PRESERVATION_EVOKER_RAID_BIS = {
 		178708, -- Unbound Changeling
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Preservation Evoker"
+	messageRight = "Preservation Evoker",
+	classID = "EVOKER"
 }
 
 PRESERVATION_EVOKER_MYTHIC_PLUS_BIS = {
@@ -239,6 +247,7 @@ PRESERVATION_EVOKER_MYTHIC_PLUS_BIS = {
 		178708, -- Unbound Changeling
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Preservation Evoker"
+	messageRight = "Preservation Evoker",
+	classID = "EVOKER"
 }
 

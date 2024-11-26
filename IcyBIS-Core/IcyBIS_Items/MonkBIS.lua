@@ -17,7 +17,8 @@ BREWMASTER_MONK_OVERALL_BIS = {
 		212454, -- Mad Queen's Mandate
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Brewmaster Monk"
+	messageRight = "Brewmaster Monk",
+	classID = "MONK"
 }
 
 BREWMASTER_MONK_RAID_BIS = {
@@ -39,7 +40,8 @@ BREWMASTER_MONK_RAID_BIS = {
 		212449, -- Sikran's Endless Arsenal
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Brewmaster Monk"
+	messageRight = "Brewmaster Monk",
+	classID = "MONK"
 }
 
 BREWMASTER_MONK_MYTHIC_PLUS_BIS = {
@@ -61,7 +63,8 @@ BREWMASTER_MONK_MYTHIC_PLUS_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Brewmaster Monk"
+	messageRight = "Brewmaster Monk",
+	classID = "MONK"
 }
 
 MISTWEAVER_MONK_OVERALL_BIS = {
@@ -83,7 +86,8 @@ MISTWEAVER_MONK_OVERALL_BIS = {
 		178708, -- Unbound Changeling
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Mistweaver Monk"
+	messageRight = "Mistweaver Monk",
+	classID = "MONK"
 }
 
 MISTWEAVER_MONK_RAID_BIS = {
@@ -105,7 +109,8 @@ MISTWEAVER_MONK_RAID_BIS = {
 		178708, -- Unbound Changeling
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Mistweaver Monk"
+	messageRight = "Mistweaver Monk",
+	classID = "MONK"
 }
 
 MISTWEAVER_MONK_MYTHIC_PLUS_BIS = {
@@ -128,7 +133,8 @@ MISTWEAVER_MONK_MYTHIC_PLUS_BIS = {
 		221023, -- Treacherous Transmitter
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Mistweaver Monk"
+	messageRight = "Mistweaver Monk",
+	classID = "MONK"
 }
 
 WINDWALKER_MONK_OVERALL_BIS = {
@@ -152,7 +158,8 @@ WINDWALKER_MONK_OVERALL_BIS = {
 		212456, -- Void Reaper's Contract
 	},
 	messageLeft = "Overall BIS:",
-	messageRight = "Windwalker Monk"
+	messageRight = "Windwalker Monk",
+	classID = "MONK"
 }
 
 WINDWALKER_MONK_RAID_BIS = {
@@ -176,7 +183,8 @@ WINDWALKER_MONK_RAID_BIS = {
 		212456, -- Void Reaper's Contract
 	},
 	messageLeft = "Raid BIS:",
-	messageRight = "Windwalker Monk"
+	messageRight = "Windwalker Monk",
+	classID = "MONK"
 }
 
 WINDWALKER_MONK_MYTHIC_PLUS_BIS = {
@@ -200,6 +208,7 @@ WINDWALKER_MONK_MYTHIC_PLUS_BIS = {
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
-	messageRight = "Windwalker Monk"
+	messageRight = "Windwalker Monk",
+	classID = "MONK"
 }
 
