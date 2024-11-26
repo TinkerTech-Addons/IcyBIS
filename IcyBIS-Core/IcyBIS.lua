@@ -32,6 +32,14 @@ SLASH_ICYBIS1 = "/icybis"
 SlashCmdList["ICYBIS"] = SlashCommandHandler
 -- #endregion
 
+--#region Local function for important messages
+local function ImportantMessage(message)
+    C_Timer.After(20, function()
+        print("|cFF38CBFEIcy|r|cFFFF8F00BIS|r Notification")
+        print("|cFFFF0000IMPORTANT:|r " .. message)
+    end)
+end
+
 --#region Addon event handler
 local function OnAddonLoaded(self, event)
     if event == "PLAYER_ENTERING_WORLD" then
@@ -47,12 +55,19 @@ local function OnAddonLoaded(self, event)
 
         self:UnregisterEvent("ADDON_LOADED")
     end
+
+    if event == "PLAYER_LOGIN" then
+        ImportantMessage(
+            "|cFF38CBFEIcy|r|cFFFF8F00BIS|r table settings have been reset. You will need to re-select all class and specs to track."
+        )
+    end
 end
 -- #endregion
 
 -- #region Event driver
 local frame = CreateFrame("Frame", "IcyBIS")
 frame:RegisterEvent("ADDON_LOADED")
+frame:RegisterEvent("PLAYER_LOGIN")
 frame:RegisterEvent("PLAYER_ENTERING_WORLD")
 frame:SetScript("OnEvent", OnAddonLoaded)
 -- #endregion

@@ -13,7 +13,7 @@ ignore:
   - README.md
 
 manual-changelog:
-  filename: CHANGELOG.md
+  filename: .release-notes.md
   markup-type: markdown
 
 move-folders:

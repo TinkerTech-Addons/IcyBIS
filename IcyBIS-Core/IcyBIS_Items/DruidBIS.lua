@@ -271,4 +271,3 @@ RESTORATION_DRUID_MYTHIC_PLUS_BIS = {
 	messageLeft = "M+ BIS:",
 	messageRight = "Restoration Druid"
 }
-
