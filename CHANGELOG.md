@@ -2,6 +2,12 @@
 
 Provides release dates and versions when class BIS tables change and/or core features in the addon were added, removed or modified.
 
+## 1.1.1 - 2024-12-04
+
+### Features Changed
+
+- Removed important login message added from last update so the addon does not continue to spam after settings were updated.
+
 ## 1.1.0 - 2024-11-25
 
 ### Features Added

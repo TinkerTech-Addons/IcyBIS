@@ -56,11 +56,11 @@ local function OnAddonLoaded(self, event)
         self:UnregisterEvent("ADDON_LOADED")
     end
 
-    if event == "PLAYER_LOGIN" then
-        ImportantMessage(
-            "|cFF38CBFEIcy|r|cFFFF8F00BIS|r table settings have been reset. You will need to re-select all class and specs to track."
-        )
-    end
+    -- if event == "PLAYER_LOGIN" then
+    --     ImportantMessage(
+    --         "|cFF38CBFEIcy|r|cFFFF8F00BIS|r table settings have been reset. You will need to re-select all class and specs to track."
+    --     )
+    -- end
 end
 -- #endregion
 
