@@ -10,12 +10,12 @@ AUGMENTATION_EVOKER_OVERALL_BIS = {
 		212030, -- Rippers of the Destroyer
 		219339, -- Glyph-Etched Binding
 		212028, -- Legguards of the Destroyer
-		159379, -- Sure-Foot Sabatons
+		219335, -- Glyph-Etched Stompers
 		225578, -- Seal of the Poisoned Pact
-		215133, -- Binding of Binding
+		225578, -- Seal of the Poisoned Pact
 		220202, -- Spymaster's Web
 		219314, -- Ara-Kara Sacbrood
-		133303, -- Staff of Siphoned Essences
+		133288, -- Wand of Untainted Power
 		221156, -- Cryptbound Headpiece
 		225577, -- Sureki Zealot's Insignia
 		212027, -- Fumaroles of the Destroyer
@@ -25,9 +25,9 @@ AUGMENTATION_EVOKER_OVERALL_BIS = {
 		212030, -- Rippers of the Destroyer
 		221168, -- Cinch of Lingering Influence
 		212028, -- Legguards of the Destroyer
-		159379, -- Sure-Foot Sabatons
+		219335, -- Glyph-Etched Stompers
+		228411, -- Cyrce's Circlet
 		225578, -- Seal of the Poisoned Pact
-		215133, -- Binding of Binding
 		220202, -- Spymaster's Web
 		219314, -- Ara-Kara Sacbrood
 	},

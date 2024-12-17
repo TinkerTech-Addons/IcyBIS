@@ -14,7 +14,8 @@ HAVOC_DEMON_HUNTER_OVERALL_BIS = {
 		212064, -- Pantaloons of the Hypogeal Nemesis
 		221169, -- Whisperer's Echoing Steps
 		225578, -- Seal of the Poisoned Pact
-		162541, -- Band of the Roving Scalawag
+		133286, -- Umbriss Band
+		228411, -- Cyrce's Circlet
 		212454, -- Mad Queen's Mandate
 		133282, -- Skardyn's Grace
 		219314, -- Ara-Kara Sacbrood
@@ -65,7 +66,7 @@ HAVOC_DEMON_HUNTER_MYTHIC_PLUS_BIS = {
 		221153, -- Gauzewoven Legguards
 		221169, -- Whisperer's Echoing Steps
 		162541, -- Band of the Roving Scalawag
-		221136, -- Devout Zealot's Ring
+		133286, -- Umbriss Band
 		133282, -- Skardyn's Grace
 		219314, -- Ara-Kara Sacbrood
 		219312, -- Empowering Crystal of Anub'ikkaj

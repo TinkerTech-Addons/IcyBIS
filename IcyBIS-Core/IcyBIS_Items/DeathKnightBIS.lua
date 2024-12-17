@@ -12,7 +12,7 @@ BLOOD_DEATH_KNIGHT_OVERALL_BIS = {
 		212001, -- Exhumed Centurion's Chausses
 		212443, -- Shattershell Greaves
 		225578, -- Seal of the Poisoned Pact
-		178781, -- Ritual Commander's Ring
+		228411, -- Cyrce's Circlet
 		219314, -- Ara-Kara Sacbrood
 		178751, -- Spare Meat Hook
 	},

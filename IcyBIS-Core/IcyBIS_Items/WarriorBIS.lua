@@ -151,7 +151,7 @@ PROTECTION_WARRIOR_OVERALL_BIS = {
 		222431, -- Everforged Greatbelt
 		211983, -- Warsculptor's Cuisses
 		211986, -- Warsculptor's Carved Boots
-		159461, -- Band of the Ancient Dredger
+		228411, -- Cyrce's Circlet
 		225578, -- Seal of the Poisoned Pact
 		219314, -- Ara-Kara Sacbrood
 		212454, -- Mad Queen's Mandate

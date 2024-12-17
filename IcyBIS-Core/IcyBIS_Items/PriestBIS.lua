@@ -156,8 +156,8 @@ SHADOW_PRIEST_OVERALL_BIS = {
 		225585, -- Acrid Ascendant's Sash
 		212082, -- Living Luster's Trousers
 		225582, -- Assimilated Eggshell Slippers
-		225578, -- Seal of the Poisoned Pact
-		212447, -- Key to the Unseeming
+		228411, -- Cyrce's Circlet
+		225576, -- Writhing Ringworm
 		220202, -- Spymaster's Web
 	},
 	messageLeft = "Overall BIS:",
@@ -178,8 +178,8 @@ SHADOW_PRIEST_RAID_BIS = {
 		159965, -- Redhook's Cummerbund
 		212082, -- Living Luster's Trousers
 		212085, -- Living Luster's Boots
+		228411, -- Cyrce's Circlet
 		133299, -- Circle of Bone
-		133286, -- Umbriss Band
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "Raid BIS:",
@@ -200,8 +200,8 @@ SHADOW_PRIEST_MYTHIC_PLUS_BIS = {
 		225585, -- Acrid Ascendant's Sash
 		212082, -- Living Luster's Trousers
 		225582, -- Assimilated Eggshell Slippers
+		228411, -- Cyrce's Circlet
 		225576, -- Writhing Ringworm
-		225578, -- Seal of the Poisoned Pact
 		220202, -- Spymaster's Web
 	},
 	messageLeft = "M+ BIS:",

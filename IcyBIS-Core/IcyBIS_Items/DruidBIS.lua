@@ -84,8 +84,8 @@ FERAL_DRUID_OVERALL_BIS = {
 		221134, -- Shadow Congregant's Belt
 		212055, -- Leggings of the Greatlynx
 		221169, -- Whisperer's Echoing Steps
-		225578, -- Seal of the Poisoned Pact
 		133286, -- Umbriss Band
+		225578, -- Seal of the Poisoned Pact
 		133282, -- Skardyn's Grace
 		212454, -- Mad Queen's Mandate
 		219314, -- Ara-Kara Sacbrood

@@ -19,6 +19,7 @@ ELEMENTAL_SHAMAN_OVERALL_BIS = {
 		212010, -- Sarong of the Forgotten Reservoir
 		212013, -- Shoes of the Forgotten Reservoir
 		225578, -- Seal of the Poisoned Pact
+		228411, -- Cyrce's Circlet
 		225576, -- Writhing Ringworm
 		220202, -- Spymaster's Web
 		219314, -- Ara-Kara Sacbrood
@@ -103,8 +104,9 @@ ENHANCEMENT_SHAMAN_OVERALL_BIS = {
 		221075, -- Reinforced Anti-Intruder Chainmail
 		212010, -- Sarong of the Forgotten Reservoir
 		221152, -- Silksteel Striders
-		225576, -- Writhing Ringworm
+		228411, -- Cyrce's Circlet
 		212447, -- Key to the Unseeming
+		225576, -- Writhing Ringworm
 		133282, -- Skardyn's Grace
 		219314, -- Ara-Kara Sacbrood
 		231417, -- Hand of Justice

@@ -11,7 +11,7 @@ BREWMASTER_MONK_OVERALL_BIS = {
 		212046, -- Gatecrasher's Kilt
 		225591, -- Fleeting Massacre Footpads
 		225578, -- Seal of the Poisoned Pact
-		178781, -- Ritual Commander's Ring
+		228411, -- Cyrce's Circlet
 		221159, -- Harvester's Interdiction
 		219877, -- Void Reaper's Warp Blade
 		212454, -- Mad Queen's Mandate
@@ -37,7 +37,7 @@ BREWMASTER_MONK_RAID_BIS = {
 		225576, -- Writhing Ringworm
 		212389, -- Spire of Transfused Horrors
 		219877, -- Void Reaper's Warp Blade
-		212449, -- Sikran's Endless Arsenal
+		219915, -- Foul Behemoth's Chelicera
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Brewmaster Monk",

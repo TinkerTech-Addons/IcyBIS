@@ -155,7 +155,7 @@ RETRIBUTION_PALADIN_OVERALL_BIS = {
 		221092, -- Legplates of Broken Trust
 		225590, -- Boots of the Black Bulwark
 		225578, -- Seal of the Poisoned Pact
-		225576, -- Writhing Ringworm
+		228411, -- Cyrce's Circlet
 		133300, -- Mark of Khardros
 		219314, -- Ara-Kara Sacbrood
 	},
