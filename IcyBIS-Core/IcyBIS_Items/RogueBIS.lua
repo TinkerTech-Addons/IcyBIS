@@ -13,7 +13,7 @@ ASSASSINATION_ROGUE_OVERALL_BIS = {
 		212037, -- K'areshi Phantom's Leggings
 		219327, -- Rune-Branded Kickers
 		225578, -- Seal of the Poisoned Pact
-		162542, -- Seal of the City Watch
+		228411, -- Cyrce's Circlet
 		159623, -- Dead-Eye Spyglass
 		133282, -- Skardyn's Grace
 	},
@@ -37,7 +37,7 @@ ASSASSINATION_ROGUE_RAID_BIS = {
 		212037, -- K'areshi Phantom's Leggings
 		225591, -- Fleeting Massacre Footpads
 		225578, -- Seal of the Poisoned Pact
-		225576, -- Writhing Ringworm
+		228411, -- Cyrce's Circlet
 		221023, -- Treacherous Transmitter
 		212456, -- Void Reaper's Contract
 	},
@@ -61,7 +61,7 @@ ASSASSINATION_ROGUE_MYTHIC_PLUS_BIS = {
 		212037, -- K'areshi Phantom's Leggings
 		221169, -- Whisperer's Echoing Steps
 		133286, -- Umbriss Band
-		162542, -- Seal of the City Watch
+		228411, -- Cyrce's Circlet
 		159623, -- Dead-Eye Spyglass
 		133282, -- Skardyn's Grace
 	},
@@ -85,7 +85,7 @@ OUTLAW_ROGUE_OVERALL_BIS = {
 		219332, -- Rune-Branded Legwraps
 		178731, -- Viscera-Stitched Footpads
 		178781, -- Ritual Commander's Ring
-		178736, -- Stitchflesh's Misplaced Signet
+		228411, -- Cyrce's Circlet
 		212456, -- Void Reaper's Contract
 		219314, -- Ara-Kara Sacbrood
 	},
@@ -109,7 +109,7 @@ OUTLAW_ROGUE_RAID_BIS = {
 		212423, -- Rebel's Drained Marrowslacks
 		225591, -- Fleeting Massacre Footpads
 		225578, -- Seal of the Poisoned Pact
-		212447, -- Key to the Unseeming
+		228411, -- Cyrce's Circlet
 		212456, -- Void Reaper's Contract
 		212454, -- Mad Queen's Mandate
 	},
@@ -133,7 +133,7 @@ OUTLAW_ROGUE_MYTHIC_PLUS_BIS = {
 		159322, -- Seawalker's Pantaloons
 		178731, -- Viscera-Stitched Footpads
 		178781, -- Ritual Commander's Ring
-		178736, -- Stitchflesh's Misplaced Signet
+		228411, -- Cyrce's Circlet
 		159623, -- Dead-Eye Spyglass
 		219314, -- Ara-Kara Sacbrood
 	},

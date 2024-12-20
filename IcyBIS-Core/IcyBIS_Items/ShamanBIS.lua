@@ -49,6 +49,7 @@ ELEMENTAL_SHAMAN_RAID_BIS = {
 		225586, -- Rasha'nan's Grotesque Talons
 		225578, -- Seal of the Poisoned Pact
 		225576, -- Writhing Ringworm
+		228411, -- Cyrce's Circlet
 		220202, -- Spymaster's Web
 		220305, -- Ovi'nax's Mercurial Egg
 		221023, -- Treacherous Transmitter
@@ -78,6 +79,7 @@ ELEMENTAL_SHAMAN_MYTHIC_PLUS_BIS = {
 		157615, -- Flamescale Chain Leggings
 		159379, -- Sure-Foot Sabatons
 		133290, -- Dark Iron Chain Boots
+		228411, -- Cyrce's Circlet
 		133286, -- Umbriss Band
 		162541, -- Band of the Roving Scalawag
 		133299, -- Circle of Bone
@@ -106,7 +108,6 @@ ENHANCEMENT_SHAMAN_OVERALL_BIS = {
 		221152, -- Silksteel Striders
 		228411, -- Cyrce's Circlet
 		212447, -- Key to the Unseeming
-		225576, -- Writhing Ringworm
 		133282, -- Skardyn's Grace
 		219314, -- Ara-Kara Sacbrood
 		231417, -- Hand of Justice
@@ -182,7 +183,7 @@ RESTORATION_SHAMAN_OVERALL_BIS = {
 		212435, -- Liquified Defector's Leggings
 		178745, -- Striders of Restless Malice
 		225578, -- Seal of the Poisoned Pact
-		178781, -- Ritual Commander's Ring
+		228411, -- Cyrce's Circlet
 		220202, -- Spymaster's Web
 		178708, -- Unbound Changeling
 	},
@@ -206,7 +207,7 @@ RESTORATION_SHAMAN_RAID_BIS = {
 		212435, -- Liquified Defector's Leggings
 		225586, -- Rasha'nan's Grotesque Talons
 		225578, -- Seal of the Poisoned Pact
-		225576, -- Writhing Ringworm
+		228411, -- Cyrce's Circlet
 		220202, -- Spymaster's Web
 		220305, -- Ovi'nax's Mercurial Egg
 	},
@@ -229,8 +230,8 @@ RESTORATION_SHAMAN_MYTHIC_PLUS_BIS = {
 		159386, -- Anchor Chain Girdle
 		178778, -- Lichbone Legguards
 		178745, -- Striders of Restless Malice
-		159461, -- Band of the Ancient Dredger
 		178781, -- Ritual Commander's Ring
+		228411, -- Cyrce's Circlet
 		133304, -- Gale of Shadows
 		219314, -- Ara-Kara Sacbrood
 	},

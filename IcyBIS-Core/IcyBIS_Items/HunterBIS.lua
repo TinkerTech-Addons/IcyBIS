@@ -13,7 +13,7 @@ BEAST_MASTERY_HUNTER_OVERALL_BIS = {
 		212019, -- Lightless Scavenger's Stalkings
 		212022, -- Lightless Scavenger's Footpads
 		225578, -- Seal of the Poisoned Pact
-		221136, -- Devout Zealot's Ring
+		228411, -- Cyrce's Circlet
 		133282, -- Skardyn's Grace
 		219314, -- Ara-Kara Sacbrood
 		212454, -- Mad Queen's Mandate
@@ -84,7 +84,8 @@ MARKSMANSHIP_HUNTER_OVERALL_BIS = {
 		212019, -- Lightless Scavenger's Stalkings
 		225586, -- Rasha'nan's Grotesque Talons
 		225578, -- Seal of the Poisoned Pact
-		162542, -- Seal of the City Watch
+		228411, -- Cyrce's Circlet
+		228411, -- Cyrce's Circlet
 		212456, -- Void Reaper's Contract
 		212454, -- Mad Queen's Mandate
 		133282, -- Skardyn's Grace
@@ -161,8 +162,8 @@ SURVIVAL_HUNTER_OVERALL_BIS = {
 		212019, -- Lightless Scavenger's Stalkings
 		219335, -- Glyph-Etched Stompers
 		225578, -- Seal of the Poisoned Pact
-		221136, -- Devout Zealot's Ring
-		225576, -- Writhing Ringworm
+		228411, -- Cyrce's Circlet
+		228411, -- Cyrce's Circlet
 		133282, -- Skardyn's Grace
 		212454, -- Mad Queen's Mandate
 		220305, -- Ovi'nax's Mercurial Egg

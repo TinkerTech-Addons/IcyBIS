@@ -34,7 +34,7 @@ BREWMASTER_MONK_RAID_BIS = {
 		212046, -- Gatecrasher's Kilt
 		225591, -- Fleeting Massacre Footpads
 		225578, -- Seal of the Poisoned Pact
-		225576, -- Writhing Ringworm
+		228411, -- Cyrce's Circlet
 		212389, -- Spire of Transfused Horrors
 		219877, -- Void Reaper's Warp Blade
 		219915, -- Foul Behemoth's Chelicera
@@ -57,7 +57,7 @@ BREWMASTER_MONK_MYTHIC_PLUS_BIS = {
 		212046, -- Gatecrasher's Kilt
 		159320, -- Besieger's Deckstalkers
 		178781, -- Ritual Commander's Ring
-		133287, -- Ring of Dun Algaz
+		228411, -- Cyrce's Circlet
 		221159, -- Harvester's Interdiction
 		221144, -- Zephyrous Sail Carver
 		219314, -- Ara-Kara Sacbrood
@@ -81,7 +81,7 @@ MISTWEAVER_MONK_OVERALL_BIS = {
 		212046, -- Gatecrasher's Kilt
 		159320, -- Besieger's Deckstalkers
 		212447, -- Key to the Unseeming
-		178736, -- Stitchflesh's Misplaced Signet
+		228411, -- Cyrce's Circlet
 		133304, -- Gale of Shadows
 		178708, -- Unbound Changeling
 	},
@@ -103,7 +103,7 @@ MISTWEAVER_MONK_RAID_BIS = {
 		159309, -- Port Pillager's Belt
 		212046, -- Gatecrasher's Kilt
 		159320, -- Besieger's Deckstalkers
-		133299, -- Circle of Bone
+		228411, -- Cyrce's Circlet
 		178736, -- Stitchflesh's Misplaced Signet
 		133304, -- Gale of Shadows
 		178708, -- Unbound Changeling
@@ -128,7 +128,7 @@ MISTWEAVER_MONK_MYTHIC_PLUS_BIS = {
 		212046, -- Gatecrasher's Kilt
 		212445, -- Chitin-Spiked Jackboots
 		212447, -- Key to the Unseeming
-		225578, -- Seal of the Poisoned Pact
+		228411, -- Cyrce's Circlet
 		220305, -- Ovi'nax's Mercurial Egg
 		221023, -- Treacherous Transmitter
 	},

@@ -14,7 +14,6 @@ HAVOC_DEMON_HUNTER_OVERALL_BIS = {
 		212064, -- Pantaloons of the Hypogeal Nemesis
 		221169, -- Whisperer's Echoing Steps
 		225578, -- Seal of the Poisoned Pact
-		133286, -- Umbriss Band
 		228411, -- Cyrce's Circlet
 		212454, -- Mad Queen's Mandate
 		133282, -- Skardyn's Grace
@@ -91,7 +90,7 @@ VENGEANCE_DEMON_HUNTER_OVERALL_BIS = {
 		212064, -- Pantaloons of the Hypogeal Nemesis
 		212445, -- Chitin-Spiked Jackboots
 		225578, -- Seal of the Poisoned Pact
-		212447, -- Key to the Unseeming
+		228411, -- Cyrce's Circlet
 		219314, -- Ara-Kara Sacbrood
 		178742, -- Bottled Flayedwing Toxin
 	},
@@ -115,7 +114,7 @@ VENGEANCE_DEMON_HUNTER_RAID_BIS = {
 		212064, -- Pantaloons of the Hypogeal Nemesis
 		212445, -- Chitin-Spiked Jackboots
 		225578, -- Seal of the Poisoned Pact
-		212447, -- Key to the Unseeming
+		228411, -- Cyrce's Circlet
 		212456, -- Void Reaper's Contract
 		220305, -- Ovi'nax's Mercurial Egg
 	},
@@ -139,7 +138,7 @@ VENGEANCE_DEMON_HUNTER_MYTHIC_PLUS_BIS = {
 		212064, -- Pantaloons of the Hypogeal Nemesis
 		159320, -- Besieger's Deckstalkers
 		159461, -- Band of the Ancient Dredger
-		221136, -- Devout Zealot's Ring
+		228411, -- Cyrce's Circlet
 		219314, -- Ara-Kara Sacbrood
 		178742, -- Bottled Flayedwing Toxin
 	},

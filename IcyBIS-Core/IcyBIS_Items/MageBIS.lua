@@ -13,7 +13,7 @@ ARCANE_MAGE_OVERALL_BIS = {
 		212091, -- Coattails of Violet Rebirth
 		212094, -- Slippers of Violet Rebirth
 		225578, -- Seal of the Poisoned Pact
-		225576, -- Writhing Ringworm
+		228411, -- Cyrce's Circlet
 		221023, -- Treacherous Transmitter
 		220202, -- Spymaster's Web
 	},
@@ -36,7 +36,7 @@ ARCANE_MAGE_RAID_BIS = {
 		212091, -- Coattails of Violet Rebirth
 		225582, -- Assimilated Eggshell Slippers
 		225578, -- Seal of the Poisoned Pact
-		225576, -- Writhing Ringworm
+		228411, -- Cyrce's Circlet
 		221023, -- Treacherous Transmitter
 		220202, -- Spymaster's Web
 	},
@@ -59,7 +59,7 @@ ARCANE_MAGE_MYTHIC_PLUS_BIS = {
 		212091, -- Coattails of Violet Rebirth
 		221082, -- Tainted Earthshard Walkers
 		221136, -- Devout Zealot's Ring
-		178736, -- Stitchflesh's Misplaced Signet
+		228411, -- Cyrce's Circlet
 		219314, -- Ara-Kara Sacbrood
 		219313, -- Mereldar's Toll
 	},
@@ -83,7 +83,7 @@ FIRE_MAGE_OVERALL_BIS = {
 		212091, -- Coattails of Violet Rebirth
 		221082, -- Tainted Earthshard Walkers
 		212447, -- Key to the Unseeming
-		178736, -- Stitchflesh's Misplaced Signet
+		228411, -- Cyrce's Circlet
 		219314, -- Ara-Kara Sacbrood
 		220202, -- Spymaster's Web
 	},
@@ -106,7 +106,7 @@ FIRE_MAGE_RAID_BIS = {
 		212091, -- Coattails of Violet Rebirth
 		225582, -- Assimilated Eggshell Slippers
 		212447, -- Key to the Unseeming
-		225576, -- Writhing Ringworm
+		228411, -- Cyrce's Circlet
 		220305, -- Ovi'nax's Mercurial Egg
 		220202, -- Spymaster's Web
 	},
@@ -129,7 +129,7 @@ FIRE_MAGE_MYTHIC_PLUS_BIS = {
 		212091, -- Coattails of Violet Rebirth
 		221082, -- Tainted Earthshard Walkers
 		221099, -- Wick's Golden Loop
-		178736, -- Stitchflesh's Misplaced Signet
+		228411, -- Cyrce's Circlet
 		219314, -- Ara-Kara Sacbrood
 		219308, -- Signet of the Priory
 	},
@@ -153,7 +153,7 @@ FROST_MAGE_OVERALL_BIS = {
 		212434, -- Voidspoken Sarong
 		225582, -- Assimilated Eggshell Slippers
 		225578, -- Seal of the Poisoned Pact
-		178736, -- Stitchflesh's Misplaced Signet
+		228411, -- Cyrce's Circlet
 		220202, -- Spymaster's Web
 		219314, -- Ara-Kara Sacbrood
 	},
@@ -177,7 +177,7 @@ FROST_MAGE_RAID_BIS = {
 		212434, -- Voidspoken Sarong
 		225582, -- Assimilated Eggshell Slippers
 		225578, -- Seal of the Poisoned Pact
-		212447, -- Key to the Unseeming
+		228411, -- Cyrce's Circlet
 		220202, -- Spymaster's Web
 		220305, -- Ovi'nax's Mercurial Egg
 	},
@@ -200,7 +200,7 @@ FROST_MAGE_MYTHIC_PLUS_BIS = {
 		221158, -- Burrower's Cinch
 		221164, -- Archaic Venomancer's Footwraps
 		221149, -- Membranous Slippers
-		221136, -- Devout Zealot's Ring
+		228411, -- Cyrce's Circlet
 		178736, -- Stitchflesh's Misplaced Signet
 		133304, -- Gale of Shadows
 		219314, -- Ara-Kara Sacbrood

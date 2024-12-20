@@ -84,7 +84,7 @@ FERAL_DRUID_OVERALL_BIS = {
 		221134, -- Shadow Congregant's Belt
 		212055, -- Leggings of the Greatlynx
 		221169, -- Whisperer's Echoing Steps
-		133286, -- Umbriss Band
+		228411, -- Cyrce's Circlet
 		225578, -- Seal of the Poisoned Pact
 		133282, -- Skardyn's Grace
 		212454, -- Mad Queen's Mandate
@@ -159,7 +159,7 @@ GUARDIAN_DRUID_OVERALL_BIS = {
 		212055, -- Leggings of the Greatlynx
 		225591, -- Fleeting Massacre Footpads
 		225578, -- Seal of the Poisoned Pact
-		212447, -- Key to the Unseeming
+		228411, -- Cyrce's Circlet
 		219314, -- Ara-Kara Sacbrood
 		212454, -- Mad Queen's Mandate
 	},
@@ -182,7 +182,7 @@ GUARDIAN_DRUID_RAID_BIS = {
 		212055, -- Leggings of the Greatlynx
 		225591, -- Fleeting Massacre Footpads
 		225578, -- Seal of the Poisoned Pact
-		212447, -- Key to the Unseeming
+		228411, -- Cyrce's Circlet
 		212456, -- Void Reaper's Contract
 		212454, -- Mad Queen's Mandate
 	},
@@ -205,7 +205,7 @@ GUARDIAN_DRUID_MYTHIC_PLUS_BIS = {
 		212055, -- Leggings of the Greatlynx
 		178731, -- Viscera-Stitched Footpads
 		178736, -- Stitchflesh's Misplaced Signet
-		221189, -- Experiment 08752's Band
+		228411, -- Cyrce's Circlet
 		178742, -- Bottled Flayedwing Toxin
 		219314, -- Ara-Kara Sacbrood
 	},
@@ -229,7 +229,7 @@ RESTORATION_DRUID_OVERALL_BIS = {
 		212055, -- Leggings of the Greatlynx
 		212058, -- Treads of the Greatlynx
 		212447, -- Key to the Unseeming
-		225576, -- Writhing Ringworm
+		228411, -- Cyrce's Circlet
 		220202, -- Spymaster's Web
 		133304, -- Gale of Shadows
 	},
@@ -252,7 +252,7 @@ RESTORATION_DRUID_RAID_BIS = {
 		212055, -- Leggings of the Greatlynx
 		212058, -- Treads of the Greatlynx
 		212447, -- Key to the Unseeming
-		225576, -- Writhing Ringworm
+		228411, -- Cyrce's Circlet
 		220202, -- Spymaster's Web
 		220305, -- Ovi'nax's Mercurial Egg
 	},
@@ -274,7 +274,7 @@ RESTORATION_DRUID_MYTHIC_PLUS_BIS = {
 		178699, -- Sapgorger Belt
 		133354, -- Glimmerthread Pantaloons
 		212058, -- Treads of the Greatlynx
-		221189, -- Experiment 08752's Band
+		228411, -- Cyrce's Circlet
 		178736, -- Stitchflesh's Misplaced Signet
 		219314, -- Ara-Kara Sacbrood
 		133304, -- Gale of Shadows

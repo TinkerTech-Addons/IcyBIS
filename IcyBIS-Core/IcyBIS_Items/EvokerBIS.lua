@@ -11,7 +11,7 @@ AUGMENTATION_EVOKER_OVERALL_BIS = {
 		219339, -- Glyph-Etched Binding
 		212028, -- Legguards of the Destroyer
 		219335, -- Glyph-Etched Stompers
-		225578, -- Seal of the Poisoned Pact
+		228411, -- Cyrce's Circlet
 		225578, -- Seal of the Poisoned Pact
 		220202, -- Spymaster's Web
 		219314, -- Ara-Kara Sacbrood
@@ -49,8 +49,8 @@ AUGMENTATION_EVOKER_RAID_BIS = {
 		212414, -- Lost Watcher's Remains
 		212028, -- Legguards of the Destroyer
 		225586, -- Rasha'nan's Grotesque Talons
+		228411, -- Cyrce's Circlet
 		225578, -- Seal of the Poisoned Pact
-		225576, -- Writhing Ringworm
 		220202, -- Spymaster's Web
 		212454, -- Mad Queen's Mandate
 		212397, -- Takazj's Entropic Edict
@@ -64,8 +64,8 @@ AUGMENTATION_EVOKER_RAID_BIS = {
 		212414, -- Lost Watcher's Remains
 		212028, -- Legguards of the Destroyer
 		225586, -- Rasha'nan's Grotesque Talons
+		228411, -- Cyrce's Circlet
 		225578, -- Seal of the Poisoned Pact
-		225576, -- Writhing Ringworm
 		220202, -- Spymaster's Web
 		212454, -- Mad Queen's Mandate
 	},
@@ -87,7 +87,7 @@ AUGMENTATION_EVOKER_MYTHIC_PLUS_BIS = {
 		221168, -- Cinch of Lingering Influence
 		212028, -- Legguards of the Destroyer
 		159379, -- Sure-Foot Sabatons
-		133286, -- Umbriss Band
+		228411, -- Cyrce's Circlet
 		162542, -- Seal of the City Watch
 		219314, -- Ara-Kara Sacbrood
 		159622, -- Hadal's Nautilus
@@ -102,7 +102,7 @@ AUGMENTATION_EVOKER_MYTHIC_PLUS_BIS = {
 		221168, -- Cinch of Lingering Influence
 		212028, -- Legguards of the Destroyer
 		159379, -- Sure-Foot Sabatons
-		133286, -- Umbriss Band
+		228411, -- Cyrce's Circlet
 		133299, -- Circle of Bone
 		219313, -- Mereldar's Toll
 		219314, -- Ara-Kara Sacbrood
@@ -196,7 +196,7 @@ PRESERVATION_EVOKER_OVERALL_BIS = {
 		212028, -- Legguards of the Destroyer
 		159379, -- Sure-Foot Sabatons
 		225578, -- Seal of the Poisoned Pact
-		225576, -- Writhing Ringworm
+		228411, -- Cyrce's Circlet
 		220202, -- Spymaster's Web
 		178708, -- Unbound Changeling
 	},
@@ -219,7 +219,7 @@ PRESERVATION_EVOKER_RAID_BIS = {
 		212028, -- Legguards of the Destroyer
 		225586, -- Rasha'nan's Grotesque Talons
 		225578, -- Seal of the Poisoned Pact
-		225576, -- Writhing Ringworm
+		228411, -- Cyrce's Circlet
 		220202, -- Spymaster's Web
 		178708, -- Unbound Changeling
 	},
@@ -242,7 +242,7 @@ PRESERVATION_EVOKER_MYTHIC_PLUS_BIS = {
 		212028, -- Legguards of the Destroyer
 		159379, -- Sure-Foot Sabatons
 		221141, -- High Nerubian Signet
-		162542, -- Seal of the City Watch
+		228411, -- Cyrce's Circlet
 		219312, -- Empowering Crystal of Anub'ikkaj
 		178708, -- Unbound Changeling
 	},

@@ -13,7 +13,7 @@ HOLY_PALADIN_OVERALL_BIS = {
 		211992, -- Entombed Seraph's Greaves
 		225590, -- Boots of the Black Bulwark
 		225578, -- Seal of the Poisoned Pact
-		212447, -- Key to the Unseeming
+		228411, -- Cyrce's Circlet
 		133304, -- Gale of Shadows
 		219314, -- Ara-Kara Sacbrood
 	},
@@ -36,7 +36,7 @@ HOLY_PALADIN_RAID_BIS = {
 		211992, -- Entombed Seraph's Greaves
 		225590, -- Boots of the Black Bulwark
 		225578, -- Seal of the Poisoned Pact
-		212447, -- Key to the Unseeming
+		228411, -- Cyrce's Circlet
 		219917, -- Creeping Coagulum
 		220305, -- Ovi'nax's Mercurial Egg
 	},
@@ -60,7 +60,7 @@ HOLY_PALADIN_MYTHIC_PLUS_BIS = {
 		211992, -- Entombed Seraph's Greaves
 		221178, -- Ichor-Stained Sollerets
 		221189, -- Experiment 08752's Band
-		178736, -- Stitchflesh's Misplaced Signet
+		228411, -- Cyrce's Circlet
 		133304, -- Gale of Shadows
 		219314, -- Ara-Kara Sacbrood
 	},
@@ -84,7 +84,7 @@ PROTECTION_PALADIN_OVERALL_BIS = {
 		211992, -- Entombed Seraph's Greaves
 		225590, -- Boots of the Black Bulwark
 		225578, -- Seal of the Poisoned Pact
-		212447, -- Key to the Unseeming
+		228411, -- Cyrce's Circlet
 		219314, -- Ara-Kara Sacbrood
 		219300, -- Skarmorak Shard
 	},
@@ -108,7 +108,7 @@ PROTECTION_PALADIN_RAID_BIS = {
 		211992, -- Entombed Seraph's Greaves
 		225590, -- Boots of the Black Bulwark
 		225578, -- Seal of the Poisoned Pact
-		212447, -- Key to the Unseeming
+		228411, -- Cyrce's Circlet
 		212453, -- Skyterror's Corrosive Organ
 		212449, -- Sikran's Endless Arsenal
 	},
@@ -132,7 +132,7 @@ PROTECTION_PALADIN_MYTHIC_PLUS_BIS = {
 		211992, -- Entombed Seraph's Greaves
 		221178, -- Ichor-Stained Sollerets
 		133299, -- Circle of Bone
-		159461, -- Band of the Ancient Dredger
+		228411, -- Cyrce's Circlet
 		219314, -- Ara-Kara Sacbrood
 		219300, -- Skarmorak Shard
 	},
@@ -178,7 +178,7 @@ RETRIBUTION_PALADIN_RAID_BIS = {
 		211992, -- Entombed Seraph's Greaves
 		225590, -- Boots of the Black Bulwark
 		225578, -- Seal of the Poisoned Pact
-		225576, -- Writhing Ringworm
+		228411, -- Cyrce's Circlet
 		212453, -- Skyterror's Corrosive Organ
 		212454, -- Mad Queen's Mandate
 	},
@@ -201,7 +201,7 @@ RETRIBUTION_PALADIN_MYTHIC_PLUS_BIS = {
 		221092, -- Legplates of Broken Trust
 		159428, -- Ballast Sinkers
 		133286, -- Umbriss Band
-		162541, -- Band of the Roving Scalawag
+		228411, -- Cyrce's Circlet
 		133300, -- Mark of Khardros
 		219314, -- Ara-Kara Sacbrood
 	},

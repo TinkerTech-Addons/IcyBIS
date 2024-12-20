@@ -12,7 +12,7 @@ DISCIPLINE_PRIEST_OVERALL_BIS = {
 		159245, -- Cord of the Pious Warder
 		212082, -- Living Luster's Trousers
 		221082, -- Tainted Earthshard Walkers
-		133299, -- Circle of Bone
+		228411, -- Cyrce's Circlet
 		212447, -- Key to the Unseeming
 		220202, -- Spymaster's Web
 		133304, -- Gale of Shadows
@@ -37,7 +37,7 @@ DISCIPLINE_PRIEST_RAID_BIS = {
 		212082, -- Living Luster's Trousers
 		225582, -- Assimilated Eggshell Slippers
 		212447, -- Key to the Unseeming
-		225576, -- Writhing Ringworm
+		228411, -- Cyrce's Circlet
 		220202, -- Spymaster's Web
 		220305, -- Ovi'nax's Mercurial Egg
 	},
@@ -61,7 +61,7 @@ DISCIPLINE_PRIEST_MYTHIC_PLUS_BIS = {
 		212082, -- Living Luster's Trousers
 		221082, -- Tainted Earthshard Walkers
 		133299, -- Circle of Bone
-		178736, -- Stitchflesh's Misplaced Signet
+		228411, -- Cyrce's Circlet
 		219314, -- Ara-Kara Sacbrood
 		133304, -- Gale of Shadows
 	},
@@ -85,7 +85,7 @@ HOLY_PRIEST_OVERALL_BIS = {
 		212082, -- Living Luster's Trousers
 		212416, -- Cosmic-Tinged Treads
 		225578, -- Seal of the Poisoned Pact
-		162541, -- Band of the Roving Scalawag
+		228411, -- Cyrce's Circlet
 		178708, -- Unbound Changeling
 		219917, -- Creeping Coagulum
 	},
@@ -109,7 +109,7 @@ HOLY_PRIEST_RAID_BIS = {
 		212082, -- Living Luster's Trousers
 		212416, -- Cosmic-Tinged Treads
 		225578, -- Seal of the Poisoned Pact
-		225576, -- Writhing Ringworm
+		228411, -- Cyrce's Circlet
 		219917, -- Creeping Coagulum
 		220305, -- Ovi'nax's Mercurial Egg
 	},
@@ -133,7 +133,7 @@ HOLY_PRIEST_MYTHIC_PLUS_BIS = {
 		212082, -- Living Luster's Trousers
 		221149, -- Membranous Slippers
 		162541, -- Band of the Roving Scalawag
-		133286, -- Umbriss Band
+		228411, -- Cyrce's Circlet
 		178708, -- Unbound Changeling
 		219312, -- Empowering Crystal of Anub'ikkaj
 	},
@@ -157,7 +157,7 @@ SHADOW_PRIEST_OVERALL_BIS = {
 		212082, -- Living Luster's Trousers
 		225582, -- Assimilated Eggshell Slippers
 		228411, -- Cyrce's Circlet
-		225576, -- Writhing Ringworm
+		225578, -- Seal of the Poisoned Pact
 		220202, -- Spymaster's Web
 	},
 	messageLeft = "Overall BIS:",
@@ -201,7 +201,7 @@ SHADOW_PRIEST_MYTHIC_PLUS_BIS = {
 		212082, -- Living Luster's Trousers
 		225582, -- Assimilated Eggshell Slippers
 		228411, -- Cyrce's Circlet
-		225576, -- Writhing Ringworm
+		225578, -- Seal of the Poisoned Pact
 		220202, -- Spymaster's Web
 	},
 	messageLeft = "M+ BIS:",

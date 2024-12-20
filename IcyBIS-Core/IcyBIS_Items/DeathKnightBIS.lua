@@ -80,7 +80,7 @@ FROST_DEATH_KNIGHT_OVERALL_BIS = {
 		212001, -- Exhumed Centurion's Chausses
 		222429, -- Everforged Sabatons
 		225578, -- Seal of the Poisoned Pact
-		162541, -- Band of the Roving Scalawag
+		228411, -- Cyrce's Circlet
 		220305, -- Ovi'nax's Mercurial Egg
 		221023, -- Treacherous Transmitter
 		212401, -- Ansurek's Final Judgment
@@ -105,7 +105,7 @@ FROST_DEATH_KNIGHT_RAID_BIS = {
 		212001, -- Exhumed Centurion's Chausses
 		212443, -- Shattershell Greaves
 		225578, -- Seal of the Poisoned Pact
-		225576, -- Writhing Ringworm
+		228411, -- Cyrce's Circlet
 		220305, -- Ovi'nax's Mercurial Egg
 		221023, -- Treacherous Transmitter
 		212401, -- Ansurek's Final Judgment
@@ -130,7 +130,7 @@ FROST_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 		178739, -- Legplates of Unholy Frenzy
 		221178, -- Ichor-Stained Sollerets
 		221136, -- Devout Zealot's Ring
-		162541, -- Band of the Roving Scalawag
+		228411, -- Cyrce's Circlet
 		133300, -- Mark of Khardros
 		219314, -- Ara-Kara Sacbrood
 		159649, -- Saber of Dread Pirate Lockwood
@@ -155,7 +155,7 @@ UNHOLY_DEATH_KNIGHT_OVERALL_BIS = {
 		212001, -- Exhumed Centurion's Chausses
 		225590, -- Boots of the Black Bulwark
 		225576, -- Writhing Ringworm
-		133299, -- Circle of Bone
+		228411, -- Cyrce's Circlet
 		221023, -- Treacherous Transmitter
 		220305, -- Ovi'nax's Mercurial Egg
 		222447, -- Charged Claymore
@@ -177,7 +177,7 @@ UNHOLY_DEATH_KNIGHT_RAID_BIS = {
 		212442, -- Greatbelt of the Hungerer
 		212001, -- Exhumed Centurion's Chausses
 		225590, -- Boots of the Black Bulwark
-		212447, -- Key to the Unseeming
+		228411, -- Cyrce's Circlet
 		225576, -- Writhing Ringworm
 		221023, -- Treacherous Transmitter
 		220305, -- Ovi'nax's Mercurial Egg
@@ -200,7 +200,7 @@ UNHOLY_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 		221133, -- Girdle of Somber Ploys
 		178701, -- Gormshell Greaves
 		221178, -- Ichor-Stained Sollerets
-		133286, -- Umbriss Band
+		228411, -- Cyrce's Circlet
 		133299, -- Circle of Bone
 		133300, -- Mark of Khardros
 		219314, -- Ara-Kara Sacbrood

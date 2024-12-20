@@ -175,7 +175,7 @@ PROTECTION_WARRIOR_RAID_BIS = {
 		225589, -- Nether Bounty's Greatbelt
 		211983, -- Warsculptor's Cuisses
 		225590, -- Boots of the Black Bulwark
-		212447, -- Key to the Unseeming
+		228411, -- Cyrce's Circlet
 		225578, -- Seal of the Poisoned Pact
 		212454, -- Mad Queen's Mandate
 		212453, -- Skyterror's Corrosive Organ
@@ -200,7 +200,7 @@ PROTECTION_WARRIOR_MYTHIC_PLUS_BIS = {
 		221133, -- Girdle of Somber Ploys
 		211983, -- Warsculptor's Cuisses
 		221178, -- Ichor-Stained Sollerets
-		221136, -- Devout Zealot's Ring
+		228411, -- Cyrce's Circlet
 		159461, -- Band of the Ancient Dredger
 		219314, -- Ara-Kara Sacbrood
 		133300, -- Mark of Khardros
