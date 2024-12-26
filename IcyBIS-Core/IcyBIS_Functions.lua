@@ -1,7 +1,6 @@
 -- Functions.lua
 local addonName, ns = ...
 
---#region Function to help build correct class and spec tables
 local function buildTrackedItems(className, spec, overallBISTable, raidBISTable, mythicPlusBISTable)
     if IcyBIS_Settings[className .. " Spec " .. spec .. " Overall BIS"] then
         table.insert(IcyBIS_TrackedItems, overallBISTable)
@@ -16,7 +15,6 @@ local function buildTrackedItems(className, spec, overallBISTable, raidBISTable,
     end
 end
 
---#region Load the item lists from their individual files
 function ns.loadItemLists()
     IcyBIS_TrackedItems = {}
 
@@ -94,5 +92,3 @@ function ns.loadItemLists()
     buildTrackedItems("Warrior", 3, PROTECTION_WARRIOR_OVERALL_BIS, PROTECTION_WARRIOR_RAID_BIS,
         PROTECTION_WARRIOR_MYTHIC_PLUS_BIS)
 end
-
---#endregion

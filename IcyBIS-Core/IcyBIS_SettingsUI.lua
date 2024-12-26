@@ -1,7 +1,7 @@
 -- IcyBIS_SettingsUI.lua
 -- Handles the creation and functionality of the settings UI.
 
---#region Create locally and globaly used variabes
+-- #region Create locally and globally used variables
 local addonName, ns = ...
 
 if not IcyBIS_Settings then
@@ -172,9 +172,9 @@ local function generateClassOptions(classID, className)
     local spec1 = createSpecHeader(name, rightSection, "TOPLEFT", 50, -70, icon)
     local spec1_overall = createBISTableCheckbox(icyBISTableNames[1], rightSection, "TOPLEFT", 65, -100,
         className .. " Spec 1 Overall BIS")
-    local sepc1_raid = createBISTableCheckbox(icyBISTableNames[2], spec1_overall, "LEFT", 0, -30,
+    local spec1_raid = createBISTableCheckbox(icyBISTableNames[2], spec1_overall, "LEFT", 0, -30,
         className .. " Spec 1 Raid BIS")
-    local spec1_m_plus = createBISTableCheckbox(icyBISTableNames[3], sepc1_raid, "LEFT", 0, -30,
+    local spec1_m_plus = createBISTableCheckbox(icyBISTableNames[3], spec1_raid, "LEFT", 0, -30,
         className .. " Spec 1 M+ BIS")
 
     _, name, _, icon, _, _ = GetSpecializationInfoForClassID(classID, 2)
@@ -197,17 +197,17 @@ local function generateClassOptions(classID, className)
         local spec3 = createSpecHeader(name, rightSection, "TOPLEFT", 450, -70, icon)
         local spec3_overall = createBISTableCheckbox(icyBISTableNames[1], rightSection, "TOPLEFT", 465, -100,
             className .. " Spec 3 Overall BIS")
-        local sepc3_raid = createBISTableCheckbox(icyBISTableNames[2], spec3_overall, "LEFT", 0, -30,
+        local spec3_raid = createBISTableCheckbox(icyBISTableNames[2], spec3_overall, "LEFT", 0, -30,
             className .. " Spec 3 Raid BIS")
-        createBISTableCheckbox(icyBISTableNames[3], sepc3_raid, "LEFT", 0, -30, className .. " Spec 3 M+ BIS")
+        createBISTableCheckbox(icyBISTableNames[3], spec3_raid, "LEFT", 0, -30, className .. " Spec 3 M+ BIS")
 
         _, name, _, icon, _, _ = GetSpecializationInfoForClassID(classID, 4)
         local spec4 = createSpecHeader(name, rightSection, "TOPLEFT", 650, -70, icon)
         local spec4_overall = createBISTableCheckbox(icyBISTableNames[1], rightSection, "TOPLEFT", 665, -100,
             className .. " Spec 4 Overall BIS")
-        local sepc4_raid = createBISTableCheckbox(icyBISTableNames[2], spec4_overall, "LEFT", 0, -30,
+        local spec4_raid = createBISTableCheckbox(icyBISTableNames[2], spec4_overall, "LEFT", 0, -30,
             className .. " Spec 4 Raid BIS")
-        createBISTableCheckbox(icyBISTableNames[3], sepc4_raid, "LEFT", 0, -30, className .. " Spec 4 M+ BIS")
+        createBISTableCheckbox(icyBISTableNames[3], spec4_raid, "LEFT", 0, -30, className .. " Spec 4 M+ BIS")
     else
         settingsFrame:SetSize(800, 400)
         rightSection:SetSize(settingsFrame:GetWidth() - navBar:GetWidth() - 30, navBar:GetHeight())
@@ -216,9 +216,9 @@ local function generateClassOptions(classID, className)
         local spec3 = createSpecHeader(name, rightSection, "TOPLEFT", 450, -70, icon)
         local spec3_overall = createBISTableCheckbox(icyBISTableNames[1], rightSection, "TOPLEFT", 465, -100,
             className .. " Spec 3 Overall BIS")
-        local sepc3_raid = createBISTableCheckbox(icyBISTableNames[2], spec3_overall, "LEFT", 0, -30,
+        local spec3_raid = createBISTableCheckbox(icyBISTableNames[2], spec3_overall, "LEFT", 0, -30,
             className .. " Spec 3 Raid BIS")
-        createBISTableCheckbox(icyBISTableNames[3], sepc3_raid, "LEFT", 0, -30, className .. " Spec 3 M+ BIS")
+        createBISTableCheckbox(icyBISTableNames[3], spec3_raid, "LEFT", 0, -30, className .. " Spec 3 M+ BIS")
     end
 end
 --#endregion
@@ -281,4 +281,5 @@ end)
 function ns.ShowSettingsFrame()
     settingsFrame:Show()
 end
+
 --#endregion
