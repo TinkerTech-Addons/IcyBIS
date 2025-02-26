@@ -1,20 +1,19 @@
 BLOOD_DEATH_KNIGHT_OVERALL_BIS = {
 	itemIDs = {
-		212407, -- Anub'arash's Colossal Mandible
-		221146, -- Soaring Behemoth's Greathelm
-		225575, -- Silken Advisor's Favor
-		212000, -- Exhumed Centurion's Spikes
-		225574, -- Wings of Shattered Sorrow
-		212005, -- Exhumed Centurion's Breastplate
+		232805, -- Best-in-Slots
+		229253, -- Cauldron Champion's Crown
+		221103, -- Flickering Glowtorc
+		229251, -- Cauldron Champion's Screamplate
+		222817, -- Consecrated Cloak
+		234506, -- Muckdiver's Wading Plate
 		222435, -- Everforged Vambraces
-		212003, -- Exhumed Centurion's Gauntlets
-		222431, -- Everforged Greatbelt
-		212001, -- Exhumed Centurion's Chausses
-		212443, -- Shattershell Greaves
-		225578, -- Seal of the Poisoned Pact
+		229254, -- Cauldron Champion's Fistguards
+		228873, -- Heaviestweight Title Belt
+		229252, -- Cauldron Champion's Tattered Cuisses
+		168972, -- Pyroclastic Greatboots
+		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
-		219314, -- Ara-Kara Sacbrood
-		178751, -- Spare Meat Hook
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Blood Death Knight",
@@ -23,21 +22,21 @@ BLOOD_DEATH_KNIGHT_OVERALL_BIS = {
 
 BLOOD_DEATH_KNIGHT_RAID_BIS = {
 	itemIDs = {
-		212407, -- Anub'arash's Colossal Mandible
-		212427, -- Visor of the Ascended Captain
-		225575, -- Silken Advisor's Favor
-		212000, -- Exhumed Centurion's Spikes
-		225574, -- Wings of Shattered Sorrow
-		212005, -- Exhumed Centurion's Breastplate
-		212437, -- Ravaged Lamplighter's Manacles
-		212003, -- Exhumed Centurion's Gauntlets
-		212442, -- Greatbelt of the Hungerer
-		212001, -- Exhumed Centurion's Chausses
-		212443, -- Shattershell Greaves
-		225578, -- Seal of the Poisoned Pact
-		225576, -- Writhing Ringworm
-		212453, -- Skyterror's Corrosive Organ
-		212449, -- Sikran's Endless Arsenal
+		232805, -- Best-in-Slots
+		228858, -- Fullthrottle Facerig
+		228841, -- Semi-Charmed Amulet
+		228855, -- Paydirt Pauldrons
+		228844, -- Test Pilot's Go-Pack
+		228851, -- Bullet-Proof Vestplate
+		228868, -- Revved-Up Vambraces
+		228849, -- Dumpmech Compactors
+		228873, -- Heaviestweight Title Belt
+		228853, -- Hired Muscle's Legguards
+		228874, -- Rik's Walkin' Boots
+		231265, -- The Jastor Diamond
+		228843, -- Miniature Roulette Wheel
+		230198, -- Eye of Kezan
+		230029, -- Chromebustible Bomb Suit
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Blood Death Knight",
@@ -46,21 +45,14 @@ BLOOD_DEATH_KNIGHT_RAID_BIS = {
 
 BLOOD_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		159650, -- Dismembered Submersible Claw
-		221146, -- Soaring Behemoth's Greathelm
-		178707, -- Trailspinner Pendant
-		133294, -- Earthshape Pauldrons
-		221154, -- Swarmcaller's Shroud
-		221139, -- Dark Priest's Carapace
-		133306, -- Bracers of Umbral Mending
-		221086, -- Machinist's Searing Handguards
-		159434, -- Cannoneer's Toolbelt
-		221092, -- Legplates of Broken Trust
-		221178, -- Ichor-Stained Sollerets
-		162541, -- Band of the Roving Scalawag
-		178781, -- Ritual Commander's Ring
-		219314, -- Ara-Kara Sacbrood
-		178751, -- Spare Meat Hook
+		234490, -- Circuit Breaker
+		221047, -- Monstrosity's Gaze
+		221103, -- Flickering Glowtorc
+		221118, -- Flameforged Armguard
+		234504, -- Jumpstarter's Scaffold-Scrapers
+		221040, -- Lightning-Conductor's Bands
+		168972, -- Pyroclastic Greatboots
+		219309, -- Tome of Light's Devotion
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Blood Death Knight",
@@ -69,23 +61,21 @@ BLOOD_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 
 FROST_DEATH_KNIGHT_OVERALL_BIS = {
 	itemIDs = {
-		222433, -- Everforged Helm
-		178707, -- Trailspinner Pendant
-		212000, -- Exhumed Centurion's Spikes
-		212446, -- Royal Emblem of Nerub-ar
-		212005, -- Exhumed Centurion's Breastplate
-		225587, -- Devoted Offering's Irons
-		212003, -- Exhumed Centurion's Gauntlets
-		221079, -- Crystal-Fissure Girdle
-		212001, -- Exhumed Centurion's Chausses
-		222429, -- Everforged Sabatons
-		225578, -- Seal of the Poisoned Pact
+		228858, -- Fullthrottle Facerig
+		228841, -- Semi-Charmed Amulet
+		229251, -- Cauldron Champion's Screamplate
+		222817, -- Consecrated Cloak
+		229256, -- Cauldron Champion's Ribcage
+		228868, -- Revved-Up Vambraces
+		229254, -- Cauldron Champion's Fistguards
+		234505, -- Venture Contractor's Floodlight
+		229252, -- Cauldron Champion's Tattered Cuisses
+		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
-		220305, -- Ovi'nax's Mercurial Egg
-		221023, -- Treacherous Transmitter
-		212401, -- Ansurek's Final Judgment
+		230027, -- House of Cards
+		230198, -- Eye of Kezan
+		228902, -- Wiseguy's Refused Offer
 		222451, -- Charged Slicer
-		222447, -- Charged Claymore
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Frost Death Knight",
@@ -94,23 +84,22 @@ FROST_DEATH_KNIGHT_OVERALL_BIS = {
 
 FROST_DEATH_KNIGHT_RAID_BIS = {
 	itemIDs = {
-		212427, -- Visor of the Ascended Captain
-		212448, -- Locket of Broken Memories
-		212000, -- Exhumed Centurion's Spikes
-		212446, -- Royal Emblem of Nerub-ar
-		212005, -- Exhumed Centurion's Breastplate
-		225587, -- Devoted Offering's Irons
-		212003, -- Exhumed Centurion's Gauntlets
-		225589, -- Nether Bounty's Greatbelt
-		212001, -- Exhumed Centurion's Chausses
-		212443, -- Shattershell Greaves
-		225578, -- Seal of the Poisoned Pact
-		228411, -- Cyrce's Circlet
-		220305, -- Ovi'nax's Mercurial Egg
-		221023, -- Treacherous Transmitter
-		212401, -- Ansurek's Final Judgment
-		212401, -- Ansurek's Final Judgment
-		212407, -- Anub'arash's Colossal Mandible
+		228858, -- Fullthrottle Facerig
+		228841, -- Semi-Charmed Amulet
+		229251, -- Cauldron Champion's Screamplate
+		228839, -- Undercircuit Racing Flag
+		229256, -- Cauldron Champion's Ribcage
+		228868, -- Revved-Up Vambraces
+		229254, -- Cauldron Champion's Fistguards
+		228873, -- Heaviestweight Title Belt
+		229252, -- Cauldron Champion's Tattered Cuisses
+		228874, -- Rik's Walkin' Boots
+		231265, -- The Jastor Diamond
+		228840, -- Faded Championship Ring
+		230027, -- House of Cards
+		230198, -- Eye of Kezan
+		228902, -- Wiseguy's Refused Offer
+		228902, -- Wiseguy's Refused Offer
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Frost Death Knight",
@@ -119,23 +108,14 @@ FROST_DEATH_KNIGHT_RAID_BIS = {
 
 FROST_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		178694, -- Wrathbark Greathelm
-		178707, -- Trailspinner Pendant
-		178749, -- Vile Butcher's Pauldrons
-		133363, -- Troggstitched Drape
-		221139, -- Dark Priest's Carapace
-		133306, -- Bracers of Umbral Mending
-		178706, -- Fogweaver Gauntlets
-		221079, -- Crystal-Fissure Girdle
-		178739, -- Legplates of Unholy Frenzy
-		221178, -- Ichor-Stained Sollerets
-		221136, -- Devout Zealot's Ring
-		228411, -- Cyrce's Circlet
-		133300, -- Mark of Khardros
-		219314, -- Ara-Kara Sacbrood
-		159649, -- Saber of Dread Pirate Lockwood
-		221145, -- Shipwrecker's Bludgeon
-		221184, -- Surgical Heartstopper
+		221047, -- Monstrosity's Gaze
+		221060, -- Strapped Rescue-Keg
+		221118, -- Flameforged Armguard
+		221112, -- Caliginous Claspers
+		168976, -- Automatic Waist Tightener
+		221197, -- Hoop of the Blighted
+		232541, -- Improvised Seaforium Pacemaker
+		221096, -- Rail Rider's Bisector
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Frost Death Knight",
@@ -144,21 +124,20 @@ FROST_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 
 UNHOLY_DEATH_KNIGHT_OVERALL_BIS = {
 	itemIDs = {
-		178694, -- Wrathbark Greathelm
-		225577, -- Sureki Zealot's Insignia
-		212000, -- Exhumed Centurion's Spikes
+		229253, -- Cauldron Champion's Crown
+		221060, -- Strapped Rescue-Keg
+		229251, -- Cauldron Champion's Screamplate
 		222817, -- Consecrated Cloak
-		212005, -- Exhumed Centurion's Breastplate
-		133306, -- Bracers of Umbral Mending
-		212003, -- Exhumed Centurion's Gauntlets
-		221133, -- Girdle of Somber Ploys
-		212001, -- Exhumed Centurion's Chausses
-		225590, -- Boots of the Black Bulwark
-		225576, -- Writhing Ringworm
+		229256, -- Cauldron Champion's Ribcage
+		222435, -- Everforged Vambraces
+		229254, -- Cauldron Champion's Fistguards
+		228886, -- Coin-Operated Girdle
+		229255, -- Cauldron Champion's Greatboots
+		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
-		221023, -- Treacherous Transmitter
-		220305, -- Ovi'nax's Mercurial Egg
-		222447, -- Charged Claymore
+		230027, -- House of Cards
+		230198, -- Eye of Kezan
+		232805, -- Best-in-Slots
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Unholy Death Knight",
@@ -167,21 +146,21 @@ UNHOLY_DEATH_KNIGHT_OVERALL_BIS = {
 
 UNHOLY_DEATH_KNIGHT_RAID_BIS = {
 	itemIDs = {
-		178694, -- Wrathbark Greathelm
-		225577, -- Sureki Zealot's Insignia
-		212000, -- Exhumed Centurion's Spikes
-		212446, -- Royal Emblem of Nerub-ar
-		212005, -- Exhumed Centurion's Breastplate
-		212437, -- Ravaged Lamplighter's Manacles
-		212003, -- Exhumed Centurion's Gauntlets
-		212442, -- Greatbelt of the Hungerer
-		212001, -- Exhumed Centurion's Chausses
-		225590, -- Boots of the Black Bulwark
-		228411, -- Cyrce's Circlet
-		225576, -- Writhing Ringworm
-		221023, -- Treacherous Transmitter
-		220305, -- Ovi'nax's Mercurial Egg
-		212407, -- Anub'arash's Colossal Mandible
+		229253, -- Cauldron Champion's Crown
+		228841, -- Semi-Charmed Amulet
+		229251, -- Cauldron Champion's Screamplate
+		228844, -- Test Pilot's Go-Pack
+		229256, -- Cauldron Champion's Ribcage
+		228868, -- Revved-Up Vambraces
+		229254, -- Cauldron Champion's Fistguards
+		228886, -- Coin-Operated Girdle
+		228853, -- Hired Muscle's Legguards
+		229255, -- Cauldron Champion's Greatboots
+		231265, -- The Jastor Diamond
+		228840, -- Faded Championship Ring
+		230027, -- House of Cards
+		230198, -- Eye of Kezan
+		232805, -- Best-in-Slots
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Unholy Death Knight",
@@ -190,21 +169,14 @@ UNHOLY_DEATH_KNIGHT_RAID_BIS = {
 
 UNHOLY_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		178694, -- Wrathbark Greathelm
-		221077, -- 'Emergency Stop' Keychain
-		133294, -- Earthshape Pauldrons
-		221088, -- Anvilhide Cape
-		221161, -- Experimental Goresilk Chestguard
-		133306, -- Bracers of Umbral Mending
-		221086, -- Machinist's Searing Handguards
-		221133, -- Girdle of Somber Ploys
-		178701, -- Gormshell Greaves
-		221178, -- Ichor-Stained Sollerets
-		228411, -- Cyrce's Circlet
-		133299, -- Circle of Bone
-		133300, -- Mark of Khardros
-		219314, -- Ara-Kara Sacbrood
-		133298, -- Wild Hammer
+		221100, -- Waxsteel Greathelm
+		221060, -- Strapped Rescue-Keg
+		234507, -- Electrician's Siphoning Filter
+		221069, -- Slashproof Business Plate
+		234504, -- Jumpstarter's Scaffold-Scrapers
+		221040, -- Lightning-Conductor's Bands
+		232541, -- Improvised Seaforium Pacemaker
+		219308, -- Signet of the Priory
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Unholy Death Knight",

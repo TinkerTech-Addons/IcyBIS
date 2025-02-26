@@ -1,24 +1,25 @@
 HAVOC_DEMON_HUNTER_OVERALL_BIS = {
 	itemIDs = {
-		219877, -- Void Reaper's Warp Blade
+		232804, -- Capo's Molten Knuckles
 		222441, -- Everforged Warglaive
-		159651, -- Coral-Edged Crescent
-		212065, -- Impalers of the Hypogeal Nemesis
-		178707, -- Trailspinner Pendant
-		212063, -- War-Mantle of the Hypogeal Nemesis
-		225574, -- Wings of Shattered Sorrow
-		212068, -- Chestguard of the Hypogeal Nemesis
-		221157, -- Unbreakable Beetlebane Bindings
-		219333, -- Rune-Branded Grasps
-		221134, -- Shadow Congregant's Belt
-		212064, -- Pantaloons of the Hypogeal Nemesis
-		221169, -- Whisperer's Echoing Steps
-		225578, -- Seal of the Poisoned Pact
+		228894, -- GIGADEATH Chainblade
+		229316, -- Fel-Dealer's Visor
+		232663, -- Undermine Merc's Dog Tags
+		229314, -- Fel-Dealer's Recycled Reavers
+		221054, -- Chef Chewie's Towel
+		229319, -- Fel-Dealer's Soul Engine
+		219334, -- Rune-Branded Armbands
+		221036, -- Tempestwind Handlers
+		229313, -- Fel-Dealer's Waistwrap
+		229315, -- Fel-Dealer's Fur Kilt
+		228888, -- Rushed Beta Launchers
+		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
-		212454, -- Mad Queen's Mandate
-		133282, -- Skardyn's Grace
-		219314, -- Ara-Kara Sacbrood
-		221023, -- Treacherous Transmitter
+		228843, -- Miniature Roulette Wheel
+		230198, -- Eye of Kezan
+		232541, -- Improvised Seaforium Pacemaker
+		230027, -- House of Cards
+		219308, -- Signet of the Priory
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Havoc Demon Hunter",
@@ -27,23 +28,24 @@ HAVOC_DEMON_HUNTER_OVERALL_BIS = {
 
 HAVOC_DEMON_HUNTER_RAID_BIS = {
 	itemIDs = {
-		219877, -- Void Reaper's Warp Blade
-		212391, -- Predator's Feasthooks
-		212065, -- Impalers of the Hypogeal Nemesis
-		212448, -- Locket of Broken Memories
-		212063, -- War-Mantle of the Hypogeal Nemesis
-		225574, -- Wings of Shattered Sorrow
-		212068, -- Chestguard of the Hypogeal Nemesis
-		212438, -- Polluted Spectre's Wraps
-		212432, -- Thousand-Scar Impalers
-		225583, -- Behemoth's Eroded Cinch
-		212064, -- Pantaloons of the Hypogeal Nemesis
-		212445, -- Chitin-Spiked Jackboots
-		225578, -- Seal of the Poisoned Pact
-		225576, -- Writhing Ringworm
-		212454, -- Mad Queen's Mandate
-		221023, -- Treacherous Transmitter
-		220305, -- Ovi'nax's Mercurial Egg
+		232804, -- Capo's Molten Knuckles
+		228894, -- GIGADEATH Chainblade
+		228904, -- Crowd Favorite
+		228848, -- Darkfuse Racketeer's Tricorne
+		232663, -- Undermine Merc's Dog Tags
+		229314, -- Fel-Dealer's Recycled Reavers
+		228839, -- Undercircuit Racing Flag
+		229319, -- Fel-Dealer's Soul Engine
+		228869, -- Killer Queen's Wristflickers
+		229317, -- Fel-Dealer's Underhandlers
+		228880, -- Hitman's Holster
+		229315, -- Fel-Dealer's Fur Kilt
+		228888, -- Rushed Beta Launchers
+		231265, -- The Jastor Diamond
+		228843, -- Miniature Roulette Wheel
+		230198, -- Eye of Kezan
+		230027, -- House of Cards
+		230194, -- Reverb Radio
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Havoc Demon Hunter",
@@ -52,23 +54,17 @@ HAVOC_DEMON_HUNTER_RAID_BIS = {
 
 HAVOC_DEMON_HUNTER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		159651, -- Coral-Edged Crescent
-		221084, -- Skardyn Mercybringer
-		221081, -- Guise of the Construct
-		178707, -- Trailspinner Pendant
-		221094, -- Whispering Umbral Mantle
-		133363, -- Troggstitched Drape
-		133297, -- Vest of Misshapen Hides
-		221157, -- Unbreakable Beetlebane Bindings
-		221180, -- Gorebound Stranglers
-		221134, -- Shadow Congregant's Belt
-		221153, -- Gauzewoven Legguards
-		221169, -- Whisperer's Echoing Steps
-		162541, -- Band of the Roving Scalawag
-		133286, -- Umbriss Band
-		133282, -- Skardyn's Grace
-		219314, -- Ara-Kara Sacbrood
-		219312, -- Empowering Crystal of Anub'ikkaj
+		234491, -- Sonic Ka-BOOM!-erang
+		221033, -- Hyperactive Stormclaw
+		221125, -- Helm of the Righteous Crusade
+		221103, -- Flickering Glowtorc
+		235811, -- Extravagant Epaulets
+		221054, -- Chef Chewie's Towel
+		221036, -- Tempestwind Handlers
+		168975, -- Machinist's Treasured Treads
+		221198, -- 85-Year Tenure Ring
+		232541, -- Improvised Seaforium Pacemaker
+		219308, -- Signet of the Priory
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Havoc Demon Hunter",
@@ -77,22 +73,22 @@ HAVOC_DEMON_HUNTER_MYTHIC_PLUS_BIS = {
 
 VENGEANCE_DEMON_HUNTER_OVERALL_BIS = {
 	itemIDs = {
-		219877, -- Void Reaper's Warp Blade
+		228904, -- Crowd Favorite
 		222441, -- Everforged Warglaive
-		212417, -- Beyond's Dark Visage
-		225577, -- Sureki Zealot's Insignia
-		212063, -- War-Mantle of the Hypogeal Nemesis
-		225574, -- Wings of Shattered Sorrow
-		212068, -- Chestguard of the Hypogeal Nemesis
-		225588, -- Sanguine Experiment's Bandages
-		212066, -- Claws of the Hypogeal Nemesis
+		229316, -- Fel-Dealer's Visor
+		228841, -- Semi-Charmed Amulet
+		229314, -- Fel-Dealer's Recycled Reavers
+		228844, -- Test Pilot's Go-Pack
+		229319, -- Fel-Dealer's Soul Engine
+		228869, -- Killer Queen's Wristflickers
+		229317, -- Fel-Dealer's Underhandlers
 		219502, -- Adrenal Surge Clasp
-		212064, -- Pantaloons of the Hypogeal Nemesis
-		212445, -- Chitin-Spiked Jackboots
-		225578, -- Seal of the Poisoned Pact
+		229315, -- Fel-Dealer's Fur Kilt
+		228876, -- Dragster's Last Stride
+		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
-		219314, -- Ara-Kara Sacbrood
-		178742, -- Bottled Flayedwing Toxin
+		230027, -- House of Cards
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Vengeance Demon Hunter",
@@ -101,22 +97,22 @@ VENGEANCE_DEMON_HUNTER_OVERALL_BIS = {
 
 VENGEANCE_DEMON_HUNTER_RAID_BIS = {
 	itemIDs = {
-		219877, -- Void Reaper's Warp Blade
-		212409, -- Venom-Etched Claw
-		212417, -- Beyond's Dark Visage
-		225577, -- Sureki Zealot's Insignia
-		212063, -- War-Mantle of the Hypogeal Nemesis
-		225574, -- Wings of Shattered Sorrow
-		212068, -- Chestguard of the Hypogeal Nemesis
-		225588, -- Sanguine Experiment's Bandages
-		212066, -- Claws of the Hypogeal Nemesis
-		225583, -- Behemoth's Eroded Cinch
-		212064, -- Pantaloons of the Hypogeal Nemesis
-		212445, -- Chitin-Spiked Jackboots
-		225578, -- Seal of the Poisoned Pact
-		228411, -- Cyrce's Circlet
-		212456, -- Void Reaper's Contract
-		220305, -- Ovi'nax's Mercurial Egg
+		228904, -- Crowd Favorite
+		222441, -- Everforged Warglaive
+		229316, -- Fel-Dealer's Visor
+		228841, -- Semi-Charmed Amulet
+		229314, -- Fel-Dealer's Recycled Reavers
+		228844, -- Test Pilot's Go-Pack
+		229319, -- Fel-Dealer's Soul Engine
+		228869, -- Killer Queen's Wristflickers
+		229317, -- Fel-Dealer's Underhandlers
+		219502, -- Adrenal Surge Clasp
+		229315, -- Fel-Dealer's Fur Kilt
+		228876, -- Dragster's Last Stride
+		231265, -- The Jastor Diamond
+		228840, -- Faded Championship Ring
+		230027, -- House of Cards
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Vengeance Demon Hunter",
@@ -125,22 +121,20 @@ VENGEANCE_DEMON_HUNTER_RAID_BIS = {
 
 VENGEANCE_DEMON_HUNTER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221090, -- Eirich's Fist of Deception
-		221090, -- Eirich's Fist of Deception
-		221081, -- Guise of the Construct
-		221181, -- Elder's Hemolymphal Periapt
-		212063, -- War-Mantle of the Hypogeal Nemesis
-		221154, -- Swarmcaller's Shroud
-		212068, -- Chestguard of the Hypogeal Nemesis
-		221142, -- Scheming Assailer's Bands
-		212066, -- Claws of the Hypogeal Nemesis
-		178699, -- Sapgorger Belt
-		212064, -- Pantaloons of the Hypogeal Nemesis
-		159320, -- Besieger's Deckstalkers
-		159461, -- Band of the Ancient Dredger
-		228411, -- Cyrce's Circlet
-		219314, -- Ara-Kara Sacbrood
-		178742, -- Bottled Flayedwing Toxin
+		234491, -- Sonic Ka-BOOM!-erang
+		234491, -- Sonic Ka-BOOM!-erang
+		229316, -- Fel-Dealer's Visor
+		221103, -- Flickering Glowtorc
+		229314, -- Fel-Dealer's Recycled Reavers
+		221109, -- Candlebearer's Shroud
+		229319, -- Fel-Dealer's Soul Engine
+		229317, -- Fel-Dealer's Underhandlers
+		221058, -- Brewery Toiler's Waistband
+		229315, -- Fel-Dealer's Fur Kilt
+		221120, -- Stalwart Guardian's Boots
+		221099, -- Wick's Golden Loop
+		232541, -- Improvised Seaforium Pacemaker
+		232543, -- Ringing Ritual Mud
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Vengeance Demon Hunter",

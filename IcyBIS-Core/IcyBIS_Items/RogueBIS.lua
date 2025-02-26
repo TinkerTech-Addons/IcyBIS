@@ -1,21 +1,20 @@
 ASSASSINATION_ROGUE_OVERALL_BIS = {
 	itemIDs = {
-		225636, -- Regicide
-		212395, -- Blood-Kissed Kukri
-		212038, -- K'areshi Phantom's Emptiness
-		225577, -- Sureki Zealot's Insignia
-		212036, -- K'areshi Phantom's Shoulderpads
-		225574, -- Wings of Shattered Sorrow
-		212041, -- K'areshi Phantom's Nexus Wraps
-		219334, -- Rune-Branded Armbands
-		212039, -- K'areshi Phantom's Grips
-		225583, -- Behemoth's Eroded Cinch
-		212037, -- K'areshi Phantom's Leggings
+		231266, -- Random Number Perforator
+		222438, -- Everforged Stabber
+		229289, -- Spectral Gambler's Damned Visage
+		221103, -- Flickering Glowtorc
+		229287, -- Spectral Gambler's Bladed Mantle
+		234507, -- Electrician's Siphoning Filter
+		234499, -- Disturbed Kelp Wraps
+		229290, -- Spectral Gambler's Gloves
+		221107, -- Gleamkeeper's Buckle
+		229288, -- Spectral Gambler's Pantaloons
 		219327, -- Rune-Branded Kickers
-		225578, -- Seal of the Poisoned Pact
+		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
-		159623, -- Dead-Eye Spyglass
-		133282, -- Skardyn's Grace
+		230198, -- Eye of Kezan
+		230027, -- House of Cards
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Assassination Rogue",
@@ -24,22 +23,22 @@ ASSASSINATION_ROGUE_OVERALL_BIS = {
 
 ASSASSINATION_ROGUE_RAID_BIS = {
 	itemIDs = {
-		225636, -- Regicide
-		212395, -- Blood-Kissed Kukri
-		212038, -- K'areshi Phantom's Emptiness
-		225577, -- Sureki Zealot's Insignia
-		212036, -- K'areshi Phantom's Shoulderpads
-		225574, -- Wings of Shattered Sorrow
-		212041, -- K'areshi Phantom's Nexus Wraps
-		225588, -- Sanguine Experiment's Bandages
-		212039, -- K'areshi Phantom's Grips
-		225583, -- Behemoth's Eroded Cinch
-		212037, -- K'areshi Phantom's Leggings
-		225591, -- Fleeting Massacre Footpads
-		225578, -- Seal of the Poisoned Pact
+		231266, -- Random Number Perforator
+		231266, -- Random Number Perforator
+		229289, -- Spectral Gambler's Damned Visage
+		228841, -- Semi-Charmed Amulet
+		229287, -- Spectral Gambler's Bladed Mantle
+		228844, -- Test Pilot's Go-Pack
+		228864, -- Streamlined Cartel Uniform
+		228885, -- Hustler's Ante-Uppers
+		229290, -- Spectral Gambler's Gloves
+		228880, -- Hitman's Holster
+		229288, -- Spectral Gambler's Pantaloons
+		228888, -- Rushed Beta Launchers
+		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
-		221023, -- Treacherous Transmitter
-		212456, -- Void Reaper's Contract
+		230198, -- Eye of Kezan
+		230027, -- House of Cards
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Assassination Rogue",
@@ -48,22 +47,21 @@ ASSASSINATION_ROGUE_RAID_BIS = {
 
 ASSASSINATION_ROGUE_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221183, -- Splice 'n Dice
-		221138, -- Parson's Ornamented Blade
-		212038, -- K'areshi Phantom's Emptiness
-		221077, -- 'Emergency Stop' Keychain
-		212036, -- K'areshi Phantom's Shoulderpads
-		133363, -- Troggstitched Drape
-		212041, -- K'areshi Phantom's Nexus Wraps
-		221157, -- Unbreakable Beetlebane Bindings
-		212039, -- K'areshi Phantom's Grips
-		133353, -- Troggbone Cinch
-		212037, -- K'areshi Phantom's Leggings
-		221169, -- Whisperer's Echoing Steps
-		133286, -- Umbriss Band
+		168962, -- Apex Perforator
+		168962, -- Apex Perforator
+		229289, -- Spectral Gambler's Damned Visage
+		221103, -- Flickering Glowtorc
+		229287, -- Spectral Gambler's Bladed Mantle
+		234507, -- Electrician's Siphoning Filter
+		229292, -- Spectral Gambler's Vest
+		234499, -- Disturbed Kelp Wraps
+		229290, -- Spectral Gambler's Gloves
+		221107, -- Gleamkeeper's Buckle
+		229288, -- Spectral Gambler's Pantaloons
+		221198, -- 85-Year Tenure Ring
 		228411, -- Cyrce's Circlet
-		159623, -- Dead-Eye Spyglass
-		133282, -- Skardyn's Grace
+		219308, -- Signet of the Priory
+		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Assassination Rogue",
@@ -72,22 +70,22 @@ ASSASSINATION_ROGUE_MYTHIC_PLUS_BIS = {
 
 OUTLAW_ROGUE_OVERALL_BIS = {
 	itemIDs = {
-		219877, -- Void Reaper's Warp Blade
-		212395, -- Blood-Kissed Kukri
-		212038, -- K'areshi Phantom's Emptiness
-		221181, -- Elder's Hemolymphal Periapt
-		212036, -- K'areshi Phantom's Shoulderpads
-		225574, -- Wings of Shattered Sorrow
-		212041, -- K'areshi Phantom's Nexus Wraps
+		232804, -- Capo's Molten Knuckles
+		228899, -- Gallywix's Iron Thumb
+		229289, -- Spectral Gambler's Damned Visage
+		228841, -- Semi-Charmed Amulet
+		229287, -- Spectral Gambler's Bladed Mantle
+		168970, -- Trashmaster's Mantle
+		221130, -- Seraphic Wraps of the Ordained
 		219334, -- Rune-Branded Armbands
-		212039, -- K'areshi Phantom's Grips
-		178699, -- Sapgorger Belt
-		219332, -- Rune-Branded Legwraps
-		178731, -- Viscera-Stitched Footpads
-		178781, -- Ritual Commander's Ring
+		229290, -- Spectral Gambler's Gloves
+		228856, -- Competitor's Battle Cord
+		229288, -- Spectral Gambler's Pantaloons
+		228876, -- Dragster's Last Stride
+		215135, -- Ring of Earthen Craftsmanship
 		228411, -- Cyrce's Circlet
-		212456, -- Void Reaper's Contract
-		219314, -- Ara-Kara Sacbrood
+		230198, -- Eye of Kezan
+		230199, -- Zee's Thug Hotline
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Outlaw Rogue",
@@ -96,22 +94,22 @@ OUTLAW_ROGUE_OVERALL_BIS = {
 
 OUTLAW_ROGUE_RAID_BIS = {
 	itemIDs = {
-		225636, -- Regicide
-		212395, -- Blood-Kissed Kukri
-		212038, -- K'areshi Phantom's Emptiness
-		212448, -- Locket of Broken Memories
-		212036, -- K'areshi Phantom's Shoulderpads
-		225574, -- Wings of Shattered Sorrow
-		212041, -- K'areshi Phantom's Nexus Wraps
-		225588, -- Sanguine Experiment's Bandages
-		212039, -- K'areshi Phantom's Grips
-		225583, -- Behemoth's Eroded Cinch
-		212423, -- Rebel's Drained Marrowslacks
-		225591, -- Fleeting Massacre Footpads
-		225578, -- Seal of the Poisoned Pact
+		232804, -- Capo's Molten Knuckles
+		228899, -- Gallywix's Iron Thumb
+		229289, -- Spectral Gambler's Damned Visage
+		228841, -- Semi-Charmed Amulet
+		229287, -- Spectral Gambler's Bladed Mantle
+		228839, -- Undercircuit Racing Flag
+		229292, -- Spectral Gambler's Vest
+		228869, -- Killer Queen's Wristflickers
+		229290, -- Spectral Gambler's Gloves
+		228856, -- Competitor's Battle Cord
+		229288, -- Spectral Gambler's Pantaloons
+		228876, -- Dragster's Last Stride
+		228840, -- Faded Championship Ring
 		228411, -- Cyrce's Circlet
-		212456, -- Void Reaper's Contract
-		212454, -- Mad Queen's Mandate
+		230198, -- Eye of Kezan
+		230199, -- Zee's Thug Hotline
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Outlaw Rogue",
@@ -120,22 +118,19 @@ OUTLAW_ROGUE_RAID_BIS = {
 
 OUTLAW_ROGUE_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221144, -- Zephyrous Sail Carver
-		221138, -- Parson's Ornamented Blade
-		212038, -- K'areshi Phantom's Emptiness
-		221181, -- Elder's Hemolymphal Periapt
-		212036, -- K'areshi Phantom's Shoulderpads
-		221154, -- Swarmcaller's Shroud
-		212041, -- K'areshi Phantom's Nexus Wraps
-		221142, -- Scheming Assailer's Bands
-		212039, -- K'areshi Phantom's Grips
-		178699, -- Sapgorger Belt
-		159322, -- Seawalker's Pantaloons
-		178731, -- Viscera-Stitched Footpads
-		178781, -- Ritual Commander's Ring
+		221128, -- Starforged Seraph's Mace
+		221128, -- Starforged Seraph's Mace
+		229289, -- Spectral Gambler's Damned Visage
+		221103, -- Flickering Glowtorc
+		229287, -- Spectral Gambler's Bladed Mantle
+		168970, -- Trashmaster's Mantle
+		221130, -- Seraphic Wraps of the Ordained
+		229290, -- Spectral Gambler's Gloves
+		229288, -- Spectral Gambler's Pantaloons
+		168975, -- Machinist's Treasured Treads
 		228411, -- Cyrce's Circlet
-		159623, -- Dead-Eye Spyglass
-		219314, -- Ara-Kara Sacbrood
+		219304, -- Conductor's Wax Whistle
+		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Outlaw Rogue",
@@ -144,22 +139,21 @@ OUTLAW_ROGUE_MYTHIC_PLUS_BIS = {
 
 SUBTLETY_ROGUE_OVERALL_BIS = {
 	itemIDs = {
-		212395, -- Blood-Kissed Kukri
-		178743, -- Stitchflesh's Scalpel
-		221163, -- Whispering Mask
-		225575, -- Silken Advisor's Favor
-		212036, -- K'areshi Phantom's Shoulderpads
-		133363, -- Troggstitched Drape
-		212041, -- K'areshi Phantom's Nexus Wraps
-		225588, -- Sanguine Experiment's Bandages
-		212039, -- K'areshi Phantom's Grips
-		212425, -- Devourer's Taut Innards
-		212037, -- K'areshi Phantom's Leggings
-		225591, -- Fleeting Massacre Footpads
-		225578, -- Seal of the Poisoned Pact
-		221141, -- High Nerubian Signet
-		212456, -- Void Reaper's Contract
-		221023, -- Treacherous Transmitter
+		228897, -- Pyrotechnic Needle-Dropper
+		228897, -- Pyrotechnic Needle-Dropper
+		229289, -- Spectral Gambler's Damned Visage
+		221103, -- Flickering Glowtorc
+		229287, -- Spectral Gambler's Bladed Mantle
+		222817, -- Consecrated Cloak
+		229292, -- Spectral Gambler's Vest
+		228885, -- Hustler's Ante-Uppers
+		221036, -- Tempestwind Handlers
+		228856, -- Competitor's Battle Cord
+		229288, -- Spectral Gambler's Pantaloons
+		219327, -- Rune-Branded Kickers
+		231265, -- The Jastor Diamond
+		230027, -- House of Cards
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Subtlety Rogue",
@@ -168,22 +162,22 @@ SUBTLETY_ROGUE_OVERALL_BIS = {
 
 SUBTLETY_ROGUE_RAID_BIS = {
 	itemIDs = {
-		212395, -- Blood-Kissed Kukri
-		212395, -- Blood-Kissed Kukri
-		212417, -- Beyond's Dark Visage
-		225575, -- Silken Advisor's Favor
-		212036, -- K'areshi Phantom's Shoulderpads
-		225574, -- Wings of Shattered Sorrow
-		212041, -- K'areshi Phantom's Nexus Wraps
-		225588, -- Sanguine Experiment's Bandages
-		212039, -- K'areshi Phantom's Grips
-		212425, -- Devourer's Taut Innards
-		212037, -- K'areshi Phantom's Leggings
-		225591, -- Fleeting Massacre Footpads
-		225578, -- Seal of the Poisoned Pact
-		225576, -- Writhing Ringworm
-		221023, -- Treacherous Transmitter
-		212456, -- Void Reaper's Contract
+		228897, -- Pyrotechnic Needle-Dropper
+		228897, -- Pyrotechnic Needle-Dropper
+		229289, -- Spectral Gambler's Damned Visage
+		228842, -- Gobfather's Gifted Bling
+		229287, -- Spectral Gambler's Bladed Mantle
+		228844, -- Test Pilot's Go-Pack
+		229292, -- Spectral Gambler's Vest
+		228885, -- Hustler's Ante-Uppers
+		228863, -- Enforcer's Sticky Fingers
+		228856, -- Competitor's Battle Cord
+		229288, -- Spectral Gambler's Pantaloons
+		228888, -- Rushed Beta Launchers
+		228843, -- Miniature Roulette Wheel
+		231265, -- The Jastor Diamond
+		230027, -- House of Cards
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Subtlety Rogue",
@@ -192,22 +186,18 @@ SUBTLETY_ROGUE_RAID_BIS = {
 
 SUBTLETY_ROGUE_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		178743, -- Stitchflesh's Scalpel
-		178743, -- Stitchflesh's Scalpel
-		212038, -- K'areshi Phantom's Emptiness
-		178707, -- Trailspinner Pendant
-		212036, -- K'areshi Phantom's Shoulderpads
-		221154, -- Swarmcaller's Shroud
-		212041, -- K'areshi Phantom's Nexus Wraps
-		221157, -- Unbreakable Beetlebane Bindings
-		212039, -- K'areshi Phantom's Grips
-		133353, -- Troggbone Cinch
-		212037, -- K'areshi Phantom's Leggings
-		159320, -- Besieger's Deckstalkers
-		221141, -- High Nerubian Signet
-		133287, -- Ring of Dun Algaz
-		159623, -- Dead-Eye Spyglass
-		133282, -- Skardyn's Grace
+		221044, -- Shadowskean of the Colossus
+		221044, -- Shadowskean of the Colossus
+		221103, -- Flickering Glowtorc
+		235811, -- Extravagant Epaulets
+		168970, -- Trashmaster's Mantle
+		221049, -- Jerkin of Awakened Stone
+		221053, -- Battle-Scarred Fisticuffs
+		221036, -- Tempestwind Handlers
+		168957, -- Mekgineer's Championship Belt
+		221071, -- Backbreaking Bootstrappers
+		221200, -- Radiant Necromancer's Band
+		219304, -- Conductor's Wax Whistle
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Subtlety Rogue",

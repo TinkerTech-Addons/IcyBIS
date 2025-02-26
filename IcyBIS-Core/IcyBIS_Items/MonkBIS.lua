@@ -1,20 +1,19 @@
 BREWMASTER_MONK_OVERALL_BIS = {
 	itemIDs = {
-		212047, -- Gatecrasher's Horns
-		225575, -- Silken Advisor's Favor
-		212045, -- Gatecrasher's Enduring Effigy
-		225574, -- Wings of Shattered Sorrow
-		212050, -- Gatecrasher's Gi
-		225588, -- Sanguine Experiment's Bandages
-		219333, -- Rune-Branded Grasps
+		229298, -- Ageless Serpent's Mane
+		221103, -- Flickering Glowtorc
+		229296, -- Ageless Serpent's Shoulderpads
+		168970, -- Trashmaster's Mantle
+		219334, -- Rune-Branded Armbands
+		229299, -- Ageless Serpent's Handguards
 		219502, -- Adrenal Surge Clasp
-		212046, -- Gatecrasher's Kilt
-		225591, -- Fleeting Massacre Footpads
-		225578, -- Seal of the Poisoned Pact
+		229297, -- Ageless Serpent's Leggings
+		229300, -- Ageless Serpent's Ankleweights
+		228843, -- Miniature Roulette Wheel
 		228411, -- Cyrce's Circlet
-		221159, -- Harvester's Interdiction
-		219877, -- Void Reaper's Warp Blade
-		212454, -- Mad Queen's Mandate
+		228905, -- Giga Bank-Breaker
+		232804, -- Capo's Molten Knuckles
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Brewmaster Monk",
@@ -23,21 +22,21 @@ BREWMASTER_MONK_OVERALL_BIS = {
 
 BREWMASTER_MONK_RAID_BIS = {
 	itemIDs = {
-		212047, -- Gatecrasher's Horns
-		225575, -- Silken Advisor's Favor
-		212045, -- Gatecrasher's Enduring Effigy
-		225574, -- Wings of Shattered Sorrow
-		212050, -- Gatecrasher's Gi
-		225588, -- Sanguine Experiment's Bandages
-		212432, -- Thousand-Scar Impalers
-		212425, -- Devourer's Taut Innards
-		212046, -- Gatecrasher's Kilt
-		225591, -- Fleeting Massacre Footpads
-		225578, -- Seal of the Poisoned Pact
+		229298, -- Ageless Serpent's Mane
+		228842, -- Gobfather's Gifted Bling
+		229296, -- Ageless Serpent's Shoulderpads
+		228844, -- Test Pilot's Go-Pack
+		228864, -- Streamlined Cartel Uniform
+		228885, -- Hustler's Ante-Uppers
+		229299, -- Ageless Serpent's Handguards
+		228856, -- Competitor's Battle Cord
+		229297, -- Ageless Serpent's Leggings
+		228888, -- Rushed Beta Launchers
+		228843, -- Miniature Roulette Wheel
 		228411, -- Cyrce's Circlet
-		212389, -- Spire of Transfused Horrors
-		219877, -- Void Reaper's Warp Blade
-		219915, -- Foul Behemoth's Chelicera
+		228905, -- Giga Bank-Breaker
+		232804, -- Capo's Molten Knuckles
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Brewmaster Monk",
@@ -46,21 +45,17 @@ BREWMASTER_MONK_RAID_BIS = {
 
 BREWMASTER_MONK_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		212047, -- Gatecrasher's Horns
-		221181, -- Elder's Hemolymphal Periapt
-		212045, -- Gatecrasher's Enduring Effigy
-		133292, -- Azureborne Cloak
-		212050, -- Gatecrasher's Gi
-		178702, -- Bands of the Undergrowth
-		221180, -- Gorebound Stranglers
-		221134, -- Shadow Congregant's Belt
-		212046, -- Gatecrasher's Kilt
-		159320, -- Besieger's Deckstalkers
-		178781, -- Ritual Commander's Ring
+		229298, -- Ageless Serpent's Mane
+		221103, -- Flickering Glowtorc
+		229296, -- Ageless Serpent's Shoulderpads
+		168970, -- Trashmaster's Mantle
+		229299, -- Ageless Serpent's Handguards
+		168986, -- Mad King's Sporran
+		229297, -- Ageless Serpent's Leggings
 		228411, -- Cyrce's Circlet
-		221159, -- Harvester's Interdiction
-		221144, -- Zephyrous Sail Carver
-		219314, -- Ara-Kara Sacbrood
+		234494, -- Gallytech Turbo-Tiller
+		221128, -- Starforged Seraph's Mace
+		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Brewmaster Monk",
@@ -69,21 +64,18 @@ BREWMASTER_MONK_MYTHIC_PLUS_BIS = {
 
 MISTWEAVER_MONK_OVERALL_BIS = {
 	itemIDs = {
-		221166, -- Krix'vizk's Speech Rod
-		212047, -- Gatecrasher's Horns
-		225577, -- Sureki Zealot's Insignia
-		212444, -- Frame of Felled Insurgents
-		133292, -- Azureborne Cloak
-		212050, -- Gatecrasher's Gi
-		221142, -- Scheming Assailer's Bands
-		212048, -- Gatecrasher's Protectors
-		225583, -- Behemoth's Eroded Cinch
-		212046, -- Gatecrasher's Kilt
-		159320, -- Besieger's Deckstalkers
-		212447, -- Key to the Unseeming
+		222568, -- Vagabond's Bounding Baton
+		234498, -- Waterworks Filtration Mask
+		228841, -- Semi-Charmed Amulet
+		229296, -- Ageless Serpent's Shoulderpads
+		229301, -- Ageless Serpent's Inked Coils
+		229299, -- Ageless Serpent's Handguards
+		219331, -- Rune-Branded Waistband
+		229297, -- Ageless Serpent's Leggings
+		228843, -- Miniature Roulette Wheel
 		228411, -- Cyrce's Circlet
-		133304, -- Gale of Shadows
-		178708, -- Unbound Changeling
+		230194, -- Reverb Radio
+		230192, -- Mug's Moxie Jug
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Mistweaver Monk",
@@ -92,21 +84,17 @@ MISTWEAVER_MONK_OVERALL_BIS = {
 
 MISTWEAVER_MONK_RAID_BIS = {
 	itemIDs = {
-		221166, -- Krix'vizk's Speech Rod
-		212047, -- Gatecrasher's Horns
-		221077, -- 'Emergency Stop' Keychain
-		221148, -- Epaulets of the Clipped Wings
-		133363, -- Troggstitched Drape
-		212050, -- Gatecrasher's Gi
-		221142, -- Scheming Assailer's Bands
-		212048, -- Gatecrasher's Protectors
-		159309, -- Port Pillager's Belt
-		212046, -- Gatecrasher's Kilt
-		159320, -- Besieger's Deckstalkers
+		169005, -- Mekgineer's Mindbending Headgear
+		221103, -- Flickering Glowtorc
+		229296, -- Ageless Serpent's Shoulderpads
+		229301, -- Ageless Serpent's Inked Coils
+		229299, -- Ageless Serpent's Handguards
+		221058, -- Brewery Toiler's Waistband
+		229297, -- Ageless Serpent's Leggings
+		221099, -- Wick's Golden Loop
 		228411, -- Cyrce's Circlet
-		178736, -- Stitchflesh's Misplaced Signet
-		133304, -- Gale of Shadows
-		178708, -- Unbound Changeling
+		219308, -- Signet of the Priory
+		219296, -- Entropic Skardyn Core
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Mistweaver Monk",
@@ -115,22 +103,22 @@ MISTWEAVER_MONK_RAID_BIS = {
 
 MISTWEAVER_MONK_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		212404, -- Scepter of Manifested Miasma
-		212387, -- Broodtwister's Grim Catalyst
-		212047, -- Gatecrasher's Horns
-		225577, -- Sureki Zealot's Insignia
-		212444, -- Frame of Felled Insurgents
-		225574, -- Wings of Shattered Sorrow
-		212050, -- Gatecrasher's Gi
-		225588, -- Sanguine Experiment's Bandages
-		212048, -- Gatecrasher's Protectors
-		225583, -- Behemoth's Eroded Cinch
-		212046, -- Gatecrasher's Kilt
-		212445, -- Chitin-Spiked Jackboots
-		212447, -- Key to the Unseeming
+		231268, -- Blastfurious Machete
+		228906, -- Operator's Fraud Detector
+		229298, -- Ageless Serpent's Mane
+		228841, -- Semi-Charmed Amulet
+		229296, -- Ageless Serpent's Shoulderpads
+		228839, -- Undercircuit Racing Flag
+		229301, -- Ageless Serpent's Inked Coils
+		228869, -- Killer Queen's Wristflickers
+		229299, -- Ageless Serpent's Handguards
+		228880, -- Hitman's Holster
+		228854, -- Bilgerat's Discarded Slacks
+		228876, -- Dragster's Last Stride
+		228843, -- Miniature Roulette Wheel
 		228411, -- Cyrce's Circlet
-		220305, -- Ovi'nax's Mercurial Egg
-		221023, -- Treacherous Transmitter
+		230194, -- Reverb Radio
+		230192, -- Mug's Moxie Jug
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Mistweaver Monk",
@@ -139,23 +127,23 @@ MISTWEAVER_MONK_MYTHIC_PLUS_BIS = {
 
 WINDWALKER_MONK_OVERALL_BIS = {
 	itemIDs = {
-		178691, -- Hood of the Hidden Path
-		225577, -- Sureki Zealot's Insignia
-		212045, -- Gatecrasher's Enduring Effigy
-		225574, -- Wings of Shattered Sorrow
-		212050, -- Gatecrasher's Gi
-		178741, -- Risen Monstrosity Cuffs
-		212048, -- Gatecrasher's Protectors
-		178699, -- Sapgorger Belt
-		212046, -- Gatecrasher's Kilt
-		212445, -- Chitin-Spiked Jackboots
-		221189, -- Experiment 08752's Band
-		178736, -- Stitchflesh's Misplaced Signet
-		212413, -- Honored Executioner's Perforator
-		219877, -- Void Reaper's Warp Blade
-		221090, -- Eirich's Fist of Deception
-		221023, -- Treacherous Transmitter
-		212456, -- Void Reaper's Contract
+		229298, -- Ageless Serpent's Mane
+		228842, -- Gobfather's Gifted Bling
+		229296, -- Ageless Serpent's Shoulderpads
+		228844, -- Test Pilot's Go-Pack
+		229301, -- Ageless Serpent's Inked Coils
+		229294, -- Ageless Serpent's Cuffs
+		229299, -- Ageless Serpent's Handguards
+		168957, -- Mekgineer's Championship Belt
+		168968, -- Flame-Seared Leggings
+		221071, -- Backbreaking Bootstrappers
+		228411, -- Cyrce's Circlet
+		231265, -- The Jastor Diamond
+		221116, -- Glorious Defender's Poleaxe
+		232804, -- Capo's Molten Knuckles
+		228899, -- Gallywix's Iron Thumb
+		230198, -- Eye of Kezan
+		230027, -- House of Cards
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Windwalker Monk",
@@ -164,23 +152,23 @@ WINDWALKER_MONK_OVERALL_BIS = {
 
 WINDWALKER_MONK_RAID_BIS = {
 	itemIDs = {
-		212047, -- Gatecrasher's Horns
-		225577, -- Sureki Zealot's Insignia
-		212045, -- Gatecrasher's Enduring Effigy
-		225574, -- Wings of Shattered Sorrow
-		212433, -- Omnivore's Venomous Camouflage
-		212438, -- Polluted Spectre's Wraps
-		212048, -- Gatecrasher's Protectors
-		225583, -- Behemoth's Eroded Cinch
-		212046, -- Gatecrasher's Kilt
-		212445, -- Chitin-Spiked Jackboots
-		212447, -- Key to the Unseeming
-		225578, -- Seal of the Poisoned Pact
-		212413, -- Honored Executioner's Perforator
-		219877, -- Void Reaper's Warp Blade
-		212409, -- Venom-Etched Claw
-		221023, -- Treacherous Transmitter
-		212456, -- Void Reaper's Contract
+		229298, -- Ageless Serpent's Mane
+		228842, -- Gobfather's Gifted Bling
+		229296, -- Ageless Serpent's Shoulderpads
+		228844, -- Test Pilot's Go-Pack
+		229301, -- Ageless Serpent's Inked Coils
+		229294, -- Ageless Serpent's Cuffs
+		229299, -- Ageless Serpent's Handguards
+		228856, -- Competitor's Battle Cord
+		228854, -- Bilgerat's Discarded Slacks
+		228888, -- Rushed Beta Launchers
+		228411, -- Cyrce's Circlet
+		231265, -- The Jastor Diamond
+		228905, -- Giga Bank-Breaker
+		232804, -- Capo's Molten Knuckles
+		228899, -- Gallywix's Iron Thumb
+		230198, -- Eye of Kezan
+		230027, -- House of Cards
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Windwalker Monk",
@@ -189,23 +177,21 @@ WINDWALKER_MONK_RAID_BIS = {
 
 WINDWALKER_MONK_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		178691, -- Hood of the Hidden Path
-		221077, -- 'Emergency Stop' Keychain
-		212045, -- Gatecrasher's Enduring Effigy
-		221088, -- Anvilhide Cape
-		212050, -- Gatecrasher's Gi
-		178741, -- Risen Monstrosity Cuffs
-		212048, -- Gatecrasher's Protectors
-		178699, -- Sapgorger Belt
-		212046, -- Gatecrasher's Kilt
-		178731, -- Viscera-Stitched Footpads
-		221189, -- Experiment 08752's Band
-		178736, -- Stitchflesh's Misplaced Signet
-		221137, -- Black Shepherd's Guisarme
-		221090, -- Eirich's Fist of Deception
-		221090, -- Eirich's Fist of Deception
-		133282, -- Skardyn's Grace
-		219314, -- Ara-Kara Sacbrood
+		229298, -- Ageless Serpent's Mane
+		221060, -- Strapped Rescue-Keg
+		229296, -- Ageless Serpent's Shoulderpads
+		234507, -- Electrician's Siphoning Filter
+		229301, -- Ageless Serpent's Inked Coils
+		221053, -- Battle-Scarred Fisticuffs
+		229299, -- Ageless Serpent's Handguards
+		168957, -- Mekgineer's Championship Belt
+		168968, -- Flame-Seared Leggings
+		221071, -- Backbreaking Bootstrappers
+		228411, -- Cyrce's Circlet
+		221116, -- Glorious Defender's Poleaxe
+		221051, -- Crusher of the Unsettled
+		221051, -- Crusher of the Unsettled
+		219308, -- Signet of the Priory
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Windwalker Monk",

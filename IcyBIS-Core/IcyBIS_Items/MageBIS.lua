@@ -1,21 +1,19 @@
 ARCANE_MAGE_OVERALL_BIS = {
 	itemIDs = {
-		212394, -- Sovereign's Disdain
-		222566, -- Vagabond's Torch
-		178693, -- Cocoonsilk Cowl
-		225577, -- Sureki Zealot's Insignia
-		212090, -- Beacons of Violet Rebirth
-		212087, -- Ward of Violet Rebirth
-		212095, -- Runecoat of Violet Rebirth
+		168973, -- Neural Synapse Enhancer
+		229343, -- Aspectral Emissary's Crystalline Cowl
+		228841, -- Semi-Charmed Amulet
+		229341, -- Aspectral Emissary's Arcane Vents
+		168970, -- Trashmaster's Mantle
 		222815, -- Consecrated Cuffs
-		212093, -- Jeweled Gauntlets of Violet Rebirth
-		225585, -- Acrid Ascendant's Sash
-		212091, -- Coattails of Violet Rebirth
-		212094, -- Slippers of Violet Rebirth
-		225578, -- Seal of the Poisoned Pact
-		228411, -- Cyrce's Circlet
-		221023, -- Treacherous Transmitter
-		220202, -- Spymaster's Web
+		229344, -- Aspectral Emissary's Hardened Grasp
+		168958, -- Ringmaster's Cummerbund
+		229342, -- Aspectral Emissary's Trousers
+		222814, -- Consecrated Slippers
+		231265, -- The Jastor Diamond
+		228843, -- Miniature Roulette Wheel
+		230192, -- Mug's Moxie Jug
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Arcane Mage",
@@ -24,21 +22,21 @@ ARCANE_MAGE_OVERALL_BIS = {
 
 ARCANE_MAGE_RAID_BIS = {
 	itemIDs = {
-		212397, -- Takazj's Entropic Edict
-		212440, -- Devotee's Discarded Headdress
-		225577, -- Sureki Zealot's Insignia
-		212090, -- Beacons of Violet Rebirth
-		212446, -- Royal Emblem of Nerub-ar
-		212095, -- Runecoat of Violet Rebirth
-		225584, -- Skeinspinner's Duplicitous Cuffs
-		212093, -- Jeweled Gauntlets of Violet Rebirth
-		225585, -- Acrid Ascendant's Sash
-		212091, -- Coattails of Violet Rebirth
-		225582, -- Assimilated Eggshell Slippers
-		225578, -- Seal of the Poisoned Pact
-		228411, -- Cyrce's Circlet
-		221023, -- Treacherous Transmitter
-		220202, -- Spymaster's Web
+		228896, -- Stix's Metal Detector
+		229343, -- Aspectral Emissary's Crystalline Cowl
+		228841, -- Semi-Charmed Amulet
+		229341, -- Aspectral Emissary's Arcane Vents
+		228839, -- Undercircuit Racing Flag
+		228850, -- Bottom-Dollar Blouse
+		228881, -- Illicit Bankroll Bracers
+		229344, -- Aspectral Emissary's Hardened Grasp
+		228882, -- Refiner's Conveyor Belt
+		229342, -- Aspectral Emissary's Trousers
+		228879, -- Cemented Murloc-Swimmers
+		231265, -- The Jastor Diamond
+		228843, -- Miniature Roulette Wheel
+		230192, -- Mug's Moxie Jug
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Arcane Mage",
@@ -47,21 +45,19 @@ ARCANE_MAGE_RAID_BIS = {
 
 ARCANE_MAGE_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221085, -- Melodious Iron Songspire
-		221187, -- Intertwiner's Shadowcowl
+		168973, -- Neural Synapse Enhancer
+		229343, -- Aspectral Emissary's Crystalline Cowl
 		221060, -- Strapped Rescue-Keg
-		212090, -- Beacons of Violet Rebirth
-		221088, -- Anvilhide Cape
-		212095, -- Runecoat of Violet Rebirth
-		221182, -- Vitriolic Veinwoven Wraps
-		212093, -- Jeweled Gauntlets of Violet Rebirth
-		159245, -- Cord of the Pious Warder
-		212091, -- Coattails of Violet Rebirth
-		221082, -- Tainted Earthshard Walkers
-		221136, -- Devout Zealot's Ring
-		228411, -- Cyrce's Circlet
-		219314, -- Ara-Kara Sacbrood
-		219313, -- Mereldar's Toll
+		229341, -- Aspectral Emissary's Arcane Vents
+		168970, -- Trashmaster's Mantle
+		229344, -- Aspectral Emissary's Hardened Grasp
+		168958, -- Ringmaster's Cummerbund
+		229342, -- Aspectral Emissary's Trousers
+		229345, -- Aspectral Emissary's Slippers
+		221099, -- Wick's Golden Loop
+		221200, -- Radiant Necromancer's Band
+		219308, -- Signet of the Priory
+		232545, -- Gigazap's Zap-Cap
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Arcane Mage",
@@ -70,22 +66,21 @@ ARCANE_MAGE_MYTHIC_PLUS_BIS = {
 
 FIRE_MAGE_OVERALL_BIS = {
 	itemIDs = {
-		212394, -- Sovereign's Disdain
 		222566, -- Vagabond's Torch
-		178693, -- Cocoonsilk Cowl
-		225577, -- Sureki Zealot's Insignia
-		212090, -- Beacons of Violet Rebirth
-		221088, -- Anvilhide Cape
-		212095, -- Runecoat of Violet Rebirth
-		222815, -- Consecrated Cuffs
-		212093, -- Jeweled Gauntlets of Violet Rebirth
-		159245, -- Cord of the Pious Warder
-		212091, -- Coattails of Violet Rebirth
-		221082, -- Tainted Earthshard Walkers
-		212447, -- Key to the Unseeming
-		228411, -- Cyrce's Circlet
-		219314, -- Ara-Kara Sacbrood
-		220202, -- Spymaster's Web
+		229343, -- Aspectral Emissary's Crystalline Cowl
+		228841, -- Semi-Charmed Amulet
+		229341, -- Aspectral Emissary's Arcane Vents
+		222817, -- Consecrated Cloak
+		229346, -- Aspectral Emissary's Primal Robes
+		168989, -- Hyperthread Wristwraps
+		221067, -- Punctured Apiary Gloves
+		168958, -- Ringmaster's Cummerbund
+		229342, -- Aspectral Emissary's Trousers
+		229345, -- Aspectral Emissary's Slippers
+		221099, -- Wick's Golden Loop
+		228843, -- Miniature Roulette Wheel
+		230192, -- Mug's Moxie Jug
+		219299, -- Synergistic Brewterializer
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Fire Mage",
@@ -94,21 +89,22 @@ FIRE_MAGE_OVERALL_BIS = {
 
 FIRE_MAGE_RAID_BIS = {
 	itemIDs = {
-		212397, -- Takazj's Entropic Edict
-		212440, -- Devotee's Discarded Headdress
-		225577, -- Sureki Zealot's Insignia
-		212090, -- Beacons of Violet Rebirth
-		212446, -- Royal Emblem of Nerub-ar
-		212095, -- Runecoat of Violet Rebirth
-		225584, -- Skeinspinner's Duplicitous Cuffs
-		212093, -- Jeweled Gauntlets of Violet Rebirth
-		225585, -- Acrid Ascendant's Sash
-		212091, -- Coattails of Violet Rebirth
-		225582, -- Assimilated Eggshell Slippers
-		212447, -- Key to the Unseeming
-		228411, -- Cyrce's Circlet
-		220305, -- Ovi'nax's Mercurial Egg
-		220202, -- Spymaster's Web
+		228896, -- Stix's Metal Detector
+		228906, -- Operator's Fraud Detector
+		229343, -- Aspectral Emissary's Crystalline Cowl
+		228841, -- Semi-Charmed Amulet
+		229341, -- Aspectral Emissary's Arcane Vents
+		228839, -- Undercircuit Racing Flag
+		229346, -- Aspectral Emissary's Primal Robes
+		228881, -- Illicit Bankroll Bracers
+		229344, -- Aspectral Emissary's Hardened Grasp
+		228882, -- Refiner's Conveyor Belt
+		229342, -- Aspectral Emissary's Trousers
+		228879, -- Cemented Murloc-Swimmers
+		231265, -- The Jastor Diamond
+		228843, -- Miniature Roulette Wheel
+		230192, -- Mug's Moxie Jug
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Fire Mage",
@@ -117,21 +113,21 @@ FIRE_MAGE_RAID_BIS = {
 
 FIRE_MAGE_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221085, -- Melodious Iron Songspire
-		221187, -- Intertwiner's Shadowcowl
+		168973, -- Neural Synapse Enhancer
+		229343, -- Aspectral Emissary's Crystalline Cowl
 		221060, -- Strapped Rescue-Keg
-		212090, -- Beacons of Violet Rebirth
-		221088, -- Anvilhide Cape
-		212095, -- Runecoat of Violet Rebirth
-		221182, -- Vitriolic Veinwoven Wraps
-		212093, -- Jeweled Gauntlets of Violet Rebirth
-		159245, -- Cord of the Pious Warder
-		212091, -- Coattails of Violet Rebirth
-		221082, -- Tainted Earthshard Walkers
+		229341, -- Aspectral Emissary's Arcane Vents
+		168970, -- Trashmaster's Mantle
+		229346, -- Aspectral Emissary's Primal Robes
+		168989, -- Hyperthread Wristwraps
+		221067, -- Punctured Apiary Gloves
+		168958, -- Ringmaster's Cummerbund
+		229342, -- Aspectral Emissary's Trousers
+		229345, -- Aspectral Emissary's Slippers
 		221099, -- Wick's Golden Loop
-		228411, -- Cyrce's Circlet
-		219314, -- Ara-Kara Sacbrood
+		221200, -- Radiant Necromancer's Band
 		219308, -- Signet of the Priory
+		232545, -- Gigazap's Zap-Cap
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Fire Mage",
@@ -140,22 +136,21 @@ FIRE_MAGE_MYTHIC_PLUS_BIS = {
 
 FROST_MAGE_OVERALL_BIS = {
 	itemIDs = {
-		212394, -- Sovereign's Disdain
 		222566, -- Vagabond's Torch
-		212092, -- Hood of Violet Rebirth
-		225577, -- Sureki Zealot's Insignia
-		212090, -- Beacons of Violet Rebirth
-		222817, -- Consecrated Cloak
-		212095, -- Runecoat of Violet Rebirth
-		225584, -- Skeinspinner's Duplicitous Cuffs
-		212093, -- Jeweled Gauntlets of Violet Rebirth
-		225585, -- Acrid Ascendant's Sash
-		212434, -- Voidspoken Sarong
-		225582, -- Assimilated Eggshell Slippers
-		225578, -- Seal of the Poisoned Pact
-		228411, -- Cyrce's Circlet
-		220202, -- Spymaster's Web
-		219314, -- Ara-Kara Sacbrood
+		169006, -- Inventor's Ingenious Trifocals
+		221103, -- Flickering Glowtorc
+		229341, -- Aspectral Emissary's Arcane Vents
+		168970, -- Trashmaster's Mantle
+		229346, -- Aspectral Emissary's Primal Robes
+		222566, -- Vagabond's Torch
+		229344, -- Aspectral Emissary's Hardened Grasp
+		228861, -- Tune-Up Toolbelt
+		229342, -- Aspectral Emissary's Trousers
+		234497, -- Nonconductive Kill-o-Socks
+		231265, -- The Jastor Diamond
+		221099, -- Wick's Golden Loop
+		230198, -- Eye of Kezan
+		225648, -- Candle Confidant
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Frost Mage",
@@ -164,22 +159,22 @@ FROST_MAGE_OVERALL_BIS = {
 
 FROST_MAGE_RAID_BIS = {
 	itemIDs = {
-		212394, -- Sovereign's Disdain
-		212387, -- Broodtwister's Grim Catalyst
-		212092, -- Hood of Violet Rebirth
-		225577, -- Sureki Zealot's Insignia
-		212090, -- Beacons of Violet Rebirth
-		212446, -- Royal Emblem of Nerub-ar
-		212095, -- Runecoat of Violet Rebirth
-		225584, -- Skeinspinner's Duplicitous Cuffs
-		212093, -- Jeweled Gauntlets of Violet Rebirth
-		225585, -- Acrid Ascendant's Sash
-		212434, -- Voidspoken Sarong
-		225582, -- Assimilated Eggshell Slippers
-		225578, -- Seal of the Poisoned Pact
-		228411, -- Cyrce's Circlet
-		220202, -- Spymaster's Web
-		220305, -- Ovi'nax's Mercurial Egg
+		228896, -- Stix's Metal Detector
+		228890, -- Superfan's Beater-Buzzer
+		228871, -- Cleanup Crew's Wastemask
+		228841, -- Semi-Charmed Amulet
+		229341, -- Aspectral Emissary's Arcane Vents
+		228839, -- Undercircuit Racing Flag
+		229346, -- Aspectral Emissary's Primal Robes
+		228881, -- Illicit Bankroll Bracers
+		229344, -- Aspectral Emissary's Hardened Grasp
+		228861, -- Tune-Up Toolbelt
+		229342, -- Aspectral Emissary's Trousers
+		228879, -- Cemented Murloc-Swimmers
+		231265, -- The Jastor Diamond
+		228840, -- Faded Championship Ring
+		230198, -- Eye of Kezan
+		230194, -- Reverb Radio
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Frost Mage",
@@ -188,22 +183,18 @@ FROST_MAGE_RAID_BIS = {
 
 FROST_MAGE_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		133283, -- Modgud's Blade
-		221172, -- Pail of Preserved Obscurity
-		212092, -- Hood of Violet Rebirth
-		221077, -- 'Emergency Stop' Keychain
-		212090, -- Beacons of Violet Rebirth
-		221154, -- Swarmcaller's Shroud
-		212095, -- Runecoat of Violet Rebirth
-		221182, -- Vitriolic Veinwoven Wraps
-		212093, -- Jeweled Gauntlets of Violet Rebirth
-		221158, -- Burrower's Cinch
-		221164, -- Archaic Venomancer's Footwraps
-		221149, -- Membranous Slippers
-		228411, -- Cyrce's Circlet
-		178736, -- Stitchflesh's Misplaced Signet
-		133304, -- Gale of Shadows
-		219314, -- Ara-Kara Sacbrood
+		221056, -- Vessel of the Beverage
+		169006, -- Inventor's Ingenious Trifocals
+		221103, -- Flickering Glowtorc
+		229341, -- Aspectral Emissary's Arcane Vents
+		168970, -- Trashmaster's Mantle
+		229346, -- Aspectral Emissary's Primal Robes
+		229344, -- Aspectral Emissary's Hardened Grasp
+		229342, -- Aspectral Emissary's Trousers
+		234497, -- Nonconductive Kill-o-Socks
+		221099, -- Wick's Golden Loop
+		219299, -- Synergistic Brewterializer
+		219305, -- Carved Blazikon Wax
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Frost Mage",

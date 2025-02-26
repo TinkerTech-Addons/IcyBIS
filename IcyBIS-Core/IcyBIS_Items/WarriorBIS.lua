@@ -1,20 +1,20 @@
 ARMS_WARRIOR_OVERALL_BIS = {
 	itemIDs = {
-		221184, -- Surgical Heartstopper
-		211984, -- Warsculptor's Barbute
-		225577, -- Sureki Zealot's Insignia
-		211982, -- Warsculptor's Horned Spaulders
+		232805, -- Best-in-Slots
+		229235, -- Enforcer's Backalley Faceshield
+		228841, -- Semi-Charmed Amulet
+		229233, -- Enforcer's Backalley Shoulderplates
 		222817, -- Consecrated Cloak
-		211987, -- Warsculptor's Furred Plastron
+		228851, -- Bullet-Proof Vestplate
 		222435, -- Everforged Vambraces
-		212418, -- Black Blood Injectors
-		221079, -- Crystal-Fissure Girdle
-		211983, -- Warsculptor's Cuisses
-		225590, -- Boots of the Black Bulwark
-		225578, -- Seal of the Poisoned Pact
-		159461, -- Band of the Ancient Dredger
-		212454, -- Mad Queen's Mandate
-		221023, -- Treacherous Transmitter
+		229236, -- Enforcer's Backalley Crushers
+		229232, -- Enforcer's Backalley Girdle
+		229234, -- Enforcer's Backalley Chausses
+		228887, -- Cutthroat Competition Stompers
+		228411, -- Cyrce's Circlet
+		231265, -- The Jastor Diamond
+		230027, -- House of Cards
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Arms Warrior",
@@ -23,21 +23,21 @@ ARMS_WARRIOR_OVERALL_BIS = {
 
 ARMS_WARRIOR_RAID_BIS = {
 	itemIDs = {
-		212407, -- Anub'arash's Colossal Mandible
-		211984, -- Warsculptor's Barbute
-		225577, -- Sureki Zealot's Insignia
-		211982, -- Warsculptor's Horned Spaulders
-		225574, -- Wings of Shattered Sorrow
-		211987, -- Warsculptor's Furred Plastron
-		212437, -- Ravaged Lamplighter's Manacles
-		212418, -- Black Blood Injectors
-		225589, -- Nether Bounty's Greatbelt
-		211983, -- Warsculptor's Cuisses
-		225590, -- Boots of the Black Bulwark
-		225578, -- Seal of the Poisoned Pact
-		212447, -- Key to the Unseeming
-		212454, -- Mad Queen's Mandate
-		221023, -- Treacherous Transmitter
+		232805, -- Best-in-Slots
+		229235, -- Enforcer's Backalley Faceshield
+		228841, -- Semi-Charmed Amulet
+		229233, -- Enforcer's Backalley Shoulderplates
+		228839, -- Undercircuit Racing Flag
+		228851, -- Bullet-Proof Vestplate
+		228868, -- Revved-Up Vambraces
+		229236, -- Enforcer's Backalley Crushers
+		229232, -- Enforcer's Backalley Girdle
+		229234, -- Enforcer's Backalley Chausses
+		228887, -- Cutthroat Competition Stompers
+		228840, -- Faded Championship Ring
+		231265, -- The Jastor Diamond
+		230027, -- House of Cards
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Arms Warrior",
@@ -46,21 +46,13 @@ ARMS_WARRIOR_RAID_BIS = {
 
 ARMS_WARRIOR_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221184, -- Surgical Heartstopper
-		178694, -- Wrathbark Greathelm
-		178707, -- Trailspinner Pendant
-		221185, -- Flesh Connector's Epaulets
-		221088, -- Anvilhide Cape
-		221161, -- Experimental Goresilk Chestguard
-		221167, -- Vociferous Subjugator's Bracers
-		221086, -- Machinist's Searing Handguards
-		133289, -- Belt of the Forgemaster
-		178701, -- Gormshell Greaves
-		159428, -- Ballast Sinkers
-		133299, -- Circle of Bone
-		159461, -- Band of the Ancient Dredger
-		219300, -- Skarmorak Shard
-		219314, -- Ara-Kara Sacbrood
+		221100, -- Waxsteel Greathelm
+		221060, -- Strapped Rescue-Keg
+		221069, -- Slashproof Business Plate
+		221064, -- Fuzzy Cindercuffs
+		168980, -- Gauntlets of Absolute Authority
+		234505, -- Venture Contractor's Floodlight
+		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Arms Warrior",
@@ -69,22 +61,21 @@ ARMS_WARRIOR_MYTHIC_PLUS_BIS = {
 
 FURY_WARRIOR_OVERALL_BIS = {
 	itemIDs = {
-		133298, -- Wild Hammer
-		222447, -- Charged Claymore
-		178777, -- Darkfrost Helmet
-		221077, -- 'Emergency Stop' Keychain
-		211982, -- Warsculptor's Horned Spaulders
-		221088, -- Anvilhide Cape
-		211987, -- Warsculptor's Furred Plastron
+		232805, -- Best-in-Slots
+		228891, -- Capital Punisher
+		229235, -- Enforcer's Backalley Faceshield
+		221060, -- Strapped Rescue-Keg
+		229233, -- Enforcer's Backalley Shoulderplates
+		222817, -- Consecrated Cloak
+		229238, -- Enforcer's Backalley Vestplate
 		222435, -- Everforged Vambraces
-		211985, -- Warsculptor's Crushers
-		221133, -- Girdle of Somber Ploys
-		211983, -- Warsculptor's Cuisses
-		225590, -- Boots of the Black Bulwark
-		225578, -- Seal of the Poisoned Pact
-		225576, -- Writhing Ringworm
-		221023, -- Treacherous Transmitter
-		219314, -- Ara-Kara Sacbrood
+		229236, -- Enforcer's Backalley Crushers
+		221040, -- Lightning-Conductor's Bands
+		221034, -- Thunder-Clad Legguards
+		221123, -- Devoted Plate Walkers
+		228411, -- Cyrce's Circlet
+		231265, -- The Jastor Diamond
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Fury Warrior",
@@ -93,22 +84,22 @@ FURY_WARRIOR_OVERALL_BIS = {
 
 FURY_WARRIOR_RAID_BIS = {
 	itemIDs = {
-		212388, -- Ulgrax's Morsel-Masher
-		212388, -- Ulgrax's Morsel-Masher
-		211984, -- Warsculptor's Barbute
-		225577, -- Sureki Zealot's Insignia
-		211982, -- Warsculptor's Horned Spaulders
-		212446, -- Royal Emblem of Nerub-ar
-		211987, -- Warsculptor's Furred Plastron
-		212437, -- Ravaged Lamplighter's Manacles
-		211985, -- Warsculptor's Crushers
-		212442, -- Greatbelt of the Hungerer
-		211983, -- Warsculptor's Cuisses
-		225590, -- Boots of the Black Bulwark
-		225578, -- Seal of the Poisoned Pact
-		225576, -- Writhing Ringworm
-		212454, -- Mad Queen's Mandate
-		221023, -- Treacherous Transmitter
+		232805, -- Best-in-Slots
+		228891, -- Capital Punisher
+		229235, -- Enforcer's Backalley Faceshield
+		228841, -- Semi-Charmed Amulet
+		229233, -- Enforcer's Backalley Shoulderplates
+		228839, -- Undercircuit Racing Flag
+		229238, -- Enforcer's Backalley Vestplate
+		228868, -- Revved-Up Vambraces
+		229236, -- Enforcer's Backalley Crushers
+		228886, -- Coin-Operated Girdle
+		229234, -- Enforcer's Backalley Chausses
+		228887, -- Cutthroat Competition Stompers
+		228840, -- Faded Championship Ring
+		231265, -- The Jastor Diamond
+		230027, -- House of Cards
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Fury Warrior",
@@ -117,22 +108,18 @@ FURY_WARRIOR_RAID_BIS = {
 
 FURY_WARRIOR_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		133298, -- Wild Hammer
-		133298, -- Wild Hammer
-		178777, -- Darkfrost Helmet
-		221077, -- 'Emergency Stop' Keychain
-		133294, -- Earthshape Pauldrons
-		221088, -- Anvilhide Cape
-		221161, -- Experimental Goresilk Chestguard
-		221167, -- Vociferous Subjugator's Bracers
-		159429, -- Rope-Scored Gauntlets
-		221133, -- Girdle of Somber Ploys
-		178701, -- Gormshell Greaves
-		159428, -- Ballast Sinkers
-		133286, -- Umbriss Band
-		221141, -- High Nerubian Signet
-		219300, -- Skarmorak Shard
-		219314, -- Ara-Kara Sacbrood
+		221111, -- Poleaxe of Somber Fate
+		221111, -- Poleaxe of Somber Fate
+		169003, -- Apogee Inventor's Goggles
+		221060, -- Strapped Rescue-Keg
+		221052, -- Foam-Ridden Pauldrons
+		234507, -- Electrician's Siphoning Filter
+		168979, -- Mechanized Plate Chasse
+		234504, -- Jumpstarter's Scaffold-Scrapers
+		221040, -- Lightning-Conductor's Bands
+		221061, -- Hops-Laden Greatboots
+		221198, -- 85-Year Tenure Ring
+		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Fury Warrior",
@@ -141,22 +128,22 @@ FURY_WARRIOR_MYTHIC_PLUS_BIS = {
 
 PROTECTION_WARRIOR_OVERALL_BIS = {
 	itemIDs = {
-		211984, -- Warsculptor's Barbute
-		225577, -- Sureki Zealot's Insignia
-		178749, -- Vile Butcher's Pauldrons
-		225574, -- Wings of Shattered Sorrow
-		211987, -- Warsculptor's Furred Plastron
+		228858, -- Fullthrottle Facerig
+		228841, -- Semi-Charmed Amulet
+		229233, -- Enforcer's Backalley Shoulderplates
+		229230, -- Enforcer's Backalley Allegiance
+		229238, -- Enforcer's Backalley Vestplate
 		222435, -- Everforged Vambraces
-		211985, -- Warsculptor's Crushers
+		229236, -- Enforcer's Backalley Crushers
 		222431, -- Everforged Greatbelt
-		211983, -- Warsculptor's Cuisses
-		211986, -- Warsculptor's Carved Boots
-		228411, -- Cyrce's Circlet
-		225578, -- Seal of the Poisoned Pact
-		219314, -- Ara-Kara Sacbrood
-		212454, -- Mad Queen's Mandate
-		212392, -- Duelist's Dancing Steel
-		225579, -- Crest of the Caustic Despot
+		229234, -- Enforcer's Backalley Chausses
+		168972, -- Pyroclastic Greatboots
+		231265, -- The Jastor Diamond
+		228843, -- Miniature Roulette Wheel
+		219309, -- Tome of Light's Devotion
+		230198, -- Eye of Kezan
+		228895, -- Remixed Ignition Saber
+		228889, -- Titan of Industry
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Protection Warrior",
@@ -165,23 +152,23 @@ PROTECTION_WARRIOR_OVERALL_BIS = {
 
 PROTECTION_WARRIOR_RAID_BIS = {
 	itemIDs = {
-		211984, -- Warsculptor's Barbute
-		225577, -- Sureki Zealot's Insignia
-		211982, -- Warsculptor's Horned Spaulders
-		225574, -- Wings of Shattered Sorrow
-		211987, -- Warsculptor's Furred Plastron
-		212437, -- Ravaged Lamplighter's Manacles
-		211985, -- Warsculptor's Crushers
-		225589, -- Nether Bounty's Greatbelt
-		211983, -- Warsculptor's Cuisses
-		225590, -- Boots of the Black Bulwark
-		228411, -- Cyrce's Circlet
-		225578, -- Seal of the Poisoned Pact
-		212454, -- Mad Queen's Mandate
-		212453, -- Skyterror's Corrosive Organ
-		212450, -- Swarmlord's Authority
-		212392, -- Duelist's Dancing Steel
-		225579, -- Crest of the Caustic Despot
+		228858, -- Fullthrottle Facerig
+		228841, -- Semi-Charmed Amulet
+		229233, -- Enforcer's Backalley Shoulderplates
+		228839, -- Undercircuit Racing Flag
+		229238, -- Enforcer's Backalley Vestplate
+		228868, -- Revved-Up Vambraces
+		229236, -- Enforcer's Backalley Crushers
+		228887, -- Cutthroat Competition Stompers
+		229234, -- Enforcer's Backalley Chausses
+		228887, -- Cutthroat Competition Stompers
+		228843, -- Miniature Roulette Wheel
+		231265, -- The Jastor Diamond
+		230198, -- Eye of Kezan
+		230027, -- House of Cards
+		230029, -- Chromebustible Bomb Suit
+		228895, -- Remixed Ignition Saber
+		228889, -- Titan of Industry
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Protection Warrior",
@@ -190,22 +177,18 @@ PROTECTION_WARRIOR_RAID_BIS = {
 
 PROTECTION_WARRIOR_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		211984, -- Warsculptor's Barbute
-		221077, -- 'Emergency Stop' Keychain
-		211982, -- Warsculptor's Horned Spaulders
-		221088, -- Anvilhide Cape
-		211987, -- Warsculptor's Furred Plastron
-		221167, -- Vociferous Subjugator's Bracers
-		221086, -- Machinist's Searing Handguards
-		221133, -- Girdle of Somber Ploys
-		211983, -- Warsculptor's Cuisses
-		221178, -- Ichor-Stained Sollerets
+		221100, -- Waxsteel Greathelm
+		221060, -- Strapped Rescue-Keg
+		229233, -- Enforcer's Backalley Shoulderplates
+		229230, -- Enforcer's Backalley Allegiance
+		229238, -- Enforcer's Backalley Vestplate
+		229236, -- Enforcer's Backalley Crushers
+		234505, -- Venture Contractor's Floodlight
+		229234, -- Enforcer's Backalley Chausses
 		228411, -- Cyrce's Circlet
-		159461, -- Band of the Ancient Dredger
-		219314, -- Ara-Kara Sacbrood
-		133300, -- Mark of Khardros
-		221145, -- Shipwrecker's Bludgeon
-		178712, -- Acidslough Bulwark
+		219309, -- Tome of Light's Devotion
+		232541, -- Improvised Seaforium Pacemaker
+		169608, -- Tearing Sawtooth Blade
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Protection Warrior",

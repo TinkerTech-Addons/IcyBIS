@@ -1,21 +1,21 @@
 DISCIPLINE_PRIEST_OVERALL_BIS = {
 	itemIDs = {
-		212404, -- Scepter of Manifested Miasma
+		228901, -- Big Earner's Bludgeon
 		222566, -- Vagabond's Torch
-		212440, -- Devotee's Discarded Headdress
-		225577, -- Sureki Zealot's Insignia
-		212081, -- Living Luster's Dominion
-		225574, -- Wings of Shattered Sorrow
-		212086, -- Living Luster's Raiment
-		222815, -- Consecrated Cuffs
-		212084, -- Living Luster's Touch
-		159245, -- Cord of the Pious Warder
-		212082, -- Living Luster's Trousers
-		221082, -- Tainted Earthshard Walkers
+		229334, -- Confessor's Unshakable Halo
+		228841, -- Semi-Charmed Amulet
+		228870, -- Underboss's Tailored Mantle
+		222817, -- Consecrated Cloak
+		229337, -- Confessor's Unshakable Vestment
+		228857, -- Underparty Admission Bracelet
+		229335, -- Confessor's Unshakable Mitts
+		228861, -- Tune-Up Toolbelt
+		229333, -- Confessor's Unshakable Leggings
+		228879, -- Cemented Murloc-Swimmers
+		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
-		212447, -- Key to the Unseeming
-		220202, -- Spymaster's Web
-		133304, -- Gale of Shadows
+		230027, -- House of Cards
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Dicipline Priest",
@@ -24,22 +24,22 @@ DISCIPLINE_PRIEST_OVERALL_BIS = {
 
 DISCIPLINE_PRIEST_RAID_BIS = {
 	itemIDs = {
-		212404, -- Scepter of Manifested Miasma
-		212387, -- Broodtwister's Grim Catalyst
-		212440, -- Devotee's Discarded Headdress
-		225577, -- Sureki Zealot's Insignia
-		212081, -- Living Luster's Dominion
-		225574, -- Wings of Shattered Sorrow
-		212086, -- Living Luster's Raiment
-		225584, -- Skeinspinner's Duplicitous Cuffs
-		212084, -- Living Luster's Touch
-		225585, -- Acrid Ascendant's Sash
-		212082, -- Living Luster's Trousers
-		225582, -- Assimilated Eggshell Slippers
-		212447, -- Key to the Unseeming
+		228901, -- Big Earner's Bludgeon
+		228906, -- Operator's Fraud Detector
+		229334, -- Confessor's Unshakable Halo
+		228841, -- Semi-Charmed Amulet
+		228870, -- Underboss's Tailored Mantle
+		228839, -- Undercircuit Racing Flag
+		229337, -- Confessor's Unshakable Vestment
+		228857, -- Underparty Admission Bracelet
+		229335, -- Confessor's Unshakable Mitts
+		228861, -- Tune-Up Toolbelt
+		229333, -- Confessor's Unshakable Leggings
+		228879, -- Cemented Murloc-Swimmers
+		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
-		220202, -- Spymaster's Web
-		220305, -- Ovi'nax's Mercurial Egg
+		230027, -- House of Cards
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Dicipline Priest",
@@ -48,22 +48,19 @@ DISCIPLINE_PRIEST_RAID_BIS = {
 
 DISCIPLINE_PRIEST_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		133288, -- Wand of Untainted Power
-		221172, -- Pail of Preserved Obscurity
-		133302, -- Crown of Enfeebled Bodies
-		221077, -- 'Emergency Stop' Keychain
-		212081, -- Living Luster's Dominion
-		221088, -- Anvilhide Cape
-		212086, -- Living Luster's Raiment
-		221182, -- Vitriolic Veinwoven Wraps
-		212084, -- Living Luster's Touch
-		159245, -- Cord of the Pious Warder
-		212082, -- Living Luster's Trousers
-		221082, -- Tainted Earthshard Walkers
-		133299, -- Circle of Bone
+		221122, -- Hand of Beledar
+		229334, -- Confessor's Unshakable Halo
+		221060, -- Strapped Rescue-Keg
+		229332, -- Confessor's Unshakable Radiance
+		221054, -- Chef Chewie's Towel
+		229337, -- Confessor's Unshakable Vestment
+		229335, -- Confessor's Unshakable Mitts
+		221121, -- Honorbound Retainer's Sash
+		229333, -- Confessor's Unshakable Leggings
+		168964, -- Hyperthread Boots
 		228411, -- Cyrce's Circlet
-		219314, -- Ara-Kara Sacbrood
-		133304, -- Gale of Shadows
+		219305, -- Carved Blazikon Wax
+		219306, -- Burin of the Candle King
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Dicipline Priest",
@@ -72,22 +69,22 @@ DISCIPLINE_PRIEST_MYTHIC_PLUS_BIS = {
 
 HOLY_PRIEST_OVERALL_BIS = {
 	itemIDs = {
-		212404, -- Scepter of Manifested Miasma
+		221122, -- Hand of Beledar
 		222566, -- Vagabond's Torch
-		212083, -- Living Luster's Semblance
-		212448, -- Locket of Broken Memories
-		212439, -- Beacons of the False Dawn
-		225574, -- Wings of Shattered Sorrow
-		212086, -- Living Luster's Raiment
+		228871, -- Cleanup Crew's Wastemask
+		221103, -- Flickering Glowtorc
+		229332, -- Confessor's Unshakable Radiance
+		228844, -- Test Pilot's Go-Pack
+		229337, -- Confessor's Unshakable Vestment
 		222815, -- Consecrated Cuffs
-		212084, -- Living Luster's Touch
-		225585, -- Acrid Ascendant's Sash
-		212082, -- Living Luster's Trousers
-		212416, -- Cosmic-Tinged Treads
-		225578, -- Seal of the Poisoned Pact
+		229335, -- Confessor's Unshakable Mitts
+		221121, -- Honorbound Retainer's Sash
+		229333, -- Confessor's Unshakable Leggings
+		228847, -- Hotstep Heel-Turners
+		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
-		178708, -- Unbound Changeling
-		219917, -- Creeping Coagulum
+		230198, -- Eye of Kezan
+		230192, -- Mug's Moxie Jug
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Holy Priest",
@@ -96,22 +93,22 @@ HOLY_PRIEST_OVERALL_BIS = {
 
 HOLY_PRIEST_RAID_BIS = {
 	itemIDs = {
-		212404, -- Scepter of Manifested Miasma
-		212387, -- Broodtwister's Grim Catalyst
-		212083, -- Living Luster's Semblance
-		212448, -- Locket of Broken Memories
-		212439, -- Beacons of the False Dawn
-		225574, -- Wings of Shattered Sorrow
-		212086, -- Living Luster's Raiment
-		212426, -- Crunchy Intruder's Wristband
-		212084, -- Living Luster's Touch
-		225585, -- Acrid Ascendant's Sash
-		212082, -- Living Luster's Trousers
-		212416, -- Cosmic-Tinged Treads
-		225578, -- Seal of the Poisoned Pact
+		228896, -- Stix's Metal Detector
+		228890, -- Superfan's Beater-Buzzer
+		228871, -- Cleanup Crew's Wastemask
+		228842, -- Gobfather's Gifted Bling
+		229332, -- Confessor's Unshakable Radiance
+		228844, -- Test Pilot's Go-Pack
+		229337, -- Confessor's Unshakable Vestment
+		228857, -- Underparty Admission Bracelet
+		229335, -- Confessor's Unshakable Mitts
+		228882, -- Refiner's Conveyor Belt
+		229333, -- Confessor's Unshakable Leggings
+		228847, -- Hotstep Heel-Turners
+		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
-		219917, -- Creeping Coagulum
-		220305, -- Ovi'nax's Mercurial Egg
+		230198, -- Eye of Kezan
+		230192, -- Mug's Moxie Jug
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Holy Priest",
@@ -120,22 +117,22 @@ HOLY_PRIEST_RAID_BIS = {
 
 HOLY_PRIEST_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		178709, -- Scithewood Scepter
-		221172, -- Pail of Preserved Obscurity
-		212083, -- Living Luster's Semblance
-		178707, -- Trailspinner Pendant
-		178696, -- Ingra Maloch's Mantle
-		133363, -- Troggstitched Drape
-		212086, -- Living Luster's Raiment
-		178782, -- Necropolis Lord's Shackles
-		212084, -- Living Luster's Touch
-		221158, -- Burrower's Cinch
-		212082, -- Living Luster's Trousers
-		221149, -- Membranous Slippers
-		162541, -- Band of the Roving Scalawag
+		221122, -- Hand of Beledar
+		221097, -- Arcane Scuttle
+		221131, -- Elysian Flame Crown
+		221103, -- Flickering Glowtorc
+		229332, -- Confessor's Unshakable Radiance
+		221054, -- Chef Chewie's Towel
+		229337, -- Confessor's Unshakable Vestment
+		221104, -- Gleamwax Shackles
+		229335, -- Confessor's Unshakable Mitts
+		221121, -- Honorbound Retainer's Sash
+		229333, -- Confessor's Unshakable Leggings
+		221043, -- Cloudstrider Soles
+		221198, -- 85-Year Tenure Ring
 		228411, -- Cyrce's Circlet
-		178708, -- Unbound Changeling
-		219312, -- Empowering Crystal of Anub'ikkaj
+		219308, -- Signet of the Priory
+		219305, -- Carved Blazikon Wax
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Holy Priest",
@@ -144,21 +141,21 @@ HOLY_PRIEST_MYTHIC_PLUS_BIS = {
 
 SHADOW_PRIEST_OVERALL_BIS = {
 	itemIDs = {
-		133288, -- Wand of Untainted Power
+		228901, -- Big Earner's Bludgeon
 		222566, -- Vagabond's Torch
-		212083, -- Living Luster's Semblance
-		225577, -- Sureki Zealot's Insignia
-		212081, -- Living Luster's Dominion
-		225574, -- Wings of Shattered Sorrow
-		212086, -- Living Luster's Raiment
+		229334, -- Confessor's Unshakable Halo
+		228841, -- Semi-Charmed Amulet
+		229332, -- Confessor's Unshakable Radiance
+		228844, -- Test Pilot's Go-Pack
+		229337, -- Confessor's Unshakable Vestment
 		222815, -- Consecrated Cuffs
-		178748, -- Gory Surgeon's Gloves
-		225585, -- Acrid Ascendant's Sash
-		212082, -- Living Luster's Trousers
-		225582, -- Assimilated Eggshell Slippers
+		229335, -- Confessor's Unshakable Mitts
+		228882, -- Refiner's Conveyor Belt
+		228865, -- Pit Doctor's Petticoat
+		228879, -- Cemented Murloc-Swimmers
 		228411, -- Cyrce's Circlet
-		225578, -- Seal of the Poisoned Pact
-		220202, -- Spymaster's Web
+		231265, -- The Jastor Diamond
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Shadow Priest",
@@ -167,20 +164,18 @@ SHADOW_PRIEST_OVERALL_BIS = {
 
 SHADOW_PRIEST_RAID_BIS = {
 	itemIDs = {
-		133288, -- Wand of Untainted Power
-		212083, -- Living Luster's Semblance
-		221077, -- 'Emergency Stop' Keychain
-		212081, -- Living Luster's Dominion
-		221088, -- Anvilhide Cape
-		212086, -- Living Luster's Raiment
-		159256, -- Iron-Kelp Wristwraps
-		178748, -- Gory Surgeon's Gloves
-		159965, -- Redhook's Cummerbund
-		212082, -- Living Luster's Trousers
-		212085, -- Living Luster's Boots
+		221122, -- Hand of Beledar
+		229334, -- Confessor's Unshakable Halo
+		221060, -- Strapped Rescue-Keg
+		229332, -- Confessor's Unshakable Radiance
+		234507, -- Electrician's Siphoning Filter
+		229337, -- Confessor's Unshakable Vestment
+		221104, -- Gleamwax Shackles
+		229335, -- Confessor's Unshakable Mitts
+		221121, -- Honorbound Retainer's Sash
+		221050, -- Ancient Hardened Legwraps
 		228411, -- Cyrce's Circlet
-		133299, -- Circle of Bone
-		219314, -- Ara-Kara Sacbrood
+		219308, -- Signet of the Priory
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Shadow Priest",
@@ -189,20 +184,20 @@ SHADOW_PRIEST_RAID_BIS = {
 
 SHADOW_PRIEST_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		212394, -- Sovereign's Disdain
-		212083, -- Living Luster's Semblance
-		225577, -- Sureki Zealot's Insignia
-		212081, -- Living Luster's Dominion
-		225574, -- Wings of Shattered Sorrow
-		212086, -- Living Luster's Raiment
-		225584, -- Skeinspinner's Duplicitous Cuffs
-		212441, -- Bindings of the Starless Night
-		225585, -- Acrid Ascendant's Sash
-		212082, -- Living Luster's Trousers
-		225582, -- Assimilated Eggshell Slippers
+		228901, -- Big Earner's Bludgeon
+		229334, -- Confessor's Unshakable Halo
+		228841, -- Semi-Charmed Amulet
+		229332, -- Confessor's Unshakable Radiance
+		228844, -- Test Pilot's Go-Pack
+		229337, -- Confessor's Unshakable Vestment
+		228881, -- Illicit Bankroll Bracers
+		229335, -- Confessor's Unshakable Mitts
+		228882, -- Refiner's Conveyor Belt
+		228865, -- Pit Doctor's Petticoat
+		228879, -- Cemented Murloc-Swimmers
 		228411, -- Cyrce's Circlet
-		225578, -- Seal of the Poisoned Pact
-		220202, -- Spymaster's Web
+		231265, -- The Jastor Diamond
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Shadow Priest",

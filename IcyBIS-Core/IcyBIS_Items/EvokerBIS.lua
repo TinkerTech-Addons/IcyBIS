@@ -1,35 +1,35 @@
 AUGMENTATION_EVOKER_OVERALL_BIS = {
 	itemIDs = {
-		133303, -- Staff of Siphoned Essences
-		178738, -- Rattling Deadeye Hood
-		178707, -- Trailspinner Pendant
-		212027, -- Fumaroles of the Destroyer
-		212446, -- Royal Emblem of Nerub-ar
-		212032, -- Scales of the Destroyer
-		221174, -- Penumbral Rimeguards
-		212030, -- Rippers of the Destroyer
-		219339, -- Glyph-Etched Binding
-		212028, -- Legguards of the Destroyer
-		219335, -- Glyph-Etched Stompers
+		232805, -- Best-in-Slots
+		229280, -- Opulent Treasurescale's Crowned Jewel
+		228842, -- Gobfather's Gifted Bling
+		229278, -- Opulent Treasurescale's Gleaming Mantle
+		228844, -- Test Pilot's Go-Pack
+		229283, -- Opulent Treasurescale's Tunic
+		228878, -- Made Manacles
+		228867, -- Gravi-Gunk Handlers
+		229277, -- Opulent Treasurescale's Radiant Chain
+		229279, -- Opulent Treasurescale's Petticoat
+		221106, -- Gloomstomper's Sabatons
 		228411, -- Cyrce's Circlet
-		225578, -- Seal of the Poisoned Pact
-		220202, -- Spymaster's Web
-		219314, -- Ara-Kara Sacbrood
-		133288, -- Wand of Untainted Power
-		221156, -- Cryptbound Headpiece
-		225577, -- Sureki Zealot's Insignia
-		212027, -- Fumaroles of the Destroyer
-		221088, -- Anvilhide Cape
-		212032, -- Scales of the Destroyer
-		219342, -- Glyph-Etched Vambraces
-		212030, -- Rippers of the Destroyer
-		221168, -- Cinch of Lingering Influence
-		212028, -- Legguards of the Destroyer
-		219335, -- Glyph-Etched Stompers
+		231265, -- The Jastor Diamond
+		230198, -- Eye of Kezan
+		219299, -- Synergistic Brewterializer
+		232805, -- Best-in-Slots
+		229280, -- Opulent Treasurescale's Crowned Jewel
+		228842, -- Gobfather's Gifted Bling
+		229278, -- Opulent Treasurescale's Gleaming Mantle
+		228844, -- Test Pilot's Go-Pack
+		229283, -- Opulent Treasurescale's Tunic
+		228878, -- Made Manacles
+		228867, -- Gravi-Gunk Handlers
+		229277, -- Opulent Treasurescale's Radiant Chain
+		229279, -- Opulent Treasurescale's Petticoat
+		221106, -- Gloomstomper's Sabatons
 		228411, -- Cyrce's Circlet
-		225578, -- Seal of the Poisoned Pact
-		220202, -- Spymaster's Web
-		219314, -- Ara-Kara Sacbrood
+		231265, -- The Jastor Diamond
+		230198, -- Eye of Kezan
+		219299, -- Synergistic Brewterializer
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Augmentation Evoker",
@@ -38,36 +38,36 @@ AUGMENTATION_EVOKER_OVERALL_BIS = {
 
 AUGMENTATION_EVOKER_RAID_BIS = {
 	itemIDs = {
-		212397, -- Takazj's Entropic Edict
-		212029, -- Horns of the Destroyer
-		212448, -- Locket of Broken Memories
-		212027, -- Fumaroles of the Destroyer
-		212446, -- Royal Emblem of Nerub-ar
-		212032, -- Scales of the Destroyer
-		212415, -- Throne Defender's Bangles
-		212030, -- Rippers of the Destroyer
-		212414, -- Lost Watcher's Remains
-		212028, -- Legguards of the Destroyer
-		225586, -- Rasha'nan's Grotesque Talons
+		232805, -- Best-in-Slots
+		229280, -- Opulent Treasurescale's Crowned Jewel
+		228842, -- Gobfather's Gifted Bling
+		229278, -- Opulent Treasurescale's Gleaming Mantle
+		228844, -- Test Pilot's Go-Pack
+		229283, -- Opulent Treasurescale's Tunic
+		228878, -- Made Manacles
+		228867, -- Gravi-Gunk Handlers
+		229277, -- Opulent Treasurescale's Radiant Chain
+		229279, -- Opulent Treasurescale's Petticoat
+		228883, -- Dubious Table-Runners
 		228411, -- Cyrce's Circlet
-		225578, -- Seal of the Poisoned Pact
-		220202, -- Spymaster's Web
-		212454, -- Mad Queen's Mandate
-		212397, -- Takazj's Entropic Edict
-		212029, -- Horns of the Destroyer
-		225577, -- Sureki Zealot's Insignia
-		212027, -- Fumaroles of the Destroyer
-		212446, -- Royal Emblem of Nerub-ar
-		212032, -- Scales of the Destroyer
-		212415, -- Throne Defender's Bangles
-		212030, -- Rippers of the Destroyer
-		212414, -- Lost Watcher's Remains
-		212028, -- Legguards of the Destroyer
-		225586, -- Rasha'nan's Grotesque Talons
+		231265, -- The Jastor Diamond
+		230198, -- Eye of Kezan
+		230197, -- Geargrinder's Spare Keys
+		232805, -- Best-in-Slots
+		229280, -- Opulent Treasurescale's Crowned Jewel
+		228842, -- Gobfather's Gifted Bling
+		229278, -- Opulent Treasurescale's Gleaming Mantle
+		228844, -- Test Pilot's Go-Pack
+		229283, -- Opulent Treasurescale's Tunic
+		228878, -- Made Manacles
+		228867, -- Gravi-Gunk Handlers
+		229277, -- Opulent Treasurescale's Radiant Chain
+		229279, -- Opulent Treasurescale's Petticoat
+		228883, -- Dubious Table-Runners
 		228411, -- Cyrce's Circlet
-		225578, -- Seal of the Poisoned Pact
-		220202, -- Spymaster's Web
-		212454, -- Mad Queen's Mandate
+		231265, -- The Jastor Diamond
+		230198, -- Eye of Kezan
+		230197, -- Geargrinder's Spare Keys
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Augmentation Evoker",
@@ -76,36 +76,34 @@ AUGMENTATION_EVOKER_RAID_BIS = {
 
 AUGMENTATION_EVOKER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		133303, -- Staff of Siphoned Essences
-		178738, -- Rattling Deadeye Hood
-		178707, -- Trailspinner Pendant
-		212027, -- Fumaroles of the Destroyer
-		133363, -- Troggstitched Drape
-		212032, -- Scales of the Destroyer
-		221174, -- Penumbral Rimeguards
-		212030, -- Rippers of the Destroyer
-		221168, -- Cinch of Lingering Influence
-		212028, -- Legguards of the Destroyer
-		159379, -- Sure-Foot Sabatons
+		221105, -- Dark Zone Headtaker
+		229280, -- Opulent Treasurescale's Crowned Jewel
+		221060, -- Strapped Rescue-Keg
+		229278, -- Opulent Treasurescale's Gleaming Mantle
+		234507, -- Electrician's Siphoning Filter
+		229283, -- Opulent Treasurescale's Tunic
+		221124, -- Consecrated Baron's Bindings
+		168971, -- Swift Pneumatic Grips
+		229277, -- Opulent Treasurescale's Radiant Chain
+		229279, -- Opulent Treasurescale's Petticoat
+		221106, -- Gloomstomper's Sabatons
 		228411, -- Cyrce's Circlet
-		162542, -- Seal of the City Watch
-		219314, -- Ara-Kara Sacbrood
-		159622, -- Hadal's Nautilus
-		221085, -- Melodious Iron Songspire
-		221156, -- Cryptbound Headpiece
-		221077, -- 'Emergency Stop' Keychain
-		212027, -- Fumaroles of the Destroyer
-		221088, -- Anvilhide Cape
-		212032, -- Scales of the Destroyer
-		221174, -- Penumbral Rimeguards
-		212030, -- Rippers of the Destroyer
-		221168, -- Cinch of Lingering Influence
-		212028, -- Legguards of the Destroyer
-		159379, -- Sure-Foot Sabatons
+		219299, -- Synergistic Brewterializer
+		219295, -- Sigil of Algari Concordance
+		221105, -- Dark Zone Headtaker
+		229280, -- Opulent Treasurescale's Crowned Jewel
+		221060, -- Strapped Rescue-Keg
+		229278, -- Opulent Treasurescale's Gleaming Mantle
+		234507, -- Electrician's Siphoning Filter
+		229283, -- Opulent Treasurescale's Tunic
+		221124, -- Consecrated Baron's Bindings
+		168971, -- Swift Pneumatic Grips
+		229277, -- Opulent Treasurescale's Radiant Chain
+		229279, -- Opulent Treasurescale's Petticoat
+		221106, -- Gloomstomper's Sabatons
 		228411, -- Cyrce's Circlet
-		133299, -- Circle of Bone
-		219313, -- Mereldar's Toll
-		219314, -- Ara-Kara Sacbrood
+		219299, -- Synergistic Brewterializer
+		219295, -- Sigil of Algari Concordance
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Augmentation Evoker",
@@ -114,21 +112,21 @@ AUGMENTATION_EVOKER_MYTHIC_PLUS_BIS = {
 
 DEVASTATION_EVOKER_OVERALL_BIS = {
 	itemIDs = {
-		222568, -- Vagabond's Bounding Baton
-		212029, -- Horns of the Destroyer
-		225577, -- Sureki Zealot's Insignia
-		212027, -- Fumaroles of the Destroyer
-		225574, -- Wings of Shattered Sorrow
-		212032, -- Scales of the Destroyer
+		232805, -- Best-in-Slots
+		228859, -- Sanitized Scraphood
+		228841, -- Semi-Charmed Amulet
+		229278, -- Opulent Treasurescale's Gleaming Mantle
+		222817, -- Consecrated Cloak
+		229283, -- Opulent Treasurescale's Tunic
 		219342, -- Glyph-Etched Vambraces
-		212030, -- Rippers of the Destroyer
-		225580, -- Accelerated Ascension Coil
-		212028, -- Legguards of the Destroyer
-		225586, -- Rasha'nan's Grotesque Talons
-		225578, -- Seal of the Poisoned Pact
-		212447, -- Key to the Unseeming
-		220202, -- Spymaster's Web
-		219314, -- Ara-Kara Sacbrood
+		229281, -- Opulent Treasurescale's Gold-Counters
+		228877, -- Dealer's Covetous Chain
+		229279, -- Opulent Treasurescale's Petticoat
+		229282, -- Opulent Treasurescale's Boots
+		231265, -- The Jastor Diamond
+		228411, -- Cyrce's Circlet
+		230198, -- Eye of Kezan
+		230192, -- Mug's Moxie Jug
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Devastation Evoker",
@@ -137,22 +135,21 @@ DEVASTATION_EVOKER_OVERALL_BIS = {
 
 DEVASTATION_EVOKER_RAID_BIS = {
 	itemIDs = {
-		212394, -- Sovereign's Disdain
-		212387, -- Broodtwister's Grim Catalyst
-		212029, -- Horns of the Destroyer
-		225577, -- Sureki Zealot's Insignia
-		212027, -- Fumaroles of the Destroyer
-		225574, -- Wings of Shattered Sorrow
-		212032, -- Scales of the Destroyer
-		212415, -- Throne Defender's Bangles
-		212030, -- Rippers of the Destroyer
-		225580, -- Accelerated Ascension Coil
-		212028, -- Legguards of the Destroyer
-		225586, -- Rasha'nan's Grotesque Talons
-		225578, -- Seal of the Poisoned Pact
-		212447, -- Key to the Unseeming
-		220202, -- Spymaster's Web
-		212454, -- Mad Queen's Mandate
+		232805, -- Best-in-Slots
+		228859, -- Sanitized Scraphood
+		228841, -- Semi-Charmed Amulet
+		229278, -- Opulent Treasurescale's Gleaming Mantle
+		228839, -- Undercircuit Racing Flag
+		229283, -- Opulent Treasurescale's Tunic
+		228878, -- Made Manacles
+		229281, -- Opulent Treasurescale's Gold-Counters
+		228877, -- Dealer's Covetous Chain
+		229279, -- Opulent Treasurescale's Petticoat
+		229282, -- Opulent Treasurescale's Boots
+		231265, -- The Jastor Diamond
+		228411, -- Cyrce's Circlet
+		230198, -- Eye of Kezan
+		230192, -- Mug's Moxie Jug
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Devastation Evoker",
@@ -161,21 +158,19 @@ DEVASTATION_EVOKER_RAID_BIS = {
 
 DEVASTATION_EVOKER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221083, -- Wardbreaker of the Fractured
-		212029, -- Horns of the Destroyer
-		221181, -- Elder's Hemolymphal Periapt
-		212027, -- Fumaroles of the Destroyer
-		221154, -- Swarmcaller's Shroud
-		212032, -- Scales of the Destroyer
-		221174, -- Penumbral Rimeguards
-		212030, -- Rippers of the Destroyer
-		221168, -- Cinch of Lingering Influence
-		212028, -- Legguards of the Destroyer
-		221152, -- Silksteel Striders
-		221189, -- Experiment 08752's Band
-		221136, -- Devout Zealot's Ring
-		219312, -- Empowering Crystal of Anub'ikkaj
-		219314, -- Ara-Kara Sacbrood
+		221062, -- Scalding Queenmaker's Shiv
+		221097, -- Arcane Scuttle
+		229280, -- Opulent Treasurescale's Crowned Jewel
+		221103, -- Flickering Glowtorc
+		229278, -- Opulent Treasurescale's Gleaming Mantle
+		229283, -- Opulent Treasurescale's Tunic
+		221059, -- I'pa's Pale Aleguards
+		229281, -- Opulent Treasurescale's Gold-Counters
+		234501, -- Portable Power Generator
+		229279, -- Opulent Treasurescale's Petticoat
+		228411, -- Cyrce's Circlet
+		219308, -- Signet of the Priory
+		219299, -- Synergistic Brewterializer
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Devastation Evoker",
@@ -184,21 +179,21 @@ DEVASTATION_EVOKER_MYTHIC_PLUS_BIS = {
 
 PRESERVATION_EVOKER_OVERALL_BIS = {
 	itemIDs = {
-		212397, -- Takazj's Entropic Edict
-		212029, -- Horns of the Destroyer
-		225577, -- Sureki Zealot's Insignia
-		212027, -- Fumaroles of the Destroyer
-		225574, -- Wings of Shattered Sorrow
-		212032, -- Scales of the Destroyer
-		212415, -- Throne Defender's Bangles
-		212030, -- Rippers of the Destroyer
-		221075, -- Reinforced Anti-Intruder Chainmail
-		212028, -- Legguards of the Destroyer
-		159379, -- Sure-Foot Sabatons
-		225578, -- Seal of the Poisoned Pact
+		228901, -- Big Earner's Bludgeon
+		222566, -- Vagabond's Torch
+		229280, -- Opulent Treasurescale's Crowned Jewel
+		221060, -- Strapped Rescue-Keg
+		229278, -- Opulent Treasurescale's Gleaming Mantle
+		228844, -- Test Pilot's Go-Pack
+		229283, -- Opulent Treasurescale's Tunic
+		219342, -- Glyph-Etched Vambraces
+		229281, -- Opulent Treasurescale's Gold-Counters
+		168983, -- Maniacal Monarch's Girdle
+		221035, -- Treads of the Galvanic Skysoarer
+		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
-		220202, -- Spymaster's Web
-		178708, -- Unbound Changeling
+		230198, -- Eye of Kezan
+		230186, -- Mister Pick-Me-Up
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Preservation Evoker",
@@ -207,21 +202,22 @@ PRESERVATION_EVOKER_OVERALL_BIS = {
 
 PRESERVATION_EVOKER_RAID_BIS = {
 	itemIDs = {
-		212397, -- Takazj's Entropic Edict
-		212029, -- Horns of the Destroyer
-		225577, -- Sureki Zealot's Insignia
-		212027, -- Fumaroles of the Destroyer
-		225574, -- Wings of Shattered Sorrow
-		212032, -- Scales of the Destroyer
-		212415, -- Throne Defender's Bangles
-		212030, -- Rippers of the Destroyer
-		225580, -- Accelerated Ascension Coil
-		212028, -- Legguards of the Destroyer
-		225586, -- Rasha'nan's Grotesque Talons
-		225578, -- Seal of the Poisoned Pact
+		228901, -- Big Earner's Bludgeon
+		228906, -- Operator's Fraud Detector
+		229280, -- Opulent Treasurescale's Crowned Jewel
+		228842, -- Gobfather's Gifted Bling
+		229278, -- Opulent Treasurescale's Gleaming Mantle
+		228844, -- Test Pilot's Go-Pack
+		229283, -- Opulent Treasurescale's Tunic
+		228878, -- Made Manacles
+		229281, -- Opulent Treasurescale's Gold-Counters
+		228877, -- Dealer's Covetous Chain
+		168974, -- Self-Repairing Cuisses
+		228883, -- Dubious Table-Runners
+		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
-		220202, -- Spymaster's Web
-		178708, -- Unbound Changeling
+		230198, -- Eye of Kezan
+		230186, -- Mister Pick-Me-Up
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Preservation Evoker",
@@ -230,21 +226,20 @@ PRESERVATION_EVOKER_RAID_BIS = {
 
 PRESERVATION_EVOKER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221085, -- Melodious Iron Songspire
-		212029, -- Horns of the Destroyer
-		221077, -- 'Emergency Stop' Keychain
-		212027, -- Fumaroles of the Destroyer
-		221088, -- Anvilhide Cape
-		212032, -- Scales of the Destroyer
-		178703, -- Hiveswarm Bracers
-		212030, -- Rippers of the Destroyer
-		221075, -- Reinforced Anti-Intruder Chainmail
-		212028, -- Legguards of the Destroyer
-		159379, -- Sure-Foot Sabatons
-		221141, -- High Nerubian Signet
+		168955, -- Electrifying Cognitive Amplifier
+		229280, -- Opulent Treasurescale's Crowned Jewel
+		221060, -- Strapped Rescue-Keg
+		229278, -- Opulent Treasurescale's Gleaming Mantle
+		234507, -- Electrician's Siphoning Filter
+		229283, -- Opulent Treasurescale's Tunic
+		221124, -- Consecrated Baron's Bindings
+		229281, -- Opulent Treasurescale's Gold-Counters
+		168983, -- Maniacal Monarch's Girdle
+		168974, -- Self-Repairing Cuisses
+		221106, -- Gloomstomper's Sabatons
+		221198, -- 85-Year Tenure Ring
 		228411, -- Cyrce's Circlet
-		219312, -- Empowering Crystal of Anub'ikkaj
-		178708, -- Unbound Changeling
+		219308, -- Signet of the Priory
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Preservation Evoker",
