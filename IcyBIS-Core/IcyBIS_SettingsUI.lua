@@ -220,6 +220,7 @@ local function generateClassOptions(classID, className)
             className .. " Spec 3 Raid BIS")
         createBISTableCheckbox(icyBISTableNames[3], spec3_raid, "LEFT", 0, -30, className .. " Spec 3 M+ BIS")
     end
+    createBISTableCheckbox("Party Mode", rightSection, "TOP", -75, -250, "party mode checkbox")
 end
 --#endregion
 
