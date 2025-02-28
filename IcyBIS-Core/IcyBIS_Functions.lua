@@ -92,3 +92,27 @@ function ns.loadItemLists()
     buildTrackedItems("Warrior", 3, PROTECTION_WARRIOR_OVERALL_BIS, PROTECTION_WARRIOR_RAID_BIS,
         PROTECTION_WARRIOR_MYTHIC_PLUS_BIS)
 end
+
+function ns.fadingToggleMessage(message)
+    local fadingFrame = CreateFrame("Frame", nil, UIParent)
+    fadingFrame:SetSize(250, 50)
+    fadingFrame:SetPoint("CENTER", UIParent, "CENTER", 0, 200)
+
+    local text = fadingFrame:CreateFontString(nil, "OVERLAY", "GameFontNormalLarge")
+    text:SetPoint("CENTER", fadingFrame, "CENTER")
+
+    local fadeAnim = fadingFrame:CreateAnimationGroup()
+    local fade = fadeAnim:CreateAnimation("Alpha")
+    fade:SetFromAlpha(1)  -- Start fully visible
+    fade:SetToAlpha(0)    -- End fully transparent
+    fade:SetDuration(3)   -- 3 seconds fade-out
+    fade:SetSmoothing("OUT")  -- Smooth fade-out
+    fadeAnim:SetScript("OnFinished", function()
+        fadingFrame:Hide()  -- Hide the frame when animation is done
+    end)
+
+    -- Play animation
+    text:SetText(message)  -- Set text dynamically
+    fadingFrame:SetAlpha(1)  -- Ensure it's visible
+    fadeAnim:Play()  -- Start fading animation
+end
