@@ -1,7 +1,7 @@
 -- IcyBIS.lua
 -- Hands the main functionality of the IcyBIS WoW Addon.
 
--- #region Create locally and globaly used variables
+-- #region Create locally and globally used variables
 local addonName, ns = ...
 ns = ns or {}
 ns.addonVersion = C_AddOns.GetAddOnMetadata(addonName, "Version")
