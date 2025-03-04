@@ -11,7 +11,7 @@ BEAST_MASTERY_HUNTER_OVERALL_BIS = {
 		219339, -- Glyph-Etched Binding
 		229270, -- Tireless Collector's Armored Breeches
 		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
+		228840, -- Faded Championship Ring
 		219308, -- Signet of the Priory
 		230198, -- Eye of Kezan
 	},
@@ -66,7 +66,7 @@ MARKSMANSHIP_HUNTER_OVERALL_BIS = {
 	itemIDs = {
 		228893, -- Tiny Pal
 		229271, -- Tireless Collector's Chained Cowl
-		221103, -- Flickering Glowtorc
+		232663, -- Undermine Merc's Dog Tags
 		222817, -- Consecrated Cloak
 		228844, -- Test Pilot's Go-Pack
 		229274, -- Tireless Collector's Battlegear
@@ -91,7 +91,7 @@ MARKSMANSHIP_HUNTER_RAID_BIS = {
 	itemIDs = {
 		228893, -- Tiny Pal
 		228859, -- Sanitized Scraphood
-		228841, -- Semi-Charmed Amulet
+		232663, -- Undermine Merc's Dog Tags
 		229269, -- Tireless Collector's Hunted Heads
 		228844, -- Test Pilot's Go-Pack
 		229274, -- Tireless Collector's Battlegear

@@ -3,14 +3,17 @@ AFFLICTION_WARLOCK_OVERALL_BIS = {
 		229325, -- Spliced Fiendtrader's Transcendence
 		228841, -- Semi-Charmed Amulet
 		229323, -- Spliced Fiendtrader's Loyal Servants
+		221121, -- Honorbound Retainer's Sash
 		229328, -- Spliced Fiendtrader's Surgical Gown
 		222815, -- Consecrated Cuffs
-		229326, -- Spliced Fiendtrader's Demonic Grasp
+		221108, -- King's Malicious Clutches
 		229324, -- Spliced Fiendtrader's Skin Tights
-		229327, -- Spliced Fiendtrader's Soles
+		221043, -- Cloudstrider Soles
 		231265, -- The Jastor Diamond
+		228411, -- Cyrce's Circlet
 		230198, -- Eye of Kezan
-		219299, -- Synergistic Brewterializer
+		230027, -- House of Cards
+		221062, -- Scalding Queenmaker's Shiv
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "Overall BIS:",
@@ -26,7 +29,7 @@ AFFLICTION_WARLOCK_RAID_BIS = {
 		228839, -- Undercircuit Racing Flag
 		229328, -- Spliced Fiendtrader's Surgical Gown
 		222815, -- Consecrated Cuffs
-		229326, -- Spliced Fiendtrader's Demonic Grasp
+		228872, -- Golden Handshakers
 		228882, -- Refiner's Conveyor Belt
 		229324, -- Spliced Fiendtrader's Skin Tights
 		229327, -- Spliced Fiendtrader's Soles
@@ -34,7 +37,7 @@ AFFLICTION_WARLOCK_RAID_BIS = {
 		228843, -- Miniature Roulette Wheel
 		230198, -- Eye of Kezan
 		230192, -- Mug's Moxie Jug
-		228896, -- Stix's Metal Detector
+		231268, -- Blastfurious Machete
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "Raid BIS:",
@@ -47,11 +50,11 @@ AFFLICTION_WARLOCK_MYTHIC_PLUS_BIS = {
 		229325, -- Spliced Fiendtrader's Transcendence
 		221060, -- Strapped Rescue-Keg
 		229323, -- Spliced Fiendtrader's Loyal Servants
+		221121, -- Honorbound Retainer's Sash
 		229328, -- Spliced Fiendtrader's Surgical Gown
 		222815, -- Consecrated Cuffs
-		229326, -- Spliced Fiendtrader's Demonic Grasp
 		229324, -- Spliced Fiendtrader's Skin Tights
-		229327, -- Spliced Fiendtrader's Soles
+		221198, -- 85-Year Tenure Ring
 		219308, -- Signet of the Priory
 		219299, -- Synergistic Brewterializer
 		222566, -- Vagabond's Torch
@@ -66,14 +69,18 @@ DEMONOLOGY_WARLOCK_OVERALL_BIS = {
 		229325, -- Spliced Fiendtrader's Transcendence
 		228841, -- Semi-Charmed Amulet
 		229323, -- Spliced Fiendtrader's Loyal Servants
+		228839, -- Undercircuit Racing Flag
 		229328, -- Spliced Fiendtrader's Surgical Gown
 		222815, -- Consecrated Cuffs
 		229326, -- Spliced Fiendtrader's Demonic Grasp
+		228861, -- Tune-Up Toolbelt
 		229324, -- Spliced Fiendtrader's Skin Tights
-		229327, -- Spliced Fiendtrader's Soles
+		221043, -- Cloudstrider Soles
 		231265, -- The Jastor Diamond
+		228411, -- Cyrce's Circlet
 		230198, -- Eye of Kezan
-		219299, -- Synergistic Brewterializer
+		230027, -- House of Cards
+		221062, -- Scalding Queenmaker's Shiv
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "Overall BIS:",
@@ -90,14 +97,14 @@ DEMONOLOGY_WARLOCK_RAID_BIS = {
 		229328, -- Spliced Fiendtrader's Surgical Gown
 		222815, -- Consecrated Cuffs
 		229326, -- Spliced Fiendtrader's Demonic Grasp
-		228882, -- Refiner's Conveyor Belt
+		228861, -- Tune-Up Toolbelt
 		229324, -- Spliced Fiendtrader's Skin Tights
 		229327, -- Spliced Fiendtrader's Soles
 		231265, -- The Jastor Diamond
 		228843, -- Miniature Roulette Wheel
 		230198, -- Eye of Kezan
-		230192, -- Mug's Moxie Jug
-		228896, -- Stix's Metal Detector
+		230027, -- House of Cards
+		231268, -- Blastfurious Machete
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "Raid BIS:",
@@ -116,7 +123,8 @@ DEMONOLOGY_WARLOCK_MYTHIC_PLUS_BIS = {
 		229324, -- Spliced Fiendtrader's Skin Tights
 		229327, -- Spliced Fiendtrader's Soles
 		219308, -- Signet of the Priory
-		219299, -- Synergistic Brewterializer
+		219305, -- Carved Blazikon Wax
+		221062, -- Scalding Queenmaker's Shiv
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "M+ BIS:",
@@ -129,14 +137,17 @@ DESTRUCTION_WARLOCK_OVERALL_BIS = {
 		229325, -- Spliced Fiendtrader's Transcendence
 		228841, -- Semi-Charmed Amulet
 		229323, -- Spliced Fiendtrader's Loyal Servants
+		221054, -- Chef Chewie's Towel
 		229328, -- Spliced Fiendtrader's Surgical Gown
 		222815, -- Consecrated Cuffs
-		229326, -- Spliced Fiendtrader's Demonic Grasp
+		228882, -- Refiner's Conveyor Belt
 		229324, -- Spliced Fiendtrader's Skin Tights
-		229327, -- Spliced Fiendtrader's Soles
+		221043, -- Cloudstrider Soles
 		231265, -- The Jastor Diamond
+		228411, -- Cyrce's Circlet
 		230198, -- Eye of Kezan
-		219299, -- Synergistic Brewterializer
+		230192, -- Mug's Moxie Jug
+		221062, -- Scalding Queenmaker's Shiv
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "Overall BIS:",
@@ -152,7 +163,7 @@ DESTRUCTION_WARLOCK_RAID_BIS = {
 		228839, -- Undercircuit Racing Flag
 		229328, -- Spliced Fiendtrader's Surgical Gown
 		222815, -- Consecrated Cuffs
-		229326, -- Spliced Fiendtrader's Demonic Grasp
+		228872, -- Golden Handshakers
 		228882, -- Refiner's Conveyor Belt
 		229324, -- Spliced Fiendtrader's Skin Tights
 		229327, -- Spliced Fiendtrader's Soles
@@ -160,7 +171,7 @@ DESTRUCTION_WARLOCK_RAID_BIS = {
 		228843, -- Miniature Roulette Wheel
 		230198, -- Eye of Kezan
 		230192, -- Mug's Moxie Jug
-		228896, -- Stix's Metal Detector
+		231268, -- Blastfurious Machete
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "Raid BIS:",
@@ -173,13 +184,14 @@ DESTRUCTION_WARLOCK_MYTHIC_PLUS_BIS = {
 		229325, -- Spliced Fiendtrader's Transcendence
 		221060, -- Strapped Rescue-Keg
 		229323, -- Spliced Fiendtrader's Loyal Servants
+		221054, -- Chef Chewie's Towel
 		229328, -- Spliced Fiendtrader's Surgical Gown
 		222815, -- Consecrated Cuffs
-		229326, -- Spliced Fiendtrader's Demonic Grasp
 		229324, -- Spliced Fiendtrader's Skin Tights
 		229327, -- Spliced Fiendtrader's Soles
 		219308, -- Signet of the Priory
-		219299, -- Synergistic Brewterializer
+		219305, -- Carved Blazikon Wax
+		221062, -- Scalding Queenmaker's Shiv
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "M+ BIS:",

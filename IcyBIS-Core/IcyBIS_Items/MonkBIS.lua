@@ -10,7 +10,7 @@ BREWMASTER_MONK_OVERALL_BIS = {
 		229297, -- Ageless Serpent's Leggings
 		229300, -- Ageless Serpent's Ankleweights
 		228843, -- Miniature Roulette Wheel
-		228411, -- Cyrce's Circlet
+		231265, -- The Jastor Diamond
 		228905, -- Giga Bank-Breaker
 		232804, -- Capo's Molten Knuckles
 		230198, -- Eye of Kezan
@@ -33,7 +33,7 @@ BREWMASTER_MONK_RAID_BIS = {
 		229297, -- Ageless Serpent's Leggings
 		228888, -- Rushed Beta Launchers
 		228843, -- Miniature Roulette Wheel
-		228411, -- Cyrce's Circlet
+		231265, -- The Jastor Diamond
 		228905, -- Giga Bank-Breaker
 		232804, -- Capo's Molten Knuckles
 		230198, -- Eye of Kezan
@@ -52,7 +52,6 @@ BREWMASTER_MONK_MYTHIC_PLUS_BIS = {
 		229299, -- Ageless Serpent's Handguards
 		168986, -- Mad King's Sporran
 		229297, -- Ageless Serpent's Leggings
-		228411, -- Cyrce's Circlet
 		234494, -- Gallytech Turbo-Tiller
 		221128, -- Starforged Seraph's Mace
 		232541, -- Improvised Seaforium Pacemaker
@@ -142,7 +141,6 @@ WINDWALKER_MONK_OVERALL_BIS = {
 		221116, -- Glorious Defender's Poleaxe
 		232804, -- Capo's Molten Knuckles
 		228899, -- Gallywix's Iron Thumb
-		230198, -- Eye of Kezan
 		230027, -- House of Cards
 	},
 	messageLeft = "Overall BIS:",

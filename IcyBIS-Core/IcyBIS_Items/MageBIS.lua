@@ -136,20 +136,20 @@ FIRE_MAGE_MYTHIC_PLUS_BIS = {
 
 FROST_MAGE_OVERALL_BIS = {
 	itemIDs = {
+		231268, -- Blastfurious Machete
 		222566, -- Vagabond's Torch
 		169006, -- Inventor's Ingenious Trifocals
 		221103, -- Flickering Glowtorc
 		229341, -- Aspectral Emissary's Arcane Vents
-		168970, -- Trashmaster's Mantle
+		221109, -- Candlebearer's Shroud
 		229346, -- Aspectral Emissary's Primal Robes
-		222566, -- Vagabond's Torch
+		222815, -- Consecrated Cuffs
 		229344, -- Aspectral Emissary's Hardened Grasp
 		228861, -- Tune-Up Toolbelt
 		229342, -- Aspectral Emissary's Trousers
 		234497, -- Nonconductive Kill-o-Socks
-		231265, -- The Jastor Diamond
 		221099, -- Wick's Golden Loop
-		230198, -- Eye of Kezan
+		219299, -- Synergistic Brewterializer
 		225648, -- Candle Confidant
 	},
 	messageLeft = "Overall BIS:",

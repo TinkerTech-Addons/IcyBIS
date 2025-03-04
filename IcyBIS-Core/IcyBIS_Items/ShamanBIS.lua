@@ -1,6 +1,8 @@
 ELEMENTAL_SHAMAN_OVERALL_BIS = {
 	itemIDs = {
 		232805, -- Best-in-Slots
+		228901, -- Big Earner's Bludgeon
+		228889, -- Titan of Industry
 		229262, -- Gale Sovereign's Charged Hood
 		228841, -- Semi-Charmed Amulet
 		229260, -- Gale Sovereign's Zephyrs
@@ -27,6 +29,8 @@ ELEMENTAL_SHAMAN_OVERALL_BIS = {
 ELEMENTAL_SHAMAN_RAID_BIS = {
 	itemIDs = {
 		232805, -- Best-in-Slots
+		228901, -- Big Earner's Bludgeon
+		228889, -- Titan of Industry
 		229262, -- Gale Sovereign's Charged Hood
 		228841, -- Semi-Charmed Amulet
 		229260, -- Gale Sovereign's Zephyrs

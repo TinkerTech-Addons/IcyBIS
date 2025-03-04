@@ -1,21 +1,21 @@
 BALANCE_DRUID_OVERALL_BIS = {
 	itemIDs = {
-		212397, -- Takazj's Entropic Edict
-		212404, -- Scepter of Manifested Miasma
-		212056, -- Mask of the Greatlynx
-		225577, -- Sureki Zealot's Insignia
-		212054, -- Maw of the Greatlynx
-		212446, -- Royal Emblem of Nerub-ar
-		212059, -- Hide of the Greatlynx
-		212438, -- Polluted Spectre's Wraps
-		212057, -- Eviscerators of the Greatlynx
-		212425, -- Devourer's Taut Innards
-		212055, -- Leggings of the Greatlynx
-		212445, -- Chitin-Spiked Jackboots
-		225576, -- Writhing Ringworm
-		225578, -- Seal of the Poisoned Pact
-		219314, -- Ara-Kara Sacbrood
-		220202, -- Spymaster's Web
+		232805, -- Best-in-Slots
+		228901, -- Big Earner's Bludgeon
+		229307, -- Branches of Reclaiming Blight
+		228842, -- Gobfather's Gifted Bling
+		229305, -- Jaws of Reclaiming Blight
+		228844, -- Test Pilot's Go-Pack
+		229310, -- Robes of Reclaiming Blight
+		228869, -- Killer Queen's Wristflickers
+		219333, -- Rune-Branded Grasps
+		228880, -- Hitman's Holster
+		229306, -- Moccasins of Reclaiming Blight
+		228888, -- Rushed Beta Launchers
+		231265, -- The Jastor Diamond
+		228411, -- Cyrce's Circlet
+		230198, -- Eye of Kezan
+		230027, -- House of Cards
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Balance Druid",
@@ -24,22 +24,22 @@ BALANCE_DRUID_OVERALL_BIS = {
 
 BALANCE_DRUID_RAID_BIS = {
 	itemIDs = {
-		212397, -- Takazj's Entropic Edict
-		212404, -- Scepter of Manifested Miasma
-		212056, -- Mask of the Greatlynx
-		225577, -- Sureki Zealot's Insignia
-		212054, -- Maw of the Greatlynx
-		212446, -- Royal Emblem of Nerub-ar
-		212059, -- Hide of the Greatlynx
-		212438, -- Polluted Spectre's Wraps
-		212057, -- Eviscerators of the Greatlynx
-		212425, -- Devourer's Taut Innards
-		212055, -- Leggings of the Greatlynx
-		212445, -- Chitin-Spiked Jackboots
-		225576, -- Writhing Ringworm
-		225578, -- Seal of the Poisoned Pact
-		221023, -- Treacherous Transmitter
-		220202, -- Spymaster's Web
+		232805, -- Best-in-Slots
+		228901, -- Big Earner's Bludgeon
+		229307, -- Branches of Reclaiming Blight
+		228842, -- Gobfather's Gifted Bling
+		229305, -- Jaws of Reclaiming Blight
+		228844, -- Test Pilot's Go-Pack
+		229310, -- Robes of Reclaiming Blight
+		228869, -- Killer Queen's Wristflickers
+		219333, -- Rune-Branded Grasps
+		228880, -- Hitman's Holster
+		229306, -- Moccasins of Reclaiming Blight
+		228888, -- Rushed Beta Launchers
+		231265, -- The Jastor Diamond
+		228411, -- Cyrce's Circlet
+		230198, -- Eye of Kezan
+		230027, -- House of Cards
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Balance Druid",
@@ -48,22 +48,21 @@ BALANCE_DRUID_RAID_BIS = {
 
 BALANCE_DRUID_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221085, -- Melodious Iron Songspire
-		178709, -- Scithewood Scepter
-		221163, -- Whispering Mask
-		221077, -- 'Emergency Stop' Keychain
-		212054, -- Maw of the Greatlynx
-		221088, -- Anvilhide Cape
-		212059, -- Hide of the Greatlynx
-		212438, -- Polluted Spectre's Wraps
-		212057, -- Eviscerators of the Greatlynx
-		221134, -- Shadow Congregant's Belt
-		212055, -- Leggings of the Greatlynx
-		157614, -- Flame Invoker's Treads
-		162542, -- Seal of the City Watch
-		221141, -- High Nerubian Signet
-		220305, -- Ovi'nax's Mercurial Egg
-		133304, -- Gale of Shadows
+		221032, -- Voltaic Stormcaller
+		221122, -- Hand of Beledar
+		229307, -- Branches of Reclaiming Blight
+		221060, -- Strapped Rescue-Keg
+		229305, -- Jaws of Reclaiming Blight
+		234507, -- Electrician's Siphoning Filter
+		229310, -- Robes of Reclaiming Blight
+		221053, -- Battle-Scarred Fisticuffs
+		221102, -- Shimmering Glimclaws
+		221107, -- Gleamkeeper's Buckle
+		229306, -- Moccasins of Reclaiming Blight
+		221120, -- Stalwart Guardian's Boots
+		228411, -- Cyrce's Circlet
+		219305, -- Carved Blazikon Wax
+		219308, -- Signet of the Priory
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Balance Druid",
@@ -125,8 +124,8 @@ FERAL_DRUID_RAID_BIS = {
 
 FERAL_DRUID_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		234494, -- Gallytech Turbo-Tiller
 		221116, -- Glorious Defender's Poleaxe
+		221057, -- Sticky Stirring Stick
 		221125, -- Helm of the Righteous Crusade
 		221060, -- Strapped Rescue-Keg
 		235811, -- Extravagant Epaulets
@@ -194,12 +193,12 @@ GUARDIAN_DRUID_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		169005, -- Mekgineer's Mindbending Headgear
 		221060, -- Strapped Rescue-Keg
-		212054, -- Maw of the Greatlynx
+		229305, -- Jaws of Reclaiming Blight
 		168970, -- Trashmaster's Mantle
-		212059, -- Hide of the Greatlynx
-		212057, -- Eviscerators of the Greatlynx
+		229310, -- Robes of Reclaiming Blight
+		229308, -- Grips of Reclaiming Blight
 		221058, -- Brewery Toiler's Waistband
-		212055, -- Leggings of the Greatlynx
+		229306, -- Moccasins of Reclaiming Blight
 		221099, -- Wick's Golden Loop
 		228411, -- Cyrce's Circlet
 		219298, -- Ravenous Honey Buzzer
@@ -227,7 +226,7 @@ RESTORATION_DRUID_OVERALL_BIS = {
 		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
 		230198, -- Eye of Kezan
-		230194, -- Reverb Radio
+		230186, -- Mister Pick-Me-Up
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Restoration Druid",
@@ -251,7 +250,7 @@ RESTORATION_DRUID_RAID_BIS = {
 		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
 		230198, -- Eye of Kezan
-		230194, -- Reverb Radio
+		230186, -- Mister Pick-Me-Up
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Restoration Druid",
@@ -275,7 +274,7 @@ RESTORATION_DRUID_MYTHIC_PLUS_BIS = {
 		228411, -- Cyrce's Circlet
 		221099, -- Wick's Golden Loop
 		219308, -- Signet of the Priory
-		169344, -- Ingenious Mana Battery
+		219305, -- Carved Blazikon Wax
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Restoration Druid",

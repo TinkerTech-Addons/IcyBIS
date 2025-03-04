@@ -142,7 +142,7 @@ PROTECTION_WARRIOR_OVERALL_BIS = {
 		228843, -- Miniature Roulette Wheel
 		219309, -- Tome of Light's Devotion
 		230198, -- Eye of Kezan
-		228895, -- Remixed Ignition Saber
+		169608, -- Tearing Sawtooth Blade
 		228889, -- Titan of Industry
 	},
 	messageLeft = "Overall BIS:",

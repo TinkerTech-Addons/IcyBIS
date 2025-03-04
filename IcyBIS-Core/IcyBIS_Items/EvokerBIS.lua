@@ -124,8 +124,7 @@ DEVASTATION_EVOKER_OVERALL_BIS = {
 		229279, -- Opulent Treasurescale's Petticoat
 		229282, -- Opulent Treasurescale's Boots
 		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
-		230198, -- Eye of Kezan
+		230027, -- House of Cards
 		230192, -- Mug's Moxie Jug
 	},
 	messageLeft = "Overall BIS:",
@@ -147,8 +146,8 @@ DEVASTATION_EVOKER_RAID_BIS = {
 		229279, -- Opulent Treasurescale's Petticoat
 		229282, -- Opulent Treasurescale's Boots
 		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
-		230198, -- Eye of Kezan
+		228840, -- Faded Championship Ring
+		230027, -- House of Cards
 		230192, -- Mug's Moxie Jug
 	},
 	messageLeft = "Raid BIS:",
@@ -168,7 +167,6 @@ DEVASTATION_EVOKER_MYTHIC_PLUS_BIS = {
 		229281, -- Opulent Treasurescale's Gold-Counters
 		234501, -- Portable Power Generator
 		229279, -- Opulent Treasurescale's Petticoat
-		228411, -- Cyrce's Circlet
 		219308, -- Signet of the Priory
 		219299, -- Synergistic Brewterializer
 	},

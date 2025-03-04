@@ -171,7 +171,7 @@ RETRIBUTION_PALADIN_RAID_BIS = {
 		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
 		230198, -- Eye of Kezan
-		230193, -- Mister Lock-N-Stalk
+		230027, -- House of Cards
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Retribution Paladin",

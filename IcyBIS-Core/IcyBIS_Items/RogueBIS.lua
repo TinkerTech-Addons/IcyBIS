@@ -197,7 +197,7 @@ SUBTLETY_ROGUE_MYTHIC_PLUS_BIS = {
 		168957, -- Mekgineer's Championship Belt
 		221071, -- Backbreaking Bootstrappers
 		221200, -- Radiant Necromancer's Band
-		219304, -- Conductor's Wax Whistle
+		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Subtlety Rogue",
