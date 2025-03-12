@@ -14,7 +14,6 @@ HAVOC_DEMON_HUNTER_OVERALL_BIS = {
 		229315, -- Fel-Dealer's Fur Kilt
 		228888, -- Rushed Beta Launchers
 		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
 		228843, -- Miniature Roulette Wheel
 		230198, -- Eye of Kezan
 		232541, -- Improvised Seaforium Pacemaker

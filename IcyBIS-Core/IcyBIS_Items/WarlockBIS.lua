@@ -3,14 +3,13 @@ AFFLICTION_WARLOCK_OVERALL_BIS = {
 		229325, -- Spliced Fiendtrader's Transcendence
 		228841, -- Semi-Charmed Amulet
 		229323, -- Spliced Fiendtrader's Loyal Servants
-		221121, -- Honorbound Retainer's Sash
 		229328, -- Spliced Fiendtrader's Surgical Gown
 		222815, -- Consecrated Cuffs
 		221108, -- King's Malicious Clutches
 		229324, -- Spliced Fiendtrader's Skin Tights
 		221043, -- Cloudstrider Soles
 		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
+		221197, -- Hoop of the Blighted
 		230198, -- Eye of Kezan
 		230027, -- House of Cards
 		221062, -- Scalding Queenmaker's Shiv
@@ -50,11 +49,11 @@ AFFLICTION_WARLOCK_MYTHIC_PLUS_BIS = {
 		229325, -- Spliced Fiendtrader's Transcendence
 		221060, -- Strapped Rescue-Keg
 		229323, -- Spliced Fiendtrader's Loyal Servants
-		221121, -- Honorbound Retainer's Sash
 		229328, -- Spliced Fiendtrader's Surgical Gown
 		222815, -- Consecrated Cuffs
+		221108, -- King's Malicious Clutches
 		229324, -- Spliced Fiendtrader's Skin Tights
-		221198, -- 85-Year Tenure Ring
+		221197, -- Hoop of the Blighted
 		219308, -- Signet of the Priory
 		219299, -- Synergistic Brewterializer
 		222566, -- Vagabond's Torch
@@ -69,15 +68,14 @@ DEMONOLOGY_WARLOCK_OVERALL_BIS = {
 		229325, -- Spliced Fiendtrader's Transcendence
 		228841, -- Semi-Charmed Amulet
 		229323, -- Spliced Fiendtrader's Loyal Servants
-		228839, -- Undercircuit Racing Flag
+		221054, -- Chef Chewie's Towel
 		229328, -- Spliced Fiendtrader's Surgical Gown
 		222815, -- Consecrated Cuffs
-		229326, -- Spliced Fiendtrader's Demonic Grasp
-		228861, -- Tune-Up Toolbelt
+		221108, -- King's Malicious Clutches
 		229324, -- Spliced Fiendtrader's Skin Tights
 		221043, -- Cloudstrider Soles
 		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
+		228843, -- Miniature Roulette Wheel
 		230198, -- Eye of Kezan
 		230027, -- House of Cards
 		221062, -- Scalding Queenmaker's Shiv
@@ -117,9 +115,10 @@ DEMONOLOGY_WARLOCK_MYTHIC_PLUS_BIS = {
 		229325, -- Spliced Fiendtrader's Transcendence
 		221060, -- Strapped Rescue-Keg
 		229323, -- Spliced Fiendtrader's Loyal Servants
+		221054, -- Chef Chewie's Towel
 		229328, -- Spliced Fiendtrader's Surgical Gown
 		222815, -- Consecrated Cuffs
-		229326, -- Spliced Fiendtrader's Demonic Grasp
+		221108, -- King's Malicious Clutches
 		229324, -- Spliced Fiendtrader's Skin Tights
 		229327, -- Spliced Fiendtrader's Soles
 		219308, -- Signet of the Priory
@@ -137,14 +136,12 @@ DESTRUCTION_WARLOCK_OVERALL_BIS = {
 		229325, -- Spliced Fiendtrader's Transcendence
 		228841, -- Semi-Charmed Amulet
 		229323, -- Spliced Fiendtrader's Loyal Servants
-		221054, -- Chef Chewie's Towel
+		234507, -- Electrician's Siphoning Filter
 		229328, -- Spliced Fiendtrader's Surgical Gown
 		222815, -- Consecrated Cuffs
-		228882, -- Refiner's Conveyor Belt
 		229324, -- Spliced Fiendtrader's Skin Tights
-		221043, -- Cloudstrider Soles
 		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
+		221197, -- Hoop of the Blighted
 		230198, -- Eye of Kezan
 		230192, -- Mug's Moxie Jug
 		221062, -- Scalding Queenmaker's Shiv
@@ -184,11 +181,11 @@ DESTRUCTION_WARLOCK_MYTHIC_PLUS_BIS = {
 		229325, -- Spliced Fiendtrader's Transcendence
 		221060, -- Strapped Rescue-Keg
 		229323, -- Spliced Fiendtrader's Loyal Servants
-		221054, -- Chef Chewie's Towel
+		234507, -- Electrician's Siphoning Filter
 		229328, -- Spliced Fiendtrader's Surgical Gown
 		222815, -- Consecrated Cuffs
 		229324, -- Spliced Fiendtrader's Skin Tights
-		229327, -- Spliced Fiendtrader's Soles
+		221197, -- Hoop of the Blighted
 		219308, -- Signet of the Priory
 		219305, -- Carved Blazikon Wax
 		221062, -- Scalding Queenmaker's Shiv

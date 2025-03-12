@@ -125,6 +125,7 @@ MARKSMANSHIP_HUNTER_MYTHIC_PLUS_BIS = {
 		229270, -- Tireless Collector's Armored Breeches
 		221197, -- Hoop of the Blighted
 		219308, -- Signet of the Priory
+		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Marksmanship Hunter",

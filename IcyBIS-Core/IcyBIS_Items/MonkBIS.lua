@@ -72,8 +72,8 @@ MISTWEAVER_MONK_OVERALL_BIS = {
 		219331, -- Rune-Branded Waistband
 		229297, -- Ageless Serpent's Leggings
 		228843, -- Miniature Roulette Wheel
-		228411, -- Cyrce's Circlet
-		230194, -- Reverb Radio
+		228840, -- Faded Championship Ring
+		230198, -- Eye of Kezan
 		230192, -- Mug's Moxie Jug
 	},
 	messageLeft = "Overall BIS:",
@@ -83,6 +83,7 @@ MISTWEAVER_MONK_OVERALL_BIS = {
 
 MISTWEAVER_MONK_RAID_BIS = {
 	itemIDs = {
+		168955, -- Electrifying Cognitive Amplifier
 		169005, -- Mekgineer's Mindbending Headgear
 		221103, -- Flickering Glowtorc
 		229296, -- Ageless Serpent's Shoulderpads
@@ -93,7 +94,6 @@ MISTWEAVER_MONK_RAID_BIS = {
 		221099, -- Wick's Golden Loop
 		228411, -- Cyrce's Circlet
 		219308, -- Signet of the Priory
-		219296, -- Entropic Skardyn Core
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Mistweaver Monk",
@@ -115,8 +115,8 @@ MISTWEAVER_MONK_MYTHIC_PLUS_BIS = {
 		228854, -- Bilgerat's Discarded Slacks
 		228876, -- Dragster's Last Stride
 		228843, -- Miniature Roulette Wheel
-		228411, -- Cyrce's Circlet
-		230194, -- Reverb Radio
+		228840, -- Faded Championship Ring
+		230198, -- Eye of Kezan
 		230192, -- Mug's Moxie Jug
 	},
 	messageLeft = "M+ BIS:",
@@ -129,9 +129,9 @@ WINDWALKER_MONK_OVERALL_BIS = {
 		229298, -- Ageless Serpent's Mane
 		228842, -- Gobfather's Gifted Bling
 		229296, -- Ageless Serpent's Shoulderpads
-		228844, -- Test Pilot's Go-Pack
+		222817, -- Consecrated Cloak
 		229301, -- Ageless Serpent's Inked Coils
-		229294, -- Ageless Serpent's Cuffs
+		219334, -- Rune-Branded Armbands
 		229299, -- Ageless Serpent's Handguards
 		168957, -- Mekgineer's Championship Belt
 		168968, -- Flame-Seared Leggings

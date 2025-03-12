@@ -134,9 +134,8 @@ UNHOLY_DEATH_KNIGHT_OVERALL_BIS = {
 		228886, -- Coin-Operated Girdle
 		229255, -- Cauldron Champion's Greatboots
 		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
+		228843, -- Miniature Roulette Wheel
 		230027, -- House of Cards
-		230198, -- Eye of Kezan
 		232805, -- Best-in-Slots
 	},
 	messageLeft = "Overall BIS:",
@@ -157,7 +156,7 @@ UNHOLY_DEATH_KNIGHT_RAID_BIS = {
 		228853, -- Hired Muscle's Legguards
 		229255, -- Cauldron Champion's Greatboots
 		231265, -- The Jastor Diamond
-		228840, -- Faded Championship Ring
+		228843, -- Miniature Roulette Wheel
 		230027, -- House of Cards
 		230198, -- Eye of Kezan
 		232805, -- Best-in-Slots

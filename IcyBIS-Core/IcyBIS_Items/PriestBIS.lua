@@ -146,11 +146,11 @@ SHADOW_PRIEST_OVERALL_BIS = {
 		229332, -- Confessor's Unshakable Radiance
 		228844, -- Test Pilot's Go-Pack
 		229337, -- Confessor's Unshakable Vestment
-		222815, -- Consecrated Cuffs
+		228881, -- Illicit Bankroll Bracers
 		229335, -- Confessor's Unshakable Mitts
 		228882, -- Refiner's Conveyor Belt
 		228865, -- Pit Doctor's Petticoat
-		228879, -- Cemented Murloc-Swimmers
+		222814, -- Consecrated Slippers
 		228411, -- Cyrce's Circlet
 		231265, -- The Jastor Diamond
 		230198, -- Eye of Kezan
