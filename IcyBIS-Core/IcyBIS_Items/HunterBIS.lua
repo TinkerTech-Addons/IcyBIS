@@ -79,8 +79,8 @@ MARKSMANSHIP_HUNTER_OVERALL_BIS = {
 		231265, -- The Jastor Diamond
 		228843, -- Miniature Roulette Wheel
 		228840, -- Faded Championship Ring
-		219308, -- Signet of the Priory
-		230198, -- Eye of Kezan
+		230027, -- House of Cards
+		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Marksmanship Hunter",

@@ -82,7 +82,7 @@ HOLY_PRIEST_OVERALL_BIS = {
 		229333, -- Confessor's Unshakable Leggings
 		228847, -- Hotstep Heel-Turners
 		231265, -- The Jastor Diamond
-		230198, -- Eye of Kezan
+		230186, -- Mister Pick-Me-Up
 		219308, -- Signet of the Priory
 	},
 	messageLeft = "Overall BIS:",
@@ -106,7 +106,7 @@ HOLY_PRIEST_RAID_BIS = {
 		228847, -- Hotstep Heel-Turners
 		231265, -- The Jastor Diamond
 		228843, -- Miniature Roulette Wheel
-		230198, -- Eye of Kezan
+		230186, -- Mister Pick-Me-Up
 		230027, -- House of Cards
 	},
 	messageLeft = "Raid BIS:",

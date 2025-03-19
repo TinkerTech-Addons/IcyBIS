@@ -10,7 +10,7 @@ AFFLICTION_WARLOCK_OVERALL_BIS = {
 		221043, -- Cloudstrider Soles
 		231265, -- The Jastor Diamond
 		221197, -- Hoop of the Blighted
-		230198, -- Eye of Kezan
+		230192, -- Mug's Moxie Jug
 		230027, -- House of Cards
 		221062, -- Scalding Queenmaker's Shiv
 		222566, -- Vagabond's Torch

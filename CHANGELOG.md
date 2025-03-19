@@ -2,6 +2,14 @@
 
 Provides release dates and versions when class BIS tables change and/or core features in the addon were added, removed or modified.
 
+## 2.0.3 - 2025-03-18
+
+### Class BIS Table Updates
+
+- **Hunter BIS Tables** updated
+- **Priest BIS Tables** updated
+- **Warlock BIS Tables** updated
+
 ## 2.0.2 - 2025-03-11
 
 ### Class BIS Table Updates
