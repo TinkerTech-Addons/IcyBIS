@@ -47,7 +47,6 @@ ARCANE_MAGE_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		168973, -- Neural Synapse Enhancer
 		229343, -- Aspectral Emissary's Crystalline Cowl
-		221060, -- Strapped Rescue-Keg
 		229341, -- Aspectral Emissary's Arcane Vents
 		168970, -- Trashmaster's Mantle
 		229344, -- Aspectral Emissary's Hardened Grasp
@@ -56,7 +55,6 @@ ARCANE_MAGE_MYTHIC_PLUS_BIS = {
 		229345, -- Aspectral Emissary's Slippers
 		221099, -- Wick's Golden Loop
 		221200, -- Radiant Necromancer's Band
-		219308, -- Signet of the Priory
 		232545, -- Gigazap's Zap-Cap
 	},
 	messageLeft = "M+ BIS:",
@@ -115,7 +113,6 @@ FIRE_MAGE_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		168973, -- Neural Synapse Enhancer
 		229343, -- Aspectral Emissary's Crystalline Cowl
-		221060, -- Strapped Rescue-Keg
 		229341, -- Aspectral Emissary's Arcane Vents
 		168970, -- Trashmaster's Mantle
 		229346, -- Aspectral Emissary's Primal Robes
@@ -126,7 +123,6 @@ FIRE_MAGE_MYTHIC_PLUS_BIS = {
 		229345, -- Aspectral Emissary's Slippers
 		221099, -- Wick's Golden Loop
 		221200, -- Radiant Necromancer's Band
-		219308, -- Signet of the Priory
 		232545, -- Gigazap's Zap-Cap
 	},
 	messageLeft = "M+ BIS:",
@@ -149,7 +145,7 @@ FROST_MAGE_OVERALL_BIS = {
 		229342, -- Aspectral Emissary's Trousers
 		234497, -- Nonconductive Kill-o-Socks
 		221099, -- Wick's Golden Loop
-		219299, -- Synergistic Brewterializer
+		230193, -- Mister Lock-N-Stalk
 		225648, -- Candle Confidant
 	},
 	messageLeft = "Overall BIS:",
@@ -173,7 +169,7 @@ FROST_MAGE_RAID_BIS = {
 		228879, -- Cemented Murloc-Swimmers
 		231265, -- The Jastor Diamond
 		228840, -- Faded Championship Ring
-		230198, -- Eye of Kezan
+		230193, -- Mister Lock-N-Stalk
 		230194, -- Reverb Radio
 	},
 	messageLeft = "Raid BIS:",

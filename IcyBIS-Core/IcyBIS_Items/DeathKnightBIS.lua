@@ -109,7 +109,6 @@ FROST_DEATH_KNIGHT_RAID_BIS = {
 FROST_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		221047, -- Monstrosity's Gaze
-		221060, -- Strapped Rescue-Keg
 		221118, -- Flameforged Armguard
 		221112, -- Caliginous Claspers
 		168976, -- Automatic Waist Tightener
@@ -125,7 +124,6 @@ FROST_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 UNHOLY_DEATH_KNIGHT_OVERALL_BIS = {
 	itemIDs = {
 		229253, -- Cauldron Champion's Crown
-		221060, -- Strapped Rescue-Keg
 		229251, -- Cauldron Champion's Screamplate
 		222817, -- Consecrated Cloak
 		229256, -- Cauldron Champion's Ribcage
@@ -136,6 +134,7 @@ UNHOLY_DEATH_KNIGHT_OVERALL_BIS = {
 		231265, -- The Jastor Diamond
 		228843, -- Miniature Roulette Wheel
 		230027, -- House of Cards
+		230198, -- Eye of Kezan
 		232805, -- Best-in-Slots
 	},
 	messageLeft = "Overall BIS:",
@@ -169,13 +168,11 @@ UNHOLY_DEATH_KNIGHT_RAID_BIS = {
 UNHOLY_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		221100, -- Waxsteel Greathelm
-		221060, -- Strapped Rescue-Keg
 		234507, -- Electrician's Siphoning Filter
 		221069, -- Slashproof Business Plate
 		234504, -- Jumpstarter's Scaffold-Scrapers
 		221040, -- Lightning-Conductor's Bands
 		232541, -- Improvised Seaforium Pacemaker
-		219308, -- Signet of the Priory
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Unholy Death Knight",

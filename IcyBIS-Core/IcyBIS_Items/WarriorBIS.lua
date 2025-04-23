@@ -47,7 +47,6 @@ ARMS_WARRIOR_RAID_BIS = {
 ARMS_WARRIOR_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		221100, -- Waxsteel Greathelm
-		221060, -- Strapped Rescue-Keg
 		221069, -- Slashproof Business Plate
 		221064, -- Fuzzy Cindercuffs
 		168980, -- Gauntlets of Absolute Authority
@@ -64,7 +63,6 @@ FURY_WARRIOR_OVERALL_BIS = {
 		232805, -- Best-in-Slots
 		228891, -- Capital Punisher
 		229235, -- Enforcer's Backalley Faceshield
-		221060, -- Strapped Rescue-Keg
 		229233, -- Enforcer's Backalley Shoulderplates
 		222817, -- Consecrated Cloak
 		229238, -- Enforcer's Backalley Vestplate
@@ -111,7 +109,6 @@ FURY_WARRIOR_MYTHIC_PLUS_BIS = {
 		221111, -- Poleaxe of Somber Fate
 		221111, -- Poleaxe of Somber Fate
 		169003, -- Apogee Inventor's Goggles
-		221060, -- Strapped Rescue-Keg
 		221052, -- Foam-Ridden Pauldrons
 		234507, -- Electrician's Siphoning Filter
 		168979, -- Mechanized Plate Chasse
@@ -178,7 +175,6 @@ PROTECTION_WARRIOR_RAID_BIS = {
 PROTECTION_WARRIOR_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		221100, -- Waxsteel Greathelm
-		221060, -- Strapped Rescue-Keg
 		229233, -- Enforcer's Backalley Shoulderplates
 		229230, -- Enforcer's Backalley Allegiance
 		229238, -- Enforcer's Backalley Vestplate

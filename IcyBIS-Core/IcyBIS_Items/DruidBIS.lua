@@ -51,7 +51,6 @@ BALANCE_DRUID_MYTHIC_PLUS_BIS = {
 		221032, -- Voltaic Stormcaller
 		221122, -- Hand of Beledar
 		229307, -- Branches of Reclaiming Blight
-		221060, -- Strapped Rescue-Keg
 		229305, -- Jaws of Reclaiming Blight
 		234507, -- Electrician's Siphoning Filter
 		229310, -- Robes of Reclaiming Blight
@@ -59,10 +58,8 @@ BALANCE_DRUID_MYTHIC_PLUS_BIS = {
 		221102, -- Shimmering Glimclaws
 		221107, -- Gleamkeeper's Buckle
 		229306, -- Moccasins of Reclaiming Blight
-		221120, -- Stalwart Guardian's Boots
 		228411, -- Cyrce's Circlet
 		219305, -- Carved Blazikon Wax
-		219308, -- Signet of the Priory
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Balance Druid",
@@ -127,7 +124,6 @@ FERAL_DRUID_MYTHIC_PLUS_BIS = {
 		221116, -- Glorious Defender's Poleaxe
 		221057, -- Sticky Stirring Stick
 		221125, -- Helm of the Righteous Crusade
-		221060, -- Strapped Rescue-Keg
 		235811, -- Extravagant Epaulets
 		221054, -- Chef Chewie's Towel
 		221053, -- Battle-Scarred Fisticuffs
@@ -136,7 +132,6 @@ FERAL_DRUID_MYTHIC_PLUS_BIS = {
 		221071, -- Backbreaking Bootstrappers
 		221198, -- 85-Year Tenure Ring
 		232541, -- Improvised Seaforium Pacemaker
-		219308, -- Signet of the Priory
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Feral Druid",
@@ -159,7 +154,7 @@ GUARDIAN_DRUID_OVERALL_BIS = {
 		228843, -- Miniature Roulette Wheel
 		231265, -- The Jastor Diamond
 		230194, -- Reverb Radio
-		230193, -- Mister Lock-N-Stalk
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Guardian Druid",
@@ -182,7 +177,7 @@ GUARDIAN_DRUID_RAID_BIS = {
 		228843, -- Miniature Roulette Wheel
 		231265, -- The Jastor Diamond
 		230194, -- Reverb Radio
-		230193, -- Mister Lock-N-Stalk
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Guardian Druid",
@@ -192,7 +187,6 @@ GUARDIAN_DRUID_RAID_BIS = {
 GUARDIAN_DRUID_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		169005, -- Mekgineer's Mindbending Headgear
-		221060, -- Strapped Rescue-Keg
 		229305, -- Jaws of Reclaiming Blight
 		168970, -- Trashmaster's Mantle
 		229310, -- Robes of Reclaiming Blight
@@ -201,7 +195,8 @@ GUARDIAN_DRUID_MYTHIC_PLUS_BIS = {
 		229306, -- Moccasins of Reclaiming Blight
 		221099, -- Wick's Golden Loop
 		228411, -- Cyrce's Circlet
-		219298, -- Ravenous Honey Buzzer
+		219309, -- Tome of Light's Devotion
+		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Guardian Druid",
@@ -213,7 +208,6 @@ RESTORATION_DRUID_OVERALL_BIS = {
 		228896, -- Stix's Metal Detector
 		222566, -- Vagabond's Torch
 		229307, -- Branches of Reclaiming Blight
-		221060, -- Strapped Rescue-Keg
 		229305, -- Jaws of Reclaiming Blight
 		234507, -- Electrician's Siphoning Filter
 		221130, -- Seraphic Wraps of the Ordained
@@ -222,7 +216,6 @@ RESTORATION_DRUID_OVERALL_BIS = {
 		229308, -- Grips of Reclaiming Blight
 		219331, -- Rune-Branded Waistband
 		229306, -- Moccasins of Reclaiming Blight
-		221120, -- Stalwart Guardian's Boots
 		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
 		230198, -- Eye of Kezan
@@ -261,7 +254,6 @@ RESTORATION_DRUID_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		168955, -- Electrifying Cognitive Amplifier
 		229307, -- Branches of Reclaiming Blight
-		221060, -- Strapped Rescue-Keg
 		229305, -- Jaws of Reclaiming Blight
 		234507, -- Electrician's Siphoning Filter
 		221130, -- Seraphic Wraps of the Ordained
@@ -273,7 +265,6 @@ RESTORATION_DRUID_MYTHIC_PLUS_BIS = {
 		229309, -- Breeches of Reclaiming Blight
 		228411, -- Cyrce's Circlet
 		221099, -- Wick's Golden Loop
-		219308, -- Signet of the Priory
 		219305, -- Carved Blazikon Wax
 	},
 	messageLeft = "M+ BIS:",

@@ -13,7 +13,7 @@ ASSASSINATION_ROGUE_OVERALL_BIS = {
 		219327, -- Rune-Branded Kickers
 		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
-		230198, -- Eye of Kezan
+		232541, -- Improvised Seaforium Pacemaker
 		230027, -- House of Cards
 	},
 	messageLeft = "Overall BIS:",
@@ -37,7 +37,7 @@ ASSASSINATION_ROGUE_RAID_BIS = {
 		228888, -- Rushed Beta Launchers
 		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
-		230198, -- Eye of Kezan
+		230189, -- Junkmaestro's Mega Magnet
 		230027, -- House of Cards
 	},
 	messageLeft = "Raid BIS:",
@@ -60,7 +60,6 @@ ASSASSINATION_ROGUE_MYTHIC_PLUS_BIS = {
 		229288, -- Spectral Gambler's Pantaloons
 		221198, -- 85-Year Tenure Ring
 		228411, -- Cyrce's Circlet
-		219308, -- Signet of the Priory
 		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
@@ -84,7 +83,7 @@ OUTLAW_ROGUE_OVERALL_BIS = {
 		228876, -- Dragster's Last Stride
 		215135, -- Ring of Earthen Craftsmanship
 		228411, -- Cyrce's Circlet
-		230198, -- Eye of Kezan
+		230189, -- Junkmaestro's Mega Magnet
 		230199, -- Zee's Thug Hotline
 	},
 	messageLeft = "Overall BIS:",
@@ -108,7 +107,7 @@ OUTLAW_ROGUE_RAID_BIS = {
 		228876, -- Dragster's Last Stride
 		228840, -- Faded Championship Ring
 		228411, -- Cyrce's Circlet
-		230198, -- Eye of Kezan
+		230189, -- Junkmaestro's Mega Magnet
 		230199, -- Zee's Thug Hotline
 	},
 	messageLeft = "Raid BIS:",

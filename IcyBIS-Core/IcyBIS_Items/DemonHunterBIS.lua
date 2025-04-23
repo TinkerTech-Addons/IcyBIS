@@ -18,7 +18,6 @@ HAVOC_DEMON_HUNTER_OVERALL_BIS = {
 		230198, -- Eye of Kezan
 		232541, -- Improvised Seaforium Pacemaker
 		230027, -- House of Cards
-		219308, -- Signet of the Priory
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Havoc Demon Hunter",
@@ -63,7 +62,6 @@ HAVOC_DEMON_HUNTER_MYTHIC_PLUS_BIS = {
 		168975, -- Machinist's Treasured Treads
 		221198, -- 85-Year Tenure Ring
 		232541, -- Improvised Seaforium Pacemaker
-		219308, -- Signet of the Priory
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Havoc Demon Hunter",
@@ -130,7 +128,6 @@ VENGEANCE_DEMON_HUNTER_MYTHIC_PLUS_BIS = {
 		229317, -- Fel-Dealer's Underhandlers
 		221058, -- Brewery Toiler's Waistband
 		229315, -- Fel-Dealer's Fur Kilt
-		221120, -- Stalwart Guardian's Boots
 		221099, -- Wick's Golden Loop
 		232541, -- Improvised Seaforium Pacemaker
 		232543, -- Ringing Ritual Mud

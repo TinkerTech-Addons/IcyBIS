@@ -12,7 +12,7 @@ BEAST_MASTERY_HUNTER_OVERALL_BIS = {
 		229270, -- Tireless Collector's Armored Breeches
 		231265, -- The Jastor Diamond
 		228840, -- Faded Championship Ring
-		219308, -- Signet of the Priory
+		230027, -- House of Cards
 		230198, -- Eye of Kezan
 	},
 	messageLeft = "Overall BIS:",
@@ -48,13 +48,11 @@ BEAST_MASTERY_HUNTER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		234492, -- Keeza's 'B.' B.B.B.F.G
 		229271, -- Tireless Collector's Chained Cowl
-		221060, -- Strapped Rescue-Keg
 		229274, -- Tireless Collector's Battlegear
 		221124, -- Consecrated Baron's Bindings
 		229272, -- Tireless Collector's Gauntlets
 		234501, -- Portable Power Generator
 		229270, -- Tireless Collector's Armored Breeches
-		219308, -- Signet of the Priory
 		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
@@ -124,7 +122,6 @@ MARKSMANSHIP_HUNTER_MYTHIC_PLUS_BIS = {
 		234501, -- Portable Power Generator
 		229270, -- Tireless Collector's Armored Breeches
 		221197, -- Hoop of the Blighted
-		219308, -- Signet of the Priory
 		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
@@ -148,7 +145,7 @@ SURVIVAL_HUNTER_OVERALL_BIS = {
 		231265, -- The Jastor Diamond
 		228411, -- Cyrce's Circlet
 		230027, -- House of Cards
-		230198, -- Eye of Kezan
+		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Survival Hunter",
@@ -184,7 +181,6 @@ SURVIVAL_HUNTER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		234494, -- Gallytech Turbo-Tiller
 		229271, -- Tireless Collector's Chained Cowl
-		221060, -- Strapped Rescue-Keg
 		229269, -- Tireless Collector's Hunted Heads
 		234507, -- Electrician's Siphoning Filter
 		229274, -- Tireless Collector's Battlegear
@@ -193,7 +189,6 @@ SURVIVAL_HUNTER_MYTHIC_PLUS_BIS = {
 		229270, -- Tireless Collector's Armored Breeches
 		221106, -- Gloomstomper's Sabatons
 		221198, -- 85-Year Tenure Ring
-		219308, -- Signet of the Priory
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Survival Hunter",

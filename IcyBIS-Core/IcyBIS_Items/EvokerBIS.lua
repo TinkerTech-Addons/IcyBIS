@@ -78,7 +78,6 @@ AUGMENTATION_EVOKER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		221105, -- Dark Zone Headtaker
 		229280, -- Opulent Treasurescale's Crowned Jewel
-		221060, -- Strapped Rescue-Keg
 		229278, -- Opulent Treasurescale's Gleaming Mantle
 		234507, -- Electrician's Siphoning Filter
 		229283, -- Opulent Treasurescale's Tunic
@@ -92,7 +91,6 @@ AUGMENTATION_EVOKER_MYTHIC_PLUS_BIS = {
 		219295, -- Sigil of Algari Concordance
 		221105, -- Dark Zone Headtaker
 		229280, -- Opulent Treasurescale's Crowned Jewel
-		221060, -- Strapped Rescue-Keg
 		229278, -- Opulent Treasurescale's Gleaming Mantle
 		234507, -- Electrician's Siphoning Filter
 		229283, -- Opulent Treasurescale's Tunic
@@ -167,7 +165,6 @@ DEVASTATION_EVOKER_MYTHIC_PLUS_BIS = {
 		229281, -- Opulent Treasurescale's Gold-Counters
 		234501, -- Portable Power Generator
 		229279, -- Opulent Treasurescale's Petticoat
-		219308, -- Signet of the Priory
 		219299, -- Synergistic Brewterializer
 	},
 	messageLeft = "M+ BIS:",
@@ -180,7 +177,6 @@ PRESERVATION_EVOKER_OVERALL_BIS = {
 		228901, -- Big Earner's Bludgeon
 		222566, -- Vagabond's Torch
 		229280, -- Opulent Treasurescale's Crowned Jewel
-		221060, -- Strapped Rescue-Keg
 		229278, -- Opulent Treasurescale's Gleaming Mantle
 		228844, -- Test Pilot's Go-Pack
 		229283, -- Opulent Treasurescale's Tunic
@@ -226,7 +222,6 @@ PRESERVATION_EVOKER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		168955, -- Electrifying Cognitive Amplifier
 		229280, -- Opulent Treasurescale's Crowned Jewel
-		221060, -- Strapped Rescue-Keg
 		229278, -- Opulent Treasurescale's Gleaming Mantle
 		234507, -- Electrician's Siphoning Filter
 		229283, -- Opulent Treasurescale's Tunic
@@ -237,7 +232,6 @@ PRESERVATION_EVOKER_MYTHIC_PLUS_BIS = {
 		221106, -- Gloomstomper's Sabatons
 		221198, -- 85-Year Tenure Ring
 		228411, -- Cyrce's Circlet
-		219308, -- Signet of the Priory
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Preservation Evoker",

@@ -15,11 +15,11 @@ ELEMENTAL_SHAMAN_OVERALL_BIS = {
 		228845, -- Sash of the Fierce Diva
 		168982, -- Regal Mekanospurs
 		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
 		228843, -- Miniature Roulette Wheel
-		230198, -- Eye of Kezan
+		228411, -- Cyrce's Circlet
 		230027, -- House of Cards
-		230197, -- Geargrinder's Spare Keys
+		230192, -- Mug's Moxie Jug
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Elemental Shaman",
@@ -43,9 +43,9 @@ ELEMENTAL_SHAMAN_RAID_BIS = {
 		228883, -- Dubious Table-Runners
 		231265, -- The Jastor Diamond
 		228843, -- Miniature Roulette Wheel
-		230198, -- Eye of Kezan
 		230027, -- House of Cards
-		230197, -- Geargrinder's Spare Keys
+		230192, -- Mug's Moxie Jug
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Elemental Shaman",
@@ -55,7 +55,6 @@ ELEMENTAL_SHAMAN_RAID_BIS = {
 ELEMENTAL_SHAMAN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		168973, -- Neural Synapse Enhancer
-		221060, -- Strapped Rescue-Keg
 		221048, -- Amice of Oblivion
 		234507, -- Electrician's Siphoning Filter
 		234502, -- Bront's Singed Blastcoat
@@ -63,7 +62,6 @@ ELEMENTAL_SHAMAN_MYTHIC_PLUS_BIS = {
 		221119, -- Holybound Grips
 		168982, -- Regal Mekanospurs
 		221099, -- Wick's Golden Loop
-		219308, -- Signet of the Priory
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Elemental Shaman",
@@ -76,7 +74,6 @@ ENHANCEMENT_SHAMAN_OVERALL_BIS = {
 		222446, -- Charged Facesmasher
 		221051, -- Crusher of the Unsettled
 		229262, -- Gale Sovereign's Charged Hood
-		221060, -- Strapped Rescue-Keg
 		229260, -- Gale Sovereign's Zephyrs
 		222817, -- Consecrated Cloak
 		229265, -- Gale Sovereign's Clouded Hauberk
@@ -89,7 +86,6 @@ ENHANCEMENT_SHAMAN_OVERALL_BIS = {
 		230198, -- Eye of Kezan
 		230027, -- House of Cards
 		232541, -- Improvised Seaforium Pacemaker
-		219308, -- Signet of the Priory
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Enhancement Shaman",
@@ -125,14 +121,12 @@ ENHANCEMENT_SHAMAN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		221051, -- Crusher of the Unsettled
 		221033, -- Hyperactive Stormclaw
-		221060, -- Strapped Rescue-Keg
 		234507, -- Electrician's Siphoning Filter
 		234502, -- Bront's Singed Blastcoat
 		221124, -- Consecrated Baron's Bindings
 		168971, -- Swift Pneumatic Grips
 		168983, -- Maniacal Monarch's Girdle
 		221035, -- Treads of the Galvanic Skysoarer
-		219308, -- Signet of the Priory
 		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
@@ -142,9 +136,12 @@ ENHANCEMENT_SHAMAN_MYTHIC_PLUS_BIS = {
 
 RESTORATION_SHAMAN_OVERALL_BIS = {
 	itemIDs = {
+		232805, -- Best-in-Slots
 		228901, -- Big Earner's Bludgeon
+		222439, -- Everforged Dagger
+		231311, -- Frontman's Wondrous Wall
 		222566, -- Vagabond's Torch
-		198325, -- Oscillating Wilderness Opticals
+		228859, -- Sanitized Scraphood
 		221103, -- Flickering Glowtorc
 		229260, -- Gale Sovereign's Zephyrs
 		222817, -- Consecrated Cloak
@@ -155,9 +152,9 @@ RESTORATION_SHAMAN_OVERALL_BIS = {
 		229261, -- Gale Sovereign's Pantaloons
 		229264, -- Gale Sovereign's Stormboots
 		228840, -- Faded Championship Ring
-		228411, -- Cyrce's Circlet
-		230198, -- Eye of Kezan
+		228843, -- Miniature Roulette Wheel
 		230186, -- Mister Pick-Me-Up
+		230192, -- Mug's Moxie Jug
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Restoration Shaman",
@@ -179,9 +176,9 @@ RESTORATION_SHAMAN_RAID_BIS = {
 		229261, -- Gale Sovereign's Pantaloons
 		228862, -- Shrapnel-Ridden Sabatons
 		228840, -- Faded Championship Ring
-		228411, -- Cyrce's Circlet
-		230198, -- Eye of Kezan
+		228843, -- Miniature Roulette Wheel
 		230186, -- Mister Pick-Me-Up
+		230192, -- Mug's Moxie Jug
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Restoration Shaman",
@@ -201,9 +198,7 @@ RESTORATION_SHAMAN_MYTHIC_PLUS_BIS = {
 		229263, -- Gale Sovereign's Grasps
 		234501, -- Portable Power Generator
 		229261, -- Gale Sovereign's Pantaloons
-		221198, -- 85-Year Tenure Ring
-		228411, -- Cyrce's Circlet
-		219306, -- Burin of the Candle King
+		221197, -- Hoop of the Blighted
 		219305, -- Carved Blazikon Wax
 	},
 	messageLeft = "M+ BIS:",

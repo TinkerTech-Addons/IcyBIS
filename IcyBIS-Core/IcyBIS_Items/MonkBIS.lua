@@ -13,7 +13,7 @@ BREWMASTER_MONK_OVERALL_BIS = {
 		231265, -- The Jastor Diamond
 		228905, -- Giga Bank-Breaker
 		232804, -- Capo's Molten Knuckles
-		230198, -- Eye of Kezan
+		230197, -- Geargrinder's Spare Keys
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Brewmaster Monk",
@@ -73,7 +73,7 @@ MISTWEAVER_MONK_OVERALL_BIS = {
 		229297, -- Ageless Serpent's Leggings
 		228843, -- Miniature Roulette Wheel
 		228840, -- Faded Championship Ring
-		230198, -- Eye of Kezan
+		230186, -- Mister Pick-Me-Up
 		230192, -- Mug's Moxie Jug
 	},
 	messageLeft = "Overall BIS:",
@@ -93,7 +93,6 @@ MISTWEAVER_MONK_RAID_BIS = {
 		229297, -- Ageless Serpent's Leggings
 		221099, -- Wick's Golden Loop
 		228411, -- Cyrce's Circlet
-		219308, -- Signet of the Priory
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Mistweaver Monk",
@@ -116,7 +115,7 @@ MISTWEAVER_MONK_MYTHIC_PLUS_BIS = {
 		228876, -- Dragster's Last Stride
 		228843, -- Miniature Roulette Wheel
 		228840, -- Faded Championship Ring
-		230198, -- Eye of Kezan
+		230186, -- Mister Pick-Me-Up
 		230192, -- Mug's Moxie Jug
 	},
 	messageLeft = "M+ BIS:",
@@ -142,6 +141,7 @@ WINDWALKER_MONK_OVERALL_BIS = {
 		232804, -- Capo's Molten Knuckles
 		228899, -- Gallywix's Iron Thumb
 		230027, -- House of Cards
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Windwalker Monk",
@@ -165,8 +165,8 @@ WINDWALKER_MONK_RAID_BIS = {
 		228905, -- Giga Bank-Breaker
 		232804, -- Capo's Molten Knuckles
 		228899, -- Gallywix's Iron Thumb
-		230198, -- Eye of Kezan
 		230027, -- House of Cards
+		230198, -- Eye of Kezan
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Windwalker Monk",
@@ -176,7 +176,6 @@ WINDWALKER_MONK_RAID_BIS = {
 WINDWALKER_MONK_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		229298, -- Ageless Serpent's Mane
-		221060, -- Strapped Rescue-Keg
 		229296, -- Ageless Serpent's Shoulderpads
 		234507, -- Electrician's Siphoning Filter
 		229301, -- Ageless Serpent's Inked Coils
@@ -189,7 +188,7 @@ WINDWALKER_MONK_MYTHIC_PLUS_BIS = {
 		221116, -- Glorious Defender's Poleaxe
 		221051, -- Crusher of the Unsettled
 		221051, -- Crusher of the Unsettled
-		219308, -- Signet of the Priory
+		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Windwalker Monk",

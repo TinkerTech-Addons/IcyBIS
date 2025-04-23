@@ -50,15 +50,12 @@ HOLY_PALADIN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		168955, -- Electrifying Cognitive Amplifier
 		229244, -- Aureate Sentry's Pledge
-		221060, -- Strapped Rescue-Keg
 		234507, -- Electrician's Siphoning Filter
 		229247, -- Aureate Sentry's Encasement
 		229245, -- Aureate Sentry's Gauntlets
 		221040, -- Lightning-Conductor's Bands
 		229243, -- Aureate Sentry's Legguards
 		228411, -- Cyrce's Circlet
-		219308, -- Signet of the Priory
-		219306, -- Burin of the Candle King
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Holy Paladin",
@@ -70,7 +67,6 @@ PROTECTION_PALADIN_OVERALL_BIS = {
 		221096, -- Rail Rider's Bisector
 		228889, -- Titan of Industry
 		221100, -- Waxsteel Greathelm
-		221060, -- Strapped Rescue-Keg
 		229242, -- Aureate Sentry's Roaring Will
 		228844, -- Test Pilot's Go-Pack
 		229247, -- Aureate Sentry's Encasement
@@ -81,7 +77,7 @@ PROTECTION_PALADIN_OVERALL_BIS = {
 		228874, -- Rik's Walkin' Boots
 		231265, -- The Jastor Diamond
 		230198, -- Eye of Kezan
-		230193, -- Mister Lock-N-Stalk
+		219309, -- Tome of Light's Devotion
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Protection Paladin",
@@ -116,7 +112,6 @@ PROTECTION_PALADIN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		221096, -- Rail Rider's Bisector
 		221100, -- Waxsteel Greathelm
-		221060, -- Strapped Rescue-Keg
 		229242, -- Aureate Sentry's Roaring Will
 		234507, -- Electrician's Siphoning Filter
 		229247, -- Aureate Sentry's Encasement
@@ -135,14 +130,13 @@ PROTECTION_PALADIN_MYTHIC_PLUS_BIS = {
 RETRIBUTION_PALADIN_OVERALL_BIS = {
 	itemIDs = {
 		232805, -- Best-in-Slots
-		228858, -- Fullthrottle Facerig
-		228841, -- Semi-Charmed Amulet
+		229244, -- Aureate Sentry's Pledge
 		229242, -- Aureate Sentry's Roaring Will
 		222817, -- Consecrated Cloak
 		229247, -- Aureate Sentry's Encasement
 		222435, -- Everforged Vambraces
-		229245, -- Aureate Sentry's Gauntlets
-		228886, -- Coin-Operated Girdle
+		168980, -- Gauntlets of Absolute Authority
+		234505, -- Venture Contractor's Floodlight
 		229243, -- Aureate Sentry's Legguards
 		228887, -- Cutthroat Competition Stompers
 		231265, -- The Jastor Diamond
@@ -181,7 +175,6 @@ RETRIBUTION_PALADIN_RAID_BIS = {
 RETRIBUTION_PALADIN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		229244, -- Aureate Sentry's Pledge
-		221060, -- Strapped Rescue-Keg
 		229242, -- Aureate Sentry's Roaring Will
 		221054, -- Chef Chewie's Towel
 		229247, -- Aureate Sentry's Encasement
@@ -191,7 +184,6 @@ RETRIBUTION_PALADIN_MYTHIC_PLUS_BIS = {
 		221061, -- Hops-Laden Greatboots
 		228411, -- Cyrce's Circlet
 		232541, -- Improvised Seaforium Pacemaker
-		219308, -- Signet of the Priory
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Retribution Paladin",

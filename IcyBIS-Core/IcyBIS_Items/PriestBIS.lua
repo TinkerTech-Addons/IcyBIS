@@ -50,7 +50,6 @@ DISCIPLINE_PRIEST_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		168955, -- Electrifying Cognitive Amplifier
 		229334, -- Confessor's Unshakable Halo
-		221060, -- Strapped Rescue-Keg
 		229332, -- Confessor's Unshakable Radiance
 		234507, -- Electrician's Siphoning Filter
 		229337, -- Confessor's Unshakable Vestment
@@ -60,7 +59,6 @@ DISCIPLINE_PRIEST_MYTHIC_PLUS_BIS = {
 		168964, -- Hyperthread Boots
 		221099, -- Wick's Golden Loop
 		219305, -- Carved Blazikon Wax
-		219306, -- Burin of the Candle King
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Dicipline Priest",
@@ -83,7 +81,7 @@ HOLY_PRIEST_OVERALL_BIS = {
 		228847, -- Hotstep Heel-Turners
 		231265, -- The Jastor Diamond
 		230186, -- Mister Pick-Me-Up
-		219308, -- Signet of the Priory
+		230027, -- House of Cards
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Holy Priest",
@@ -129,7 +127,6 @@ HOLY_PRIEST_MYTHIC_PLUS_BIS = {
 		229333, -- Confessor's Unshakable Leggings
 		221043, -- Cloudstrider Soles
 		221197, -- Hoop of the Blighted
-		219308, -- Signet of the Priory
 		219305, -- Carved Blazikon Wax
 	},
 	messageLeft = "M+ BIS:",
@@ -164,7 +161,6 @@ SHADOW_PRIEST_RAID_BIS = {
 	itemIDs = {
 		221122, -- Hand of Beledar
 		229334, -- Confessor's Unshakable Halo
-		221060, -- Strapped Rescue-Keg
 		229332, -- Confessor's Unshakable Radiance
 		234507, -- Electrician's Siphoning Filter
 		229337, -- Confessor's Unshakable Vestment
@@ -173,7 +169,7 @@ SHADOW_PRIEST_RAID_BIS = {
 		221121, -- Honorbound Retainer's Sash
 		221050, -- Ancient Hardened Legwraps
 		228411, -- Cyrce's Circlet
-		219308, -- Signet of the Priory
+		219305, -- Carved Blazikon Wax
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Shadow Priest",
