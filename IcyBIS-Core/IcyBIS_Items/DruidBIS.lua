@@ -1,21 +1,18 @@
 BALANCE_DRUID_OVERALL_BIS = {
 	itemIDs = {
-		232805, -- Best-in-Slots
-		228901, -- Big Earner's Bludgeon
-		229307, -- Branches of Reclaiming Blight
-		228842, -- Gobfather's Gifted Bling
-		229305, -- Jaws of Reclaiming Blight
-		228844, -- Test Pilot's Go-Pack
-		229310, -- Robes of Reclaiming Blight
-		228869, -- Killer Queen's Wristflickers
-		219333, -- Rune-Branded Grasps
-		228880, -- Hitman's Holster
-		229306, -- Moccasins of Reclaiming Blight
-		228888, -- Rushed Beta Launchers
-		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
-		230198, -- Eye of Kezan
-		230027, -- House of Cards
+		237730, -- Voidglass Spire
+		237728, -- Voidglass Kris
+		237682, -- Skymane of the Mother Eagle
+		237680, -- Ritual Pauldrons of the Mother Eagle
+		237685, -- Vest of the Mother Eagle
+		237562, -- Time-Compressed Wristguards
+		237540, -- Winged Gamma Handlers
+		237533, -- Atomic Phasebelt
+		237681, -- Breeches of the Mother Eagle
+		243306, -- Interloper's Reinforced Sandals
+		237570, -- Logic Gate: Omega
+		242402, -- Araz's Ritual Forge
+		242392, -- Diamantine Voidcore
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Balance Druid",
@@ -24,22 +21,21 @@ BALANCE_DRUID_OVERALL_BIS = {
 
 BALANCE_DRUID_RAID_BIS = {
 	itemIDs = {
-		232805, -- Best-in-Slots
-		228901, -- Big Earner's Bludgeon
-		229307, -- Branches of Reclaiming Blight
-		228842, -- Gobfather's Gifted Bling
-		229305, -- Jaws of Reclaiming Blight
-		228844, -- Test Pilot's Go-Pack
-		229310, -- Robes of Reclaiming Blight
-		228869, -- Killer Queen's Wristflickers
-		219333, -- Rune-Branded Grasps
-		228880, -- Hitman's Holster
-		229306, -- Moccasins of Reclaiming Blight
-		228888, -- Rushed Beta Launchers
-		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
-		230198, -- Eye of Kezan
-		230027, -- House of Cards
+		237730, -- Voidglass Spire
+		237728, -- Voidglass Kris
+		237682, -- Skymane of the Mother Eagle
+		237569, -- Duskblaze's Desperation
+		237680, -- Ritual Pauldrons of the Mother Eagle
+		237685, -- Vest of the Mother Eagle
+		237562, -- Time-Compressed Wristguards
+		237540, -- Winged Gamma Handlers
+		237533, -- Atomic Phasebelt
+		237681, -- Breeches of the Mother Eagle
+		243306, -- Interloper's Reinforced Sandals
+		237570, -- Logic Gate: Omega
+		242405, -- Band of the Shattered Soul
+		242402, -- Araz's Ritual Forge
+		242392, -- Diamantine Voidcore
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Balance Druid",
@@ -48,18 +44,14 @@ BALANCE_DRUID_RAID_BIS = {
 
 BALANCE_DRUID_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221032, -- Voltaic Stormcaller
 		221122, -- Hand of Beledar
-		229307, -- Branches of Reclaiming Blight
-		229305, -- Jaws of Reclaiming Blight
-		234507, -- Electrician's Siphoning Filter
-		229310, -- Robes of Reclaiming Blight
-		221053, -- Battle-Scarred Fisticuffs
-		221102, -- Shimmering Glimclaws
-		221107, -- Gleamkeeper's Buckle
-		229306, -- Moccasins of Reclaiming Blight
-		228411, -- Cyrce's Circlet
-		219305, -- Carved Blazikon Wax
+		237682, -- Skymane of the Mother Eagle
+		237680, -- Ritual Pauldrons of the Mother Eagle
+		237685, -- Vest of the Mother Eagle
+		234499, -- Disturbed Kelp Wraps
+		221134, -- Shadow Congregant's Belt
+		237681, -- Breeches of the Mother Eagle
+		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Balance Druid",
@@ -68,26 +60,20 @@ BALANCE_DRUID_MYTHIC_PLUS_BIS = {
 
 FERAL_DRUID_OVERALL_BIS = {
 	itemIDs = {
-		232805, -- Best-in-Slots
+		221159, -- Harvester's Interdiction
 		222448, -- Charged Halberd
-		229307, -- Branches of Reclaiming Blight
-		228842, -- Gobfather's Gifted Bling
-		229305, -- Jaws of Reclaiming Blight
-		222817, -- Consecrated Cloak
-		221054, -- Chef Chewie's Towel
-		229310, -- Robes of Reclaiming Blight
-		228869, -- Killer Queen's Wristflickers
-		219333, -- Rune-Branded Grasps
-		221036, -- Tempestwind Handlers
-		168957, -- Mekgineer's Championship Belt
-		229306, -- Moccasins of Reclaiming Blight
-		228888, -- Rushed Beta Launchers
-		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
-		228843, -- Miniature Roulette Wheel
-		230198, -- Eye of Kezan
+		237682, -- Skymane of the Mother Eagle
+		242406, -- Salhadaar's Folly
+		237680, -- Ritual Pauldrons of the Mother Eagle
+		219334, -- Rune-Branded Armbands
+		237683, -- Wings of the Mother Eagle
+		219331, -- Rune-Branded Waistband
+		237681, -- Breeches of the Mother Eagle
+		243306, -- Interloper's Reinforced Sandals
+		221200, -- Radiant Necromancer's Band
+		242402, -- Araz's Ritual Forge
+		242395, -- Astral Antenna
 		232541, -- Improvised Seaforium Pacemaker
-		230027, -- House of Cards
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Feral Druid",
@@ -96,23 +82,22 @@ FERAL_DRUID_OVERALL_BIS = {
 
 FERAL_DRUID_RAID_BIS = {
 	itemIDs = {
-		232805, -- Best-in-Slots
-		228905, -- Giga Bank-Breaker
-		228848, -- Darkfuse Racketeer's Tricorne
-		228842, -- Gobfather's Gifted Bling
-		229305, -- Jaws of Reclaiming Blight
-		228844, -- Test Pilot's Go-Pack
-		229310, -- Robes of Reclaiming Blight
-		228869, -- Killer Queen's Wristflickers
-		229308, -- Grips of Reclaiming Blight
-		228880, -- Hitman's Holster
-		229306, -- Moccasins of Reclaiming Blight
-		228888, -- Rushed Beta Launchers
-		231265, -- The Jastor Diamond
-		228843, -- Miniature Roulette Wheel
-		230198, -- Eye of Kezan
-		230027, -- House of Cards
-		230194, -- Reverb Radio
+		243365, -- Maw of the Void
+		237726, -- Marvel of Technomancy
+		237682, -- Skymane of the Mother Eagle
+		242406, -- Salhadaar's Folly
+		237680, -- Ritual Pauldrons of the Mother Eagle
+		237685, -- Vest of the Mother Eagle
+		237562, -- Time-Compressed Wristguards
+		237683, -- Wings of the Mother Eagle
+		237533, -- Atomic Phasebelt
+		237681, -- Breeches of the Mother Eagle
+		243306, -- Interloper's Reinforced Sandals
+		237567, -- Logic Gate: Alpha
+		237570, -- Logic Gate: Omega
+		242402, -- Araz's Ritual Forge
+		242395, -- Astral Antenna
+		242397, -- Sigil of the Cosmic Hunt
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Feral Druid",
@@ -121,17 +106,13 @@ FERAL_DRUID_RAID_BIS = {
 
 FERAL_DRUID_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221116, -- Glorious Defender's Poleaxe
-		221057, -- Sticky Stirring Stick
+		221159, -- Harvester's Interdiction
 		221125, -- Helm of the Righteous Crusade
-		235811, -- Extravagant Epaulets
-		221054, -- Chef Chewie's Towel
-		221053, -- Battle-Scarred Fisticuffs
-		221036, -- Tempestwind Handlers
-		168957, -- Mekgineer's Championship Belt
-		221071, -- Backbreaking Bootstrappers
-		221198, -- 85-Year Tenure Ring
+		221157, -- Unbreakable Beetlebane Bindings
+		221134, -- Shadow Congregant's Belt
+		221200, -- Radiant Necromancer's Band
 		232541, -- Improvised Seaforium Pacemaker
+		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Feral Druid",
@@ -140,21 +121,19 @@ FERAL_DRUID_MYTHIC_PLUS_BIS = {
 
 GUARDIAN_DRUID_OVERALL_BIS = {
 	itemIDs = {
-		232805, -- Best-in-Slots
-		169005, -- Mekgineer's Mindbending Headgear
-		228841, -- Semi-Charmed Amulet
-		229305, -- Jaws of Reclaiming Blight
-		228839, -- Undercircuit Racing Flag
-		229310, -- Robes of Reclaiming Blight
-		228869, -- Killer Queen's Wristflickers
-		229308, -- Grips of Reclaiming Blight
-		228880, -- Hitman's Holster
-		229306, -- Moccasins of Reclaiming Blight
-		228876, -- Dragster's Last Stride
-		228843, -- Miniature Roulette Wheel
-		231265, -- The Jastor Diamond
-		230194, -- Reverb Radio
-		230198, -- Eye of Kezan
+		221159, -- Harvester's Interdiction
+		237682, -- Skymane of the Mother Eagle
+		237569, -- Duskblaze's Desperation
+		237680, -- Ritual Pauldrons of the Mother Eagle
+		237685, -- Vest of the Mother Eagle
+		219334, -- Rune-Branded Armbands
+		237540, -- Winged Gamma Handlers
+		245964, -- Durable Information Securing Container
+		237681, -- Breeches of the Mother Eagle
+		243306, -- Interloper's Reinforced Sandals
+		242405, -- Band of the Shattered Soul
+		215135, -- Ring of Earthen Craftsmanship
+		242401, -- Brand of Ceaseless Ire
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Guardian Druid",
@@ -163,21 +142,20 @@ GUARDIAN_DRUID_OVERALL_BIS = {
 
 GUARDIAN_DRUID_RAID_BIS = {
 	itemIDs = {
-		232805, -- Best-in-Slots
-		229307, -- Branches of Reclaiming Blight
-		228841, -- Semi-Charmed Amulet
-		229305, -- Jaws of Reclaiming Blight
-		228839, -- Undercircuit Racing Flag
-		229310, -- Robes of Reclaiming Blight
-		228869, -- Killer Queen's Wristflickers
-		229308, -- Grips of Reclaiming Blight
-		228880, -- Hitman's Holster
-		229306, -- Moccasins of Reclaiming Blight
-		228876, -- Dragster's Last Stride
-		228843, -- Miniature Roulette Wheel
-		231265, -- The Jastor Diamond
-		230194, -- Reverb Radio
-		230198, -- Eye of Kezan
+		237726, -- Marvel of Technomancy
+		237682, -- Skymane of the Mother Eagle
+		237569, -- Duskblaze's Desperation
+		237680, -- Ritual Pauldrons of the Mother Eagle
+		237685, -- Vest of the Mother Eagle
+		219334, -- Rune-Branded Armbands
+		237540, -- Winged Gamma Handlers
+		245964, -- Durable Information Securing Container
+		237681, -- Breeches of the Mother Eagle
+		243306, -- Interloper's Reinforced Sandals
+		242405, -- Band of the Shattered Soul
+		215135, -- Ring of Earthen Craftsmanship
+		242401, -- Brand of Ceaseless Ire
+		242402, -- Araz's Ritual Forge
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Guardian Druid",
@@ -186,17 +164,15 @@ GUARDIAN_DRUID_RAID_BIS = {
 
 GUARDIAN_DRUID_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		169005, -- Mekgineer's Mindbending Headgear
-		229305, -- Jaws of Reclaiming Blight
-		168970, -- Trashmaster's Mantle
-		229310, -- Robes of Reclaiming Blight
-		229308, -- Grips of Reclaiming Blight
-		221058, -- Brewery Toiler's Waistband
-		229306, -- Moccasins of Reclaiming Blight
-		221099, -- Wick's Golden Loop
-		228411, -- Cyrce's Circlet
+		221159, -- Harvester's Interdiction
+		237682, -- Skymane of the Mother Eagle
+		237680, -- Ritual Pauldrons of the Mother Eagle
+		237685, -- Vest of the Mother Eagle
+		219334, -- Rune-Branded Armbands
+		245964, -- Durable Information Securing Container
+		237681, -- Breeches of the Mother Eagle
+		215135, -- Ring of Earthen Craftsmanship
 		219309, -- Tome of Light's Devotion
-		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Guardian Druid",
@@ -205,21 +181,18 @@ GUARDIAN_DRUID_MYTHIC_PLUS_BIS = {
 
 RESTORATION_DRUID_OVERALL_BIS = {
 	itemIDs = {
-		228896, -- Stix's Metal Detector
+		237728, -- Voidglass Kris
 		222566, -- Vagabond's Torch
-		229307, -- Branches of Reclaiming Blight
-		229305, -- Jaws of Reclaiming Blight
-		234507, -- Electrician's Siphoning Filter
-		221130, -- Seraphic Wraps of the Ordained
-		221053, -- Battle-Scarred Fisticuffs
-		234499, -- Disturbed Kelp Wraps
-		229308, -- Grips of Reclaiming Blight
+		237682, -- Skymane of the Mother Eagle
+		237569, -- Duskblaze's Desperation
+		237680, -- Ritual Pauldrons of the Mother Eagle
+		237685, -- Vest of the Mother Eagle
+		237562, -- Time-Compressed Wristguards
+		237683, -- Wings of the Mother Eagle
 		219331, -- Rune-Branded Waistband
-		229306, -- Moccasins of Reclaiming Blight
-		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
-		230198, -- Eye of Kezan
-		230186, -- Mister Pick-Me-Up
+		243306, -- Interloper's Reinforced Sandals
+		242392, -- Diamantine Voidcore
+		242402, -- Araz's Ritual Forge
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Restoration Druid",
@@ -228,22 +201,20 @@ RESTORATION_DRUID_OVERALL_BIS = {
 
 RESTORATION_DRUID_RAID_BIS = {
 	itemIDs = {
-		228896, -- Stix's Metal Detector
-		228906, -- Operator's Fraud Detector
-		229307, -- Branches of Reclaiming Blight
-		228842, -- Gobfather's Gifted Bling
-		229305, -- Jaws of Reclaiming Blight
-		228844, -- Test Pilot's Go-Pack
-		228864, -- Streamlined Cartel Uniform
-		229303, -- Knots of Reclaiming Blight
-		229308, -- Grips of Reclaiming Blight
-		228880, -- Hitman's Holster
-		229306, -- Moccasins of Reclaiming Blight
-		212058, -- Treads of the Greatlynx
-		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
-		230198, -- Eye of Kezan
-		230186, -- Mister Pick-Me-Up
+		237730, -- Voidglass Spire
+		237682, -- Skymane of the Mother Eagle
+		237569, -- Duskblaze's Desperation
+		237680, -- Ritual Pauldrons of the Mother Eagle
+		237685, -- Vest of the Mother Eagle
+		237562, -- Time-Compressed Wristguards
+		237683, -- Wings of the Mother Eagle
+		237679, -- Dreamsash of the Mother Eagle
+		237531, -- Elite Shadowguard Legwraps
+		243306, -- Interloper's Reinforced Sandals
+		242405, -- Band of the Shattered Soul
+		237570, -- Logic Gate: Omega
+		242392, -- Diamantine Voidcore
+		242402, -- Araz's Ritual Forge
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Restoration Druid",
@@ -252,20 +223,13 @@ RESTORATION_DRUID_RAID_BIS = {
 
 RESTORATION_DRUID_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		168955, -- Electrifying Cognitive Amplifier
-		229307, -- Branches of Reclaiming Blight
-		229305, -- Jaws of Reclaiming Blight
-		234507, -- Electrician's Siphoning Filter
-		221130, -- Seraphic Wraps of the Ordained
-		221053, -- Battle-Scarred Fisticuffs
+		237682, -- Skymane of the Mother Eagle
+		237680, -- Ritual Pauldrons of the Mother Eagle
+		237685, -- Vest of the Mother Eagle
 		234499, -- Disturbed Kelp Wraps
-		229308, -- Grips of Reclaiming Blight
-		221058, -- Brewery Toiler's Waistband
-		229306, -- Moccasins of Reclaiming Blight
-		229309, -- Breeches of Reclaiming Blight
-		228411, -- Cyrce's Circlet
-		221099, -- Wick's Golden Loop
-		219305, -- Carved Blazikon Wax
+		237683, -- Wings of the Mother Eagle
+		237679, -- Dreamsash of the Mother Eagle
+		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Restoration Druid",

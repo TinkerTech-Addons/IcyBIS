@@ -1,19 +1,18 @@
 ARCANE_MAGE_OVERALL_BIS = {
 	itemIDs = {
-		168973, -- Neural Synapse Enhancer
-		229343, -- Aspectral Emissary's Crystalline Cowl
-		228841, -- Semi-Charmed Amulet
-		229341, -- Aspectral Emissary's Arcane Vents
-		168970, -- Trashmaster's Mantle
+		237735, -- Voidglass Sovereign's Blade
+		222566, -- Vagabond's Torch
+		237718, -- Augur's Ephemeral Wide-Brim
+		252009, -- Bloodstained Memento
+		237716, -- Augur's Ephemeral Orbs of Power
+		238044, -- Pure Precise Fiber
+		237721, -- Augur's Ephemeral Habiliments
 		222815, -- Consecrated Cuffs
-		229344, -- Aspectral Emissary's Hardened Grasp
-		168958, -- Ringmaster's Cummerbund
-		229342, -- Aspectral Emissary's Trousers
-		222814, -- Consecrated Slippers
-		231265, -- The Jastor Diamond
-		228843, -- Miniature Roulette Wheel
-		230192, -- Mug's Moxie Jug
-		230198, -- Eye of Kezan
+		237559, -- Singularity Cincture
+		237717, -- Augur's Ephemeral Trousers
+		243305, -- Interloper's Silken Striders
+		221200, -- Radiant Necromancer's Band
+		242402, -- Araz's Ritual Forge
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Arcane Mage",
@@ -22,21 +21,21 @@ ARCANE_MAGE_OVERALL_BIS = {
 
 ARCANE_MAGE_RAID_BIS = {
 	itemIDs = {
-		228896, -- Stix's Metal Detector
-		229343, -- Aspectral Emissary's Crystalline Cowl
-		228841, -- Semi-Charmed Amulet
-		229341, -- Aspectral Emissary's Arcane Vents
-		228839, -- Undercircuit Racing Flag
-		228850, -- Bottom-Dollar Blouse
-		228881, -- Illicit Bankroll Bracers
-		229344, -- Aspectral Emissary's Hardened Grasp
-		228882, -- Refiner's Conveyor Belt
-		229342, -- Aspectral Emissary's Trousers
-		228879, -- Cemented Murloc-Swimmers
-		231265, -- The Jastor Diamond
-		228843, -- Miniature Roulette Wheel
-		230192, -- Mug's Moxie Jug
-		230198, -- Eye of Kezan
+		237730, -- Voidglass Spire
+		237718, -- Augur's Ephemeral Wide-Brim
+		237568, -- Chrysalis of Sundered Souls
+		237716, -- Augur's Ephemeral Orbs of Power
+		238044, -- Pure Precise Fiber
+		237721, -- Augur's Ephemeral Habiliments
+		237558, -- Conjoined Glass Bracers
+		237549, -- Bloodwrath's Gnarled Claws
+		237559, -- Singularity Cincture
+		237717, -- Augur's Ephemeral Trousers
+		243305, -- Interloper's Silken Striders
+		237570, -- Logic Gate: Omega
+		242405, -- Band of the Shattered Soul
+		242402, -- Araz's Ritual Forge
+		242392, -- Diamantine Voidcore
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Arcane Mage",
@@ -45,17 +44,14 @@ ARCANE_MAGE_RAID_BIS = {
 
 ARCANE_MAGE_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		168973, -- Neural Synapse Enhancer
-		229343, -- Aspectral Emissary's Crystalline Cowl
-		229341, -- Aspectral Emissary's Arcane Vents
-		168970, -- Trashmaster's Mantle
-		229344, -- Aspectral Emissary's Hardened Grasp
-		168958, -- Ringmaster's Cummerbund
-		229342, -- Aspectral Emissary's Trousers
-		229345, -- Aspectral Emissary's Slippers
-		221099, -- Wick's Golden Loop
+		237718, -- Augur's Ephemeral Wide-Brim
+		252009, -- Bloodstained Memento
+		237716, -- Augur's Ephemeral Orbs of Power
+		238044, -- Pure Precise Fiber
+		237721, -- Augur's Ephemeral Habiliments
+		221158, -- Burrower's Cinch
+		237717, -- Augur's Ephemeral Trousers
 		221200, -- Radiant Necromancer's Band
-		232545, -- Gigazap's Zap-Cap
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Arcane Mage",
@@ -64,21 +60,20 @@ ARCANE_MAGE_MYTHIC_PLUS_BIS = {
 
 FIRE_MAGE_OVERALL_BIS = {
 	itemIDs = {
+		237735, -- Voidglass Sovereign's Blade
 		222566, -- Vagabond's Torch
-		229343, -- Aspectral Emissary's Crystalline Cowl
-		228841, -- Semi-Charmed Amulet
-		229341, -- Aspectral Emissary's Arcane Vents
-		222817, -- Consecrated Cloak
-		229346, -- Aspectral Emissary's Primal Robes
-		168989, -- Hyperthread Wristwraps
-		221067, -- Punctured Apiary Gloves
-		168958, -- Ringmaster's Cummerbund
-		229342, -- Aspectral Emissary's Trousers
-		229345, -- Aspectral Emissary's Slippers
-		221099, -- Wick's Golden Loop
-		228843, -- Miniature Roulette Wheel
-		230192, -- Mug's Moxie Jug
-		219299, -- Synergistic Brewterializer
+		221131, -- Elysian Flame Crown
+		237569, -- Duskblaze's Desperation
+		237716, -- Augur's Ephemeral Orbs of Power
+		238045, -- Pure Chronomantic Fiber
+		237721, -- Augur's Ephemeral Habiliments
+		222815, -- Consecrated Cuffs
+		237719, -- Augur's Ephemeral Mitts
+		237538, -- Forgeweaver's Journal Holster
+		237717, -- Augur's Ephemeral Trousers
+		243305, -- Interloper's Silken Striders
+		242405, -- Band of the Shattered Soul
+		242392, -- Diamantine Voidcore
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Fire Mage",
@@ -87,22 +82,21 @@ FIRE_MAGE_OVERALL_BIS = {
 
 FIRE_MAGE_RAID_BIS = {
 	itemIDs = {
-		228896, -- Stix's Metal Detector
-		228906, -- Operator's Fraud Detector
-		229343, -- Aspectral Emissary's Crystalline Cowl
-		228841, -- Semi-Charmed Amulet
-		229341, -- Aspectral Emissary's Arcane Vents
-		228839, -- Undercircuit Racing Flag
-		229346, -- Aspectral Emissary's Primal Robes
-		228881, -- Illicit Bankroll Bracers
-		229344, -- Aspectral Emissary's Hardened Grasp
-		228882, -- Refiner's Conveyor Belt
-		229342, -- Aspectral Emissary's Trousers
-		228879, -- Cemented Murloc-Swimmers
-		231265, -- The Jastor Diamond
-		228843, -- Miniature Roulette Wheel
-		230192, -- Mug's Moxie Jug
-		230198, -- Eye of Kezan
+		237730, -- Voidglass Spire
+		237548, -- Twilight Tyrant's Veil
+		237569, -- Duskblaze's Desperation
+		237716, -- Augur's Ephemeral Orbs of Power
+		238045, -- Pure Chronomantic Fiber
+		237721, -- Augur's Ephemeral Habiliments
+		237558, -- Conjoined Glass Bracers
+		237719, -- Augur's Ephemeral Mitts
+		237538, -- Forgeweaver's Journal Holster
+		237717, -- Augur's Ephemeral Trousers
+		243305, -- Interloper's Silken Striders
+		237570, -- Logic Gate: Omega
+		242405, -- Band of the Shattered Soul
+		242403, -- Perfidious Projector
+		242392, -- Diamantine Voidcore
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Fire Mage",
@@ -111,19 +105,14 @@ FIRE_MAGE_RAID_BIS = {
 
 FIRE_MAGE_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		168973, -- Neural Synapse Enhancer
-		229343, -- Aspectral Emissary's Crystalline Cowl
-		229341, -- Aspectral Emissary's Arcane Vents
-		168970, -- Trashmaster's Mantle
-		229346, -- Aspectral Emissary's Primal Robes
-		168989, -- Hyperthread Wristwraps
-		221067, -- Punctured Apiary Gloves
-		168958, -- Ringmaster's Cummerbund
-		229342, -- Aspectral Emissary's Trousers
-		229345, -- Aspectral Emissary's Slippers
-		221099, -- Wick's Golden Loop
-		221200, -- Radiant Necromancer's Band
-		232545, -- Gigazap's Zap-Cap
+		221131, -- Elysian Flame Crown
+		237716, -- Augur's Ephemeral Orbs of Power
+		238045, -- Pure Chronomantic Fiber
+		237721, -- Augur's Ephemeral Habiliments
+		237719, -- Augur's Ephemeral Mitts
+		221158, -- Burrower's Cinch
+		237717, -- Augur's Ephemeral Trousers
+		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Fire Mage",
@@ -132,21 +121,19 @@ FIRE_MAGE_MYTHIC_PLUS_BIS = {
 
 FROST_MAGE_OVERALL_BIS = {
 	itemIDs = {
-		231268, -- Blastfurious Machete
+		237735, -- Voidglass Sovereign's Blade
 		222566, -- Vagabond's Torch
-		169006, -- Inventor's Ingenious Trifocals
-		221103, -- Flickering Glowtorc
+		237718, -- Augur's Ephemeral Wide-Brim
 		229341, -- Aspectral Emissary's Arcane Vents
-		221109, -- Candlebearer's Shroud
-		229346, -- Aspectral Emissary's Primal Robes
+		221126, -- Zealous Warden's Raiment
 		222815, -- Consecrated Cuffs
-		229344, -- Aspectral Emissary's Hardened Grasp
-		228861, -- Tune-Up Toolbelt
-		229342, -- Aspectral Emissary's Trousers
-		234497, -- Nonconductive Kill-o-Socks
-		221099, -- Wick's Golden Loop
-		230193, -- Mister Lock-N-Stalk
-		225648, -- Candle Confidant
+		237719, -- Augur's Ephemeral Mitts
+		221158, -- Burrower's Cinch
+		237717, -- Augur's Ephemeral Trousers
+		243305, -- Interloper's Silken Striders
+		221141, -- High Nerubian Signet
+		242402, -- Araz's Ritual Forge
+		242392, -- Diamantine Voidcore
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Frost Mage",
@@ -155,22 +142,21 @@ FROST_MAGE_OVERALL_BIS = {
 
 FROST_MAGE_RAID_BIS = {
 	itemIDs = {
-		228896, -- Stix's Metal Detector
-		228890, -- Superfan's Beater-Buzzer
-		228871, -- Cleanup Crew's Wastemask
-		228841, -- Semi-Charmed Amulet
+		237735, -- Voidglass Sovereign's Blade
+		237724, -- Iris of the Dark Beyond
+		237718, -- Augur's Ephemeral Wide-Brim
+		237569, -- Duskblaze's Desperation
 		229341, -- Aspectral Emissary's Arcane Vents
-		228839, -- Undercircuit Racing Flag
-		229346, -- Aspectral Emissary's Primal Robes
-		228881, -- Illicit Bankroll Bracers
-		229344, -- Aspectral Emissary's Hardened Grasp
-		228861, -- Tune-Up Toolbelt
-		229342, -- Aspectral Emissary's Trousers
-		228879, -- Cemented Murloc-Swimmers
-		231265, -- The Jastor Diamond
-		228840, -- Faded Championship Ring
-		230193, -- Mister Lock-N-Stalk
-		230194, -- Reverb Radio
+		237721, -- Augur's Ephemeral Habiliments
+		237534, -- Singed Sievecuffs
+		237719, -- Augur's Ephemeral Mitts
+		237538, -- Forgeweaver's Journal Holster
+		237717, -- Augur's Ephemeral Trousers
+		243305, -- Interloper's Silken Striders
+		242405, -- Band of the Shattered Soul
+		237567, -- Logic Gate: Alpha
+		242402, -- Araz's Ritual Forge
+		242392, -- Diamantine Voidcore
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Frost Mage",
@@ -179,18 +165,15 @@ FROST_MAGE_RAID_BIS = {
 
 FROST_MAGE_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221056, -- Vessel of the Beverage
-		169006, -- Inventor's Ingenious Trifocals
-		221103, -- Flickering Glowtorc
+		237718, -- Augur's Ephemeral Wide-Brim
 		229341, -- Aspectral Emissary's Arcane Vents
-		168970, -- Trashmaster's Mantle
-		229346, -- Aspectral Emissary's Primal Robes
-		229344, -- Aspectral Emissary's Hardened Grasp
-		229342, -- Aspectral Emissary's Trousers
+		221126, -- Zealous Warden's Raiment
+		237719, -- Augur's Ephemeral Mitts
+		221158, -- Burrower's Cinch
+		237717, -- Augur's Ephemeral Trousers
 		234497, -- Nonconductive Kill-o-Socks
-		221099, -- Wick's Golden Loop
-		219299, -- Synergistic Brewterializer
-		219305, -- Carved Blazikon Wax
+		221141, -- High Nerubian Signet
+		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Frost Mage",

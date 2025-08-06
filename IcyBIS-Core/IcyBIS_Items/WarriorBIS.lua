@@ -1,20 +1,19 @@
 ARMS_WARRIOR_OVERALL_BIS = {
 	itemIDs = {
-		232805, -- Best-in-Slots
-		229235, -- Enforcer's Backalley Faceshield
-		228841, -- Semi-Charmed Amulet
-		229233, -- Enforcer's Backalley Shoulderplates
-		222817, -- Consecrated Cloak
-		228851, -- Bullet-Proof Vestplate
+		243365, -- Maw of the Void
+		237610, -- Living Weapon's Faceshield
+		242406, -- Salhadaar's Folly
+		237608, -- Living Weapon's Ramparts
+		237613, -- Living Weapon's Bulwark
 		222435, -- Everforged Vambraces
-		229236, -- Enforcer's Backalley Crushers
-		229232, -- Enforcer's Backalley Girdle
-		229234, -- Enforcer's Backalley Chausses
-		228887, -- Cutthroat Competition Stompers
-		228411, -- Cyrce's Circlet
-		231265, -- The Jastor Diamond
-		230027, -- House of Cards
-		230198, -- Eye of Kezan
+		237611, -- Living Weapon's Crushers
+		222431, -- Everforged Greatbelt
+		237609, -- Living Weapon's Legguards
+		243307, -- Interloper's Plated Sabatons
+		242405, -- Band of the Shattered Soul
+		221136, -- Devout Zealot's Ring
+		219314, -- Ara-Kara Sacbrood
+		242395, -- Astral Antenna
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Arms Warrior",
@@ -23,21 +22,19 @@ ARMS_WARRIOR_OVERALL_BIS = {
 
 ARMS_WARRIOR_RAID_BIS = {
 	itemIDs = {
-		232805, -- Best-in-Slots
-		229235, -- Enforcer's Backalley Faceshield
-		228841, -- Semi-Charmed Amulet
-		229233, -- Enforcer's Backalley Shoulderplates
-		228839, -- Undercircuit Racing Flag
-		228851, -- Bullet-Proof Vestplate
-		228868, -- Revved-Up Vambraces
-		229236, -- Enforcer's Backalley Crushers
-		229232, -- Enforcer's Backalley Girdle
-		229234, -- Enforcer's Backalley Chausses
-		228887, -- Cutthroat Competition Stompers
-		228840, -- Faded Championship Ring
-		231265, -- The Jastor Diamond
-		230027, -- House of Cards
-		230198, -- Eye of Kezan
+		243365, -- Maw of the Void
+		237610, -- Living Weapon's Faceshield
+		242406, -- Salhadaar's Folly
+		237608, -- Living Weapon's Ramparts
+		237613, -- Living Weapon's Bulwark
+		222435, -- Everforged Vambraces
+		237611, -- Living Weapon's Crushers
+		222431, -- Everforged Greatbelt
+		237609, -- Living Weapon's Legguards
+		243307, -- Interloper's Plated Sabatons
+		242405, -- Band of the Shattered Soul
+		242395, -- Astral Antenna
+		242394, -- Eradicating Arcanocore
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Arms Warrior",
@@ -46,12 +43,12 @@ ARMS_WARRIOR_RAID_BIS = {
 
 ARMS_WARRIOR_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221100, -- Waxsteel Greathelm
-		221069, -- Slashproof Business Plate
-		221064, -- Fuzzy Cindercuffs
-		168980, -- Gauntlets of Absolute Authority
-		234505, -- Venture Contractor's Floodlight
-		232541, -- Improvised Seaforium Pacemaker
+		222435, -- Everforged Vambraces
+		221151, -- Devourer's Gauntlets
+		222431, -- Everforged Greatbelt
+		221123, -- Devoted Plate Walkers
+		221136, -- Devout Zealot's Ring
+		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Arms Warrior",
@@ -60,20 +57,20 @@ ARMS_WARRIOR_MYTHIC_PLUS_BIS = {
 
 FURY_WARRIOR_OVERALL_BIS = {
 	itemIDs = {
-		232805, -- Best-in-Slots
-		228891, -- Capital Punisher
-		229235, -- Enforcer's Backalley Faceshield
-		229233, -- Enforcer's Backalley Shoulderplates
-		222817, -- Consecrated Cloak
-		229238, -- Enforcer's Backalley Vestplate
+		234490, -- Circuit Breaker
+		222443, -- Everforged Greataxe
+		238028, -- Bone-Melted Faceplate
+		237568, -- Chrysalis of Sundered Souls
+		237608, -- Living Weapon's Ramparts
+		237613, -- Living Weapon's Bulwark
 		222435, -- Everforged Vambraces
-		229236, -- Enforcer's Backalley Crushers
-		221040, -- Lightning-Conductor's Bands
-		221034, -- Thunder-Clad Legguards
-		221123, -- Devoted Plate Walkers
-		228411, -- Cyrce's Circlet
-		231265, -- The Jastor Diamond
-		230198, -- Eye of Kezan
+		237611, -- Living Weapon's Crushers
+		237607, -- Living Weapon's Chain
+		237609, -- Living Weapon's Legguards
+		243307, -- Interloper's Plated Sabatons
+		221200, -- Radiant Necromancer's Band
+		219314, -- Ara-Kara Sacbrood
+		242394, -- Eradicating Arcanocore
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Fury Warrior",
@@ -82,22 +79,20 @@ FURY_WARRIOR_OVERALL_BIS = {
 
 FURY_WARRIOR_RAID_BIS = {
 	itemIDs = {
-		232805, -- Best-in-Slots
-		228891, -- Capital Punisher
-		229235, -- Enforcer's Backalley Faceshield
-		228841, -- Semi-Charmed Amulet
-		229233, -- Enforcer's Backalley Shoulderplates
-		228839, -- Undercircuit Racing Flag
-		229238, -- Enforcer's Backalley Vestplate
-		228868, -- Revved-Up Vambraces
-		229236, -- Enforcer's Backalley Crushers
-		228886, -- Coin-Operated Girdle
-		229234, -- Enforcer's Backalley Chausses
-		228887, -- Cutthroat Competition Stompers
-		228840, -- Faded Championship Ring
-		231265, -- The Jastor Diamond
-		230027, -- House of Cards
-		230198, -- Eye of Kezan
+		237737, -- Photon Sabre Prime
+		222443, -- Everforged Greataxe
+		238028, -- Bone-Melted Faceplate
+		237568, -- Chrysalis of Sundered Souls
+		237608, -- Living Weapon's Ramparts
+		237613, -- Living Weapon's Bulwark
+		222435, -- Everforged Vambraces
+		237611, -- Living Weapon's Crushers
+		237607, -- Living Weapon's Chain
+		237609, -- Living Weapon's Legguards
+		243307, -- Interloper's Plated Sabatons
+		237570, -- Logic Gate: Omega
+		242395, -- Astral Antenna
+		242394, -- Eradicating Arcanocore
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Fury Warrior",
@@ -106,17 +101,12 @@ FURY_WARRIOR_RAID_BIS = {
 
 FURY_WARRIOR_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221111, -- Poleaxe of Somber Fate
-		221111, -- Poleaxe of Somber Fate
-		169003, -- Apogee Inventor's Goggles
-		221052, -- Foam-Ridden Pauldrons
-		234507, -- Electrician's Siphoning Filter
-		168979, -- Mechanized Plate Chasse
-		234504, -- Jumpstarter's Scaffold-Scrapers
-		221040, -- Lightning-Conductor's Bands
-		221061, -- Hops-Laden Greatboots
-		221198, -- 85-Year Tenure Ring
-		232541, -- Improvised Seaforium Pacemaker
+		222443, -- Everforged Greataxe
+		234490, -- Circuit Breaker
+		221155, -- Swarm Monarch's Spaulders
+		221161, -- Experimental Goresilk Chestguard
+		221200, -- Radiant Necromancer's Band
+		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Fury Warrior",
@@ -125,22 +115,19 @@ FURY_WARRIOR_MYTHIC_PLUS_BIS = {
 
 PROTECTION_WARRIOR_OVERALL_BIS = {
 	itemIDs = {
-		228858, -- Fullthrottle Facerig
-		228841, -- Semi-Charmed Amulet
-		229233, -- Enforcer's Backalley Shoulderplates
-		229230, -- Enforcer's Backalley Allegiance
-		229238, -- Enforcer's Backalley Vestplate
+		237610, -- Living Weapon's Faceshield
+		237569, -- Duskblaze's Desperation
+		237608, -- Living Weapon's Ramparts
 		222435, -- Everforged Vambraces
-		229236, -- Enforcer's Backalley Crushers
+		237611, -- Living Weapon's Crushers
 		222431, -- Everforged Greatbelt
-		229234, -- Enforcer's Backalley Chausses
-		168972, -- Pyroclastic Greatboots
-		231265, -- The Jastor Diamond
-		228843, -- Miniature Roulette Wheel
+		237609, -- Living Weapon's Legguards
+		243307, -- Interloper's Plated Sabatons
+		242405, -- Band of the Shattered Soul
+		237570, -- Logic Gate: Omega
 		219309, -- Tome of Light's Devotion
-		230198, -- Eye of Kezan
-		169608, -- Tearing Sawtooth Blade
-		228889, -- Titan of Industry
+		237734, -- Oath-Breaker's Recompense
+		237723, -- Ward of the Weaving-Beast
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Protection Warrior",
@@ -149,23 +136,21 @@ PROTECTION_WARRIOR_OVERALL_BIS = {
 
 PROTECTION_WARRIOR_RAID_BIS = {
 	itemIDs = {
-		228858, -- Fullthrottle Facerig
-		228841, -- Semi-Charmed Amulet
-		229233, -- Enforcer's Backalley Shoulderplates
-		228839, -- Undercircuit Racing Flag
-		229238, -- Enforcer's Backalley Vestplate
-		228868, -- Revved-Up Vambraces
-		229236, -- Enforcer's Backalley Crushers
-		228887, -- Cutthroat Competition Stompers
-		229234, -- Enforcer's Backalley Chausses
-		228887, -- Cutthroat Competition Stompers
-		228843, -- Miniature Roulette Wheel
-		231265, -- The Jastor Diamond
-		230198, -- Eye of Kezan
-		230027, -- House of Cards
-		230029, -- Chromebustible Bomb Suit
-		228895, -- Remixed Ignition Saber
-		228889, -- Titan of Industry
+		237610, -- Living Weapon's Faceshield
+		237569, -- Duskblaze's Desperation
+		237608, -- Living Weapon's Ramparts
+		237613, -- Living Weapon's Bulwark
+		237561, -- Yoke of Enveloping Hatred
+		237611, -- Living Weapon's Crushers
+		237550, -- Fresh Ethereal Fetters
+		237609, -- Living Weapon's Legguards
+		243307, -- Interloper's Plated Sabatons
+		242405, -- Band of the Shattered Soul
+		237570, -- Logic Gate: Omega
+		242395, -- Astral Antenna
+		242401, -- Brand of Ceaseless Ire
+		237734, -- Oath-Breaker's Recompense
+		237723, -- Ward of the Weaving-Beast
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Protection Warrior",
@@ -174,17 +159,14 @@ PROTECTION_WARRIOR_RAID_BIS = {
 
 PROTECTION_WARRIOR_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221100, -- Waxsteel Greathelm
-		229233, -- Enforcer's Backalley Shoulderplates
-		229230, -- Enforcer's Backalley Allegiance
-		229238, -- Enforcer's Backalley Vestplate
-		229236, -- Enforcer's Backalley Crushers
+		237610, -- Living Weapon's Faceshield
+		237608, -- Living Weapon's Ramparts
+		237611, -- Living Weapon's Crushers
 		234505, -- Venture Contractor's Floodlight
-		229234, -- Enforcer's Backalley Chausses
-		228411, -- Cyrce's Circlet
+		237609, -- Living Weapon's Legguards
 		219309, -- Tome of Light's Devotion
-		232541, -- Improvised Seaforium Pacemaker
-		169608, -- Tearing Sawtooth Blade
+		221145, -- Shipwrecker's Bludgeon
+		221117, -- Sanctified Priory Wall
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Protection Warrior",

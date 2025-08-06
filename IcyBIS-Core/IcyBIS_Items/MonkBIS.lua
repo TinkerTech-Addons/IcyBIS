@@ -1,19 +1,18 @@
 BREWMASTER_MONK_OVERALL_BIS = {
 	itemIDs = {
-		229298, -- Ageless Serpent's Mane
-		221103, -- Flickering Glowtorc
-		229296, -- Ageless Serpent's Shoulderpads
-		168970, -- Trashmaster's Mantle
+		237673, -- Half-Mask of Fallen Storms
+		252009, -- Bloodstained Memento
+		237671, -- Glyphs of Fallen Storms
+		237676, -- Gi of Fallen Storms
 		219334, -- Rune-Branded Armbands
-		229299, -- Ageless Serpent's Handguards
+		237674, -- Grasp of Fallen Storms
 		219502, -- Adrenal Surge Clasp
-		229297, -- Ageless Serpent's Leggings
-		229300, -- Ageless Serpent's Ankleweights
-		228843, -- Miniature Roulette Wheel
-		231265, -- The Jastor Diamond
-		228905, -- Giga Bank-Breaker
-		232804, -- Capo's Molten Knuckles
-		230197, -- Geargrinder's Spare Keys
+		243306, -- Interloper's Reinforced Sandals
+		237567, -- Logic Gate: Alpha
+		221141, -- High Nerubian Signet
+		221159, -- Harvester's Interdiction
+		221128, -- Starforged Seraph's Mace
+		242401, -- Brand of Ceaseless Ire
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Brewmaster Monk",
@@ -22,21 +21,20 @@ BREWMASTER_MONK_OVERALL_BIS = {
 
 BREWMASTER_MONK_RAID_BIS = {
 	itemIDs = {
-		229298, -- Ageless Serpent's Mane
-		228842, -- Gobfather's Gifted Bling
-		229296, -- Ageless Serpent's Shoulderpads
-		228844, -- Test Pilot's Go-Pack
-		228864, -- Streamlined Cartel Uniform
-		228885, -- Hustler's Ante-Uppers
-		229299, -- Ageless Serpent's Handguards
-		228856, -- Competitor's Battle Cord
-		229297, -- Ageless Serpent's Leggings
-		228888, -- Rushed Beta Launchers
-		228843, -- Miniature Roulette Wheel
-		231265, -- The Jastor Diamond
-		228905, -- Giga Bank-Breaker
-		232804, -- Capo's Molten Knuckles
-		230198, -- Eye of Kezan
+		237673, -- Half-Mask of Fallen Storms
+		237568, -- Chrysalis of Sundered Souls
+		237671, -- Glyphs of Fallen Storms
+		237676, -- Gi of Fallen Storms
+		237546, -- Bindings of Lost Essence
+		237674, -- Grasp of Fallen Storms
+		237557, -- Reaper's Dreadbelt
+		237531, -- Elite Shadowguard Legwraps
+		243306, -- Interloper's Reinforced Sandals
+		237567, -- Logic Gate: Alpha
+		242405, -- Band of the Shattered Soul
+		237726, -- Marvel of Technomancy
+		237731, -- Ergospheric Cudgel
+		242401, -- Brand of Ceaseless Ire
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Brewmaster Monk",
@@ -45,14 +43,17 @@ BREWMASTER_MONK_RAID_BIS = {
 
 BREWMASTER_MONK_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		229298, -- Ageless Serpent's Mane
-		221103, -- Flickering Glowtorc
-		229296, -- Ageless Serpent's Shoulderpads
-		168970, -- Trashmaster's Mantle
-		229299, -- Ageless Serpent's Handguards
-		168986, -- Mad King's Sporran
-		229297, -- Ageless Serpent's Leggings
-		234494, -- Gallytech Turbo-Tiller
+		237673, -- Half-Mask of Fallen Storms
+		252009, -- Bloodstained Memento
+		237671, -- Glyphs of Fallen Storms
+		237676, -- Gi of Fallen Storms
+		221157, -- Unbreakable Beetlebane Bindings
+		237674, -- Grasp of Fallen Storms
+		221134, -- Shadow Congregant's Belt
+		246274, -- Geezle's Zapstep Boots
+		221141, -- High Nerubian Signet
+		221200, -- Radiant Necromancer's Band
+		221159, -- Harvester's Interdiction
 		221128, -- Starforged Seraph's Mace
 		232541, -- Improvised Seaforium Pacemaker
 	},
@@ -63,18 +64,19 @@ BREWMASTER_MONK_MYTHIC_PLUS_BIS = {
 
 MISTWEAVER_MONK_OVERALL_BIS = {
 	itemIDs = {
-		222568, -- Vagabond's Bounding Baton
-		234498, -- Waterworks Filtration Mask
-		228841, -- Semi-Charmed Amulet
-		229296, -- Ageless Serpent's Shoulderpads
-		229301, -- Ageless Serpent's Inked Coils
-		229299, -- Ageless Serpent's Handguards
-		219331, -- Rune-Branded Waistband
-		229297, -- Ageless Serpent's Leggings
-		228843, -- Miniature Roulette Wheel
-		228840, -- Faded Championship Ring
-		230186, -- Mister Pick-Me-Up
-		230192, -- Mug's Moxie Jug
+		237735, -- Voidglass Sovereign's Blade
+		222566, -- Vagabond's Torch
+		237673, -- Half-Mask of Fallen Storms
+		237671, -- Glyphs of Fallen Storms
+		237541, -- Darksorrow's Corrupted Carapace
+		219334, -- Rune-Branded Armbands
+		237674, -- Grasp of Fallen Storms
+		237672, -- Legwraps of Fallen Storms
+		243306, -- Interloper's Reinforced Sandals
+		242405, -- Band of the Shattered Soul
+		237567, -- Logic Gate: Alpha
+		242392, -- Diamantine Voidcore
+		242395, -- Astral Antenna
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Mistweaver Monk",
@@ -83,16 +85,14 @@ MISTWEAVER_MONK_OVERALL_BIS = {
 
 MISTWEAVER_MONK_RAID_BIS = {
 	itemIDs = {
-		168955, -- Electrifying Cognitive Amplifier
-		169005, -- Mekgineer's Mindbending Headgear
-		221103, -- Flickering Glowtorc
-		229296, -- Ageless Serpent's Shoulderpads
-		229301, -- Ageless Serpent's Inked Coils
-		229299, -- Ageless Serpent's Handguards
-		221058, -- Brewery Toiler's Waistband
-		229297, -- Ageless Serpent's Leggings
-		221099, -- Wick's Golden Loop
-		228411, -- Cyrce's Circlet
+		237673, -- Half-Mask of Fallen Storms
+		237671, -- Glyphs of Fallen Storms
+		221130, -- Seraphic Wraps of the Ordained
+		221142, -- Scheming Assailer's Bands
+		237674, -- Grasp of Fallen Storms
+		237672, -- Legwraps of Fallen Storms
+		246274, -- Geezle's Zapstep Boots
+		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Mistweaver Monk",
@@ -101,22 +101,20 @@ MISTWEAVER_MONK_RAID_BIS = {
 
 MISTWEAVER_MONK_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		231268, -- Blastfurious Machete
-		228906, -- Operator's Fraud Detector
-		229298, -- Ageless Serpent's Mane
-		228841, -- Semi-Charmed Amulet
-		229296, -- Ageless Serpent's Shoulderpads
-		228839, -- Undercircuit Racing Flag
-		229301, -- Ageless Serpent's Inked Coils
-		228869, -- Killer Queen's Wristflickers
-		229299, -- Ageless Serpent's Handguards
-		228880, -- Hitman's Holster
-		228854, -- Bilgerat's Discarded Slacks
-		228876, -- Dragster's Last Stride
-		228843, -- Miniature Roulette Wheel
-		228840, -- Faded Championship Ring
-		230186, -- Mister Pick-Me-Up
-		230192, -- Mug's Moxie Jug
+		237735, -- Voidglass Sovereign's Blade
+		237724, -- Iris of the Dark Beyond
+		237673, -- Half-Mask of Fallen Storms
+		237671, -- Glyphs of Fallen Storms
+		237541, -- Darksorrow's Corrupted Carapace
+		237546, -- Bindings of Lost Essence
+		237674, -- Grasp of Fallen Storms
+		237557, -- Reaper's Dreadbelt
+		237672, -- Legwraps of Fallen Storms
+		243306, -- Interloper's Reinforced Sandals
+		242405, -- Band of the Shattered Soul
+		237567, -- Logic Gate: Alpha
+		242392, -- Diamantine Voidcore
+		242395, -- Astral Antenna
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Mistweaver Monk",
@@ -125,23 +123,17 @@ MISTWEAVER_MONK_MYTHIC_PLUS_BIS = {
 
 WINDWALKER_MONK_OVERALL_BIS = {
 	itemIDs = {
-		229298, -- Ageless Serpent's Mane
-		228842, -- Gobfather's Gifted Bling
-		229296, -- Ageless Serpent's Shoulderpads
-		222817, -- Consecrated Cloak
-		229301, -- Ageless Serpent's Inked Coils
+		237673, -- Half-Mask of Fallen Storms
+		237671, -- Glyphs of Fallen Storms
+		237676, -- Gi of Fallen Storms
 		219334, -- Rune-Branded Armbands
-		229299, -- Ageless Serpent's Handguards
-		168957, -- Mekgineer's Championship Belt
-		168968, -- Flame-Seared Leggings
-		221071, -- Backbreaking Bootstrappers
-		228411, -- Cyrce's Circlet
-		231265, -- The Jastor Diamond
-		221116, -- Glorious Defender's Poleaxe
-		232804, -- Capo's Molten Knuckles
-		228899, -- Gallywix's Iron Thumb
-		230027, -- House of Cards
-		230198, -- Eye of Kezan
+		237674, -- Grasp of Fallen Storms
+		219331, -- Rune-Branded Waistband
+		237672, -- Legwraps of Fallen Storms
+		243306, -- Interloper's Reinforced Sandals
+		221159, -- Harvester's Interdiction
+		242402, -- Araz's Ritual Forge
+		242395, -- Astral Antenna
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Windwalker Monk",
@@ -150,23 +142,20 @@ WINDWALKER_MONK_OVERALL_BIS = {
 
 WINDWALKER_MONK_RAID_BIS = {
 	itemIDs = {
-		229298, -- Ageless Serpent's Mane
-		228842, -- Gobfather's Gifted Bling
-		229296, -- Ageless Serpent's Shoulderpads
-		228844, -- Test Pilot's Go-Pack
-		229301, -- Ageless Serpent's Inked Coils
-		229294, -- Ageless Serpent's Cuffs
-		229299, -- Ageless Serpent's Handguards
-		228856, -- Competitor's Battle Cord
-		228854, -- Bilgerat's Discarded Slacks
-		228888, -- Rushed Beta Launchers
-		228411, -- Cyrce's Circlet
-		231265, -- The Jastor Diamond
-		228905, -- Giga Bank-Breaker
-		232804, -- Capo's Molten Knuckles
-		228899, -- Gallywix's Iron Thumb
-		230027, -- House of Cards
-		230198, -- Eye of Kezan
+		237673, -- Half-Mask of Fallen Storms
+		242406, -- Salhadaar's Folly
+		237671, -- Glyphs of Fallen Storms
+		237676, -- Gi of Fallen Storms
+		219334, -- Rune-Branded Armbands
+		237674, -- Grasp of Fallen Storms
+		219331, -- Rune-Branded Waistband
+		237672, -- Legwraps of Fallen Storms
+		243306, -- Interloper's Reinforced Sandals
+		242405, -- Band of the Shattered Soul
+		237570, -- Logic Gate: Omega
+		237726, -- Marvel of Technomancy
+		242402, -- Araz's Ritual Forge
+		242395, -- Astral Antenna
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Windwalker Monk",
@@ -175,19 +164,13 @@ WINDWALKER_MONK_RAID_BIS = {
 
 WINDWALKER_MONK_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		229298, -- Ageless Serpent's Mane
-		229296, -- Ageless Serpent's Shoulderpads
-		234507, -- Electrician's Siphoning Filter
-		229301, -- Ageless Serpent's Inked Coils
-		221053, -- Battle-Scarred Fisticuffs
-		229299, -- Ageless Serpent's Handguards
-		168957, -- Mekgineer's Championship Belt
-		168968, -- Flame-Seared Leggings
-		221071, -- Backbreaking Bootstrappers
-		228411, -- Cyrce's Circlet
-		221116, -- Glorious Defender's Poleaxe
-		221051, -- Crusher of the Unsettled
-		221051, -- Crusher of the Unsettled
+		237673, -- Half-Mask of Fallen Storms
+		237671, -- Glyphs of Fallen Storms
+		237676, -- Gi of Fallen Storms
+		219334, -- Rune-Branded Armbands
+		237674, -- Grasp of Fallen Storms
+		219331, -- Rune-Branded Waistband
+		221159, -- Harvester's Interdiction
 		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",

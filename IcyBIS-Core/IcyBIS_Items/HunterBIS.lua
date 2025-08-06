@@ -1,19 +1,18 @@
 BEAST_MASTERY_HUNTER_OVERALL_BIS = {
 	itemIDs = {
-		228893, -- Tiny Pal
-		229271, -- Tireless Collector's Chained Cowl
-		228841, -- Semi-Charmed Amulet
-		228860, -- Epaulettes of Failed Enforcers
-		228844, -- Test Pilot's Go-Pack
-		229274, -- Tireless Collector's Battlegear
+		237733, -- Lacerated Current Caster
+		237646, -- Midnight Herald's Cowl
+		237569, -- Duskblaze's Desperation
+		237644, -- Midnight Herald's Shadowguards
+		237649, -- Midnight Herald's Hauberk
 		219342, -- Glyph-Etched Vambraces
-		229272, -- Tireless Collector's Gauntlets
-		219339, -- Glyph-Etched Binding
-		229270, -- Tireless Collector's Armored Breeches
-		231265, -- The Jastor Diamond
-		228840, -- Faded Championship Ring
-		230027, -- House of Cards
-		230198, -- Eye of Kezan
+		219341, -- Glyph-Etched Gauntlets
+		245965, -- Durable Information Securing Container
+		237645, -- Midnight Herald's Petticoat
+		243308, -- Interloper's Chain Boots
+		242405, -- Band of the Shattered Soul
+		242395, -- Astral Antenna
+		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Beast Mastery Hunter",
@@ -22,22 +21,20 @@ BEAST_MASTERY_HUNTER_OVERALL_BIS = {
 
 BEAST_MASTERY_HUNTER_RAID_BIS = {
 	itemIDs = {
-		228893, -- Tiny Pal
-		229271, -- Tireless Collector's Chained Cowl
-		228841, -- Semi-Charmed Amulet
-		228860, -- Epaulettes of Failed Enforcers
-		228844, -- Test Pilot's Go-Pack
-		229274, -- Tireless Collector's Battlegear
-		228878, -- Made Manacles
-		229272, -- Tireless Collector's Gauntlets
-		228877, -- Dealer's Covetous Chain
-		229270, -- Tireless Collector's Armored Breeches
-		228862, -- Shrapnel-Ridden Sabatons
-		231265, -- The Jastor Diamond
-		228840, -- Faded Championship Ring
-		230027, -- House of Cards
-		230198, -- Eye of Kezan
-		230194, -- Reverb Radio
+		237733, -- Lacerated Current Caster
+		237646, -- Midnight Herald's Cowl
+		237569, -- Duskblaze's Desperation
+		237537, -- Claws of Failed Resistance
+		237649, -- Midnight Herald's Hauberk
+		237555, -- Pactbound Vambraces
+		237647, -- Midnight Herald's Gloves
+		237554, -- Clasp of Furious Freedom
+		237645, -- Midnight Herald's Petticoat
+		243308, -- Interloper's Chain Boots
+		242405, -- Band of the Shattered Soul
+		237570, -- Logic Gate: Omega
+		242402, -- Araz's Ritual Forge
+		242395, -- Astral Antenna
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Beast Mastery Hunter",
@@ -46,14 +43,14 @@ BEAST_MASTERY_HUNTER_RAID_BIS = {
 
 BEAST_MASTERY_HUNTER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		234492, -- Keeza's 'B.' B.B.B.F.G
-		229271, -- Tireless Collector's Chained Cowl
-		229274, -- Tireless Collector's Battlegear
-		221124, -- Consecrated Baron's Bindings
-		229272, -- Tireless Collector's Gauntlets
+		221143, -- Recurved Hull Impaler
+		237646, -- Midnight Herald's Cowl
+		237644, -- Midnight Herald's Shadowguards
+		237649, -- Midnight Herald's Hauberk
 		234501, -- Portable Power Generator
-		229270, -- Tireless Collector's Armored Breeches
-		232541, -- Improvised Seaforium Pacemaker
+		237645, -- Midnight Herald's Petticoat
+		221152, -- Silksteel Striders
+		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Beast Mastery Hunter",
@@ -62,23 +59,18 @@ BEAST_MASTERY_HUNTER_MYTHIC_PLUS_BIS = {
 
 MARKSMANSHIP_HUNTER_OVERALL_BIS = {
 	itemIDs = {
-		228893, -- Tiny Pal
-		229271, -- Tireless Collector's Chained Cowl
-		232663, -- Undermine Merc's Dog Tags
-		222817, -- Consecrated Cloak
-		228844, -- Test Pilot's Go-Pack
-		229274, -- Tireless Collector's Battlegear
+		237646, -- Midnight Herald's Cowl
+		237644, -- Midnight Herald's Shadowguards
+		237649, -- Midnight Herald's Hauberk
 		219342, -- Glyph-Etched Vambraces
-		229272, -- Tireless Collector's Gauntlets
-		228877, -- Dealer's Covetous Chain
-		219339, -- Glyph-Etched Binding
-		229270, -- Tireless Collector's Armored Breeches
-		228862, -- Shrapnel-Ridden Sabatons
-		231265, -- The Jastor Diamond
-		228843, -- Miniature Roulette Wheel
-		228840, -- Faded Championship Ring
-		230027, -- House of Cards
-		232541, -- Improvised Seaforium Pacemaker
+		219341, -- Glyph-Etched Gauntlets
+		245965, -- Durable Information Securing Container
+		237645, -- Midnight Herald's Petticoat
+		243308, -- Interloper's Chain Boots
+		237567, -- Logic Gate: Alpha
+		221136, -- Devout Zealot's Ring
+		242402, -- Araz's Ritual Forge
+		242395, -- Astral Antenna
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Marksmanship Hunter",
@@ -87,23 +79,20 @@ MARKSMANSHIP_HUNTER_OVERALL_BIS = {
 
 MARKSMANSHIP_HUNTER_RAID_BIS = {
 	itemIDs = {
-		228893, -- Tiny Pal
-		228859, -- Sanitized Scraphood
-		232663, -- Undermine Merc's Dog Tags
-		229269, -- Tireless Collector's Hunted Heads
-		228844, -- Test Pilot's Go-Pack
-		229274, -- Tireless Collector's Battlegear
-		228846, -- Galvanic Graffiti Cuffs
-		229272, -- Tireless Collector's Gauntlets
-		228877, -- Dealer's Covetous Chain
-		229270, -- Tireless Collector's Armored Breeches
-		228862, -- Shrapnel-Ridden Sabatons
-		231265, -- The Jastor Diamond
-		228843, -- Miniature Roulette Wheel
-		228840, -- Faded Championship Ring
-		230027, -- House of Cards
-		230198, -- Eye of Kezan
-		230197, -- Geargrinder's Spare Keys
+		237733, -- Lacerated Current Caster
+		237646, -- Midnight Herald's Cowl
+		237569, -- Duskblaze's Desperation
+		237537, -- Claws of Failed Resistance
+		237649, -- Midnight Herald's Hauberk
+		237555, -- Pactbound Vambraces
+		237647, -- Midnight Herald's Gloves
+		237554, -- Clasp of Furious Freedom
+		237645, -- Midnight Herald's Petticoat
+		243308, -- Interloper's Chain Boots
+		242405, -- Band of the Shattered Soul
+		237570, -- Logic Gate: Omega
+		242402, -- Araz's Ritual Forge
+		242395, -- Astral Antenna
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Marksmanship Hunter",
@@ -112,17 +101,14 @@ MARKSMANSHIP_HUNTER_RAID_BIS = {
 
 MARKSMANSHIP_HUNTER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		234492, -- Keeza's 'B.' B.B.B.F.G
-		229271, -- Tireless Collector's Chained Cowl
-		221103, -- Flickering Glowtorc
-		221054, -- Chef Chewie's Towel
-		229274, -- Tireless Collector's Battlegear
-		221059, -- I'pa's Pale Aleguards
-		229272, -- Tireless Collector's Gauntlets
+		237646, -- Midnight Herald's Cowl
+		237644, -- Midnight Herald's Shadowguards
+		237649, -- Midnight Herald's Hauberk
 		234501, -- Portable Power Generator
-		229270, -- Tireless Collector's Armored Breeches
-		221197, -- Hoop of the Blighted
-		232541, -- Improvised Seaforium Pacemaker
+		237645, -- Midnight Herald's Petticoat
+		221152, -- Silksteel Striders
+		221136, -- Devout Zealot's Ring
+		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Marksmanship Hunter",
@@ -131,20 +117,17 @@ MARKSMANSHIP_HUNTER_MYTHIC_PLUS_BIS = {
 
 SURVIVAL_HUNTER_OVERALL_BIS = {
 	itemIDs = {
-		228905, -- Giga Bank-Breaker
-		229271, -- Tireless Collector's Chained Cowl
-		228842, -- Gobfather's Gifted Bling
-		229269, -- Tireless Collector's Hunted Heads
-		228844, -- Test Pilot's Go-Pack
-		229274, -- Tireless Collector's Battlegear
+		237646, -- Midnight Herald's Cowl
+		242406, -- Salhadaar's Folly
+		237644, -- Midnight Herald's Shadowguards
+		237649, -- Midnight Herald's Hauberk
 		219342, -- Glyph-Etched Vambraces
-		228867, -- Gravi-Gunk Handlers
-		219339, -- Glyph-Etched Binding
-		229270, -- Tireless Collector's Armored Breeches
-		228862, -- Shrapnel-Ridden Sabatons
-		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
-		230027, -- House of Cards
+		219341, -- Glyph-Etched Gauntlets
+		245965, -- Durable Information Securing Container
+		237645, -- Midnight Herald's Petticoat
+		243308, -- Interloper's Chain Boots
+		237570, -- Logic Gate: Omega
+		242402, -- Araz's Ritual Forge
 		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "Overall BIS:",
@@ -154,23 +137,20 @@ SURVIVAL_HUNTER_OVERALL_BIS = {
 
 SURVIVAL_HUNTER_RAID_BIS = {
 	itemIDs = {
-		228905, -- Giga Bank-Breaker
-		229271, -- Tireless Collector's Chained Cowl
-		228842, -- Gobfather's Gifted Bling
-		229269, -- Tireless Collector's Hunted Heads
-		228844, -- Test Pilot's Go-Pack
-		229274, -- Tireless Collector's Battlegear
-		228846, -- Galvanic Graffiti Cuffs
-		228867, -- Gravi-Gunk Handlers
-		219339, -- Glyph-Etched Binding
-		229270, -- Tireless Collector's Armored Breeches
-		228883, -- Dubious Table-Runners
-		231265, -- The Jastor Diamond
-		228843, -- Miniature Roulette Wheel
-		228840, -- Faded Championship Ring
-		230027, -- House of Cards
-		230198, -- Eye of Kezan
-		230194, -- Reverb Radio
+		237739, -- Obliteration Beamglaive
+		237646, -- Midnight Herald's Cowl
+		242406, -- Salhadaar's Folly
+		237536, -- Bite of the Astral Wastes
+		237649, -- Midnight Herald's Hauberk
+		237523, -- Arcanotech Wrist-Matrix
+		237647, -- Midnight Herald's Gloves
+		237554, -- Clasp of Furious Freedom
+		237645, -- Midnight Herald's Petticoat
+		243308, -- Interloper's Chain Boots
+		237570, -- Logic Gate: Omega
+		237567, -- Logic Gate: Alpha
+		242402, -- Araz's Ritual Forge
+		242395, -- Astral Antenna
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Survival Hunter",
@@ -179,16 +159,15 @@ SURVIVAL_HUNTER_RAID_BIS = {
 
 SURVIVAL_HUNTER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		234494, -- Gallytech Turbo-Tiller
-		229271, -- Tireless Collector's Chained Cowl
-		229269, -- Tireless Collector's Hunted Heads
-		234507, -- Electrician's Siphoning Filter
-		229274, -- Tireless Collector's Battlegear
+		237646, -- Midnight Herald's Cowl
+		237644, -- Midnight Herald's Shadowguards
+		237649, -- Midnight Herald's Hauberk
 		221124, -- Consecrated Baron's Bindings
-		168983, -- Maniacal Monarch's Girdle
-		229270, -- Tireless Collector's Armored Breeches
-		221106, -- Gloomstomper's Sabatons
-		221198, -- 85-Year Tenure Ring
+		237554, -- Clasp of Furious Freedom
+		237645, -- Midnight Herald's Petticoat
+		243308, -- Interloper's Chain Boots
+		221200, -- Radiant Necromancer's Band
+		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Survival Hunter",

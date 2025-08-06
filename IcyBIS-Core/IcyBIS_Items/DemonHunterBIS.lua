@@ -1,23 +1,21 @@
 HAVOC_DEMON_HUNTER_OVERALL_BIS = {
 	itemIDs = {
-		232804, -- Capo's Molten Knuckles
+		237727, -- Collapsing Phaseblades
 		222441, -- Everforged Warglaive
-		228894, -- GIGADEATH Chainblade
-		229316, -- Fel-Dealer's Visor
-		232663, -- Undermine Merc's Dog Tags
-		229314, -- Fel-Dealer's Recycled Reavers
-		221054, -- Chef Chewie's Towel
-		229319, -- Fel-Dealer's Soul Engine
+		237691, -- Charhound's Vicious Scalp
+		242406, -- Salhadaar's Folly
+		237689, -- Charhound's Vicious Hornguards
+		237694, -- Charhound's Vicious Bindings
 		219334, -- Rune-Branded Armbands
-		221036, -- Tempestwind Handlers
-		229313, -- Fel-Dealer's Waistwrap
-		229315, -- Fel-Dealer's Fur Kilt
-		228888, -- Rushed Beta Launchers
-		231265, -- The Jastor Diamond
-		228843, -- Miniature Roulette Wheel
-		230198, -- Eye of Kezan
-		232541, -- Improvised Seaforium Pacemaker
-		230027, -- House of Cards
+		237692, -- Charhound's Vicious Felclaws
+		237533, -- Atomic Phasebelt
+		221153, -- Gauzewoven Legguards
+		243306, -- Interloper's Reinforced Sandals
+		237567, -- Logic Gate: Alpha
+		221136, -- Devout Zealot's Ring
+		242395, -- Astral Antenna
+		242397, -- Sigil of the Cosmic Hunt
+		242402, -- Araz's Ritual Forge
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Havoc Demon Hunter",
@@ -26,24 +24,22 @@ HAVOC_DEMON_HUNTER_OVERALL_BIS = {
 
 HAVOC_DEMON_HUNTER_RAID_BIS = {
 	itemIDs = {
-		232804, -- Capo's Molten Knuckles
-		228894, -- GIGADEATH Chainblade
-		228904, -- Crowd Favorite
-		228848, -- Darkfuse Racketeer's Tricorne
-		232663, -- Undermine Merc's Dog Tags
-		229314, -- Fel-Dealer's Recycled Reavers
-		228839, -- Undercircuit Racing Flag
-		229319, -- Fel-Dealer's Soul Engine
-		228869, -- Killer Queen's Wristflickers
-		229317, -- Fel-Dealer's Underhandlers
-		228880, -- Hitman's Holster
-		229315, -- Fel-Dealer's Fur Kilt
-		228888, -- Rushed Beta Launchers
-		231265, -- The Jastor Diamond
-		228843, -- Miniature Roulette Wheel
-		230198, -- Eye of Kezan
-		230027, -- House of Cards
-		230194, -- Reverb Radio
+		237727, -- Collapsing Phaseblades
+		237738, -- Unbound Training Claws
+		237691, -- Charhound's Vicious Scalp
+		242406, -- Salhadaar's Folly
+		237689, -- Charhound's Vicious Hornguards
+		237694, -- Charhound's Vicious Bindings
+		237546, -- Bindings of Lost Essence
+		237692, -- Charhound's Vicious Felclaws
+		237533, -- Atomic Phasebelt
+		237690, -- Charhound's Vicious Hidecoat
+		243306, -- Interloper's Reinforced Sandals
+		237567, -- Logic Gate: Alpha
+		237570, -- Logic Gate: Omega
+		242395, -- Astral Antenna
+		242397, -- Sigil of the Cosmic Hunt
+		242402, -- Araz's Ritual Forge
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Havoc Demon Hunter",
@@ -52,16 +48,13 @@ HAVOC_DEMON_HUNTER_RAID_BIS = {
 
 HAVOC_DEMON_HUNTER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		234491, -- Sonic Ka-BOOM!-erang
-		221033, -- Hyperactive Stormclaw
 		221125, -- Helm of the Righteous Crusade
-		221103, -- Flickering Glowtorc
-		235811, -- Extravagant Epaulets
-		221054, -- Chef Chewie's Towel
-		221036, -- Tempestwind Handlers
-		168975, -- Machinist's Treasured Treads
-		221198, -- 85-Year Tenure Ring
+		221157, -- Unbreakable Beetlebane Bindings
+		221134, -- Shadow Congregant's Belt
+		221153, -- Gauzewoven Legguards
+		221136, -- Devout Zealot's Ring
 		232541, -- Improvised Seaforium Pacemaker
+		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Havoc Demon Hunter",
@@ -70,22 +63,19 @@ HAVOC_DEMON_HUNTER_MYTHIC_PLUS_BIS = {
 
 VENGEANCE_DEMON_HUNTER_OVERALL_BIS = {
 	itemIDs = {
-		228904, -- Crowd Favorite
+		234491, -- Sonic Ka-BOOM!-erang
 		222441, -- Everforged Warglaive
-		229316, -- Fel-Dealer's Visor
-		228841, -- Semi-Charmed Amulet
-		229314, -- Fel-Dealer's Recycled Reavers
-		228844, -- Test Pilot's Go-Pack
-		229319, -- Fel-Dealer's Soul Engine
-		228869, -- Killer Queen's Wristflickers
-		229317, -- Fel-Dealer's Underhandlers
-		219502, -- Adrenal Surge Clasp
-		229315, -- Fel-Dealer's Fur Kilt
-		228876, -- Dragster's Last Stride
-		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
-		230027, -- House of Cards
-		230198, -- Eye of Kezan
+		237691, -- Charhound's Vicious Scalp
+		237689, -- Charhound's Vicious Hornguards
+		237694, -- Charhound's Vicious Bindings
+		237546, -- Bindings of Lost Essence
+		237692, -- Charhound's Vicious Felclaws
+		237690, -- Charhound's Vicious Hidecoat
+		243306, -- Interloper's Reinforced Sandals
+		242405, -- Band of the Shattered Soul
+		215133, -- Binding of Binding
+		242402, -- Araz's Ritual Forge
+		219309, -- Tome of Light's Devotion
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Vengeance Demon Hunter",
@@ -94,22 +84,21 @@ VENGEANCE_DEMON_HUNTER_OVERALL_BIS = {
 
 VENGEANCE_DEMON_HUNTER_RAID_BIS = {
 	itemIDs = {
-		228904, -- Crowd Favorite
+		237738, -- Unbound Training Claws
 		222441, -- Everforged Warglaive
-		229316, -- Fel-Dealer's Visor
-		228841, -- Semi-Charmed Amulet
-		229314, -- Fel-Dealer's Recycled Reavers
-		228844, -- Test Pilot's Go-Pack
-		229319, -- Fel-Dealer's Soul Engine
-		228869, -- Killer Queen's Wristflickers
-		229317, -- Fel-Dealer's Underhandlers
-		219502, -- Adrenal Surge Clasp
-		229315, -- Fel-Dealer's Fur Kilt
-		228876, -- Dragster's Last Stride
-		231265, -- The Jastor Diamond
-		228840, -- Faded Championship Ring
-		230027, -- House of Cards
-		230198, -- Eye of Kezan
+		237691, -- Charhound's Vicious Scalp
+		237569, -- Duskblaze's Desperation
+		237689, -- Charhound's Vicious Hornguards
+		237694, -- Charhound's Vicious Bindings
+		237546, -- Bindings of Lost Essence
+		237692, -- Charhound's Vicious Felclaws
+		237557, -- Reaper's Dreadbelt
+		237690, -- Charhound's Vicious Hidecoat
+		243306, -- Interloper's Reinforced Sandals
+		242405, -- Band of the Shattered Soul
+		215133, -- Binding of Binding
+		242402, -- Araz's Ritual Forge
+		242395, -- Astral Antenna
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Vengeance Demon Hunter",
@@ -120,17 +109,15 @@ VENGEANCE_DEMON_HUNTER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		234491, -- Sonic Ka-BOOM!-erang
 		234491, -- Sonic Ka-BOOM!-erang
-		229316, -- Fel-Dealer's Visor
-		221103, -- Flickering Glowtorc
-		229314, -- Fel-Dealer's Recycled Reavers
-		221109, -- Candlebearer's Shroud
-		229319, -- Fel-Dealer's Soul Engine
-		229317, -- Fel-Dealer's Underhandlers
-		221058, -- Brewery Toiler's Waistband
-		229315, -- Fel-Dealer's Fur Kilt
-		221099, -- Wick's Golden Loop
+		237691, -- Charhound's Vicious Scalp
+		237689, -- Charhound's Vicious Hornguards
+		237694, -- Charhound's Vicious Bindings
+		221142, -- Scheming Assailer's Bands
+		237692, -- Charhound's Vicious Felclaws
+		237690, -- Charhound's Vicious Hidecoat
+		246274, -- Geezle's Zapstep Boots
 		232541, -- Improvised Seaforium Pacemaker
-		232543, -- Ringing Ritual Mud
+		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Vengeance Demon Hunter",

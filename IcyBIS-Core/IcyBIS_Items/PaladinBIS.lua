@@ -1,21 +1,20 @@
 HOLY_PALADIN_OVERALL_BIS = {
 	itemIDs = {
-		228901, -- Big Earner's Bludgeon
-		228889, -- Titan of Industry
-		229244, -- Aureate Sentry's Pledge
-		228841, -- Semi-Charmed Amulet
-		228855, -- Paydirt Pauldrons
-		228844, -- Test Pilot's Go-Pack
-		229247, -- Aureate Sentry's Encasement
-		228868, -- Revved-Up Vambraces
-		229245, -- Aureate Sentry's Gauntlets
-		228886, -- Coin-Operated Girdle
-		229243, -- Aureate Sentry's Legguards
-		228874, -- Rik's Walkin' Boots
-		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
-		230198, -- Eye of Kezan
-		230186, -- Mister Pick-Me-Up
+		237735, -- Voidglass Sovereign's Blade
+		237723, -- Ward of the Weaving-Beast
+		237619, -- Lightmane of the Lucent Battalion
+		237569, -- Duskblaze's Desperation
+		237617, -- Chargers of the Lucent Battalion
+		237622, -- Cuirass of the Lucent Battalion
+		237561, -- Yoke of Enveloping Hatred
+		234504, -- Jumpstarter's Scaffold-Scrapers
+		237550, -- Fresh Ethereal Fetters
+		237618, -- Cuisses of the Lucent Battalion
+		243307, -- Interloper's Plated Sabatons
+		242405, -- Band of the Shattered Soul
+		237570, -- Logic Gate: Omega
+		242395, -- Astral Antenna
+		242392, -- Diamantine Voidcore
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Holy Paladin",
@@ -24,22 +23,21 @@ HOLY_PALADIN_OVERALL_BIS = {
 
 HOLY_PALADIN_RAID_BIS = {
 	itemIDs = {
-		228901, -- Big Earner's Bludgeon
-		228889, -- Titan of Industry
-		229244, -- Aureate Sentry's Pledge
-		228841, -- Semi-Charmed Amulet
-		228855, -- Paydirt Pauldrons
-		228844, -- Test Pilot's Go-Pack
-		229247, -- Aureate Sentry's Encasement
-		228868, -- Revved-Up Vambraces
-		229245, -- Aureate Sentry's Gauntlets
-		228886, -- Coin-Operated Girdle
-		229243, -- Aureate Sentry's Legguards
-		228874, -- Rik's Walkin' Boots
-		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
-		230198, -- Eye of Kezan
-		230186, -- Mister Pick-Me-Up
+		237735, -- Voidglass Sovereign's Blade
+		237723, -- Ward of the Weaving-Beast
+		237619, -- Lightmane of the Lucent Battalion
+		237569, -- Duskblaze's Desperation
+		237617, -- Chargers of the Lucent Battalion
+		237622, -- Cuirass of the Lucent Battalion
+		237561, -- Yoke of Enveloping Hatred
+		237526, -- Breached Containment Guards
+		237550, -- Fresh Ethereal Fetters
+		237618, -- Cuisses of the Lucent Battalion
+		243307, -- Interloper's Plated Sabatons
+		242405, -- Band of the Shattered Soul
+		237570, -- Logic Gate: Omega
+		242395, -- Astral Antenna
+		242392, -- Diamantine Voidcore
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Holy Paladin",
@@ -48,14 +46,14 @@ HOLY_PALADIN_RAID_BIS = {
 
 HOLY_PALADIN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		168955, -- Electrifying Cognitive Amplifier
-		229244, -- Aureate Sentry's Pledge
-		234507, -- Electrician's Siphoning Filter
-		229247, -- Aureate Sentry's Encasement
-		229245, -- Aureate Sentry's Gauntlets
-		221040, -- Lightning-Conductor's Bands
-		229243, -- Aureate Sentry's Legguards
-		228411, -- Cyrce's Circlet
+		221150, -- Arachnoid Soulcleaver
+		237619, -- Lightmane of the Lucent Battalion
+		237617, -- Chargers of the Lucent Battalion
+		237622, -- Cuirass of the Lucent Battalion
+		234504, -- Jumpstarter's Scaffold-Scrapers
+		221133, -- Girdle of Somber Ploys
+		237618, -- Cuisses of the Lucent Battalion
+		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Holy Paladin",
@@ -64,19 +62,18 @@ HOLY_PALADIN_MYTHIC_PLUS_BIS = {
 
 PROTECTION_PALADIN_OVERALL_BIS = {
 	itemIDs = {
-		221096, -- Rail Rider's Bisector
-		228889, -- Titan of Industry
-		221100, -- Waxsteel Greathelm
-		229242, -- Aureate Sentry's Roaring Will
-		228844, -- Test Pilot's Go-Pack
-		229247, -- Aureate Sentry's Encasement
+		221117, -- Sanctified Priory Wall
+		237619, -- Lightmane of the Lucent Battalion
+		237568, -- Chrysalis of Sundered Souls
+		237617, -- Chargers of the Lucent Battalion
+		237622, -- Cuirass of the Lucent Battalion
 		222435, -- Everforged Vambraces
-		229245, -- Aureate Sentry's Gauntlets
+		237620, -- Protectors of the Lucent Battalion
 		222431, -- Everforged Greatbelt
-		229243, -- Aureate Sentry's Legguards
-		228874, -- Rik's Walkin' Boots
-		231265, -- The Jastor Diamond
-		230198, -- Eye of Kezan
+		237530, -- Shrapnel-Fused Legguards
+		243307, -- Interloper's Plated Sabatons
+		242405, -- Band of the Shattered Soul
+		242401, -- Brand of Ceaseless Ire
 		219309, -- Tome of Light's Devotion
 	},
 	messageLeft = "Overall BIS:",
@@ -86,22 +83,21 @@ PROTECTION_PALADIN_OVERALL_BIS = {
 
 PROTECTION_PALADIN_RAID_BIS = {
 	itemIDs = {
-		228895, -- Remixed Ignition Saber
-		228889, -- Titan of Industry
-		228858, -- Fullthrottle Facerig
-		228841, -- Semi-Charmed Amulet
-		229242, -- Aureate Sentry's Roaring Will
-		228844, -- Test Pilot's Go-Pack
-		229247, -- Aureate Sentry's Encasement
+		237734, -- Oath-Breaker's Recompense
+		237741, -- Event Horizon
+		237619, -- Lightmane of the Lucent Battalion
+		237568, -- Chrysalis of Sundered Souls
+		237617, -- Chargers of the Lucent Battalion
+		237622, -- Cuirass of the Lucent Battalion
 		222435, -- Everforged Vambraces
-		229245, -- Aureate Sentry's Gauntlets
+		237620, -- Protectors of the Lucent Battalion
 		222431, -- Everforged Greatbelt
-		229243, -- Aureate Sentry's Legguards
-		228874, -- Rik's Walkin' Boots
-		231265, -- The Jastor Diamond
-		228840, -- Faded Championship Ring
-		230198, -- Eye of Kezan
-		230193, -- Mister Lock-N-Stalk
+		237530, -- Shrapnel-Fused Legguards
+		243307, -- Interloper's Plated Sabatons
+		237570, -- Logic Gate: Omega
+		242405, -- Band of the Shattered Soul
+		242394, -- Eradicating Arcanocore
+		242401, -- Brand of Ceaseless Ire
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Protection Paladin",
@@ -110,17 +106,15 @@ PROTECTION_PALADIN_RAID_BIS = {
 
 PROTECTION_PALADIN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221096, -- Rail Rider's Bisector
-		221100, -- Waxsteel Greathelm
-		229242, -- Aureate Sentry's Roaring Will
-		234507, -- Electrician's Siphoning Filter
-		229247, -- Aureate Sentry's Encasement
+		221117, -- Sanctified Priory Wall
+		237619, -- Lightmane of the Lucent Battalion
+		237617, -- Chargers of the Lucent Battalion
+		237622, -- Cuirass of the Lucent Battalion
 		222435, -- Everforged Vambraces
-		229245, -- Aureate Sentry's Gauntlets
+		237620, -- Protectors of the Lucent Battalion
 		222431, -- Everforged Greatbelt
-		229243, -- Aureate Sentry's Legguards
+		221123, -- Devoted Plate Walkers
 		219309, -- Tome of Light's Devotion
-		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Protection Paladin",
@@ -129,20 +123,20 @@ PROTECTION_PALADIN_MYTHIC_PLUS_BIS = {
 
 RETRIBUTION_PALADIN_OVERALL_BIS = {
 	itemIDs = {
-		232805, -- Best-in-Slots
-		229244, -- Aureate Sentry's Pledge
-		229242, -- Aureate Sentry's Roaring Will
-		222817, -- Consecrated Cloak
-		229247, -- Aureate Sentry's Encasement
+		237737, -- Photon Sabre Prime
+		237619, -- Lightmane of the Lucent Battalion
+		242406, -- Salhadaar's Folly
+		237617, -- Chargers of the Lucent Battalion
+		237622, -- Cuirass of the Lucent Battalion
 		222435, -- Everforged Vambraces
-		168980, -- Gauntlets of Absolute Authority
-		234505, -- Venture Contractor's Floodlight
-		229243, -- Aureate Sentry's Legguards
-		228887, -- Cutthroat Competition Stompers
-		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
-		230198, -- Eye of Kezan
-		232541, -- Improvised Seaforium Pacemaker
+		237620, -- Protectors of the Lucent Battalion
+		222431, -- Everforged Greatbelt
+		237618, -- Cuisses of the Lucent Battalion
+		243307, -- Interloper's Plated Sabatons
+		237570, -- Logic Gate: Omega
+		237567, -- Logic Gate: Alpha
+		242402, -- Araz's Ritual Forge
+		242395, -- Astral Antenna
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Retribution Paladin",
@@ -151,21 +145,20 @@ RETRIBUTION_PALADIN_OVERALL_BIS = {
 
 RETRIBUTION_PALADIN_RAID_BIS = {
 	itemIDs = {
-		232805, -- Best-in-Slots
-		228858, -- Fullthrottle Facerig
-		228841, -- Semi-Charmed Amulet
-		229242, -- Aureate Sentry's Roaring Will
-		228844, -- Test Pilot's Go-Pack
-		229247, -- Aureate Sentry's Encasement
-		228884, -- Test Subject's Clasps
-		229245, -- Aureate Sentry's Gauntlets
-		228886, -- Coin-Operated Girdle
-		229243, -- Aureate Sentry's Legguards
-		228887, -- Cutthroat Competition Stompers
-		231265, -- The Jastor Diamond
-		228411, -- Cyrce's Circlet
-		230198, -- Eye of Kezan
-		230027, -- House of Cards
+		237737, -- Photon Sabre Prime
+		237619, -- Lightmane of the Lucent Battalion
+		242406, -- Salhadaar's Folly
+		237617, -- Chargers of the Lucent Battalion
+		237622, -- Cuirass of the Lucent Battalion
+		237545, -- Discarded Nutrient Shackles
+		237620, -- Protectors of the Lucent Battalion
+		237550, -- Fresh Ethereal Fetters
+		237618, -- Cuisses of the Lucent Battalion
+		243307, -- Interloper's Plated Sabatons
+		237570, -- Logic Gate: Omega
+		237567, -- Logic Gate: Alpha
+		242402, -- Araz's Ritual Forge
+		242395, -- Astral Antenna
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Retribution Paladin",
@@ -174,16 +167,14 @@ RETRIBUTION_PALADIN_RAID_BIS = {
 
 RETRIBUTION_PALADIN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		229244, -- Aureate Sentry's Pledge
-		229242, -- Aureate Sentry's Roaring Will
-		221054, -- Chef Chewie's Towel
-		229247, -- Aureate Sentry's Encasement
-		168980, -- Gauntlets of Absolute Authority
-		168976, -- Automatic Waist Tightener
-		229243, -- Aureate Sentry's Legguards
-		221061, -- Hops-Laden Greatboots
-		228411, -- Cyrce's Circlet
+		237619, -- Lightmane of the Lucent Battalion
+		237617, -- Chargers of the Lucent Battalion
+		237622, -- Cuirass of the Lucent Battalion
+		237620, -- Protectors of the Lucent Battalion
+		237618, -- Cuisses of the Lucent Battalion
+		221136, -- Devout Zealot's Ring
 		232541, -- Improvised Seaforium Pacemaker
+		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Retribution Paladin",

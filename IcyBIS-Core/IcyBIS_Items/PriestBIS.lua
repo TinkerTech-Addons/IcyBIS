@@ -1,21 +1,18 @@
 DISCIPLINE_PRIEST_OVERALL_BIS = {
 	itemIDs = {
-		228896, -- Stix's Metal Detector
+		237728, -- Voidglass Kris
 		222566, -- Vagabond's Torch
-		229334, -- Confessor's Unshakable Halo
-		228841, -- Semi-Charmed Amulet
-		229332, -- Confessor's Unshakable Radiance
-		222817, -- Consecrated Cloak
-		229337, -- Confessor's Unshakable Vestment
-		228881, -- Illicit Bankroll Bracers
-		229335, -- Confessor's Unshakable Mitts
-		168958, -- Ringmaster's Cummerbund
-		228865, -- Pit Doctor's Petticoat
-		228879, -- Cemented Murloc-Swimmers
-		231265, -- The Jastor Diamond
-		228843, -- Miniature Roulette Wheel
-		230027, -- House of Cards
-		230198, -- Eye of Kezan
+		237709, -- Dying Star's Veil
+		237569, -- Duskblaze's Desperation
+		237707, -- Dying Star's Pyrelights
+		237712, -- Dying Star's Cassock
+		222815, -- Consecrated Cuffs
+		237710, -- Dying Star's Caress
+		237538, -- Forgeweaver's Journal Holster
+		237542, -- Stellar Navigation Slacks
+		243305, -- Interloper's Silken Striders
+		242405, -- Band of the Shattered Soul
+		242392, -- Diamantine Voidcore
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Dicipline Priest",
@@ -24,22 +21,20 @@ DISCIPLINE_PRIEST_OVERALL_BIS = {
 
 DISCIPLINE_PRIEST_RAID_BIS = {
 	itemIDs = {
-		228896, -- Stix's Metal Detector
-		228906, -- Operator's Fraud Detector
-		229334, -- Confessor's Unshakable Halo
-		228841, -- Semi-Charmed Amulet
-		229332, -- Confessor's Unshakable Radiance
-		228839, -- Undercircuit Racing Flag
-		229337, -- Confessor's Unshakable Vestment
-		228881, -- Illicit Bankroll Bracers
-		229335, -- Confessor's Unshakable Mitts
-		228882, -- Refiner's Conveyor Belt
-		228865, -- Pit Doctor's Petticoat
-		228879, -- Cemented Murloc-Swimmers
-		231265, -- The Jastor Diamond
-		228843, -- Miniature Roulette Wheel
-		230027, -- House of Cards
-		230198, -- Eye of Kezan
+		237730, -- Voidglass Spire
+		237709, -- Dying Star's Veil
+		237569, -- Duskblaze's Desperation
+		237707, -- Dying Star's Pyrelights
+		237712, -- Dying Star's Cassock
+		237558, -- Conjoined Glass Bracers
+		237710, -- Dying Star's Caress
+		237538, -- Forgeweaver's Journal Holster
+		237542, -- Stellar Navigation Slacks
+		243305, -- Interloper's Silken Striders
+		242405, -- Band of the Shattered Soul
+		237570, -- Logic Gate: Omega
+		242395, -- Astral Antenna
+		242392, -- Diamantine Voidcore
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Dicipline Priest",
@@ -48,17 +43,12 @@ DISCIPLINE_PRIEST_RAID_BIS = {
 
 DISCIPLINE_PRIEST_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		168955, -- Electrifying Cognitive Amplifier
-		229334, -- Confessor's Unshakable Halo
-		229332, -- Confessor's Unshakable Radiance
-		234507, -- Electrician's Siphoning Filter
-		229337, -- Confessor's Unshakable Vestment
-		229335, -- Confessor's Unshakable Mitts
-		168958, -- Ringmaster's Cummerbund
-		221050, -- Ancient Hardened Legwraps
-		168964, -- Hyperthread Boots
-		221099, -- Wick's Golden Loop
-		219305, -- Carved Blazikon Wax
+		237709, -- Dying Star's Veil
+		237707, -- Dying Star's Pyrelights
+		237712, -- Dying Star's Cassock
+		237710, -- Dying Star's Caress
+		221158, -- Burrower's Cinch
+		221164, -- Archaic Venomancer's Footwraps
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Dicipline Priest",
@@ -67,21 +57,19 @@ DISCIPLINE_PRIEST_MYTHIC_PLUS_BIS = {
 
 HOLY_PRIEST_OVERALL_BIS = {
 	itemIDs = {
-		221122, -- Hand of Beledar
+		237728, -- Voidglass Kris
 		222566, -- Vagabond's Torch
-		228871, -- Cleanup Crew's Wastemask
-		221103, -- Flickering Glowtorc
-		229332, -- Confessor's Unshakable Radiance
-		228844, -- Test Pilot's Go-Pack
-		229337, -- Confessor's Unshakable Vestment
+		237709, -- Dying Star's Veil
+		242406, -- Salhadaar's Folly
+		237707, -- Dying Star's Pyrelights
+		237712, -- Dying Star's Cassock
 		222815, -- Consecrated Cuffs
-		229335, -- Confessor's Unshakable Mitts
-		221121, -- Honorbound Retainer's Sash
-		229333, -- Confessor's Unshakable Leggings
-		228847, -- Hotstep Heel-Turners
-		231265, -- The Jastor Diamond
-		230186, -- Mister Pick-Me-Up
-		230027, -- House of Cards
+		237710, -- Dying Star's Caress
+		237559, -- Singularity Cincture
+		237708, -- Dying Star's Leggings
+		221149, -- Membranous Slippers
+		237567, -- Logic Gate: Alpha
+		242395, -- Astral Antenna
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Holy Priest",
@@ -90,22 +78,19 @@ HOLY_PRIEST_OVERALL_BIS = {
 
 HOLY_PRIEST_RAID_BIS = {
 	itemIDs = {
-		228896, -- Stix's Metal Detector
-		228890, -- Superfan's Beater-Buzzer
-		228871, -- Cleanup Crew's Wastemask
-		228842, -- Gobfather's Gifted Bling
-		229332, -- Confessor's Unshakable Radiance
-		228844, -- Test Pilot's Go-Pack
-		229337, -- Confessor's Unshakable Vestment
-		228857, -- Underparty Admission Bracelet
-		229335, -- Confessor's Unshakable Mitts
-		228882, -- Refiner's Conveyor Belt
-		229333, -- Confessor's Unshakable Leggings
-		228847, -- Hotstep Heel-Turners
-		231265, -- The Jastor Diamond
-		228843, -- Miniature Roulette Wheel
-		230186, -- Mister Pick-Me-Up
-		230027, -- House of Cards
+		237728, -- Voidglass Kris
+		237709, -- Dying Star's Veil
+		242406, -- Salhadaar's Folly
+		237707, -- Dying Star's Pyrelights
+		237712, -- Dying Star's Cassock
+		237534, -- Singed Sievecuffs
+		237710, -- Dying Star's Caress
+		237559, -- Singularity Cincture
+		237708, -- Dying Star's Leggings
+		243305, -- Interloper's Silken Striders
+		237570, -- Logic Gate: Omega
+		237567, -- Logic Gate: Alpha
+		242395, -- Astral Antenna
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Holy Priest",
@@ -115,19 +100,16 @@ HOLY_PRIEST_RAID_BIS = {
 HOLY_PRIEST_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		221122, -- Hand of Beledar
-		221097, -- Arcane Scuttle
-		221131, -- Elysian Flame Crown
-		221103, -- Flickering Glowtorc
-		229332, -- Confessor's Unshakable Radiance
-		221054, -- Chef Chewie's Towel
-		229337, -- Confessor's Unshakable Vestment
-		221104, -- Gleamwax Shackles
-		229335, -- Confessor's Unshakable Mitts
+		237709, -- Dying Star's Veil
+		251880, -- Momma's Mega Medallion
+		237707, -- Dying Star's Pyrelights
+		237712, -- Dying Star's Cassock
+		237710, -- Dying Star's Caress
 		221121, -- Honorbound Retainer's Sash
-		229333, -- Confessor's Unshakable Leggings
-		221043, -- Cloudstrider Soles
-		221197, -- Hoop of the Blighted
-		219305, -- Carved Blazikon Wax
+		237708, -- Dying Star's Leggings
+		221149, -- Membranous Slippers
+		221141, -- High Nerubian Signet
+		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Holy Priest",
@@ -136,21 +118,19 @@ HOLY_PRIEST_MYTHIC_PLUS_BIS = {
 
 SHADOW_PRIEST_OVERALL_BIS = {
 	itemIDs = {
-		228901, -- Big Earner's Bludgeon
+		237728, -- Voidglass Kris
 		222566, -- Vagabond's Torch
-		229334, -- Confessor's Unshakable Halo
-		228841, -- Semi-Charmed Amulet
-		229332, -- Confessor's Unshakable Radiance
-		228844, -- Test Pilot's Go-Pack
-		229337, -- Confessor's Unshakable Vestment
-		228881, -- Illicit Bankroll Bracers
-		229335, -- Confessor's Unshakable Mitts
-		228882, -- Refiner's Conveyor Belt
-		228865, -- Pit Doctor's Petticoat
-		222814, -- Consecrated Slippers
-		228411, -- Cyrce's Circlet
-		231265, -- The Jastor Diamond
-		230198, -- Eye of Kezan
+		237709, -- Dying Star's Veil
+		237569, -- Duskblaze's Desperation
+		237712, -- Dying Star's Cassock
+		222815, -- Consecrated Cuffs
+		237710, -- Dying Star's Caress
+		237559, -- Singularity Cincture
+		237708, -- Dying Star's Leggings
+		243305, -- Interloper's Silken Striders
+		237570, -- Logic Gate: Omega
+		242402, -- Araz's Ritual Forge
+		242395, -- Astral Antenna
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Shadow Priest",
@@ -160,16 +140,13 @@ SHADOW_PRIEST_OVERALL_BIS = {
 SHADOW_PRIEST_RAID_BIS = {
 	itemIDs = {
 		221122, -- Hand of Beledar
-		229334, -- Confessor's Unshakable Halo
-		229332, -- Confessor's Unshakable Radiance
-		234507, -- Electrician's Siphoning Filter
-		229337, -- Confessor's Unshakable Vestment
-		221104, -- Gleamwax Shackles
-		229335, -- Confessor's Unshakable Mitts
+		237709, -- Dying Star's Veil
+		237712, -- Dying Star's Cassock
+		246279, -- Fizzlefuse Cuffs
+		237710, -- Dying Star's Caress
 		221121, -- Honorbound Retainer's Sash
-		221050, -- Ancient Hardened Legwraps
-		228411, -- Cyrce's Circlet
-		219305, -- Carved Blazikon Wax
+		237708, -- Dying Star's Leggings
+		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Shadow Priest",
@@ -178,20 +155,19 @@ SHADOW_PRIEST_RAID_BIS = {
 
 SHADOW_PRIEST_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		228901, -- Big Earner's Bludgeon
-		229334, -- Confessor's Unshakable Halo
-		228841, -- Semi-Charmed Amulet
-		229332, -- Confessor's Unshakable Radiance
-		228844, -- Test Pilot's Go-Pack
-		229337, -- Confessor's Unshakable Vestment
-		228881, -- Illicit Bankroll Bracers
-		229335, -- Confessor's Unshakable Mitts
-		228882, -- Refiner's Conveyor Belt
-		228865, -- Pit Doctor's Petticoat
-		228879, -- Cemented Murloc-Swimmers
-		228411, -- Cyrce's Circlet
-		231265, -- The Jastor Diamond
-		230198, -- Eye of Kezan
+		237728, -- Voidglass Kris
+		237709, -- Dying Star's Veil
+		237569, -- Duskblaze's Desperation
+		237547, -- Mounted Manacannons
+		237712, -- Dying Star's Cassock
+		237558, -- Conjoined Glass Bracers
+		237710, -- Dying Star's Caress
+		237559, -- Singularity Cincture
+		237708, -- Dying Star's Leggings
+		243305, -- Interloper's Silken Striders
+		237570, -- Logic Gate: Omega
+		237567, -- Logic Gate: Alpha
+		242402, -- Araz's Ritual Forge
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Shadow Priest",

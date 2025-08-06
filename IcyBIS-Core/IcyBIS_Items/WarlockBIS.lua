@@ -1,18 +1,17 @@
 AFFLICTION_WARLOCK_OVERALL_BIS = {
 	itemIDs = {
-		229325, -- Spliced Fiendtrader's Transcendence
-		228841, -- Semi-Charmed Amulet
-		229323, -- Spliced Fiendtrader's Loyal Servants
-		229328, -- Spliced Fiendtrader's Surgical Gown
+		242406, -- Salhadaar's Folly
+		237698, -- Inquisitor's Gaze of Madness
+		237703, -- Inquisitor's Robes of Madness
 		222815, -- Consecrated Cuffs
-		221108, -- King's Malicious Clutches
-		229324, -- Spliced Fiendtrader's Skin Tights
-		221043, -- Cloudstrider Soles
-		231265, -- The Jastor Diamond
-		221197, -- Hoop of the Blighted
-		230192, -- Mug's Moxie Jug
-		230027, -- House of Cards
-		221062, -- Scalding Queenmaker's Shiv
+		237701, -- Inquisitor's Clutches of Madness
+		242664, -- Durable Information Securing Container
+		237699, -- Inquisitor's Leggings of Madness
+		243305, -- Interloper's Silken Striders
+		237567, -- Logic Gate: Alpha
+		242405, -- Band of the Shattered Soul
+		242402, -- Araz's Ritual Forge
+		237728, -- Voidglass Kris
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "Overall BIS:",
@@ -22,21 +21,20 @@ AFFLICTION_WARLOCK_OVERALL_BIS = {
 
 AFFLICTION_WARLOCK_RAID_BIS = {
 	itemIDs = {
-		229325, -- Spliced Fiendtrader's Transcendence
-		228841, -- Semi-Charmed Amulet
-		229323, -- Spliced Fiendtrader's Loyal Servants
-		228839, -- Undercircuit Racing Flag
-		229328, -- Spliced Fiendtrader's Surgical Gown
+		237548, -- Twilight Tyrant's Veil
+		242406, -- Salhadaar's Folly
+		237698, -- Inquisitor's Gaze of Madness
+		237703, -- Inquisitor's Robes of Madness
 		222815, -- Consecrated Cuffs
-		228872, -- Golden Handshakers
-		228882, -- Refiner's Conveyor Belt
-		229324, -- Spliced Fiendtrader's Skin Tights
-		229327, -- Spliced Fiendtrader's Soles
-		231265, -- The Jastor Diamond
-		228843, -- Miniature Roulette Wheel
-		230198, -- Eye of Kezan
-		230192, -- Mug's Moxie Jug
-		231268, -- Blastfurious Machete
+		237701, -- Inquisitor's Clutches of Madness
+		242664, -- Durable Information Securing Container
+		237699, -- Inquisitor's Leggings of Madness
+		243305, -- Interloper's Silken Striders
+		237567, -- Logic Gate: Alpha
+		242405, -- Band of the Shattered Soul
+		242402, -- Araz's Ritual Forge
+		242392, -- Diamantine Voidcore
+		237728, -- Voidglass Kris
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "Raid BIS:",
@@ -46,14 +44,14 @@ AFFLICTION_WARLOCK_RAID_BIS = {
 
 AFFLICTION_WARLOCK_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		229325, -- Spliced Fiendtrader's Transcendence
-		229323, -- Spliced Fiendtrader's Loyal Servants
-		229328, -- Spliced Fiendtrader's Surgical Gown
+		237698, -- Inquisitor's Gaze of Madness
+		237703, -- Inquisitor's Robes of Madness
 		222815, -- Consecrated Cuffs
-		221108, -- King's Malicious Clutches
-		229324, -- Spliced Fiendtrader's Skin Tights
-		221197, -- Hoop of the Blighted
-		219299, -- Synergistic Brewterializer
+		237701, -- Inquisitor's Clutches of Madness
+		242664, -- Durable Information Securing Container
+		237699, -- Inquisitor's Leggings of Madness
+		221149, -- Membranous Slippers
+		221136, -- Devout Zealot's Ring
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "M+ BIS:",
@@ -63,20 +61,18 @@ AFFLICTION_WARLOCK_MYTHIC_PLUS_BIS = {
 
 DEMONOLOGY_WARLOCK_OVERALL_BIS = {
 	itemIDs = {
-		229325, -- Spliced Fiendtrader's Transcendence
-		228841, -- Semi-Charmed Amulet
-		229323, -- Spliced Fiendtrader's Loyal Servants
-		221054, -- Chef Chewie's Towel
-		229328, -- Spliced Fiendtrader's Surgical Gown
+		237568, -- Chrysalis of Sundered Souls
+		237698, -- Inquisitor's Gaze of Madness
+		237703, -- Inquisitor's Robes of Madness
 		222815, -- Consecrated Cuffs
-		221108, -- King's Malicious Clutches
-		229324, -- Spliced Fiendtrader's Skin Tights
-		221043, -- Cloudstrider Soles
-		231265, -- The Jastor Diamond
-		228843, -- Miniature Roulette Wheel
-		230198, -- Eye of Kezan
-		230027, -- House of Cards
-		221062, -- Scalding Queenmaker's Shiv
+		237701, -- Inquisitor's Clutches of Madness
+		242664, -- Durable Information Securing Container
+		237699, -- Inquisitor's Leggings of Madness
+		243305, -- Interloper's Silken Striders
+		237567, -- Logic Gate: Alpha
+		242405, -- Band of the Shattered Soul
+		242395, -- Astral Antenna
+		237728, -- Voidglass Kris
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "Overall BIS:",
@@ -86,21 +82,20 @@ DEMONOLOGY_WARLOCK_OVERALL_BIS = {
 
 DEMONOLOGY_WARLOCK_RAID_BIS = {
 	itemIDs = {
-		229325, -- Spliced Fiendtrader's Transcendence
-		228841, -- Semi-Charmed Amulet
-		229323, -- Spliced Fiendtrader's Loyal Servants
-		228839, -- Undercircuit Racing Flag
-		229328, -- Spliced Fiendtrader's Surgical Gown
+		237548, -- Twilight Tyrant's Veil
+		237568, -- Chrysalis of Sundered Souls
+		237698, -- Inquisitor's Gaze of Madness
+		237703, -- Inquisitor's Robes of Madness
 		222815, -- Consecrated Cuffs
-		229326, -- Spliced Fiendtrader's Demonic Grasp
-		228861, -- Tune-Up Toolbelt
-		229324, -- Spliced Fiendtrader's Skin Tights
-		229327, -- Spliced Fiendtrader's Soles
-		231265, -- The Jastor Diamond
-		228843, -- Miniature Roulette Wheel
-		230198, -- Eye of Kezan
-		230027, -- House of Cards
-		231268, -- Blastfurious Machete
+		237701, -- Inquisitor's Clutches of Madness
+		242664, -- Durable Information Securing Container
+		237699, -- Inquisitor's Leggings of Madness
+		243305, -- Interloper's Silken Striders
+		237567, -- Logic Gate: Alpha
+		242405, -- Band of the Shattered Soul
+		242395, -- Astral Antenna
+		242392, -- Diamantine Voidcore
+		237728, -- Voidglass Kris
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "Raid BIS:",
@@ -110,16 +105,15 @@ DEMONOLOGY_WARLOCK_RAID_BIS = {
 
 DEMONOLOGY_WARLOCK_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		229325, -- Spliced Fiendtrader's Transcendence
-		229323, -- Spliced Fiendtrader's Loyal Servants
-		221054, -- Chef Chewie's Towel
-		229328, -- Spliced Fiendtrader's Surgical Gown
+		237698, -- Inquisitor's Gaze of Madness
+		237703, -- Inquisitor's Robes of Madness
 		222815, -- Consecrated Cuffs
-		221108, -- King's Malicious Clutches
-		229324, -- Spliced Fiendtrader's Skin Tights
-		229327, -- Spliced Fiendtrader's Soles
-		219305, -- Carved Blazikon Wax
-		221062, -- Scalding Queenmaker's Shiv
+		237701, -- Inquisitor's Clutches of Madness
+		242664, -- Durable Information Securing Container
+		237699, -- Inquisitor's Leggings of Madness
+		221149, -- Membranous Slippers
+		221136, -- Devout Zealot's Ring
+		221165, -- Unceremonious Bloodletter
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "M+ BIS:",
@@ -129,18 +123,17 @@ DEMONOLOGY_WARLOCK_MYTHIC_PLUS_BIS = {
 
 DESTRUCTION_WARLOCK_OVERALL_BIS = {
 	itemIDs = {
-		229325, -- Spliced Fiendtrader's Transcendence
-		228841, -- Semi-Charmed Amulet
-		229323, -- Spliced Fiendtrader's Loyal Servants
-		234507, -- Electrician's Siphoning Filter
-		229328, -- Spliced Fiendtrader's Surgical Gown
+		242406, -- Salhadaar's Folly
+		237698, -- Inquisitor's Gaze of Madness
+		237703, -- Inquisitor's Robes of Madness
 		222815, -- Consecrated Cuffs
-		229324, -- Spliced Fiendtrader's Skin Tights
-		231265, -- The Jastor Diamond
-		221197, -- Hoop of the Blighted
-		230198, -- Eye of Kezan
-		230192, -- Mug's Moxie Jug
-		221062, -- Scalding Queenmaker's Shiv
+		237701, -- Inquisitor's Clutches of Madness
+		237699, -- Inquisitor's Leggings of Madness
+		243305, -- Interloper's Silken Striders
+		237567, -- Logic Gate: Alpha
+		242405, -- Band of the Shattered Soul
+		242395, -- Astral Antenna
+		237728, -- Voidglass Kris
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "Overall BIS:",
@@ -150,21 +143,20 @@ DESTRUCTION_WARLOCK_OVERALL_BIS = {
 
 DESTRUCTION_WARLOCK_RAID_BIS = {
 	itemIDs = {
-		229325, -- Spliced Fiendtrader's Transcendence
-		228841, -- Semi-Charmed Amulet
-		229323, -- Spliced Fiendtrader's Loyal Servants
-		228839, -- Undercircuit Racing Flag
-		229328, -- Spliced Fiendtrader's Surgical Gown
+		237548, -- Twilight Tyrant's Veil
+		242406, -- Salhadaar's Folly
+		237698, -- Inquisitor's Gaze of Madness
+		237703, -- Inquisitor's Robes of Madness
 		222815, -- Consecrated Cuffs
-		228872, -- Golden Handshakers
-		228882, -- Refiner's Conveyor Belt
-		229324, -- Spliced Fiendtrader's Skin Tights
-		229327, -- Spliced Fiendtrader's Soles
-		231265, -- The Jastor Diamond
-		228843, -- Miniature Roulette Wheel
-		230198, -- Eye of Kezan
-		230192, -- Mug's Moxie Jug
-		231268, -- Blastfurious Machete
+		237701, -- Inquisitor's Clutches of Madness
+		237559, -- Singularity Cincture
+		237699, -- Inquisitor's Leggings of Madness
+		243305, -- Interloper's Silken Striders
+		237567, -- Logic Gate: Alpha
+		242405, -- Band of the Shattered Soul
+		242395, -- Astral Antenna
+		242392, -- Diamantine Voidcore
+		237728, -- Voidglass Kris
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "Raid BIS:",
@@ -174,15 +166,15 @@ DESTRUCTION_WARLOCK_RAID_BIS = {
 
 DESTRUCTION_WARLOCK_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		229325, -- Spliced Fiendtrader's Transcendence
-		229323, -- Spliced Fiendtrader's Loyal Servants
-		234507, -- Electrician's Siphoning Filter
-		229328, -- Spliced Fiendtrader's Surgical Gown
+		242406, -- Salhadaar's Folly
+		237698, -- Inquisitor's Gaze of Madness
+		237703, -- Inquisitor's Robes of Madness
 		222815, -- Consecrated Cuffs
-		229324, -- Spliced Fiendtrader's Skin Tights
-		221197, -- Hoop of the Blighted
-		219305, -- Carved Blazikon Wax
-		221062, -- Scalding Queenmaker's Shiv
+		237701, -- Inquisitor's Clutches of Madness
+		237699, -- Inquisitor's Leggings of Madness
+		234497, -- Nonconductive Kill-o-Socks
+		221136, -- Devout Zealot's Ring
+		219314, -- Ara-Kara Sacbrood
 		222566, -- Vagabond's Torch
 	},
 	messageLeft = "M+ BIS:",
