@@ -42,8 +42,8 @@ AUGMENTATION_EVOKER_RAID_BIS = {
 		243308, -- Interloper's Chain Boots
 		237570, -- Logic Gate: Omega
 		237567, -- Logic Gate: Alpha
-		242402, -- Araz's Ritual Forge
 		242395, -- Astral Antenna
+		242399, -- Screams of a Forgotten Sky
 		237735, -- Voidglass Sovereign's Blade
 		237655, -- Spellweaver's Immaculate Focus
 		237569, -- Duskblaze's Desperation
@@ -56,8 +56,8 @@ AUGMENTATION_EVOKER_RAID_BIS = {
 		243308, -- Interloper's Chain Boots
 		242405, -- Band of the Shattered Soul
 		237567, -- Logic Gate: Alpha
-		242402, -- Araz's Ritual Forge
 		242395, -- Astral Antenna
+		242399, -- Screams of a Forgotten Sky
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Augmentation Evoker",

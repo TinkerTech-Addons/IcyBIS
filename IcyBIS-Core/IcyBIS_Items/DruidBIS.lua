@@ -12,7 +12,7 @@ BALANCE_DRUID_OVERALL_BIS = {
 		243306, -- Interloper's Reinforced Sandals
 		237570, -- Logic Gate: Omega
 		242402, -- Araz's Ritual Forge
-		242392, -- Diamantine Voidcore
+		242395, -- Astral Antenna
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Balance Druid",
@@ -35,7 +35,7 @@ BALANCE_DRUID_RAID_BIS = {
 		237570, -- Logic Gate: Omega
 		242405, -- Band of the Shattered Soul
 		242402, -- Araz's Ritual Forge
-		242392, -- Diamantine Voidcore
+		242395, -- Astral Antenna
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Balance Druid",
@@ -51,7 +51,6 @@ BALANCE_DRUID_MYTHIC_PLUS_BIS = {
 		234499, -- Disturbed Kelp Wraps
 		221134, -- Shadow Congregant's Belt
 		237681, -- Breeches of the Mother Eagle
-		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Balance Druid",
@@ -192,7 +191,6 @@ RESTORATION_DRUID_OVERALL_BIS = {
 		219331, -- Rune-Branded Waistband
 		243306, -- Interloper's Reinforced Sandals
 		242392, -- Diamantine Voidcore
-		242402, -- Araz's Ritual Forge
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Restoration Druid",

@@ -123,6 +123,7 @@ DEMONOLOGY_WARLOCK_MYTHIC_PLUS_BIS = {
 
 DESTRUCTION_WARLOCK_OVERALL_BIS = {
 	itemIDs = {
+		221131, -- Elysian Flame Crown
 		242406, -- Salhadaar's Folly
 		237698, -- Inquisitor's Gaze of Madness
 		237703, -- Inquisitor's Robes of Madness
@@ -166,6 +167,7 @@ DESTRUCTION_WARLOCK_RAID_BIS = {
 
 DESTRUCTION_WARLOCK_MYTHIC_PLUS_BIS = {
 	itemIDs = {
+		221131, -- Elysian Flame Crown
 		242406, -- Salhadaar's Folly
 		237698, -- Inquisitor's Gaze of Madness
 		237703, -- Inquisitor's Robes of Madness

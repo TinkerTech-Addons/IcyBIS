@@ -4,7 +4,7 @@ ELEMENTAL_SHAMAN_OVERALL_BIS = {
 		222566, -- Vagabond's Torch
 		251880, -- Momma's Mega Medallion
 		237635, -- Fangs of Channeled Fury
-		238042, -- Pure Dexterous Fiber
+		238046, -- Pure Energizing Fiber
 		237640, -- Furs of Channeled Fury
 		219342, -- Glyph-Etched Vambraces
 		237638, -- Claws of Channeled Fury
@@ -29,7 +29,7 @@ ELEMENTAL_SHAMAN_RAID_BIS = {
 		237536, -- Bite of the Astral Wastes
 		237568, -- Chrysalis of Sundered Souls
 		237635, -- Fangs of Channeled Fury
-		238042, -- Pure Dexterous Fiber
+		238046, -- Pure Energizing Fiber
 		237640, -- Furs of Channeled Fury
 		237523, -- Arcanotech Wrist-Matrix
 		237638, -- Claws of Channeled Fury
@@ -50,7 +50,7 @@ ELEMENTAL_SHAMAN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		221117, -- Sanctified Priory Wall
 		237635, -- Fangs of Channeled Fury
-		238042, -- Pure Dexterous Fiber
+		238046, -- Pure Energizing Fiber
 		237640, -- Furs of Channeled Fury
 		221124, -- Consecrated Baron's Bindings
 		237638, -- Claws of Channeled Fury

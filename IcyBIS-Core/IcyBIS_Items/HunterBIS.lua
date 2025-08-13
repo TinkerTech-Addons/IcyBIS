@@ -4,6 +4,7 @@ BEAST_MASTERY_HUNTER_OVERALL_BIS = {
 		237646, -- Midnight Herald's Cowl
 		237569, -- Duskblaze's Desperation
 		237644, -- Midnight Herald's Shadowguards
+		238045, -- Pure Chronomantic Fiber
 		237649, -- Midnight Herald's Hauberk
 		219342, -- Glyph-Etched Vambraces
 		219341, -- Glyph-Etched Gauntlets
@@ -25,6 +26,7 @@ BEAST_MASTERY_HUNTER_RAID_BIS = {
 		237646, -- Midnight Herald's Cowl
 		237569, -- Duskblaze's Desperation
 		237537, -- Claws of Failed Resistance
+		238045, -- Pure Chronomantic Fiber
 		237649, -- Midnight Herald's Hauberk
 		237555, -- Pactbound Vambraces
 		237647, -- Midnight Herald's Gloves
@@ -46,6 +48,7 @@ BEAST_MASTERY_HUNTER_MYTHIC_PLUS_BIS = {
 		221143, -- Recurved Hull Impaler
 		237646, -- Midnight Herald's Cowl
 		237644, -- Midnight Herald's Shadowguards
+		238045, -- Pure Chronomantic Fiber
 		237649, -- Midnight Herald's Hauberk
 		234501, -- Portable Power Generator
 		237645, -- Midnight Herald's Petticoat
@@ -61,6 +64,7 @@ MARKSMANSHIP_HUNTER_OVERALL_BIS = {
 	itemIDs = {
 		237646, -- Midnight Herald's Cowl
 		237644, -- Midnight Herald's Shadowguards
+		238044, -- Pure Precise Fiber
 		237649, -- Midnight Herald's Hauberk
 		219342, -- Glyph-Etched Vambraces
 		219341, -- Glyph-Etched Gauntlets
@@ -69,7 +73,7 @@ MARKSMANSHIP_HUNTER_OVERALL_BIS = {
 		243308, -- Interloper's Chain Boots
 		237567, -- Logic Gate: Alpha
 		221136, -- Devout Zealot's Ring
-		242402, -- Araz's Ritual Forge
+		242396, -- Unyielding Netherprism
 		242395, -- Astral Antenna
 	},
 	messageLeft = "Overall BIS:",
@@ -79,19 +83,20 @@ MARKSMANSHIP_HUNTER_OVERALL_BIS = {
 
 MARKSMANSHIP_HUNTER_RAID_BIS = {
 	itemIDs = {
-		237733, -- Lacerated Current Caster
+		237732, -- Piercing Strandbow
 		237646, -- Midnight Herald's Cowl
-		237569, -- Duskblaze's Desperation
+		242406, -- Salhadaar's Folly
 		237537, -- Claws of Failed Resistance
+		238044, -- Pure Precise Fiber
 		237649, -- Midnight Herald's Hauberk
 		237555, -- Pactbound Vambraces
 		237647, -- Midnight Herald's Gloves
-		237554, -- Clasp of Furious Freedom
+		237522, -- Colossal Lifetether
 		237645, -- Midnight Herald's Petticoat
 		243308, -- Interloper's Chain Boots
-		242405, -- Band of the Shattered Soul
+		237567, -- Logic Gate: Alpha
 		237570, -- Logic Gate: Omega
-		242402, -- Araz's Ritual Forge
+		242396, -- Unyielding Netherprism
 		242395, -- Astral Antenna
 	},
 	messageLeft = "Raid BIS:",
@@ -103,12 +108,12 @@ MARKSMANSHIP_HUNTER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		237646, -- Midnight Herald's Cowl
 		237644, -- Midnight Herald's Shadowguards
+		238044, -- Pure Precise Fiber
 		237649, -- Midnight Herald's Hauberk
 		234501, -- Portable Power Generator
 		237645, -- Midnight Herald's Petticoat
-		221152, -- Silksteel Striders
 		221136, -- Devout Zealot's Ring
-		219312, -- Empowering Crystal of Anub'ikkaj
+		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Marksmanship Hunter",
@@ -120,6 +125,7 @@ SURVIVAL_HUNTER_OVERALL_BIS = {
 		237646, -- Midnight Herald's Cowl
 		242406, -- Salhadaar's Folly
 		237644, -- Midnight Herald's Shadowguards
+		238046, -- Pure Energizing Fiber
 		237649, -- Midnight Herald's Hauberk
 		219342, -- Glyph-Etched Vambraces
 		219341, -- Glyph-Etched Gauntlets
@@ -128,7 +134,7 @@ SURVIVAL_HUNTER_OVERALL_BIS = {
 		243308, -- Interloper's Chain Boots
 		237570, -- Logic Gate: Omega
 		242402, -- Araz's Ritual Forge
-		232541, -- Improvised Seaforium Pacemaker
+		242395, -- Astral Antenna
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Survival Hunter",
@@ -141,6 +147,7 @@ SURVIVAL_HUNTER_RAID_BIS = {
 		237646, -- Midnight Herald's Cowl
 		242406, -- Salhadaar's Folly
 		237536, -- Bite of the Astral Wastes
+		238046, -- Pure Energizing Fiber
 		237649, -- Midnight Herald's Hauberk
 		237523, -- Arcanotech Wrist-Matrix
 		237647, -- Midnight Herald's Gloves
@@ -161,6 +168,7 @@ SURVIVAL_HUNTER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		237646, -- Midnight Herald's Cowl
 		237644, -- Midnight Herald's Shadowguards
+		238046, -- Pure Energizing Fiber
 		237649, -- Midnight Herald's Hauberk
 		221124, -- Consecrated Baron's Bindings
 		237554, -- Clasp of Furious Freedom

@@ -124,7 +124,7 @@ FROST_MAGE_OVERALL_BIS = {
 		237735, -- Voidglass Sovereign's Blade
 		222566, -- Vagabond's Torch
 		237718, -- Augur's Ephemeral Wide-Brim
-		229341, -- Aspectral Emissary's Arcane Vents
+		237716, -- Augur's Ephemeral Orbs of Power
 		221126, -- Zealous Warden's Raiment
 		222815, -- Consecrated Cuffs
 		237719, -- Augur's Ephemeral Mitts
@@ -146,7 +146,7 @@ FROST_MAGE_RAID_BIS = {
 		237724, -- Iris of the Dark Beyond
 		237718, -- Augur's Ephemeral Wide-Brim
 		237569, -- Duskblaze's Desperation
-		229341, -- Aspectral Emissary's Arcane Vents
+		237716, -- Augur's Ephemeral Orbs of Power
 		237721, -- Augur's Ephemeral Habiliments
 		237534, -- Singed Sievecuffs
 		237719, -- Augur's Ephemeral Mitts
@@ -166,7 +166,7 @@ FROST_MAGE_RAID_BIS = {
 FROST_MAGE_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		237718, -- Augur's Ephemeral Wide-Brim
-		229341, -- Aspectral Emissary's Arcane Vents
+		237716, -- Augur's Ephemeral Orbs of Power
 		221126, -- Zealous Warden's Raiment
 		237719, -- Augur's Ephemeral Mitts
 		221158, -- Burrower's Cinch

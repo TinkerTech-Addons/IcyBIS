@@ -55,6 +55,7 @@ BLOOD_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 FROST_DEATH_KNIGHT_OVERALL_BIS = {
 	itemIDs = {
 		237628, -- Hollow Sentinel's Stonemask
+		242406, -- Salhadaar's Folly
 		237626, -- Hollow Sentinel's Perches
 		237631, -- Hollow Sentinel's Breastplate
 		222435, -- Everforged Vambraces
@@ -63,9 +64,9 @@ FROST_DEATH_KNIGHT_OVERALL_BIS = {
 		237627, -- Hollow Sentinel's Stonekilt
 		243307, -- Interloper's Plated Sabatons
 		237567, -- Logic Gate: Alpha
-		237570, -- Logic Gate: Omega
+		242405, -- Band of the Shattered Soul
 		242402, -- Araz's Ritual Forge
-		232541, -- Improvised Seaforium Pacemaker
+		242395, -- Astral Antenna
 		222447, -- Charged Claymore
 	},
 	messageLeft = "Overall BIS:",
@@ -76,15 +77,15 @@ FROST_DEATH_KNIGHT_OVERALL_BIS = {
 FROST_DEATH_KNIGHT_RAID_BIS = {
 	itemIDs = {
 		237628, -- Hollow Sentinel's Stonemask
-		237569, -- Duskblaze's Desperation
+		242406, -- Salhadaar's Folly
 		237626, -- Hollow Sentinel's Perches
 		237631, -- Hollow Sentinel's Breastplate
 		237561, -- Yoke of Enveloping Hatred
-		237629, -- Hollow Sentinel's Gauntlets
+		237526, -- Breached Containment Guards
 		237550, -- Fresh Ethereal Fetters
 		237627, -- Hollow Sentinel's Stonekilt
 		243307, -- Interloper's Plated Sabatons
-		237570, -- Logic Gate: Omega
+		242405, -- Band of the Shattered Soul
 		237567, -- Logic Gate: Alpha
 		242402, -- Araz's Ritual Forge
 		242395, -- Astral Antenna
