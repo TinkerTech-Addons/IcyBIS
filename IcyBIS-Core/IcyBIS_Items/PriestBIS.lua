@@ -67,7 +67,7 @@ HOLY_PRIEST_OVERALL_BIS = {
 		237710, -- Dying Star's Caress
 		237559, -- Singularity Cincture
 		237708, -- Dying Star's Leggings
-		221149, -- Membranous Slippers
+		243305, -- Interloper's Silken Striders
 		237567, -- Logic Gate: Alpha
 		242395, -- Astral Antenna
 	},
@@ -146,7 +146,7 @@ SHADOW_PRIEST_RAID_BIS = {
 		237710, -- Dying Star's Caress
 		221121, -- Honorbound Retainer's Sash
 		237708, -- Dying Star's Leggings
-		219312, -- Empowering Crystal of Anub'ikkaj
+		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Shadow Priest",

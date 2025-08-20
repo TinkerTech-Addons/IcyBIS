@@ -163,7 +163,7 @@ PRESERVATION_EVOKER_OVERALL_BIS = {
 		243308, -- Interloper's Chain Boots
 		242405, -- Band of the Shattered Soul
 		237567, -- Logic Gate: Alpha
-		242395, -- Astral Antenna
+		242400, -- Nexus-King's Command
 		242392, -- Diamantine Voidcore
 	},
 	messageLeft = "Overall BIS:",
@@ -185,7 +185,7 @@ PRESERVATION_EVOKER_RAID_BIS = {
 		243308, -- Interloper's Chain Boots
 		242405, -- Band of the Shattered Soul
 		237567, -- Logic Gate: Alpha
-		242395, -- Astral Antenna
+		242400, -- Nexus-King's Command
 		242392, -- Diamantine Voidcore
 	},
 	messageLeft = "Raid BIS:",
@@ -201,8 +201,7 @@ PRESERVATION_EVOKER_MYTHIC_PLUS_BIS = {
 		221124, -- Consecrated Baron's Bindings
 		237656, -- Spellweaver's Immaculate Scaleguards
 		237654, -- Spellweaver's Immaculate Runeslacks
-		242395, -- Astral Antenna
-		242392, -- Diamantine Voidcore
+		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Preservation Evoker",

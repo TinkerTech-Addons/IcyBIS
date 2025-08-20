@@ -11,6 +11,7 @@ BLOOD_DEATH_KNIGHT_OVERALL_BIS = {
 		237567, -- Logic Gate: Alpha
 		221141, -- High Nerubian Signet
 		219309, -- Tome of Light's Devotion
+		242395, -- Astral Antenna
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Blood Death Knight",
@@ -31,8 +32,9 @@ BLOOD_DEATH_KNIGHT_RAID_BIS = {
 		243307, -- Interloper's Plated Sabatons
 		237570, -- Logic Gate: Omega
 		242405, -- Band of the Shattered Soul
+		242396, -- Unyielding Netherprism
 		242394, -- Eradicating Arcanocore
-		242402, -- Araz's Ritual Forge
+		242401, -- Brand of Ceaseless Ire
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Blood Death Knight",
@@ -121,7 +123,6 @@ UNHOLY_DEATH_KNIGHT_OVERALL_BIS = {
 		222431, -- Everforged Greatbelt
 		237627, -- Hollow Sentinel's Stonekilt
 		243307, -- Interloper's Plated Sabatons
-		242402, -- Araz's Ritual Forge
 		242395, -- Astral Antenna
 	},
 	messageLeft = "Overall BIS:",

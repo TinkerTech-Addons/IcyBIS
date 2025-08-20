@@ -126,6 +126,7 @@ PROTECTION_WARRIOR_OVERALL_BIS = {
 		242405, -- Band of the Shattered Soul
 		237570, -- Logic Gate: Omega
 		219309, -- Tome of Light's Devotion
+		242401, -- Brand of Ceaseless Ire
 		237734, -- Oath-Breaker's Recompense
 		237723, -- Ward of the Weaving-Beast
 	},
@@ -165,6 +166,7 @@ PROTECTION_WARRIOR_MYTHIC_PLUS_BIS = {
 		234505, -- Venture Contractor's Floodlight
 		237609, -- Living Weapon's Legguards
 		219309, -- Tome of Light's Devotion
+		232541, -- Improvised Seaforium Pacemaker
 		221145, -- Shipwrecker's Bludgeon
 		221117, -- Sanctified Priory Wall
 	},

@@ -13,7 +13,7 @@ HOLY_PALADIN_OVERALL_BIS = {
 		243307, -- Interloper's Plated Sabatons
 		242405, -- Band of the Shattered Soul
 		237570, -- Logic Gate: Omega
-		242395, -- Astral Antenna
+		242400, -- Nexus-King's Command
 		242392, -- Diamantine Voidcore
 	},
 	messageLeft = "Overall BIS:",
@@ -36,7 +36,7 @@ HOLY_PALADIN_RAID_BIS = {
 		243307, -- Interloper's Plated Sabatons
 		242405, -- Band of the Shattered Soul
 		237570, -- Logic Gate: Omega
-		242395, -- Astral Antenna
+		242400, -- Nexus-King's Command
 		242392, -- Diamantine Voidcore
 	},
 	messageLeft = "Raid BIS:",
@@ -53,7 +53,7 @@ HOLY_PALADIN_MYTHIC_PLUS_BIS = {
 		234504, -- Jumpstarter's Scaffold-Scrapers
 		221133, -- Girdle of Somber Ploys
 		237618, -- Cuisses of the Lucent Battalion
-		219314, -- Ara-Kara Sacbrood
+		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Holy Paladin",
@@ -135,7 +135,7 @@ RETRIBUTION_PALADIN_OVERALL_BIS = {
 		243307, -- Interloper's Plated Sabatons
 		237570, -- Logic Gate: Omega
 		237567, -- Logic Gate: Alpha
-		242402, -- Araz's Ritual Forge
+		242399, -- Screams of a Forgotten Sky
 		242395, -- Astral Antenna
 	},
 	messageLeft = "Overall BIS:",
@@ -157,7 +157,7 @@ RETRIBUTION_PALADIN_RAID_BIS = {
 		243307, -- Interloper's Plated Sabatons
 		237570, -- Logic Gate: Omega
 		237567, -- Logic Gate: Alpha
-		242402, -- Araz's Ritual Forge
+		242399, -- Screams of a Forgotten Sky
 		242395, -- Astral Antenna
 	},
 	messageLeft = "Raid BIS:",
