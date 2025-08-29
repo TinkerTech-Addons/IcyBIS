@@ -131,8 +131,7 @@ FROST_MAGE_OVERALL_BIS = {
 		221158, -- Burrower's Cinch
 		237717, -- Augur's Ephemeral Trousers
 		243305, -- Interloper's Silken Striders
-		221141, -- High Nerubian Signet
-		242402, -- Araz's Ritual Forge
+		237567, -- Logic Gate: Alpha
 		242392, -- Diamantine Voidcore
 	},
 	messageLeft = "Overall BIS:",

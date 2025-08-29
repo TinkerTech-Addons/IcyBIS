@@ -191,6 +191,7 @@ RESTORATION_DRUID_OVERALL_BIS = {
 		219331, -- Rune-Branded Waistband
 		243306, -- Interloper's Reinforced Sandals
 		242392, -- Diamantine Voidcore
+		242400, -- Nexus-King's Command
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Restoration Druid",
@@ -212,7 +213,7 @@ RESTORATION_DRUID_RAID_BIS = {
 		242405, -- Band of the Shattered Soul
 		237570, -- Logic Gate: Omega
 		242392, -- Diamantine Voidcore
-		242402, -- Araz's Ritual Forge
+		242400, -- Nexus-King's Command
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Restoration Druid",
