@@ -62,11 +62,10 @@ FROST_DEATH_KNIGHT_OVERALL_BIS = {
 		237631, -- Hollow Sentinel's Breastplate
 		222435, -- Everforged Vambraces
 		237526, -- Breached Containment Guards
-		221133, -- Girdle of Somber Ploys
 		237627, -- Hollow Sentinel's Stonekilt
 		243307, -- Interloper's Plated Sabatons
 		237567, -- Logic Gate: Alpha
-		242405, -- Band of the Shattered Soul
+		221200, -- Radiant Necromancer's Band
 		242402, -- Araz's Ritual Forge
 		242395, -- Astral Antenna
 		222447, -- Charged Claymore
@@ -103,7 +102,7 @@ FROST_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 		234506, -- Muckdiver's Wading Plate
 		221118, -- Flameforged Armguard
 		234504, -- Jumpstarter's Scaffold-Scrapers
-		221133, -- Girdle of Somber Ploys
+		221200, -- Radiant Necromancer's Band
 		221136, -- Devout Zealot's Ring
 		232541, -- Improvised Seaforium Pacemaker
 	},

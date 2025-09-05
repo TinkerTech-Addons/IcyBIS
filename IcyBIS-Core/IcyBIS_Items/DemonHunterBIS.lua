@@ -14,8 +14,8 @@ HAVOC_DEMON_HUNTER_OVERALL_BIS = {
 		237567, -- Logic Gate: Alpha
 		221136, -- Devout Zealot's Ring
 		242395, -- Astral Antenna
+		242399, -- Screams of a Forgotten Sky
 		242397, -- Sigil of the Cosmic Hunt
-		242402, -- Araz's Ritual Forge
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Havoc Demon Hunter",
@@ -37,9 +37,9 @@ HAVOC_DEMON_HUNTER_RAID_BIS = {
 		243306, -- Interloper's Reinforced Sandals
 		237567, -- Logic Gate: Alpha
 		237570, -- Logic Gate: Omega
+		242399, -- Screams of a Forgotten Sky
 		242395, -- Astral Antenna
 		242397, -- Sigil of the Cosmic Hunt
-		242402, -- Araz's Ritual Forge
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Havoc Demon Hunter",

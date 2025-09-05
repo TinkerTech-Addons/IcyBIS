@@ -2,6 +2,13 @@
 
 Provides release dates and versions when class BIS tables change and/or core features in the addon were added, removed or modified.
 
+## 3.0.4 - 2025-09-05
+
+### Class BIS Table Updates
+
+- **Deathknight BIS Tables** updated
+- **Demonhunter BIS Tables** updated
+
 ## 3.0.3 - 2025-08-26
 
 ### Class BIS Table Updates
