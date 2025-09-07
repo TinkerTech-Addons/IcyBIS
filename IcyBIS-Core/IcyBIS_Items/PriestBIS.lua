@@ -12,6 +12,8 @@ DISCIPLINE_PRIEST_OVERALL_BIS = {
 		237542, -- Stellar Navigation Slacks
 		243305, -- Interloper's Silken Striders
 		242405, -- Band of the Shattered Soul
+		246281, -- Ring of the Panoply
+		242494, -- Lily of the Eternal Weave
 		242392, -- Diamantine Voidcore
 	},
 	messageLeft = "Overall BIS:",
@@ -43,12 +45,20 @@ DISCIPLINE_PRIEST_RAID_BIS = {
 
 DISCIPLINE_PRIEST_MYTHIC_PLUS_BIS = {
 	itemIDs = {
+		178829, -- Nathrian Ferula
 		237709, -- Dying Star's Veil
+		178827, -- Sin Stained Pendant
 		237707, -- Dying Star's Pyrelights
 		237712, -- Dying Star's Cassock
+		185814, -- Auctioneer's Counting Bracers
 		237710, -- Dying Star's Caress
 		221158, -- Burrower's Cinch
 		221164, -- Archaic Venomancer's Footwraps
+		178831, -- Slippers of Leavened Station
+		246281, -- Ring of the Panoply
+		242491, -- Whispers of K'aresh
+		242497, -- Azhiccaran Parapodia
+		185818, -- So'leah's Secret Technique
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Dicipline Priest",
@@ -104,6 +114,7 @@ HOLY_PRIEST_MYTHIC_PLUS_BIS = {
 		251880, -- Momma's Mega Medallion
 		237707, -- Dying Star's Pyrelights
 		237712, -- Dying Star's Cassock
+		242468, -- Al'dani Attendant's Gauze
 		237710, -- Dying Star's Caress
 		221121, -- Honorbound Retainer's Sash
 		237708, -- Dying Star's Leggings
@@ -122,6 +133,7 @@ SHADOW_PRIEST_OVERALL_BIS = {
 		222566, -- Vagabond's Torch
 		237709, -- Dying Star's Veil
 		237569, -- Duskblaze's Desperation
+		246276, -- Sinlight Shoulderpads
 		237712, -- Dying Star's Cassock
 		222815, -- Consecrated Cuffs
 		237710, -- Dying Star's Caress
@@ -141,11 +153,15 @@ SHADOW_PRIEST_RAID_BIS = {
 	itemIDs = {
 		221122, -- Hand of Beledar
 		237709, -- Dying Star's Veil
+		178827, -- Sin Stained Pendant
+		246276, -- Sinlight Shoulderpads
 		237712, -- Dying Star's Cassock
 		246279, -- Fizzlefuse Cuffs
 		237710, -- Dying Star's Caress
 		221121, -- Honorbound Retainer's Sash
 		237708, -- Dying Star's Leggings
+		178831, -- Slippers of Leavened Station
+		242491, -- Whispers of K'aresh
 		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "Raid BIS:",

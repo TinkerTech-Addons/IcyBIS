@@ -7,6 +7,7 @@ BREWMASTER_MONK_OVERALL_BIS = {
 		219334, -- Rune-Branded Armbands
 		237674, -- Grasp of Fallen Storms
 		219502, -- Adrenal Surge Clasp
+		185801, -- Anomalous Starlit Breeches
 		243306, -- Interloper's Reinforced Sandals
 		237567, -- Logic Gate: Alpha
 		221141, -- High Nerubian Signet
@@ -50,6 +51,7 @@ BREWMASTER_MONK_MYTHIC_PLUS_BIS = {
 		221157, -- Unbreakable Beetlebane Bindings
 		237674, -- Grasp of Fallen Storms
 		221134, -- Shadow Congregant's Belt
+		185801, -- Anomalous Starlit Breeches
 		246274, -- Geezle's Zapstep Boots
 		221141, -- High Nerubian Signet
 		221200, -- Radiant Necromancer's Band
@@ -67,10 +69,12 @@ MISTWEAVER_MONK_OVERALL_BIS = {
 		237735, -- Voidglass Sovereign's Blade
 		222566, -- Vagabond's Torch
 		237673, -- Half-Mask of Fallen Storms
+		185842, -- Ornately Engraved Amplifier
 		237671, -- Glyphs of Fallen Storms
 		237541, -- Darksorrow's Corrupted Carapace
 		219334, -- Rune-Branded Armbands
 		237674, -- Grasp of Fallen Storms
+		185809, -- Venza's Powderbelt
 		237672, -- Legwraps of Fallen Storms
 		243306, -- Interloper's Reinforced Sandals
 		242405, -- Band of the Shattered Soul
@@ -85,14 +89,20 @@ MISTWEAVER_MONK_OVERALL_BIS = {
 
 MISTWEAVER_MONK_RAID_BIS = {
 	itemIDs = {
+		178829, -- Nathrian Ferula
 		237673, -- Half-Mask of Fallen Storms
+		185820, -- Cabochon of the Infinite Flight
 		237671, -- Glyphs of Fallen Storms
 		221130, -- Seraphic Wraps of the Ordained
 		221142, -- Scheming Assailer's Bands
 		237674, -- Grasp of Fallen Storms
+		185809, -- Venza's Powderbelt
 		237672, -- Legwraps of Fallen Storms
 		246274, -- Geezle's Zapstep Boots
+		185813, -- Signet of Collapsing Stars
+		246281, -- Ring of the Panoply
 		219314, -- Ara-Kara Sacbrood
+		219308, -- Signet of the Priory
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Mistweaver Monk",
@@ -104,6 +114,7 @@ MISTWEAVER_MONK_MYTHIC_PLUS_BIS = {
 		237735, -- Voidglass Sovereign's Blade
 		237724, -- Iris of the Dark Beyond
 		237673, -- Half-Mask of Fallen Storms
+		185842, -- Ornately Engraved Amplifier
 		237671, -- Glyphs of Fallen Storms
 		237541, -- Darksorrow's Corrupted Carapace
 		237546, -- Bindings of Lost Essence
@@ -124,6 +135,7 @@ MISTWEAVER_MONK_MYTHIC_PLUS_BIS = {
 WINDWALKER_MONK_OVERALL_BIS = {
 	itemIDs = {
 		237673, -- Half-Mask of Fallen Storms
+		178827, -- Sin Stained Pendant
 		237671, -- Glyphs of Fallen Storms
 		237676, -- Gi of Fallen Storms
 		219334, -- Rune-Branded Armbands
@@ -131,6 +143,8 @@ WINDWALKER_MONK_OVERALL_BIS = {
 		219331, -- Rune-Branded Waistband
 		237672, -- Legwraps of Fallen Storms
 		243306, -- Interloper's Reinforced Sandals
+		178824, -- Signet of the False Accuser
+		242491, -- Whispers of K'aresh
 		221159, -- Harvester's Interdiction
 		242402, -- Araz's Ritual Forge
 		242395, -- Astral Antenna
@@ -165,12 +179,18 @@ WINDWALKER_MONK_RAID_BIS = {
 WINDWALKER_MONK_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		237673, -- Half-Mask of Fallen Storms
+		178827, -- Sin Stained Pendant
 		237671, -- Glyphs of Fallen Storms
 		237676, -- Gi of Fallen Storms
 		219334, -- Rune-Branded Armbands
 		237674, -- Grasp of Fallen Storms
 		219331, -- Rune-Branded Waistband
+		242473, -- Spittle-Stained Trousers
+		221120, -- Stalwart Guardian's Boots
+		178824, -- Signet of the False Accuser
+		242491, -- Whispers of K'aresh
 		221159, -- Harvester's Interdiction
+		242494, -- Lily of the Eternal Weave
 		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",

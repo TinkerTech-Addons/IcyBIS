@@ -47,12 +47,19 @@ HOLY_PALADIN_RAID_BIS = {
 HOLY_PALADIN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		221150, -- Arachnoid Soulcleaver
+		185811, -- Package Protector
 		237619, -- Lightmane of the Lucent Battalion
+		178827, -- Sin Stained Pendant
 		237617, -- Chargers of the Lucent Battalion
 		237622, -- Cuirass of the Lucent Battalion
+		185815, -- Vambraces of Verification
 		234504, -- Jumpstarter's Scaffold-Scrapers
 		221133, -- Girdle of Somber Ploys
 		237618, -- Cuisses of the Lucent Battalion
+		185787, -- Implacable Weatherproof Treads
+		242491, -- Whispers of K'aresh
+		178824, -- Signet of the False Accuser
+		185818, -- So'leah's Secret Technique
 		219312, -- Empowering Crystal of Anub'ikkaj
 	},
 	messageLeft = "M+ BIS:",
@@ -62,6 +69,7 @@ HOLY_PALADIN_MYTHIC_PLUS_BIS = {
 
 PROTECTION_PALADIN_OVERALL_BIS = {
 	itemIDs = {
+		242470, -- Mandibular Bonewhacker
 		221117, -- Sanctified Priory Wall
 		237619, -- Lightmane of the Lucent Battalion
 		237568, -- Chrysalis of Sundered Souls
@@ -73,6 +81,7 @@ PROTECTION_PALADIN_OVERALL_BIS = {
 		237530, -- Shrapnel-Fused Legguards
 		243307, -- Interloper's Plated Sabatons
 		242405, -- Band of the Shattered Soul
+		185813, -- Signet of Collapsing Stars
 		242401, -- Brand of Ceaseless Ire
 		219309, -- Tome of Light's Devotion
 	},
@@ -106,14 +115,20 @@ PROTECTION_PALADIN_RAID_BIS = {
 
 PROTECTION_PALADIN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
+		242470, -- Mandibular Bonewhacker
 		221117, -- Sanctified Priory Wall
 		237619, -- Lightmane of the Lucent Battalion
+		185820, -- Cabochon of the Infinite Flight
 		237617, -- Chargers of the Lucent Battalion
 		237622, -- Cuirass of the Lucent Battalion
 		222435, -- Everforged Vambraces
 		237620, -- Protectors of the Lucent Battalion
 		222431, -- Everforged Greatbelt
+		178818, -- Halkias's Towering Pillars
 		221123, -- Devoted Plate Walkers
+		246281, -- Ring of the Panoply
+		185813, -- Signet of Collapsing Stars
+		185844, -- Ticking Sack of Terror
 		219309, -- Tome of Light's Devotion
 	},
 	messageLeft = "M+ BIS:",
@@ -167,12 +182,18 @@ RETRIBUTION_PALADIN_RAID_BIS = {
 
 RETRIBUTION_PALADIN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
+		242487, -- Fatebound Crusader
 		237619, -- Lightmane of the Lucent Battalion
+		185842, -- Ornately Engraved Amplifier
 		237617, -- Chargers of the Lucent Battalion
 		237622, -- Cuirass of the Lucent Battalion
+		185815, -- Vambraces of Verification
 		237620, -- Protectors of the Lucent Battalion
+		185806, -- Improvisational Cinch
 		237618, -- Cuisses of the Lucent Battalion
+		185787, -- Implacable Weatherproof Treads
 		221136, -- Devout Zealot's Ring
+		178824, -- Signet of the False Accuser
 		232541, -- Improvised Seaforium Pacemaker
 		219314, -- Ara-Kara Sacbrood
 	},

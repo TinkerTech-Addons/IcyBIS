@@ -3,6 +3,7 @@ ASSASSINATION_ROGUE_OVERALL_BIS = {
 		237740, -- Vengeful Netherspike
 		222438, -- Everforged Stabber
 		237664, -- Hood of the Sudden Eclipse
+		185842, -- Ornately Engraved Amplifier
 		237662, -- Smokemantle of the Sudden Eclipse
 		237667, -- Tactical Vest of the Sudden Eclipse
 		219334, -- Rune-Branded Armbands
@@ -11,6 +12,7 @@ ASSASSINATION_ROGUE_OVERALL_BIS = {
 		237663, -- Pants of the Sudden Eclipse
 		243306, -- Interloper's Reinforced Sandals
 		237567, -- Logic Gate: Alpha
+		185840, -- Seal of the Panoply
 		242402, -- Araz's Ritual Forge
 		242395, -- Astral Antenna
 	},
@@ -47,12 +49,17 @@ ASSASSINATION_ROGUE_MYTHIC_PLUS_BIS = {
 		221138, -- Parson's Ornamented Blade
 		221138, -- Parson's Ornamented Blade
 		237664, -- Hood of the Sudden Eclipse
+		185842, -- Ornately Engraved Amplifier
 		237662, -- Smokemantle of the Sudden Eclipse
 		237667, -- Tactical Vest of the Sudden Eclipse
 		221157, -- Unbreakable Beetlebane Bindings
 		237665, -- Deathgrips of the Sudden Eclipse
 		221134, -- Shadow Congregant's Belt
 		237663, -- Pants of the Sudden Eclipse
+		246280, -- Boots of Titanic Deconversion
+		178824, -- Signet of the False Accuser
+		185840, -- Seal of the Panoply
+		242494, -- Lily of the Eternal Weave
 		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
@@ -70,6 +77,7 @@ OUTLAW_ROGUE_OVERALL_BIS = {
 		237667, -- Tactical Vest of the Sudden Eclipse
 		219334, -- Rune-Branded Armbands
 		237665, -- Deathgrips of the Sudden Eclipse
+		185809, -- Venza's Powderbelt
 		237663, -- Pants of the Sudden Eclipse
 		243306, -- Interloper's Reinforced Sandals
 		215135, -- Ring of Earthen Craftsmanship
@@ -115,8 +123,10 @@ OUTLAW_ROGUE_MYTHIC_PLUS_BIS = {
 		237667, -- Tactical Vest of the Sudden Eclipse
 		221142, -- Scheming Assailer's Bands
 		237665, -- Deathgrips of the Sudden Eclipse
+		185809, -- Venza's Powderbelt
 		237663, -- Pants of the Sudden Eclipse
 		246274, -- Geezle's Zapstep Boots
+		185813, -- Signet of Collapsing Stars
 		221136, -- Devout Zealot's Ring
 		219314, -- Ara-Kara Sacbrood
 		232541, -- Improvised Seaforium Pacemaker
@@ -178,12 +188,17 @@ SUBTLETY_ROGUE_MYTHIC_PLUS_BIS = {
 		221138, -- Parson's Ornamented Blade
 		221163, -- Whispering Mask
 		251880, -- Momma's Mega Medallion
+		185802, -- Breakbeat Shoulderguards
+		242482, -- Reinforced Stalkerhide Vest
 		221157, -- Unbreakable Beetlebane Bindings
+		185791, -- Knuckle-Dusting Handwraps
+		178823, -- Waistcord of Dark Devotion
 		221153, -- Gauzewoven Legguards
 		246274, -- Geezle's Zapstep Boots
 		221200, -- Radiant Necromancer's Band
 		221141, -- High Nerubian Signet
 		232541, -- Improvised Seaforium Pacemaker
+		242494, -- Lily of the Eternal Weave
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Subtlety Rogue",
