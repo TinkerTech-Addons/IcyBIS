@@ -155,7 +155,7 @@ ENHANCEMENT_SHAMAN_MYTHIC_PLUS_BIS = {
 		242491, -- Whispers of K'aresh
 		232541, -- Improvised Seaforium Pacemaker
 		219308, -- Signet of the Priory
-		219314, -- Ara-Kara Sacbrood
+		185818, -- So'leah's Secret Technique
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Enhancement Shaman",

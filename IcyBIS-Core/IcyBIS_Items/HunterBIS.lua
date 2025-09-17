@@ -15,9 +15,10 @@ BEAST_MASTERY_HUNTER_OVERALL_BIS = {
 		242405, -- Band of the Shattered Soul
 		242491, -- Whispers of K'aresh
 		246281, -- Ring of the Panoply
-		242395, -- Astral Antenna
-		219314, -- Ara-Kara Sacbrood
 		242396, -- Unyielding Netherprism
+		242395, -- Astral Antenna
+		242402, -- Araz's Ritual Forge
+		219314, -- Ara-Kara Sacbrood
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Beast Mastery Hunter",
@@ -44,6 +45,7 @@ BEAST_MASTERY_HUNTER_RAID_BIS = {
 		237567, -- Logic Gate: Alpha
 		242396, -- Unyielding Netherprism
 		242397, -- Sigil of the Cosmic Hunt
+		242402, -- Araz's Ritual Forge
 		242395, -- Astral Antenna
 	},
 	messageLeft = "Raid BIS:",
@@ -70,7 +72,7 @@ BEAST_MASTERY_HUNTER_MYTHIC_PLUS_BIS = {
 		242483, -- Greaves of the Wild Pair
 		246281, -- Ring of the Panoply
 		242491, -- Whispers of K'aresh
-		246281, -- Ring of the Panoply
+		221136, -- Devout Zealot's Ring
 		232541, -- Improvised Seaforium Pacemaker
 		219308, -- Signet of the Priory
 		219314, -- Ara-Kara Sacbrood

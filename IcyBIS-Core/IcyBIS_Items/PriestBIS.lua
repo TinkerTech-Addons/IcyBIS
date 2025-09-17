@@ -120,7 +120,7 @@ HOLY_PRIEST_MYTHIC_PLUS_BIS = {
 		237708, -- Dying Star's Leggings
 		221149, -- Membranous Slippers
 		221141, -- High Nerubian Signet
-		219312, -- Empowering Crystal of Anub'ikkaj
+		219308, -- Signet of the Priory
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Holy Priest",
@@ -162,7 +162,7 @@ SHADOW_PRIEST_RAID_BIS = {
 		237708, -- Dying Star's Leggings
 		178831, -- Slippers of Leavened Station
 		242491, -- Whispers of K'aresh
-		219314, -- Ara-Kara Sacbrood
+		219308, -- Signet of the Priory
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Shadow Priest",
