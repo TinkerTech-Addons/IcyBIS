@@ -120,7 +120,7 @@ HOLY_PRIEST_MYTHIC_PLUS_BIS = {
 		237708, -- Dying Star's Leggings
 		221149, -- Membranous Slippers
 		221141, -- High Nerubian Signet
-		219308, -- Signet of the Priory
+		185818, -- So'leah's Secret Technique
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Holy Priest",

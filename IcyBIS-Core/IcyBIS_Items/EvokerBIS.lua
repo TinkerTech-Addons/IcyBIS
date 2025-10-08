@@ -112,7 +112,7 @@ DEVASTATION_EVOKER_OVERALL_BIS = {
 		237658, -- Spellweaver's Immaculate Crestward
 		219342, -- Glyph-Etched Vambraces
 		246282, -- Order Bashers
-		245965, -- Durable Information Securing Container
+		237522, -- Colossal Lifetether
 		237654, -- Spellweaver's Immaculate Runeslacks
 		243308, -- Interloper's Chain Boots
 		237567, -- Logic Gate: Alpha
@@ -135,7 +135,7 @@ DEVASTATION_EVOKER_RAID_BIS = {
 		237658, -- Spellweaver's Immaculate Crestward
 		219342, -- Glyph-Etched Vambraces
 		237656, -- Spellweaver's Immaculate Scaleguards
-		245965, -- Durable Information Securing Container
+		237522, -- Colossal Lifetether
 		237654, -- Spellweaver's Immaculate Runeslacks
 		243308, -- Interloper's Chain Boots
 		237567, -- Logic Gate: Alpha

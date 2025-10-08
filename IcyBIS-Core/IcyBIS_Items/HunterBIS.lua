@@ -9,7 +9,7 @@ BEAST_MASTERY_HUNTER_OVERALL_BIS = {
 		237649, -- Midnight Herald's Hauberk
 		219342, -- Glyph-Etched Vambraces
 		219341, -- Glyph-Etched Gauntlets
-		245965, -- Durable Information Securing Container
+		234501, -- Portable Power Generator
 		237645, -- Midnight Herald's Petticoat
 		243308, -- Interloper's Chain Boots
 		242405, -- Band of the Shattered Soul
@@ -92,7 +92,7 @@ MARKSMANSHIP_HUNTER_OVERALL_BIS = {
 		237649, -- Midnight Herald's Hauberk
 		219342, -- Glyph-Etched Vambraces
 		219341, -- Glyph-Etched Gauntlets
-		245965, -- Durable Information Securing Container
+		237522, -- Colossal Lifetether
 		237645, -- Midnight Herald's Petticoat
 		243308, -- Interloper's Chain Boots
 		237567, -- Logic Gate: Alpha
@@ -161,7 +161,7 @@ SURVIVAL_HUNTER_OVERALL_BIS = {
 		237649, -- Midnight Herald's Hauberk
 		219342, -- Glyph-Etched Vambraces
 		219341, -- Glyph-Etched Gauntlets
-		245965, -- Durable Information Securing Container
+		237554, -- Clasp of Furious Freedom
 		237645, -- Midnight Herald's Petticoat
 		243308, -- Interloper's Chain Boots
 		237570, -- Logic Gate: Omega

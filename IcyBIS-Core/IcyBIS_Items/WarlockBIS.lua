@@ -6,7 +6,7 @@ AFFLICTION_WARLOCK_OVERALL_BIS = {
 		237703, -- Inquisitor's Robes of Madness
 		222815, -- Consecrated Cuffs
 		237701, -- Inquisitor's Clutches of Madness
-		242664, -- Durable Information Securing Container
+		178822, -- Cord of the Dark Word
 		237699, -- Inquisitor's Leggings of Madness
 		243305, -- Interloper's Silken Striders
 		237567, -- Logic Gate: Alpha
@@ -29,7 +29,7 @@ AFFLICTION_WARLOCK_RAID_BIS = {
 		237703, -- Inquisitor's Robes of Madness
 		222815, -- Consecrated Cuffs
 		237701, -- Inquisitor's Clutches of Madness
-		242664, -- Durable Information Securing Container
+		237559, -- Singularity Cincture
 		237699, -- Inquisitor's Leggings of Madness
 		243305, -- Interloper's Silken Striders
 		237567, -- Logic Gate: Alpha
@@ -52,7 +52,7 @@ AFFLICTION_WARLOCK_MYTHIC_PLUS_BIS = {
 		237703, -- Inquisitor's Robes of Madness
 		222815, -- Consecrated Cuffs
 		237701, -- Inquisitor's Clutches of Madness
-		242664, -- Durable Information Securing Container
+		178822, -- Cord of the Dark Word
 		237699, -- Inquisitor's Leggings of Madness
 		221149, -- Membranous Slippers
 		221136, -- Devout Zealot's Ring
@@ -75,7 +75,7 @@ DEMONOLOGY_WARLOCK_OVERALL_BIS = {
 		237703, -- Inquisitor's Robes of Madness
 		222815, -- Consecrated Cuffs
 		237701, -- Inquisitor's Clutches of Madness
-		242664, -- Durable Information Securing Container
+		178822, -- Cord of the Dark Word
 		237699, -- Inquisitor's Leggings of Madness
 		243305, -- Interloper's Silken Striders
 		237567, -- Logic Gate: Alpha
@@ -98,7 +98,7 @@ DEMONOLOGY_WARLOCK_RAID_BIS = {
 		237703, -- Inquisitor's Robes of Madness
 		222815, -- Consecrated Cuffs
 		237701, -- Inquisitor's Clutches of Madness
-		242664, -- Durable Information Securing Container
+		237559, -- Singularity Cincture
 		237699, -- Inquisitor's Leggings of Madness
 		243305, -- Interloper's Silken Striders
 		237567, -- Logic Gate: Alpha
@@ -121,7 +121,7 @@ DEMONOLOGY_WARLOCK_MYTHIC_PLUS_BIS = {
 		237703, -- Inquisitor's Robes of Madness
 		222815, -- Consecrated Cuffs
 		237701, -- Inquisitor's Clutches of Madness
-		242664, -- Durable Information Securing Container
+		178822, -- Cord of the Dark Word
 		237699, -- Inquisitor's Leggings of Madness
 		221149, -- Membranous Slippers
 		221136, -- Devout Zealot's Ring

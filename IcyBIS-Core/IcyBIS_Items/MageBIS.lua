@@ -14,8 +14,8 @@ ARCANE_MAGE_OVERALL_BIS = {
 		243305, -- Interloper's Silken Striders
 		221200, -- Radiant Necromancer's Band
 		185813, -- Signet of Collapsing Stars
-		242402, -- Araz's Ritual Forge
-		242497, -- Azhiccaran Parapodia
+		242395, -- Astral Antenna
+		242392, -- Diamantine Voidcore
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Arcane Mage",
@@ -37,7 +37,7 @@ ARCANE_MAGE_RAID_BIS = {
 		243305, -- Interloper's Silken Striders
 		237570, -- Logic Gate: Omega
 		242405, -- Band of the Shattered Soul
-		242402, -- Araz's Ritual Forge
+		242395, -- Astral Antenna
 		242392, -- Diamantine Voidcore
 	},
 	messageLeft = "Raid BIS:",

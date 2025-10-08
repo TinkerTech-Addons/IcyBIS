@@ -70,6 +70,7 @@ BALANCE_DRUID_MYTHIC_PLUS_BIS = {
 FERAL_DRUID_OVERALL_BIS = {
 	itemIDs = {
 		221159, -- Harvester's Interdiction
+		237739, -- Obliteration Beamglaive
 		222448, -- Charged Halberd
 		237682, -- Skymane of the Mother Eagle
 		242406, -- Salhadaar's Folly
@@ -93,8 +94,8 @@ FERAL_DRUID_OVERALL_BIS = {
 
 FERAL_DRUID_RAID_BIS = {
 	itemIDs = {
+		237739, -- Obliteration Beamglaive
 		243365, -- Maw of the Void
-		237726, -- Marvel of Technomancy
 		237682, -- Skymane of the Mother Eagle
 		242406, -- Salhadaar's Folly
 		237680, -- Ritual Pauldrons of the Mother Eagle
@@ -149,7 +150,7 @@ GUARDIAN_DRUID_OVERALL_BIS = {
 		237685, -- Vest of the Mother Eagle
 		219334, -- Rune-Branded Armbands
 		237540, -- Winged Gamma Handlers
-		245964, -- Durable Information Securing Container
+		238027, -- Harvested Creephide Cord
 		237681, -- Breeches of the Mother Eagle
 		243306, -- Interloper's Reinforced Sandals
 		242405, -- Band of the Shattered Soul
@@ -171,7 +172,7 @@ GUARDIAN_DRUID_RAID_BIS = {
 		237685, -- Vest of the Mother Eagle
 		219334, -- Rune-Branded Armbands
 		237540, -- Winged Gamma Handlers
-		245964, -- Durable Information Securing Container
+		238027, -- Harvested Creephide Cord
 		237681, -- Breeches of the Mother Eagle
 		243306, -- Interloper's Reinforced Sandals
 		242405, -- Band of the Shattered Soul
@@ -220,7 +221,7 @@ RESTORATION_DRUID_OVERALL_BIS = {
 		178819, -- Skyterror's Stonehide Leggings
 		243306, -- Interloper's Reinforced Sandals
 		242491, -- Whispers of K'aresh
-		178824, -- Signet of the False Accuser
+		242405, -- Band of the Shattered Soul
 		242392, -- Diamantine Voidcore
 		242400, -- Nexus-King's Command
 	},

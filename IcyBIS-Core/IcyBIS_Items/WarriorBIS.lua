@@ -12,7 +12,7 @@ ARMS_WARRIOR_OVERALL_BIS = {
 		243307, -- Interloper's Plated Sabatons
 		242405, -- Band of the Shattered Soul
 		221136, -- Devout Zealot's Ring
-		219314, -- Ara-Kara Sacbrood
+		242399, -- Screams of a Forgotten Sky
 		242395, -- Astral Antenna
 	},
 	messageLeft = "Overall BIS:",
@@ -33,7 +33,7 @@ ARMS_WARRIOR_RAID_BIS = {
 		237609, -- Living Weapon's Legguards
 		243307, -- Interloper's Plated Sabatons
 		242405, -- Band of the Shattered Soul
-		242395, -- Astral Antenna
+		242399, -- Screams of a Forgotten Sky
 		242394, -- Eradicating Arcanocore
 	},
 	messageLeft = "Raid BIS:",
@@ -55,8 +55,8 @@ ARMS_WARRIOR_MYTHIC_PLUS_BIS = {
 		221123, -- Devoted Plate Walkers
 		246281, -- Ring of the Panoply
 		221136, -- Devout Zealot's Ring
-		219314, -- Ara-Kara Sacbrood
-		185844, -- Ticking Sack of Terror
+		246344, -- Cursed Stone Idol
+		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Arms Warrior",
@@ -78,7 +78,7 @@ FURY_WARRIOR_OVERALL_BIS = {
 		243307, -- Interloper's Plated Sabatons
 		221200, -- Radiant Necromancer's Band
 		178824, -- Signet of the False Accuser
-		219314, -- Ara-Kara Sacbrood
+		242399, -- Screams of a Forgotten Sky
 		242394, -- Eradicating Arcanocore
 	},
 	messageLeft = "Overall BIS:",
@@ -100,7 +100,7 @@ FURY_WARRIOR_RAID_BIS = {
 		237609, -- Living Weapon's Legguards
 		243307, -- Interloper's Plated Sabatons
 		237570, -- Logic Gate: Omega
-		242395, -- Astral Antenna
+		242399, -- Screams of a Forgotten Sky
 		242394, -- Eradicating Arcanocore
 	},
 	messageLeft = "Raid BIS:",
@@ -122,8 +122,8 @@ FURY_WARRIOR_MYTHIC_PLUS_BIS = {
 		185787, -- Implacable Weatherproof Treads
 		221200, -- Radiant Necromancer's Band
 		178824, -- Signet of the False Accuser
-		219314, -- Ara-Kara Sacbrood
-		185844, -- Ticking Sack of Terror
+		246344, -- Cursed Stone Idol
+		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Fury Warrior",

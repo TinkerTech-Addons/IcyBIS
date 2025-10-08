@@ -75,7 +75,7 @@ OUTLAW_ROGUE_OVERALL_BIS = {
 		252009, -- Bloodstained Memento
 		237662, -- Smokemantle of the Sudden Eclipse
 		237667, -- Tactical Vest of the Sudden Eclipse
-		219334, -- Rune-Branded Armbands
+		237546, -- Bindings of Lost Essence
 		237665, -- Deathgrips of the Sudden Eclipse
 		185809, -- Venza's Powderbelt
 		237663, -- Pants of the Sudden Eclipse

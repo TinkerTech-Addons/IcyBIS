@@ -14,6 +14,7 @@ BLOOD_DEATH_KNIGHT_OVERALL_BIS = {
 		221141, -- High Nerubian Signet
 		219309, -- Tome of Light's Devotion
 		242395, -- Astral Antenna
+		242401, -- Brand of Ceaseless Ire
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Blood Death Knight",
