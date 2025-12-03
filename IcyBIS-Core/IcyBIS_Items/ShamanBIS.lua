@@ -131,7 +131,7 @@ ENHANCEMENT_SHAMAN_RAID_BIS = {
 		242405, -- Band of the Shattered Soul
 		242402, -- Araz's Ritual Forge
 		242395, -- Astral Antenna
-		242397, -- Sigil of the Cosmic Hunt
+		242396, -- Unyielding Netherprism
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Enhancement Shaman",

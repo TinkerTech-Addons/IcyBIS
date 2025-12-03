@@ -152,7 +152,7 @@ SUBTLETY_ROGUE_OVERALL_BIS = {
 		237567, -- Logic Gate: Alpha
 		221141, -- High Nerubian Signet
 		242396, -- Unyielding Netherprism
-		232541, -- Improvised Seaforium Pacemaker
+		242402, -- Araz's Ritual Forge
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Subtlety Rogue",
@@ -175,7 +175,7 @@ SUBTLETY_ROGUE_RAID_BIS = {
 		237567, -- Logic Gate: Alpha
 		237570, -- Logic Gate: Omega
 		242396, -- Unyielding Netherprism
-		242397, -- Sigil of the Cosmic Hunt
+		242402, -- Araz's Ritual Forge
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Subtlety Rogue",

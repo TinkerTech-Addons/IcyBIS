@@ -134,7 +134,6 @@ FERAL_DRUID_MYTHIC_PLUS_BIS = {
 		232541, -- Improvised Seaforium Pacemaker
 		219308, -- Signet of the Priory
 		185818, -- So'leah's Secret Technique
-		185818, -- So'leah's Secret Technique
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Feral Druid",

@@ -2,6 +2,14 @@
 
 Provides release dates and versions when class BIS tables change and/or core features in the addon were added, removed or modified.
 
+## 3.0.9 - 2025-12-02
+
+### Class BIS Table Updates
+
+- **Druid BIS Tables** updated
+- **Rogue BIS Tables** updated
+- **Shaman BIS Tables** updated
+
 ## 3.0.8 - 2025-10-07
 
 ### Class BIS Table Updates
