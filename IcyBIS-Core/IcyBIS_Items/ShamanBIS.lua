@@ -78,7 +78,7 @@ ENHANCEMENT_SHAMAN_OVERALL_BIS = {
 		222446, -- Charged Facesmasher
 		237738, -- Unbound Training Claws
 		237637, -- Aspect of Channeled Fury
-		185820, -- Cabochon of the Infinite Flight
+		242406, -- Salhadaar's Folly
 		237635, -- Fangs of Channeled Fury
 		237529, -- Harvested Attendant's Uniform
 		219342, -- Glyph-Etched Vambraces
@@ -89,25 +89,8 @@ ENHANCEMENT_SHAMAN_OVERALL_BIS = {
 		237570, -- Logic Gate: Omega
 		242491, -- Whispers of K'aresh
 		242402, -- Araz's Ritual Forge
-		242395, -- Astral Antenna
 		232541, -- Improvised Seaforium Pacemaker
-		185823, -- Fatebreaker, Destroyer of Futures
-		222446, -- Charged Facesmasher
-		237738, -- Unbound Training Claws
-		237637, -- Aspect of Channeled Fury
-		242406, -- Salhadaar's Folly
-		237635, -- Fangs of Channeled Fury
-		178815, -- Soaring Decimator's Hauberk
-		219342, -- Glyph-Etched Vambraces
-		237638, -- Claws of Channeled Fury
-		234501, -- Portable Power Generator
-		237636, -- Tassets of Channeled Fury
-		243308, -- Interloper's Chain Boots
-		221141, -- High Nerubian Signet
-		242491, -- Whispers of K'aresh
 		242395, -- Astral Antenna
-		242402, -- Araz's Ritual Forge
-		232541, -- Improvised Seaforium Pacemaker
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Enhancement Shaman",
@@ -119,7 +102,7 @@ ENHANCEMENT_SHAMAN_RAID_BIS = {
 		237738, -- Unbound Training Claws
 		237731, -- Ergospheric Cudgel
 		237637, -- Aspect of Channeled Fury
-		237569, -- Duskblaze's Desperation
+		242406, -- Salhadaar's Folly
 		237635, -- Fangs of Channeled Fury
 		237529, -- Harvested Attendant's Uniform
 		237523, -- Arcanotech Wrist-Matrix

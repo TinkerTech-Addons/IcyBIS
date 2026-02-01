@@ -113,7 +113,7 @@ FROST_DEATH_KNIGHT_RAID_BIS = {
 FROST_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		178812, -- Wing Commander's Helmet
-		178827, -- Sin Stained Pendant
+		185842, -- Ornately Engraved Amplifier
 		185803, -- Stoneflesh Spaulders
 		234506, -- Muckdiver's Wading Plate
 		221118, -- Flameforged Armguard
@@ -143,11 +143,11 @@ UNHOLY_DEATH_KNIGHT_OVERALL_BIS = {
 		222431, -- Everforged Greatbelt
 		237627, -- Hollow Sentinel's Stonekilt
 		243307, -- Interloper's Plated Sabatons
-		246281, -- Ring of the Panoply
-		242491, -- Whispers of K'aresh
+		237567, -- Logic Gate: Alpha
+		237570, -- Logic Gate: Omega
 		246344, -- Cursed Stone Idol
 		242395, -- Astral Antenna
-		242487, -- Fatebound Crusader
+		237737, -- Photon Sabre Prime
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Unholy Death Knight",
@@ -166,7 +166,7 @@ UNHOLY_DEATH_KNIGHT_RAID_BIS = {
 		237627, -- Hollow Sentinel's Stonekilt
 		243307, -- Interloper's Plated Sabatons
 		237570, -- Logic Gate: Omega
-		242405, -- Band of the Shattered Soul
+		237567, -- Logic Gate: Alpha
 		242402, -- Araz's Ritual Forge
 		242395, -- Astral Antenna
 		237725, -- Supermassive Starcrusher
@@ -179,16 +179,16 @@ UNHOLY_DEATH_KNIGHT_RAID_BIS = {
 UNHOLY_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		178812, -- Wing Commander's Helmet
-		178827, -- Sin Stained Pendant
+		185842, -- Ornately Engraved Amplifier
 		185803, -- Stoneflesh Spaulders
-		178814, -- Breastplate of Otherworldly Influence
-		185815, -- Vambraces of Verification
-		221151, -- Devourer's Gauntlets
-		221133, -- Girdle of Somber Ploys
+		234506, -- Muckdiver's Wading Plate
+		221118, -- Flameforged Armguard
+		234504, -- Jumpstarter's Scaffold-Scrapers
+		242479, -- Girdle of Absolute Faith
 		185798, -- Quantum Leapers
 		185787, -- Implacable Weatherproof Treads
-		246281, -- Ring of the Panoply
-		242491, -- Whispers of K'aresh
+		221200, -- Radiant Necromancer's Band
+		221136, -- Devout Zealot's Ring
 		232541, -- Improvised Seaforium Pacemaker
 		246344, -- Cursed Stone Idol
 		242487, -- Fatebound Crusader

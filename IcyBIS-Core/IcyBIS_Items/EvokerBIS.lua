@@ -1,17 +1,5 @@
 AUGMENTATION_EVOKER_OVERALL_BIS = {
 	itemIDs = {
-		237728, -- Voidglass Kris
-		237655, -- Spellweaver's Immaculate Focus
-		242406, -- Salhadaar's Folly
-		237653, -- Spellweaver's Immaculate Pauldrons
-		237529, -- Harvested Attendant's Uniform
-		219342, -- Glyph-Etched Vambraces
-		237656, -- Spellweaver's Immaculate Scaleguards
-		237554, -- Clasp of Furious Freedom
-		237654, -- Spellweaver's Immaculate Runeslacks
-		243308, -- Interloper's Chain Boots
-		237570, -- Logic Gate: Omega
-		178824, -- Signet of the False Accuser
 		237735, -- Voidglass Sovereign's Blade
 		237655, -- Spellweaver's Immaculate Focus
 		237569, -- Duskblaze's Desperation
@@ -32,20 +20,6 @@ AUGMENTATION_EVOKER_OVERALL_BIS = {
 
 AUGMENTATION_EVOKER_RAID_BIS = {
 	itemIDs = {
-		237728, -- Voidglass Kris
-		237655, -- Spellweaver's Immaculate Focus
-		242406, -- Salhadaar's Folly
-		237653, -- Spellweaver's Immaculate Pauldrons
-		237529, -- Harvested Attendant's Uniform
-		219342, -- Glyph-Etched Vambraces
-		237656, -- Spellweaver's Immaculate Scaleguards
-		237554, -- Clasp of Furious Freedom
-		237654, -- Spellweaver's Immaculate Runeslacks
-		243308, -- Interloper's Chain Boots
-		237570, -- Logic Gate: Omega
-		237567, -- Logic Gate: Alpha
-		242395, -- Astral Antenna
-		242399, -- Screams of a Forgotten Sky
 		237735, -- Voidglass Sovereign's Blade
 		237655, -- Spellweaver's Immaculate Focus
 		237569, -- Duskblaze's Desperation
@@ -68,20 +42,6 @@ AUGMENTATION_EVOKER_RAID_BIS = {
 
 AUGMENTATION_EVOKER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221122, -- Hand of Beledar
-		237655, -- Spellweaver's Immaculate Focus
-		178827, -- Sin Stained Pendant
-		237653, -- Spellweaver's Immaculate Pauldrons
-		234502, -- Bront's Singed Blastcoat
-		219342, -- Glyph-Etched Vambraces
-		237656, -- Spellweaver's Immaculate Scaleguards
-		219339, -- Glyph-Etched Binding
-		237654, -- Spellweaver's Immaculate Runeslacks
-		178830, -- Shardskin Sabatons
-		178824, -- Signet of the False Accuser
-		242491, -- Whispers of K'aresh
-		242494, -- Lily of the Eternal Weave
-		219314, -- Ara-Kara Sacbrood
 		221165, -- Unceremonious Bloodletter
 		237655, -- Spellweaver's Immaculate Focus
 		185842, -- Ornately Engraved Amplifier
