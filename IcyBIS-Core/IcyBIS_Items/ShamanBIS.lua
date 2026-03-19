@@ -1,23 +1,21 @@
 ELEMENTAL_SHAMAN_OVERALL_BIS = {
 	itemIDs = {
-		237728, -- Voidglass Kris
-		222566, -- Vagabond's Torch
-		178816, -- Nathrian Usurper's Mask
-		251880, -- Momma's Mega Medallion
-		237635, -- Fangs of Channeled Fury
-		238046, -- Pure Energizing Fiber
-		237640, -- Furs of Channeled Fury
-		219342, -- Glyph-Etched Vambraces
-		237638, -- Claws of Channeled Fury
-		237554, -- Clasp of Furious Freedom
-		237636, -- Tassets of Channeled Fury
-		243308, -- Interloper's Chain Boots
-		242405, -- Band of the Shattered Soul
-		221141, -- High Nerubian Signet
-		221200, -- Radiant Necromancer's Band
-		242402, -- Araz's Ritual Forge
-		242392, -- Diamantine Voidcore
-		242497, -- Azhiccaran Parapodia
+		251083, -- Excavating Cudgel
+		251105, -- Ward of the Spellbreaker
+		249979, -- Locus of the Primal Core
+		250247, -- Amulet of the Abyssal Hymn
+		249977, -- Tempests of the Primal Core
+		249974, -- Guardian of the Primal Core
+		249982, -- Embrace of the Primal Core
+		249304, -- Fallen King's Cuffs
+		249980, -- Earthgrips of the Primal Core
+		244611, -- World Tender's Barkclasp
+		251215, -- Greaves of the Divine Guile
+		244610, -- World Tender's Rootslippers
+		193708, -- Platinum Star Band
+		249919, -- Sin'dorei Band of Hope
+		250144, -- Emberwing Feather
+		249343, -- Gaze of the Alnseer
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Elemental Shaman",
@@ -26,22 +24,24 @@ ELEMENTAL_SHAMAN_OVERALL_BIS = {
 
 ELEMENTAL_SHAMAN_RAID_BIS = {
 	itemIDs = {
-		237728, -- Voidglass Kris
-		237741, -- Event Horizon
-		237536, -- Bite of the Astral Wastes
-		237568, -- Chrysalis of Sundered Souls
-		237635, -- Fangs of Channeled Fury
-		238046, -- Pure Energizing Fiber
-		237640, -- Furs of Channeled Fury
-		237523, -- Arcanotech Wrist-Matrix
-		237638, -- Claws of Channeled Fury
-		237554, -- Clasp of Furious Freedom
-		237636, -- Tassets of Channeled Fury
-		243308, -- Interloper's Chain Boots
-		242405, -- Band of the Shattered Soul
-		237570, -- Logic Gate: Omega
-		242402, -- Araz's Ritual Forge
-		242392, -- Diamantine Voidcore
+		251083, -- Excavating Cudgel
+		251105, -- Ward of the Spellbreaker
+		249979, -- Locus of the Primal Core
+		50228, -- Barbed Ymirheim Choker
+		249977, -- Tempests of the Primal Core
+		258575, -- Rigid Scale Greatcloak
+		249982, -- Embrace of the Primal Core
+		251079, -- Amberfrond Bracers
+		151321, -- Darkfang Scale Wristguards
+		249980, -- Earthgrips of the Primal Core
+		244611, -- World Tender's Barkclasp
+		251215, -- Greaves of the Divine Guile
+		244610, -- World Tender's Rootslippers
+		193708, -- Platinum Star Band
+		251115, -- Bifurcation Band
+		251093, -- Omission of Light
+		250144, -- Emberwing Feather
+		250256, -- Heart of Wind
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Elemental Shaman",
@@ -50,22 +50,23 @@ ELEMENTAL_SHAMAN_RAID_BIS = {
 
 ELEMENTAL_SHAMAN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		242484, -- Soul-Scribe's Tabiqa Dagger
-		221117, -- Sanctified Priory Wall
-		178816, -- Nathrian Usurper's Mask
-		185820, -- Cabochon of the Infinite Flight
-		237635, -- Fangs of Channeled Fury
-		238046, -- Pure Energizing Fiber
-		237640, -- Furs of Channeled Fury
-		221124, -- Consecrated Baron's Bindings
-		237638, -- Claws of Channeled Fury
-		185808, -- Discount Mail-Order Belt
-		237636, -- Tassets of Channeled Fury
-		185789, -- Sabatons of Measured Time
-		178824, -- Signet of the False Accuser
-		221141, -- High Nerubian Signet
-		242494, -- Lily of the Eternal Weave
-		242497, -- Azhiccaran Parapodia
+		249283, -- Belo'melorn, the Shattered Talon
+		249286, -- Brazier of the Dissonant Dirge
+		251105, -- Ward of the Spellbreaker
+		249979, -- Locus of the Primal Core
+		250247, -- Amulet of the Abyssal Hymn
+		249977, -- Tempests of the Primal Core
+		249370, -- Draconic Nullcape
+		249982, -- Embrace of the Primal Core
+		249304, -- Fallen King's Cuffs
+		249980, -- Earthgrips of the Primal Core
+		244611, -- World Tender's Barkclasp
+		249324, -- Eternal Flame Scaleguards
+		244610, -- World Tender's Rootslippers
+		249369, -- Bond of Light
+		249919, -- Sin'dorei Band of Hope
+		249346, -- Vaelgor's Final Stare
+		249343, -- Gaze of the Alnseer
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Elemental Shaman",
@@ -74,23 +75,23 @@ ELEMENTAL_SHAMAN_MYTHIC_PLUS_BIS = {
 
 ENHANCEMENT_SHAMAN_OVERALL_BIS = {
 	itemIDs = {
-		185823, -- Fatebreaker, Destroyer of Futures
-		222446, -- Charged Facesmasher
-		237738, -- Unbound Training Claws
-		237637, -- Aspect of Channeled Fury
-		242406, -- Salhadaar's Folly
-		237635, -- Fangs of Channeled Fury
-		237529, -- Harvested Attendant's Uniform
-		219342, -- Glyph-Etched Vambraces
-		237638, -- Claws of Channeled Fury
-		237554, -- Clasp of Furious Freedom
-		237636, -- Tassets of Channeled Fury
-		243308, -- Interloper's Chain Boots
-		237570, -- Logic Gate: Omega
-		242491, -- Whispers of K'aresh
-		242402, -- Araz's Ritual Forge
-		232541, -- Improvised Seaforium Pacemaker
-		242395, -- Astral Antenna
+		249287, -- Clutchmates' Caress
+		237850, -- Farstrider's Chopper
+		249979, -- Locus of the Primal Core
+		250247, -- Amulet of the Abyssal Hymn
+		249977, -- Tempests of the Primal Core
+		239656, -- Adherent's Silken Shroud
+		249982, -- Embrace of the Primal Core
+		249304, -- Fallen King's Cuffs
+		249980, -- Earthgrips of the Primal Core
+		249976, -- Ceinture of the Primal Core
+		249324, -- Eternal Flame Scaleguards
+		251084, -- Whipcoil Sabatons
+		249920, -- Eye of Midnight
+		251093, -- Omission of Light
+		249343, -- Gaze of the Alnseer
+		193701, -- Algeth'ar Puzzle Box
+		249806, -- Radiant Plume
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Enhancement Shaman",
@@ -99,22 +100,22 @@ ENHANCEMENT_SHAMAN_OVERALL_BIS = {
 
 ENHANCEMENT_SHAMAN_RAID_BIS = {
 	itemIDs = {
-		237738, -- Unbound Training Claws
-		237731, -- Ergospheric Cudgel
-		237637, -- Aspect of Channeled Fury
-		242406, -- Salhadaar's Folly
-		237635, -- Fangs of Channeled Fury
-		237529, -- Harvested Attendant's Uniform
-		237523, -- Arcanotech Wrist-Matrix
-		237638, -- Claws of Channeled Fury
-		237554, -- Clasp of Furious Freedom
-		237636, -- Tassets of Channeled Fury
-		243308, -- Interloper's Chain Boots
-		237570, -- Logic Gate: Omega
-		242405, -- Band of the Shattered Soul
-		242402, -- Araz's Ritual Forge
-		242395, -- Astral Antenna
-		242396, -- Unyielding Netherprism
+		249287, -- Clutchmates' Caress
+		237850, -- Farstrider's Chopper
+		249979, -- Locus of the Primal Core
+		250247, -- Amulet of the Abyssal Hymn
+		249977, -- Tempests of the Primal Core
+		239656, -- Adherent's Silken Shroud
+		249982, -- Embrace of the Primal Core
+		249304, -- Fallen King's Cuffs
+		249980, -- Earthgrips of the Primal Core
+		249976, -- Ceinture of the Primal Core
+		249324, -- Eternal Flame Scaleguards
+		249981, -- Sollerets of the Primal Core
+		249920, -- Eye of Midnight
+		249369, -- Bond of Light
+		249343, -- Gaze of the Alnseer
+		249806, -- Radiant Plume
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Enhancement Shaman",
@@ -123,22 +124,22 @@ ENHANCEMENT_SHAMAN_RAID_BIS = {
 
 ENHANCEMENT_SHAMAN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		185823, -- Fatebreaker, Destroyer of Futures
-		178834, -- Stoneguardian's Morningstar
-		221156, -- Cryptbound Headpiece
-		178827, -- Sin Stained Pendant
-		185805, -- Hylbrande's Retrofitted Shoulderguards
-		234502, -- Bront's Singed Blastcoat
-		221124, -- Consecrated Baron's Bindings
-		221119, -- Holybound Grips
-		185808, -- Discount Mail-Order Belt
-		246277, -- Swampface's Oozewalkers
-		221152, -- Silksteel Striders
-		178824, -- Signet of the False Accuser
-		242491, -- Whispers of K'aresh
-		232541, -- Improvised Seaforium Pacemaker
-		219308, -- Signet of the Priory
-		185818, -- So'leah's Secret Technique
+		258438, -- Blazing Sunclaws
+		237850, -- Farstrider's Chopper
+		249979, -- Locus of the Primal Core
+		50228, -- Barbed Ymirheim Choker
+		249977, -- Tempests of the Primal Core
+		239656, -- Adherent's Silken Shroud
+		249982, -- Embrace of the Primal Core
+		251079, -- Amberfrond Bracers
+		249980, -- Earthgrips of the Primal Core
+		49810, -- Scabrous Zombie Leather Belt
+		251215, -- Greaves of the Divine Guile
+		251084, -- Whipcoil Sabatons
+		251093, -- Omission of Light
+		251217, -- Occlusion of Void
+		193701, -- Algeth'ar Puzzle Box
+		252420, -- Solarflare Prism
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Enhancement Shaman",
@@ -147,22 +148,22 @@ ENHANCEMENT_SHAMAN_MYTHIC_PLUS_BIS = {
 
 RESTORATION_SHAMAN_OVERALL_BIS = {
 	itemIDs = {
-		237728, -- Voidglass Kris
-		222566, -- Vagabond's Torch
-		237637, -- Aspect of Channeled Fury
-		252009, -- Bloodstained Memento
-		237537, -- Claws of Failed Resistance
-		238044, -- Pure Precise Fiber
-		237640, -- Furs of Channeled Fury
-		219342, -- Glyph-Etched Vambraces
-		237638, -- Claws of Channeled Fury
-		237522, -- Colossal Lifetether
-		237636, -- Tassets of Channeled Fury
-		243308, -- Interloper's Chain Boots
-		242405, -- Band of the Shattered Soul
-		237567, -- Logic Gate: Alpha
-		242395, -- Astral Antenna
-		185818, -- So'leah's Secret Technique
+		249293, -- Weight of Command
+		249921, -- Thalassian Dawnguard
+		249914, -- Oblivion Guise
+		249337, -- Ribbon of Coiled Malice
+		249977, -- Tempests of the Primal Core
+		249974, -- Guardian of the Primal Core
+		249982, -- Embrace of the Primal Core
+		249975, -- Cuffs of the Primal Core
+		249980, -- Earthgrips of the Primal Core
+		244611, -- World Tender's Barkclasp
+		249978, -- Leggings of the Primal Core
+		244610, -- World Tender's Rootslippers
+		151308, -- Eredath Seal of Nobility
+		151311, -- Band of the Triumvirate
+		249808, -- Litany of Lightblind Wrath
+		249343, -- Gaze of the Alnseer
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Restoration Shaman",
@@ -171,22 +172,22 @@ RESTORATION_SHAMAN_OVERALL_BIS = {
 
 RESTORATION_SHAMAN_RAID_BIS = {
 	itemIDs = {
-		237728, -- Voidglass Kris
-		237723, -- Ward of the Weaving-Beast
-		237637, -- Aspect of Channeled Fury
-		237568, -- Chrysalis of Sundered Souls
-		237537, -- Claws of Failed Resistance
-		238044, -- Pure Precise Fiber
-		237640, -- Furs of Channeled Fury
-		237555, -- Pactbound Vambraces
-		237638, -- Claws of Channeled Fury
-		237522, -- Colossal Lifetether
-		237636, -- Tassets of Channeled Fury
-		243308, -- Interloper's Chain Boots
-		242405, -- Band of the Shattered Soul
-		237567, -- Logic Gate: Alpha
-		242395, -- Astral Antenna
-		242393, -- Loom'ithar's Living Silk
+		249293, -- Weight of Command
+		249921, -- Thalassian Dawnguard
+		249914, -- Oblivion Guise
+		249337, -- Ribbon of Coiled Malice
+		249977, -- Tempests of the Primal Core
+		249974, -- Guardian of the Primal Core
+		249982, -- Embrace of the Primal Core
+		249975, -- Cuffs of the Primal Core
+		249980, -- Earthgrips of the Primal Core
+		244611, -- World Tender's Barkclasp
+		249978, -- Leggings of the Primal Core
+		244610, -- World Tender's Rootslippers
+		249919, -- Sin'dorei Band of Hope
+		249336, -- Signet of the Starved Beast
+		249343, -- Gaze of the Alnseer
+		249808, -- Litany of Lightblind Wrath
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Restoration Shaman",
@@ -195,22 +196,22 @@ RESTORATION_SHAMAN_RAID_BIS = {
 
 RESTORATION_SHAMAN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		185821, -- Gluttonous Rondel
-		242493, -- Starlit Safeguard
-		237637, -- Aspect of Channeled Fury
-		252009, -- Bloodstained Memento
-		237635, -- Fangs of Channeled Fury
-		238044, -- Pure Precise Fiber
-		237640, -- Furs of Channeled Fury
-		221124, -- Consecrated Baron's Bindings
-		237638, -- Claws of Channeled Fury
-		234501, -- Portable Power Generator
-		221129, -- Divine Pyrewalkers
-		242483, -- Greaves of the Wild Pair
-		221136, -- Devout Zealot's Ring
-		246281, -- Ring of the Panoply
-		219308, -- Signet of the Priory
-		185818, -- So'leah's Secret Technique
+		251178, -- Ceremonial Hexblade
+		258049, -- Viryx's Indomitable Bulwark
+		258585, -- Sharpeye Gleam
+		50228, -- Barbed Ymirheim Choker
+		249977, -- Tempests of the Primal Core
+		258575, -- Rigid Scale Greatcloak
+		249982, -- Embrace of the Primal Core
+		151321, -- Darkfang Scale Wristguards
+		249980, -- Earthgrips of the Primal Core
+		244611, -- World Tender's Barkclasp
+		249978, -- Leggings of the Primal Core
+		244610, -- World Tender's Rootslippers
+		151308, -- Eredath Seal of Nobility
+		151311, -- Band of the Triumvirate
+		193718, -- Emerald Coach's Whistle
+		250253, -- Whisper of the Duskwraith
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Restoration Shaman",

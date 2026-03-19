@@ -1,17 +1,18 @@
 AUGMENTATION_EVOKER_OVERALL_BIS = {
 	itemIDs = {
-		237735, -- Voidglass Sovereign's Blade
-		237655, -- Spellweaver's Immaculate Focus
-		237569, -- Duskblaze's Desperation
-		237653, -- Spellweaver's Immaculate Pauldrons
-		237658, -- Spellweaver's Immaculate Crestward
-		219342, -- Glyph-Etched Vambraces
-		237656, -- Spellweaver's Immaculate Scaleguards
-		237522, -- Colossal Lifetether
-		237654, -- Spellweaver's Immaculate Runeslacks
-		243308, -- Interloper's Chain Boots
-		242405, -- Band of the Shattered Soul
-		246281, -- Ring of the Panoply
+		249276, -- Grimoire of the Eternal Light
+		249914, -- Oblivion Guise
+		249337, -- Ribbon of Coiled Malice
+		249995, -- Beacons of the Black Talon
+		239656, -- Adherent's Silken Shroud
+		250000, -- Frenzyward of the Black Talon
+		244584, -- Farstrider's Plated Bracers
+		249998, -- Enforcer's Grips of the Black Talon
+		49810, -- Scabrous Zombie Leather Belt
+		249996, -- Greaves of the Black Talon
+		249377, -- Darkstrider Treads
+		249920, -- Eye of Midnight
+		249810, -- Shadow of the Empyrean Requiem
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Augmentation Evoker",
@@ -20,20 +21,19 @@ AUGMENTATION_EVOKER_OVERALL_BIS = {
 
 AUGMENTATION_EVOKER_RAID_BIS = {
 	itemIDs = {
-		237735, -- Voidglass Sovereign's Blade
-		237655, -- Spellweaver's Immaculate Focus
-		237569, -- Duskblaze's Desperation
-		237653, -- Spellweaver's Immaculate Pauldrons
-		237658, -- Spellweaver's Immaculate Crestward
-		219342, -- Glyph-Etched Vambraces
-		237656, -- Spellweaver's Immaculate Scaleguards
-		237522, -- Colossal Lifetether
-		237654, -- Spellweaver's Immaculate Runeslacks
-		243308, -- Interloper's Chain Boots
-		242405, -- Band of the Shattered Soul
-		237567, -- Logic Gate: Alpha
-		242395, -- Astral Antenna
-		242399, -- Screams of a Forgotten Sky
+		249283, -- Belo'melorn, the Shattered Talon
+		249914, -- Oblivion Guise
+		249337, -- Ribbon of Coiled Malice
+		249995, -- Beacons of the Black Talon
+		239656, -- Adherent's Silken Shroud
+		250000, -- Frenzyward of the Black Talon
+		244584, -- Farstrider's Plated Bracers
+		249998, -- Enforcer's Grips of the Black Talon
+		244581, -- Farstrider's Trophy Belt
+		249996, -- Greaves of the Black Talon
+		249377, -- Darkstrider Treads
+		249920, -- Eye of Midnight
+		249810, -- Shadow of the Empyrean Requiem
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Augmentation Evoker",
@@ -42,20 +42,19 @@ AUGMENTATION_EVOKER_RAID_BIS = {
 
 AUGMENTATION_EVOKER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221165, -- Unceremonious Bloodletter
-		237655, -- Spellweaver's Immaculate Focus
-		185842, -- Ornately Engraved Amplifier
-		237653, -- Spellweaver's Immaculate Pauldrons
-		237658, -- Spellweaver's Immaculate Crestward
-		219342, -- Glyph-Etched Vambraces
-		237656, -- Spellweaver's Immaculate Scaleguards
-		234501, -- Portable Power Generator
-		237654, -- Spellweaver's Immaculate Runeslacks
-		242483, -- Greaves of the Wild Pair
-		246281, -- Ring of the Panoply
-		221136, -- Devout Zealot's Ring
-		219308, -- Signet of the Priory
-		219314, -- Ara-Kara Sacbrood
+		193709, -- Vexamus' Expulsion Rod
+		49824, -- Horns of the Spurned Val'kyr
+		50228, -- Barbed Ymirheim Choker
+		249995, -- Beacons of the Black Talon
+		239656, -- Adherent's Silken Shroud
+		250000, -- Frenzyward of the Black Talon
+		244584, -- Farstrider's Plated Bracers
+		249998, -- Enforcer's Grips of the Black Talon
+		49810, -- Scabrous Zombie Leather Belt
+		249996, -- Greaves of the Black Talon
+		193715, -- Boots of Explosive Growth
+		49812, -- Purloined Wedding Ring
+		193718, -- Emerald Coach's Whistle
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Augmentation Evoker",
@@ -64,21 +63,22 @@ AUGMENTATION_EVOKER_MYTHIC_PLUS_BIS = {
 
 DEVASTATION_EVOKER_OVERALL_BIS = {
 	itemIDs = {
-		237728, -- Voidglass Kris
-		222566, -- Vagabond's Torch
-		237655, -- Spellweaver's Immaculate Focus
-		237569, -- Duskblaze's Desperation
-		237653, -- Spellweaver's Immaculate Pauldrons
-		237658, -- Spellweaver's Immaculate Crestward
-		219342, -- Glyph-Etched Vambraces
-		246282, -- Order Bashers
-		237522, -- Colossal Lifetether
-		237654, -- Spellweaver's Immaculate Runeslacks
-		243308, -- Interloper's Chain Boots
-		237567, -- Logic Gate: Alpha
-		242405, -- Band of the Shattered Soul
-		242402, -- Araz's Ritual Forge
-		242395, -- Astral Antenna
+		249294, -- Blade of the Blind Verdict
+		249276, -- Grimoire of the Eternal Light
+		249997, -- Hornhelm of the Black Talon
+		250247, -- Amulet of the Abyssal Hymn
+		249995, -- Beacons of the Black Talon
+		239656, -- Adherent's Silken Shroud
+		250000, -- Frenzyward of the Black Talon
+		244584, -- Farstrider's Plated Bracers
+		249325, -- Untethered Berserker's Grips
+		49810, -- Scabrous Zombie Leather Belt
+		249996, -- Greaves of the Black Talon
+		249999, -- Spelltreads of the Black Talon
+		249919, -- Sin'dorei Band of Hope
+		249920, -- Eye of Midnight
+		249809, -- Locus-Walker's Ribbon
+		249346, -- Vaelgor's Final Stare
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Devastation Evoker",
@@ -87,21 +87,22 @@ DEVASTATION_EVOKER_OVERALL_BIS = {
 
 DEVASTATION_EVOKER_RAID_BIS = {
 	itemIDs = {
-		237728, -- Voidglass Kris
-		222566, -- Vagabond's Torch
-		237655, -- Spellweaver's Immaculate Focus
-		237569, -- Duskblaze's Desperation
-		237653, -- Spellweaver's Immaculate Pauldrons
-		237658, -- Spellweaver's Immaculate Crestward
-		219342, -- Glyph-Etched Vambraces
-		237656, -- Spellweaver's Immaculate Scaleguards
-		237522, -- Colossal Lifetether
-		237654, -- Spellweaver's Immaculate Runeslacks
-		243308, -- Interloper's Chain Boots
-		237567, -- Logic Gate: Alpha
-		242405, -- Band of the Shattered Soul
-		242402, -- Araz's Ritual Forge
-		242395, -- Astral Antenna
+		249294, -- Blade of the Blind Verdict
+		249276, -- Grimoire of the Eternal Light
+		249997, -- Hornhelm of the Black Talon
+		250247, -- Amulet of the Abyssal Hymn
+		249995, -- Beacons of the Black Talon
+		239656, -- Adherent's Silken Shroud
+		250000, -- Frenzyward of the Black Talon
+		244584, -- Farstrider's Plated Bracers
+		249325, -- Untethered Berserker's Grips
+		249371, -- Scornbane Waistguard
+		249996, -- Greaves of the Black Talon
+		249999, -- Spelltreads of the Black Talon
+		249919, -- Sin'dorei Band of Hope
+		249920, -- Eye of Midnight
+		249809, -- Locus-Walker's Ribbon
+		249346, -- Vaelgor's Final Stare
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Devastation Evoker",
@@ -110,20 +111,21 @@ DEVASTATION_EVOKER_RAID_BIS = {
 
 DEVASTATION_EVOKER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		178829, -- Nathrian Ferula
-		237655, -- Spellweaver's Immaculate Focus
-		185842, -- Ornately Engraved Amplifier
-		237653, -- Spellweaver's Immaculate Pauldrons
-		237658, -- Spellweaver's Immaculate Crestward
-		185816, -- Confiscated Bracers of Concealment
-		246282, -- Order Bashers
-		234501, -- Portable Power Generator
-		237654, -- Spellweaver's Immaculate Runeslacks
-		242483, -- Greaves of the Wild Pair
-		221136, -- Devout Zealot's Ring
-		246281, -- Ring of the Panoply
-		242494, -- Lily of the Eternal Weave
-		242497, -- Azhiccaran Parapodia
+		251201, -- Corespark Multitool
+		249997, -- Hornhelm of the Black Talon
+		50228, -- Barbed Ymirheim Choker
+		249995, -- Beacons of the Black Talon
+		239656, -- Adherent's Silken Shroud
+		250000, -- Frenzyward of the Black Talon
+		251079, -- Amberfrond Bracers
+		249998, -- Enforcer's Grips of the Black Talon
+		49810, -- Scabrous Zombie Leather Belt
+		249996, -- Greaves of the Black Talon
+		251084, -- Whipcoil Sabatons
+		251217, -- Occlusion of Void
+		251093, -- Omission of Light
+		250144, -- Emberwing Feather
+		250258, -- Vessel of Tortured Souls
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Devastation Evoker",
@@ -132,20 +134,21 @@ DEVASTATION_EVOKER_MYTHIC_PLUS_BIS = {
 
 PRESERVATION_EVOKER_OVERALL_BIS = {
 	itemIDs = {
-		237730, -- Voidglass Spire
-		237655, -- Spellweaver's Immaculate Focus
-		242406, -- Salhadaar's Folly
-		237653, -- Spellweaver's Immaculate Pauldrons
-		178815, -- Soaring Decimator's Hauberk
-		237523, -- Arcanotech Wrist-Matrix
-		237656, -- Spellweaver's Immaculate Scaleguards
-		237554, -- Clasp of Furious Freedom
-		237654, -- Spellweaver's Immaculate Runeslacks
-		243308, -- Interloper's Chain Boots
-		242405, -- Band of the Shattered Soul
-		237567, -- Logic Gate: Alpha
-		242400, -- Nexus-King's Command
-		242392, -- Diamantine Voidcore
+		258514, -- Umbral Spire of Zuraal
+		249914, -- Oblivion Guise
+		250247, -- Amulet of the Abyssal Hymn
+		249995, -- Beacons of the Black Talon
+		251206, -- Fluxweave Cloak
+		250000, -- Frenzyward of the Black Talon
+		251079, -- Amberfrond Bracers
+		249998, -- Enforcer's Grips of the Black Talon
+		244611, -- World Tender's Barkclasp
+		249996, -- Greaves of the Black Talon
+		244610, -- World Tender's Rootslippers
+		249369, -- Bond of Light
+		249920, -- Eye of Midnight
+		249346, -- Vaelgor's Final Stare
+		249343, -- Gaze of the Alnseer
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Preservation Evoker",
@@ -154,20 +157,21 @@ PRESERVATION_EVOKER_OVERALL_BIS = {
 
 PRESERVATION_EVOKER_RAID_BIS = {
 	itemIDs = {
-		237730, -- Voidglass Spire
-		237655, -- Spellweaver's Immaculate Focus
-		242406, -- Salhadaar's Folly
-		237653, -- Spellweaver's Immaculate Pauldrons
-		237529, -- Harvested Attendant's Uniform
-		237523, -- Arcanotech Wrist-Matrix
-		237656, -- Spellweaver's Immaculate Scaleguards
-		237554, -- Clasp of Furious Freedom
-		237654, -- Spellweaver's Immaculate Runeslacks
-		243308, -- Interloper's Chain Boots
-		242405, -- Band of the Shattered Soul
-		237567, -- Logic Gate: Alpha
-		242400, -- Nexus-King's Command
-		242392, -- Diamantine Voidcore
+		249286, -- Brazier of the Dissonant Dirge
+		249914, -- Oblivion Guise
+		250247, -- Amulet of the Abyssal Hymn
+		249995, -- Beacons of the Black Talon
+		249370, -- Draconic Nullcape
+		250000, -- Frenzyward of the Black Talon
+		249304, -- Fallen King's Cuffs
+		249998, -- Enforcer's Grips of the Black Talon
+		244611, -- World Tender's Barkclasp
+		249996, -- Greaves of the Black Talon
+		244610, -- World Tender's Rootslippers
+		249369, -- Bond of Light
+		249920, -- Eye of Midnight
+		249346, -- Vaelgor's Final Stare
+		249343, -- Gaze of the Alnseer
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Preservation Evoker",
@@ -176,20 +180,21 @@ PRESERVATION_EVOKER_RAID_BIS = {
 
 PRESERVATION_EVOKER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		185822, -- Staff of Fractured Spacetime
-		237655, -- Spellweaver's Immaculate Focus
-		251880, -- Momma's Mega Medallion
-		237653, -- Spellweaver's Immaculate Pauldrons
-		178815, -- Soaring Decimator's Hauberk
-		221124, -- Consecrated Baron's Bindings
-		237656, -- Spellweaver's Immaculate Scaleguards
-		185808, -- Discount Mail-Order Belt
-		237654, -- Spellweaver's Immaculate Runeslacks
-		178830, -- Shardskin Sabatons
-		178824, -- Signet of the False Accuser
-		242491, -- Whispers of K'aresh
-		185818, -- So'leah's Secret Technique
-		219312, -- Empowering Crystal of Anub'ikkaj
+		258514, -- Umbral Spire of Zuraal
+		251119, -- Vortex Visage
+		50228, -- Barbed Ymirheim Choker
+		249995, -- Beacons of the Black Talon
+		251206, -- Fluxweave Cloak
+		250000, -- Frenzyward of the Black Talon
+		251079, -- Amberfrond Bracers
+		249998, -- Enforcer's Grips of the Black Talon
+		244611, -- World Tender's Barkclasp
+		249996, -- Greaves of the Black Talon
+		244610, -- World Tender's Rootslippers
+		251115, -- Bifurcation Band
+		251093, -- Omission of Light
+		250256, -- Heart of Wind
+		250144, -- Emberwing Feather
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Preservation Evoker",

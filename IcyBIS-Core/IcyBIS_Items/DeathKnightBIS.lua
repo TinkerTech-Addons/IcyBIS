@@ -1,20 +1,21 @@
 BLOOD_DEATH_KNIGHT_OVERALL_BIS = {
 	itemIDs = {
-		185810, -- Skyreaver, Greataxe of the Keepers
-		237628, -- Hollow Sentinel's Stonemask
-		237569, -- Duskblaze's Desperation
-		237626, -- Hollow Sentinel's Perches
-		237631, -- Hollow Sentinel's Breastplate
-		222435, -- Everforged Vambraces
-		237629, -- Hollow Sentinel's Gauntlets
-		222431, -- Everforged Greatbelt
-		178818, -- Halkias's Towering Pillars
-		221123, -- Devoted Plate Walkers
-		237567, -- Logic Gate: Alpha
-		221141, -- High Nerubian Signet
-		219309, -- Tome of Light's Devotion
-		242395, -- Astral Antenna
-		242401, -- Brand of Ceaseless Ire
+		251168, -- Liferipper's Cutlass
+		249970, -- Relentless Rider's Crown
+		249368, -- Eternal Voidsong Chain
+		249968, -- Relentless Rider's Dreadthorns
+		260312, -- Defiant Defender's Drape
+		249973, -- Relentless Rider's Cuirass
+		251203, -- Kasreth's Bindings
+		151332, -- Voidclaw Gauntlets
+		249380, -- Hate-Tied Waistchain
+		249969, -- Relentless Rider's Legguards
+		249381, -- Greaves of the Unformed
+		240949, -- Masterwork Sin'dorei Band
+		251513, -- Loa Worshiper's Band
+		249343, -- Gaze of the Alnseer
+		260235, -- Umbral Plume
+		249342, -- Heart of Ancient Hunger
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Blood Death Knight",
@@ -23,21 +24,23 @@ BLOOD_DEATH_KNIGHT_OVERALL_BIS = {
 
 BLOOD_DEATH_KNIGHT_RAID_BIS = {
 	itemIDs = {
-		243365, -- Maw of the Void
-		237535, -- Artoshion's Abyssal Stare
-		237568, -- Chrysalis of Sundered Souls
-		237532, -- Beacons of False Righteousness
-		237528, -- Manaforged Displacement Chassis
-		237545, -- Discarded Nutrient Shackles
-		237526, -- Breached Containment Guards
-		237550, -- Fresh Ethereal Fetters
-		237530, -- Shrapnel-Fused Legguards
-		243307, -- Interloper's Plated Sabatons
-		237570, -- Logic Gate: Omega
-		242405, -- Band of the Shattered Soul
-		242396, -- Unyielding Netherprism
-		242394, -- Eradicating Arcanocore
-		242401, -- Brand of Ceaseless Ire
+		249296, -- Alah'endal, the Dawnsong
+		249970, -- Relentless Rider's Crown
+		249368, -- Eternal Voidsong Chain
+		249968, -- Relentless Rider's Dreadthorns
+		249370, -- Draconic Nullcape
+		249973, -- Relentless Rider's Cuirass
+		237834, -- Spellbreaker's Bracers
+		249971, -- Relentless Rider's Bonegrasps
+		249331, -- Ezzorak's Gloombind
+		249969, -- Relentless Rider's Legguards
+		249381, -- Greaves of the Unformed
+		249369, -- Bond of Light
+		251513, -- Loa Worshiper's Band
+		249343, -- Gaze of the Alnseer
+		249806, -- Radiant Plume
+		249344, -- Light Company Guidon
+		249342, -- Heart of Ancient Hunger
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Blood Death Knight",
@@ -46,20 +49,21 @@ BLOOD_DEATH_KNIGHT_RAID_BIS = {
 
 BLOOD_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221127, -- Emberbrand Zweihander
-		178812, -- Wing Commander's Helmet
-		178827, -- Sin Stained Pendant
-		185803, -- Stoneflesh Spaulders
-		178814, -- Breastplate of Otherworldly Influence
-		221118, -- Flameforged Armguard
-		221151, -- Devourer's Gauntlets
-		234505, -- Venture Contractor's Floodlight
-		178818, -- Halkias's Towering Pillars
-		185787, -- Implacable Weatherproof Treads
-		246281, -- Ring of the Panoply
-		242491, -- Whispers of K'aresh
-		219309, -- Tome of Light's Devotion
-		246344, -- Cursed Stone Idol
+		251168, -- Liferipper's Cutlass
+		151333, -- Crown of the Dark Envoy
+		50228, -- Barbed Ymirheim Choker
+		258587, -- Spaulders of Scorching Ray
+		260312, -- Defiant Defender's Drape
+		50272, -- Frost Wyrm Ribcage
+		263193, -- Trollhunter's Bands
+		151332, -- Voidclaw Gauntlets
+		49808, -- Bent Gold Belt
+		251208, -- Lightscarred Cuisses
+		251091, -- Sabatons of Furious Revenge
+		251217, -- Occlusion of Void
+		251093, -- Omission of Light
+		250256, -- Heart of Wind
+		252420, -- Solarflare Prism
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Blood Death Knight",
@@ -68,20 +72,23 @@ BLOOD_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 
 FROST_DEATH_KNIGHT_OVERALL_BIS = {
 	itemIDs = {
-		237628, -- Hollow Sentinel's Stonemask
-		242406, -- Salhadaar's Folly
-		237626, -- Hollow Sentinel's Perches
-		237631, -- Hollow Sentinel's Breastplate
-		222435, -- Everforged Vambraces
-		237526, -- Breached Containment Guards
-		242479, -- Girdle of Absolute Faith
-		237627, -- Hollow Sentinel's Stonekilt
-		243307, -- Interloper's Plated Sabatons
-		237567, -- Logic Gate: Alpha
-		221200, -- Radiant Necromancer's Band
-		242402, -- Araz's Ritual Forge
-		242395, -- Astral Antenna
-		222447, -- Charged Claymore
+		249277, -- Bellamy's Final Judgement
+		249281, -- Blade of the Final Twilight
+		237841, -- Spellbreaker's Ultimatum
+		249970, -- Relentless Rider's Crown
+		250247, -- Amulet of the Abyssal Hymn
+		50234, -- Shoulderplates of Frozen Blood
+		239656, -- Adherent's Silken Shroud
+		249973, -- Relentless Rider's Cuirass
+		237834, -- Spellbreaker's Bracers
+		249971, -- Relentless Rider's Bonegrasps
+		249380, -- Hate-Tied Waistchain
+		249969, -- Relentless Rider's Legguards
+		249381, -- Greaves of the Unformed
+		193708, -- Platinum Star Band
+		249919, -- Sin'dorei Band of Hope
+		249343, -- Gaze of the Alnseer
+		249344, -- Light Company Guidon
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Frost Death Knight",
@@ -90,20 +97,23 @@ FROST_DEATH_KNIGHT_OVERALL_BIS = {
 
 FROST_DEATH_KNIGHT_RAID_BIS = {
 	itemIDs = {
-		237628, -- Hollow Sentinel's Stonemask
-		242406, -- Salhadaar's Folly
-		237626, -- Hollow Sentinel's Perches
-		237631, -- Hollow Sentinel's Breastplate
-		237561, -- Yoke of Enveloping Hatred
-		237526, -- Breached Containment Guards
-		237550, -- Fresh Ethereal Fetters
-		237627, -- Hollow Sentinel's Stonekilt
-		243307, -- Interloper's Plated Sabatons
-		242405, -- Band of the Shattered Soul
-		237567, -- Logic Gate: Alpha
-		242402, -- Araz's Ritual Forge
-		242395, -- Astral Antenna
-		237725, -- Supermassive Starcrusher
+		249277, -- Bellamy's Final Judgement
+		249281, -- Blade of the Final Twilight
+		237841, -- Spellbreaker's Ultimatum
+		249970, -- Relentless Rider's Crown
+		249337, -- Ribbon of Coiled Malice
+		249313, -- Light-Judged Spaulders
+		239656, -- Adherent's Silken Shroud
+		249973, -- Relentless Rider's Cuirass
+		237834, -- Spellbreaker's Bracers
+		249971, -- Relentless Rider's Bonegrasps
+		249380, -- Hate-Tied Waistchain
+		249969, -- Relentless Rider's Legguards
+		249381, -- Greaves of the Unformed
+		249336, -- Signet of the Starved Beast
+		249919, -- Sin'dorei Band of Hope
+		249343, -- Gaze of the Alnseer
+		249344, -- Light Company Guidon
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Frost Death Knight",
@@ -112,20 +122,23 @@ FROST_DEATH_KNIGHT_RAID_BIS = {
 
 FROST_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		178812, -- Wing Commander's Helmet
-		185842, -- Ornately Engraved Amplifier
-		185803, -- Stoneflesh Spaulders
-		234506, -- Muckdiver's Wading Plate
-		221118, -- Flameforged Armguard
-		234504, -- Jumpstarter's Scaffold-Scrapers
-		242479, -- Girdle of Absolute Faith
-		185798, -- Quantum Leapers
-		185787, -- Implacable Weatherproof Treads
-		221200, -- Radiant Necromancer's Band
-		221136, -- Devout Zealot's Ring
-		232541, -- Improvised Seaforium Pacemaker
-		246344, -- Cursed Stone Idol
-		242487, -- Fatebound Crusader
+		249277, -- Bellamy's Final Judgement
+		251100, -- Malfeasance Mallet
+		237841, -- Spellbreaker's Ultimatum
+		249970, -- Relentless Rider's Crown
+		50228, -- Barbed Ymirheim Choker
+		50234, -- Shoulderplates of Frozen Blood
+		239656, -- Adherent's Silken Shroud
+		249973, -- Relentless Rider's Cuirass
+		237834, -- Spellbreaker's Bracers
+		249971, -- Relentless Rider's Bonegrasps
+		49808, -- Bent Gold Belt
+		249969, -- Relentless Rider's Legguards
+		251107, -- Oathsworn Stompers
+		193708, -- Platinum Star Band
+		251217, -- Occlusion of Void
+		193701, -- Algeth'ar Puzzle Box
+		252420, -- Solarflare Prism
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Frost Death Knight",
@@ -134,20 +147,21 @@ FROST_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 
 UNHOLY_DEATH_KNIGHT_OVERALL_BIS = {
 	itemIDs = {
-		237628, -- Hollow Sentinel's Stonemask
-		242406, -- Salhadaar's Folly
-		237626, -- Hollow Sentinel's Perches
-		237631, -- Hollow Sentinel's Breastplate
-		222435, -- Everforged Vambraces
-		237526, -- Breached Containment Guards
-		222431, -- Everforged Greatbelt
-		237627, -- Hollow Sentinel's Stonekilt
-		243307, -- Interloper's Plated Sabatons
-		237567, -- Logic Gate: Alpha
-		237570, -- Logic Gate: Omega
-		246344, -- Cursed Stone Idol
-		242395, -- Astral Antenna
-		237737, -- Photon Sabre Prime
+		249277, -- Bellamy's Final Judgement
+		249970, -- Relentless Rider's Crown
+		250247, -- Amulet of the Abyssal Hymn
+		50234, -- Shoulderplates of Frozen Blood
+		239656, -- Adherent's Silken Shroud
+		249973, -- Relentless Rider's Cuirass
+		237834, -- Spellbreaker's Bracers
+		249971, -- Relentless Rider's Bonegrasps
+		249380, -- Hate-Tied Waistchain
+		249969, -- Relentless Rider's Legguards
+		249381, -- Greaves of the Unformed
+		193708, -- Platinum Star Band
+		249919, -- Sin'dorei Band of Hope
+		249343, -- Gaze of the Alnseer
+		249344, -- Light Company Guidon
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Unholy Death Knight",
@@ -156,20 +170,21 @@ UNHOLY_DEATH_KNIGHT_OVERALL_BIS = {
 
 UNHOLY_DEATH_KNIGHT_RAID_BIS = {
 	itemIDs = {
-		237628, -- Hollow Sentinel's Stonemask
-		242406, -- Salhadaar's Folly
-		237626, -- Hollow Sentinel's Perches
-		237631, -- Hollow Sentinel's Breastplate
-		237545, -- Discarded Nutrient Shackles
-		237526, -- Breached Containment Guards
-		237550, -- Fresh Ethereal Fetters
-		237627, -- Hollow Sentinel's Stonekilt
-		243307, -- Interloper's Plated Sabatons
-		237570, -- Logic Gate: Omega
-		237567, -- Logic Gate: Alpha
-		242402, -- Araz's Ritual Forge
-		242395, -- Astral Antenna
-		237725, -- Supermassive Starcrusher
+		249277, -- Bellamy's Final Judgement
+		249970, -- Relentless Rider's Crown
+		249337, -- Ribbon of Coiled Malice
+		249313, -- Light-Judged Spaulders
+		239656, -- Adherent's Silken Shroud
+		249973, -- Relentless Rider's Cuirass
+		237834, -- Spellbreaker's Bracers
+		249971, -- Relentless Rider's Bonegrasps
+		249380, -- Hate-Tied Waistchain
+		249969, -- Relentless Rider's Legguards
+		249381, -- Greaves of the Unformed
+		249336, -- Signet of the Starved Beast
+		249919, -- Sin'dorei Band of Hope
+		249343, -- Gaze of the Alnseer
+		249344, -- Light Company Guidon
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Unholy Death Knight",
@@ -178,20 +193,21 @@ UNHOLY_DEATH_KNIGHT_RAID_BIS = {
 
 UNHOLY_DEATH_KNIGHT_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		178812, -- Wing Commander's Helmet
-		185842, -- Ornately Engraved Amplifier
-		185803, -- Stoneflesh Spaulders
-		234506, -- Muckdiver's Wading Plate
-		221118, -- Flameforged Armguard
-		234504, -- Jumpstarter's Scaffold-Scrapers
-		242479, -- Girdle of Absolute Faith
-		185798, -- Quantum Leapers
-		185787, -- Implacable Weatherproof Treads
-		221200, -- Radiant Necromancer's Band
-		221136, -- Devout Zealot's Ring
-		232541, -- Improvised Seaforium Pacemaker
-		246344, -- Cursed Stone Idol
-		242487, -- Fatebound Crusader
+		249277, -- Bellamy's Final Judgement
+		249970, -- Relentless Rider's Crown
+		50228, -- Barbed Ymirheim Choker
+		50234, -- Shoulderplates of Frozen Blood
+		239656, -- Adherent's Silken Shroud
+		249973, -- Relentless Rider's Cuirass
+		237834, -- Spellbreaker's Bracers
+		249971, -- Relentless Rider's Bonegrasps
+		49808, -- Bent Gold Belt
+		249969, -- Relentless Rider's Legguards
+		251107, -- Oathsworn Stompers
+		193708, -- Platinum Star Band
+		251217, -- Occlusion of Void
+		193701, -- Algeth'ar Puzzle Box
+		252420, -- Solarflare Prism
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Unholy Death Knight",

@@ -1,20 +1,21 @@
 DISCIPLINE_PRIEST_OVERALL_BIS = {
 	itemIDs = {
-		237728, -- Voidglass Kris
-		222566, -- Vagabond's Torch
-		237709, -- Dying Star's Veil
-		237569, -- Duskblaze's Desperation
-		237707, -- Dying Star's Pyrelights
-		237712, -- Dying Star's Cassock
-		222815, -- Consecrated Cuffs
-		237710, -- Dying Star's Caress
-		237538, -- Forgeweaver's Journal Holster
-		237542, -- Stellar Navigation Slacks
-		243305, -- Interloper's Silken Striders
-		242405, -- Band of the Shattered Soul
-		246281, -- Ring of the Panoply
-		242494, -- Lily of the Eternal Weave
-		242392, -- Diamantine Voidcore
+		249283, -- Belo'melorn, the Shattered Talon
+		245769, -- Aln'hara Lantern
+		250051, -- Blind Oath's Winged Crest
+		249368, -- Eternal Voidsong Chain
+		250049, -- Blind Oath's Seraphguards
+		249370, -- Draconic Nullcape
+		249912, -- Robes of Endless Oblivion
+		249315, -- Voracious Wristwraps
+		250052, -- Blind Oath's Touch
+		239664, -- Arcanoweave Cord
+		250050, -- Blind Oath's Leggings
+		258584, -- Lightbinder Treads
+		249920, -- Eye of Midnight
+		251093, -- Omission of Light
+		249346, -- Vaelgor's Final Stare
+		249341, -- Volatile Void Suffuser
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Dicipline Priest",
@@ -23,20 +24,22 @@ DISCIPLINE_PRIEST_OVERALL_BIS = {
 
 DISCIPLINE_PRIEST_RAID_BIS = {
 	itemIDs = {
-		237730, -- Voidglass Spire
-		237709, -- Dying Star's Veil
-		237569, -- Duskblaze's Desperation
-		237707, -- Dying Star's Pyrelights
-		237712, -- Dying Star's Cassock
-		237558, -- Conjoined Glass Bracers
-		237710, -- Dying Star's Caress
-		237538, -- Forgeweaver's Journal Holster
-		237542, -- Stellar Navigation Slacks
-		243305, -- Interloper's Silken Striders
-		242405, -- Band of the Shattered Soul
-		237570, -- Logic Gate: Omega
-		242395, -- Astral Antenna
-		242392, -- Diamantine Voidcore
+		249283, -- Belo'melorn, the Shattered Talon
+		245769, -- Aln'hara Lantern
+		250051, -- Blind Oath's Winged Crest
+		249368, -- Eternal Voidsong Chain
+		250049, -- Blind Oath's Seraphguards
+		249370, -- Draconic Nullcape
+		249912, -- Robes of Endless Oblivion
+		249315, -- Voracious Wristwraps
+		250052, -- Blind Oath's Touch
+		239664, -- Arcanoweave Cord
+		250050, -- Blind Oath's Leggings
+		249305, -- Slippers of the Midnight Flame
+		249920, -- Eye of Midnight
+		249369, -- Bond of Light
+		249346, -- Vaelgor's Final Stare
+		249341, -- Volatile Void Suffuser
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Dicipline Priest",
@@ -45,20 +48,22 @@ DISCIPLINE_PRIEST_RAID_BIS = {
 
 DISCIPLINE_PRIEST_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		178829, -- Nathrian Ferula
-		237709, -- Dying Star's Veil
-		178827, -- Sin Stained Pendant
-		237707, -- Dying Star's Pyrelights
-		237712, -- Dying Star's Cassock
-		185814, -- Auctioneer's Counting Bracers
-		237710, -- Dying Star's Caress
-		221158, -- Burrower's Cinch
-		221164, -- Archaic Venomancer's Footwraps
-		178831, -- Slippers of Leavened Station
-		246281, -- Ring of the Panoply
-		242491, -- Whispers of K'aresh
-		242497, -- Azhiccaran Parapodia
-		185818, -- So'leah's Secret Technique
+		251178, -- Ceremonial Hexblade
+		245769, -- Aln'hara Lantern
+		250051, -- Blind Oath's Winged Crest
+		151309, -- Necklace of the Twisting Void
+		251213, -- Nysarra's Mantle
+		260312, -- Defiant Defender's Drape
+		250054, -- Blind Oath's Raiment
+		133493, -- Wristguards of Subterranean Moss
+		250052, -- Blind Oath's Touch
+		239664, -- Arcanoweave Cord
+		250050, -- Blind Oath's Leggings
+		258584, -- Lightbinder Treads
+		251093, -- Omission of Light
+		151311, -- Band of the Triumvirate
+		250256, -- Heart of Wind
+		193718, -- Emerald Coach's Whistle
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Dicipline Priest",
@@ -67,19 +72,21 @@ DISCIPLINE_PRIEST_MYTHIC_PLUS_BIS = {
 
 HOLY_PRIEST_OVERALL_BIS = {
 	itemIDs = {
-		237728, -- Voidglass Kris
-		222566, -- Vagabond's Torch
-		237709, -- Dying Star's Veil
-		242406, -- Salhadaar's Folly
-		237707, -- Dying Star's Pyrelights
-		237712, -- Dying Star's Cassock
-		222815, -- Consecrated Cuffs
-		237710, -- Dying Star's Caress
-		237559, -- Singularity Cincture
-		237708, -- Dying Star's Leggings
-		243305, -- Interloper's Silken Striders
-		237567, -- Logic Gate: Alpha
-		242395, -- Astral Antenna
+		250051, -- Blind Oath's Winged Crest
+		250247, -- Amulet of the Abyssal Hymn
+		250049, -- Blind Oath's Seraphguards
+		249335, -- Imperator's Banner
+		250054, -- Blind Oath's Raiment
+		250047, -- Blind Oath's Wraps
+		250052, -- Blind Oath's Touch
+		239664, -- Arcanoweave Cord
+		249323, -- Leggings of the Devouring Advance
+		251167, -- Nightprey Stalkers
+		249336, -- Signet of the Starved Beast
+		151308, -- Eredath Seal of Nobility
+		249808, -- Litany of Lightblind Wrath
+		249809, -- Locus-Walker's Ribbon
+		245770, -- Aln'hara Cane
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Holy Priest",
@@ -88,19 +95,22 @@ HOLY_PRIEST_OVERALL_BIS = {
 
 HOLY_PRIEST_RAID_BIS = {
 	itemIDs = {
-		237728, -- Voidglass Kris
-		237709, -- Dying Star's Veil
-		242406, -- Salhadaar's Folly
-		237707, -- Dying Star's Pyrelights
-		237712, -- Dying Star's Cassock
-		237534, -- Singed Sievecuffs
-		237710, -- Dying Star's Caress
-		237559, -- Singularity Cincture
-		237708, -- Dying Star's Leggings
-		243305, -- Interloper's Silken Striders
-		237570, -- Logic Gate: Omega
-		237567, -- Logic Gate: Alpha
-		242395, -- Astral Antenna
+		250051, -- Blind Oath's Winged Crest
+		249337, -- Ribbon of Coiled Malice
+		250049, -- Blind Oath's Seraphguards
+		249335, -- Imperator's Banner
+		250054, -- Blind Oath's Raiment
+		250047, -- Blind Oath's Wraps
+		250052, -- Blind Oath's Touch
+		239664, -- Arcanoweave Cord
+		249323, -- Leggings of the Devouring Advance
+		249373, -- Dream-Scorched Striders
+		249336, -- Signet of the Starved Beast
+		249919, -- Sin'dorei Band of Hope
+		249808, -- Litany of Lightblind Wrath
+		249809, -- Locus-Walker's Ribbon
+		245770, -- Aln'hara Cane
+		249276, -- Grimoire of the Eternal Light
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Holy Priest",
@@ -109,18 +119,21 @@ HOLY_PRIEST_RAID_BIS = {
 
 HOLY_PRIEST_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221122, -- Hand of Beledar
-		237709, -- Dying Star's Veil
-		251880, -- Momma's Mega Medallion
-		237707, -- Dying Star's Pyrelights
-		237712, -- Dying Star's Cassock
-		242468, -- Al'dani Attendant's Gauze
-		237710, -- Dying Star's Caress
-		221121, -- Honorbound Retainer's Sash
-		237708, -- Dying Star's Leggings
-		221149, -- Membranous Slippers
-		221141, -- High Nerubian Signet
-		185818, -- So'leah's Secret Technique
+		250051, -- Blind Oath's Winged Crest
+		50228, -- Barbed Ymirheim Choker
+		250049, -- Blind Oath's Seraphguards
+		49823, -- Cloak of the Fallen Cardinal
+		250054, -- Blind Oath's Raiment
+		258580, -- Bracers of Blazing Light
+		250052, -- Blind Oath's Touch
+		239664, -- Arcanoweave Cord
+		250050, -- Blind Oath's Leggings
+		251167, -- Nightprey Stalkers
+		151308, -- Eredath Seal of Nobility
+		193708, -- Platinum Star Band
+		193718, -- Emerald Coach's Whistle
+		250256, -- Heart of Wind
+		245770, -- Aln'hara Cane
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Holy Priest",
@@ -129,20 +142,19 @@ HOLY_PRIEST_MYTHIC_PLUS_BIS = {
 
 SHADOW_PRIEST_OVERALL_BIS = {
 	itemIDs = {
-		237728, -- Voidglass Kris
-		222566, -- Vagabond's Torch
-		237709, -- Dying Star's Veil
-		237569, -- Duskblaze's Desperation
-		246276, -- Sinlight Shoulderpads
-		237712, -- Dying Star's Cassock
-		222815, -- Consecrated Cuffs
-		237710, -- Dying Star's Caress
-		237559, -- Singularity Cincture
-		237708, -- Dying Star's Leggings
-		243305, -- Interloper's Silken Striders
-		237570, -- Logic Gate: Omega
-		242402, -- Araz's Ritual Forge
-		242395, -- Astral Antenna
+		249283, -- Belo'melorn, the Shattered Talon
+		250051, -- Blind Oath's Winged Crest
+		249368, -- Eternal Voidsong Chain
+		250049, -- Blind Oath's Seraphguards
+		239661, -- Arcanoweave Cloak
+		250054, -- Blind Oath's Raiment
+		239660, -- Arcanoweave Bracers
+		251172, -- Vilehex Bonds
+		249376, -- Whisper-Inscribed Sash
+		250050, -- Blind Oath's Leggings
+		258584, -- Lightbinder Treads
+		249920, -- Eye of Midnight
+		249343, -- Gaze of the Alnseer
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Shadow Priest",
@@ -151,18 +163,19 @@ SHADOW_PRIEST_OVERALL_BIS = {
 
 SHADOW_PRIEST_RAID_BIS = {
 	itemIDs = {
-		221122, -- Hand of Beledar
-		237709, -- Dying Star's Veil
-		178827, -- Sin Stained Pendant
-		246276, -- Sinlight Shoulderpads
-		237712, -- Dying Star's Cassock
-		246279, -- Fizzlefuse Cuffs
-		237710, -- Dying Star's Caress
-		221121, -- Honorbound Retainer's Sash
-		237708, -- Dying Star's Leggings
-		178831, -- Slippers of Leavened Station
-		242491, -- Whispers of K'aresh
-		219308, -- Signet of the Priory
+		249283, -- Belo'melorn, the Shattered Talon
+		250051, -- Blind Oath's Winged Crest
+		249368, -- Eternal Voidsong Chain
+		250049, -- Blind Oath's Seraphguards
+		249370, -- Draconic Nullcape
+		250054, -- Blind Oath's Raiment
+		249315, -- Voracious Wristwraps
+		249330, -- War Chaplain's Grips
+		249376, -- Whisper-Inscribed Sash
+		250050, -- Blind Oath's Leggings
+		249373, -- Dream-Scorched Striders
+		249920, -- Eye of Midnight
+		249343, -- Gaze of the Alnseer
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Shadow Priest",
@@ -171,19 +184,19 @@ SHADOW_PRIEST_RAID_BIS = {
 
 SHADOW_PRIEST_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		237728, -- Voidglass Kris
-		237709, -- Dying Star's Veil
-		237569, -- Duskblaze's Desperation
-		237547, -- Mounted Manacannons
-		237712, -- Dying Star's Cassock
-		237558, -- Conjoined Glass Bracers
-		237710, -- Dying Star's Caress
-		237559, -- Singularity Cincture
-		237708, -- Dying Star's Leggings
-		243305, -- Interloper's Silken Striders
-		237570, -- Logic Gate: Omega
-		237567, -- Logic Gate: Alpha
-		242402, -- Araz's Ritual Forge
+		251111, -- Splitshroud Stinger
+		250051, -- Blind Oath's Winged Crest
+		151309, -- Necklace of the Twisting Void
+		250049, -- Blind Oath's Seraphguards
+		260312, -- Defiant Defender's Drape
+		250054, -- Blind Oath's Raiment
+		151305, -- Entropic Wristwraps
+		251172, -- Vilehex Bonds
+		151302, -- Cord of Unraveling Reality
+		250050, -- Blind Oath's Leggings
+		258584, -- Lightbinder Treads
+		251093, -- Omission of Light
+		250223, -- Soulcatcher's Charm
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Shadow Priest",

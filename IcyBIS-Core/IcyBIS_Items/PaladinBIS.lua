@@ -1,20 +1,21 @@
 HOLY_PALADIN_OVERALL_BIS = {
 	itemIDs = {
-		237735, -- Voidglass Sovereign's Blade
-		237723, -- Ward of the Weaving-Beast
-		237619, -- Lightmane of the Lucent Battalion
-		237569, -- Duskblaze's Desperation
-		237617, -- Chargers of the Lucent Battalion
-		237622, -- Cuirass of the Lucent Battalion
-		237561, -- Yoke of Enveloping Hatred
-		234504, -- Jumpstarter's Scaffold-Scrapers
-		237550, -- Fresh Ethereal Fetters
-		237618, -- Cuisses of the Lucent Battalion
-		243307, -- Interloper's Plated Sabatons
-		242405, -- Band of the Shattered Soul
-		237570, -- Logic Gate: Omega
-		242400, -- Nexus-King's Command
-		242392, -- Diamantine Voidcore
+		193710, -- Spellboon Saber
+		258049, -- Viryx's Indomitable Bulwark
+		249961, -- Luminant Verdict's Unwavering Gaze
+		250247, -- Amulet of the Abyssal Hymn
+		249959, -- Luminant Verdict's Providence Watch
+		239656, -- Adherent's Silken Shroud
+		249964, -- Luminant Verdict's Divine Warplate
+		237834, -- Spellbreaker's Bracers
+		249962, -- Luminant Verdict's Gauntlets
+		249331, -- Ezzorak's Gloombind
+		249915, -- Extinction Guards
+		249332, -- Parasite Stompers
+		249919, -- Sin'dorei Band of Hope
+		249920, -- Eye of Midnight
+		249346, -- Vaelgor's Final Stare
+		249343, -- Gaze of the Alnseer
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Holy Paladin",
@@ -23,21 +24,22 @@ HOLY_PALADIN_OVERALL_BIS = {
 
 HOLY_PALADIN_RAID_BIS = {
 	itemIDs = {
-		237735, -- Voidglass Sovereign's Blade
-		237723, -- Ward of the Weaving-Beast
-		237619, -- Lightmane of the Lucent Battalion
-		237569, -- Duskblaze's Desperation
-		237617, -- Chargers of the Lucent Battalion
-		237622, -- Cuirass of the Lucent Battalion
-		237561, -- Yoke of Enveloping Hatred
-		237526, -- Breached Containment Guards
-		237550, -- Fresh Ethereal Fetters
-		237618, -- Cuisses of the Lucent Battalion
-		243307, -- Interloper's Plated Sabatons
-		242405, -- Band of the Shattered Soul
-		237570, -- Logic Gate: Omega
-		242400, -- Nexus-King's Command
-		242392, -- Diamantine Voidcore
+		249294, -- Blade of the Blind Verdict
+		249921, -- Thalassian Dawnguard
+		249961, -- Luminant Verdict's Unwavering Gaze
+		250247, -- Amulet of the Abyssal Hymn
+		249959, -- Luminant Verdict's Providence Watch
+		239656, -- Adherent's Silken Shroud
+		249964, -- Luminant Verdict's Divine Warplate
+		237834, -- Spellbreaker's Bracers
+		249962, -- Luminant Verdict's Gauntlets
+		249331, -- Ezzorak's Gloombind
+		249915, -- Extinction Guards
+		249332, -- Parasite Stompers
+		249919, -- Sin'dorei Band of Hope
+		249920, -- Eye of Midnight
+		249346, -- Vaelgor's Final Stare
+		249343, -- Gaze of the Alnseer
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Holy Paladin",
@@ -46,21 +48,22 @@ HOLY_PALADIN_RAID_BIS = {
 
 HOLY_PALADIN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221150, -- Arachnoid Soulcleaver
-		185811, -- Package Protector
-		237619, -- Lightmane of the Lucent Battalion
-		178827, -- Sin Stained Pendant
-		237617, -- Chargers of the Lucent Battalion
-		237622, -- Cuirass of the Lucent Battalion
-		185815, -- Vambraces of Verification
-		234504, -- Jumpstarter's Scaffold-Scrapers
-		221133, -- Girdle of Somber Ploys
-		237618, -- Cuisses of the Lucent Battalion
-		185787, -- Implacable Weatherproof Treads
-		242491, -- Whispers of K'aresh
-		178824, -- Signet of the False Accuser
-		185818, -- So'leah's Secret Technique
-		219312, -- Empowering Crystal of Anub'ikkaj
+		193710, -- Spellboon Saber
+		258049, -- Viryx's Indomitable Bulwark
+		249961, -- Luminant Verdict's Unwavering Gaze
+		50228, -- Barbed Ymirheim Choker
+		249959, -- Luminant Verdict's Providence Watch
+		239656, -- Adherent's Silken Shroud
+		249964, -- Luminant Verdict's Divine Warplate
+		237834, -- Spellbreaker's Bracers
+		249962, -- Luminant Verdict's Gauntlets
+		151327, -- Girdle of the Shadowguard
+		251118, -- Legplates of Lingering Dusk
+		251107, -- Oathsworn Stompers
+		251115, -- Bifurcation Band
+		251093, -- Omission of Light
+		250256, -- Heart of Wind
+		250144, -- Emberwing Feather
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Holy Paladin",
@@ -69,21 +72,22 @@ HOLY_PALADIN_MYTHIC_PLUS_BIS = {
 
 PROTECTION_PALADIN_OVERALL_BIS = {
 	itemIDs = {
-		242470, -- Mandibular Bonewhacker
-		221117, -- Sanctified Priory Wall
-		237619, -- Lightmane of the Lucent Battalion
-		237568, -- Chrysalis of Sundered Souls
-		237617, -- Chargers of the Lucent Battalion
-		237622, -- Cuirass of the Lucent Battalion
-		222435, -- Everforged Vambraces
-		237620, -- Protectors of the Lucent Battalion
-		222431, -- Everforged Greatbelt
-		237530, -- Shrapnel-Fused Legguards
-		243307, -- Interloper's Plated Sabatons
-		242405, -- Band of the Shattered Soul
-		185813, -- Signet of Collapsing Stars
-		242401, -- Brand of Ceaseless Ire
-		219309, -- Tome of Light's Devotion
+		249295, -- Turalyon's False Echo
+		249275, -- Bulwark of Noble Resolve
+		249961, -- Luminant Verdict's Unwavering Gaze
+		251096, -- Pendant of Aching Grief
+		249959, -- Luminant Verdict's Providence Watch
+		249335, -- Imperator's Banner
+		249964, -- Luminant Verdict's Divine Warplate
+		237834, -- Spellbreaker's Bracers
+		151332, -- Voidclaw Gauntlets
+		249331, -- Ezzorak's Gloombind
+		249960, -- Luminant Verdict's Greaves
+		249332, -- Parasite Stompers
+		251217, -- Occlusion of Void
+		251513, -- Loa Worshiper's Band
+		260235, -- Umbral Plume
+		193701, -- Algeth'ar Puzzle Box
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Protection Paladin",
@@ -92,21 +96,22 @@ PROTECTION_PALADIN_OVERALL_BIS = {
 
 PROTECTION_PALADIN_RAID_BIS = {
 	itemIDs = {
-		237734, -- Oath-Breaker's Recompense
-		237741, -- Event Horizon
-		237619, -- Lightmane of the Lucent Battalion
-		237568, -- Chrysalis of Sundered Souls
-		237617, -- Chargers of the Lucent Battalion
-		237622, -- Cuirass of the Lucent Battalion
-		222435, -- Everforged Vambraces
-		237620, -- Protectors of the Lucent Battalion
-		222431, -- Everforged Greatbelt
-		237530, -- Shrapnel-Fused Legguards
-		243307, -- Interloper's Plated Sabatons
-		237570, -- Logic Gate: Omega
-		242405, -- Band of the Shattered Soul
-		242394, -- Eradicating Arcanocore
-		242401, -- Brand of Ceaseless Ire
+		249295, -- Turalyon's False Echo
+		249275, -- Bulwark of Noble Resolve
+		249961, -- Luminant Verdict's Unwavering Gaze
+		249337, -- Ribbon of Coiled Malice
+		249959, -- Luminant Verdict's Providence Watch
+		249335, -- Imperator's Banner
+		249309, -- Sunbound Breastplate
+		237834, -- Spellbreaker's Bracers
+		249962, -- Luminant Verdict's Gauntlets
+		249331, -- Ezzorak's Gloombind
+		249960, -- Luminant Verdict's Greaves
+		249332, -- Parasite Stompers
+		249920, -- Eye of Midnight
+		251513, -- Loa Worshiper's Band
+		260235, -- Umbral Plume
+		249343, -- Gaze of the Alnseer
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Protection Paladin",
@@ -115,21 +120,22 @@ PROTECTION_PALADIN_RAID_BIS = {
 
 PROTECTION_PALADIN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		242470, -- Mandibular Bonewhacker
-		221117, -- Sanctified Priory Wall
-		237619, -- Lightmane of the Lucent Battalion
-		185820, -- Cabochon of the Infinite Flight
-		237617, -- Chargers of the Lucent Battalion
-		237622, -- Cuirass of the Lucent Battalion
-		222435, -- Everforged Vambraces
-		237620, -- Protectors of the Lucent Battalion
-		222431, -- Everforged Greatbelt
-		178818, -- Halkias's Towering Pillars
-		221123, -- Devoted Plate Walkers
-		246281, -- Ring of the Panoply
-		185813, -- Signet of Collapsing Stars
-		185844, -- Ticking Sack of Terror
-		219309, -- Tome of Light's Devotion
+		193711, -- Spellbane Cutlass
+		251105, -- Ward of the Spellbreaker
+		249961, -- Luminant Verdict's Unwavering Gaze
+		251096, -- Pendant of Aching Grief
+		249959, -- Luminant Verdict's Providence Watch
+		49823, -- Cloak of the Fallen Cardinal
+		249964, -- Luminant Verdict's Divine Warplate
+		237834, -- Spellbreaker's Bracers
+		151332, -- Voidclaw Gauntlets
+		251112, -- Shadowsplit Girdle
+		249960, -- Luminant Verdict's Greaves
+		251169, -- Footwraps of Ill-Fate
+		251217, -- Occlusion of Void
+		251513, -- Loa Worshiper's Band
+		252420, -- Solarflare Prism
+		193701, -- Algeth'ar Puzzle Box
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Protection Paladin",
@@ -138,20 +144,21 @@ PROTECTION_PALADIN_MYTHIC_PLUS_BIS = {
 
 RETRIBUTION_PALADIN_OVERALL_BIS = {
 	itemIDs = {
-		237737, -- Photon Sabre Prime
-		237619, -- Lightmane of the Lucent Battalion
-		242406, -- Salhadaar's Folly
-		237617, -- Chargers of the Lucent Battalion
-		237622, -- Cuirass of the Lucent Battalion
-		222435, -- Everforged Vambraces
-		237620, -- Protectors of the Lucent Battalion
-		222431, -- Everforged Greatbelt
-		237618, -- Cuisses of the Lucent Battalion
-		243307, -- Interloper's Plated Sabatons
-		237570, -- Logic Gate: Omega
-		237567, -- Logic Gate: Alpha
-		242399, -- Screams of a Forgotten Sky
-		242395, -- Astral Antenna
+		249277, -- Bellamy's Final Judgement
+		249961, -- Luminant Verdict's Unwavering Gaze
+		250247, -- Amulet of the Abyssal Hymn
+		249959, -- Luminant Verdict's Providence Watch
+		239656, -- Adherent's Silken Shroud
+		249964, -- Luminant Verdict's Divine Warplate
+		237834, -- Spellbreaker's Bracers
+		151332, -- Voidclaw Gauntlets
+		249380, -- Hate-Tied Waistchain
+		249960, -- Luminant Verdict's Greaves
+		249381, -- Greaves of the Unformed
+		249920, -- Eye of Midnight
+		249919, -- Sin'dorei Band of Hope
+		193701, -- Algeth'ar Puzzle Box
+		260235, -- Umbral Plume
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Retribution Paladin",
@@ -160,20 +167,21 @@ RETRIBUTION_PALADIN_OVERALL_BIS = {
 
 RETRIBUTION_PALADIN_RAID_BIS = {
 	itemIDs = {
-		237737, -- Photon Sabre Prime
-		237619, -- Lightmane of the Lucent Battalion
-		242406, -- Salhadaar's Folly
-		237617, -- Chargers of the Lucent Battalion
-		237622, -- Cuirass of the Lucent Battalion
-		237545, -- Discarded Nutrient Shackles
-		237620, -- Protectors of the Lucent Battalion
-		237550, -- Fresh Ethereal Fetters
-		237618, -- Cuisses of the Lucent Battalion
-		243307, -- Interloper's Plated Sabatons
-		237570, -- Logic Gate: Omega
-		237567, -- Logic Gate: Alpha
-		242399, -- Screams of a Forgotten Sky
-		242395, -- Astral Antenna
+		249277, -- Bellamy's Final Judgement
+		249961, -- Luminant Verdict's Unwavering Gaze
+		250247, -- Amulet of the Abyssal Hymn
+		249959, -- Luminant Verdict's Providence Watch
+		239656, -- Adherent's Silken Shroud
+		249964, -- Luminant Verdict's Divine Warplate
+		237834, -- Spellbreaker's Bracers
+		249307, -- Emberborn Grasps
+		249380, -- Hate-Tied Waistchain
+		249960, -- Luminant Verdict's Greaves
+		249381, -- Greaves of the Unformed
+		249920, -- Eye of Midnight
+		249919, -- Sin'dorei Band of Hope
+		249343, -- Gaze of the Alnseer
+		249806, -- Radiant Plume
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Retribution Paladin",
@@ -182,20 +190,21 @@ RETRIBUTION_PALADIN_RAID_BIS = {
 
 RETRIBUTION_PALADIN_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		242487, -- Fatebound Crusader
-		237619, -- Lightmane of the Lucent Battalion
-		185842, -- Ornately Engraved Amplifier
-		237617, -- Chargers of the Lucent Battalion
-		237622, -- Cuirass of the Lucent Battalion
-		185815, -- Vambraces of Verification
-		237620, -- Protectors of the Lucent Battalion
-		185806, -- Improvisational Cinch
-		237618, -- Cuisses of the Lucent Battalion
-		185787, -- Implacable Weatherproof Treads
-		221136, -- Devout Zealot's Ring
-		178824, -- Signet of the False Accuser
-		232541, -- Improvised Seaforium Pacemaker
-		219314, -- Ara-Kara Sacbrood
+		251168, -- Liferipper's Cutlass
+		249961, -- Luminant Verdict's Unwavering Gaze
+		50228, -- Barbed Ymirheim Choker
+		249959, -- Luminant Verdict's Providence Watch
+		239656, -- Adherent's Silken Shroud
+		249964, -- Luminant Verdict's Divine Warplate
+		237834, -- Spellbreaker's Bracers
+		151332, -- Voidclaw Gauntlets
+		151327, -- Girdle of the Shadowguard
+		249960, -- Luminant Verdict's Greaves
+		251107, -- Oathsworn Stompers
+		251093, -- Omission of Light
+		251217, -- Occlusion of Void
+		252420, -- Solarflare Prism
+		193701, -- Algeth'ar Puzzle Box
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Retribution Paladin",

@@ -1,19 +1,20 @@
 ARMS_WARRIOR_OVERALL_BIS = {
 	itemIDs = {
-		243365, -- Maw of the Void
-		237610, -- Living Weapon's Faceshield
-		242406, -- Salhadaar's Folly
-		237608, -- Living Weapon's Ramparts
-		237613, -- Living Weapon's Bulwark
-		222435, -- Everforged Vambraces
-		237611, -- Living Weapon's Crushers
-		222431, -- Everforged Greatbelt
-		237609, -- Living Weapon's Legguards
-		243307, -- Interloper's Plated Sabatons
-		242405, -- Band of the Shattered Soul
-		221136, -- Devout Zealot's Ring
-		242399, -- Screams of a Forgotten Sky
-		242395, -- Astral Antenna
+		249296, -- Alah'endal, the Dawnsong
+		249952, -- Night Ender's Tusks
+		249337, -- Ribbon of Coiled Malice
+		249950, -- Night Ender's Pauldrons
+		239656, -- Adherent's Silken Shroud
+		249955, -- Night Ender's Breastplate
+		237834, -- Spellbreaker's Bracers
+		251081, -- Embergrove Grasps
+		249949, -- Night Ender's Girdle
+		249951, -- Night Ender's Chausses
+		249381, -- Greaves of the Unformed
+		249920, -- Eye of Midnight
+		251217, -- Occlusion of Void
+		249343, -- Gaze of the Alnseer
+		249342, -- Heart of Ancient Hunger
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Arms Warrior",
@@ -22,19 +23,21 @@ ARMS_WARRIOR_OVERALL_BIS = {
 
 ARMS_WARRIOR_RAID_BIS = {
 	itemIDs = {
-		243365, -- Maw of the Void
-		237610, -- Living Weapon's Faceshield
-		242406, -- Salhadaar's Folly
-		237608, -- Living Weapon's Ramparts
-		237613, -- Living Weapon's Bulwark
-		222435, -- Everforged Vambraces
-		237611, -- Living Weapon's Crushers
-		222431, -- Everforged Greatbelt
-		237609, -- Living Weapon's Legguards
-		243307, -- Interloper's Plated Sabatons
-		242405, -- Band of the Shattered Soul
-		242399, -- Screams of a Forgotten Sky
-		242394, -- Eradicating Arcanocore
+		249296, -- Alah'endal, the Dawnsong
+		249952, -- Night Ender's Tusks
+		249337, -- Ribbon of Coiled Malice
+		249950, -- Night Ender's Pauldrons
+		239656, -- Adherent's Silken Shroud
+		249955, -- Night Ender's Breastplate
+		237834, -- Spellbreaker's Bracers
+		249307, -- Emberborn Grasps
+		249949, -- Night Ender's Girdle
+		249951, -- Night Ender's Chausses
+		249381, -- Greaves of the Unformed
+		249920, -- Eye of Midnight
+		249919, -- Sin'dorei Band of Hope
+		249343, -- Gaze of the Alnseer
+		249342, -- Heart of Ancient Hunger
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Arms Warrior",
@@ -43,20 +46,21 @@ ARMS_WARRIOR_RAID_BIS = {
 
 ARMS_WARRIOR_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		242487, -- Fatebound Crusader
-		246283, -- Crown of Absolute Command
-		185842, -- Ornately Engraved Amplifier
-		185803, -- Stoneflesh Spaulders
-		178814, -- Breastplate of Otherworldly Influence
-		222435, -- Everforged Vambraces
-		221151, -- Devourer's Gauntlets
-		222431, -- Everforged Greatbelt
-		185798, -- Quantum Leapers
-		221123, -- Devoted Plate Walkers
-		246281, -- Ring of the Panoply
-		221136, -- Devout Zealot's Ring
-		246344, -- Cursed Stone Idol
-		232541, -- Improvised Seaforium Pacemaker
+		49802, -- Garfrost's Two-Ton Hammer
+		249952, -- Night Ender's Tusks
+		50228, -- Barbed Ymirheim Choker
+		249950, -- Night Ender's Pauldrons
+		239656, -- Adherent's Silken Shroud
+		249955, -- Night Ender's Breastplate
+		237834, -- Spellbreaker's Bracers
+		151332, -- Voidclaw Gauntlets
+		49808, -- Bent Gold Belt
+		249951, -- Night Ender's Chausses
+		251107, -- Oathsworn Stompers
+		49812, -- Purloined Wedding Ring
+		251217, -- Occlusion of Void
+		193701, -- Algeth'ar Puzzle Box
+		252420, -- Solarflare Prism
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Arms Warrior",
@@ -65,21 +69,22 @@ ARMS_WARRIOR_MYTHIC_PLUS_BIS = {
 
 FURY_WARRIOR_OVERALL_BIS = {
 	itemIDs = {
-		234490, -- Circuit Breaker
-		222443, -- Everforged Greataxe
-		238028, -- Bone-Melted Faceplate
-		237568, -- Chrysalis of Sundered Souls
-		237608, -- Living Weapon's Ramparts
-		237613, -- Living Weapon's Bulwark
-		222435, -- Everforged Vambraces
-		237611, -- Living Weapon's Crushers
-		237607, -- Living Weapon's Chain
-		237609, -- Living Weapon's Legguards
-		243307, -- Interloper's Plated Sabatons
-		221200, -- Radiant Necromancer's Band
-		178824, -- Signet of the False Accuser
-		242399, -- Screams of a Forgotten Sky
-		242394, -- Eradicating Arcanocore
+		249277, -- Bellamy's Final Judgement
+		237847, -- Blood Knight's Impetus
+		249952, -- Night Ender's Tusks
+		250247, -- Amulet of the Abyssal Hymn
+		249950, -- Night Ender's Pauldrons
+		258575, -- Rigid Scale Greatcloak
+		249955, -- Night Ender's Breastplate
+		237834, -- Spellbreaker's Bracers
+		151332, -- Voidclaw Gauntlets
+		249949, -- Night Ender's Girdle
+		249951, -- Night Ender's Chausses
+		249954, -- Night Ender's Greatboots
+		249920, -- Eye of Midnight
+		193708, -- Platinum Star Band
+		249343, -- Gaze of the Alnseer
+		249342, -- Heart of Ancient Hunger
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Fury Warrior",
@@ -88,20 +93,22 @@ FURY_WARRIOR_OVERALL_BIS = {
 
 FURY_WARRIOR_RAID_BIS = {
 	itemIDs = {
-		237737, -- Photon Sabre Prime
-		222443, -- Everforged Greataxe
-		238028, -- Bone-Melted Faceplate
-		237568, -- Chrysalis of Sundered Souls
-		237608, -- Living Weapon's Ramparts
-		237613, -- Living Weapon's Bulwark
-		222435, -- Everforged Vambraces
-		237611, -- Living Weapon's Crushers
-		237607, -- Living Weapon's Chain
-		237609, -- Living Weapon's Legguards
-		243307, -- Interloper's Plated Sabatons
-		237570, -- Logic Gate: Omega
-		242399, -- Screams of a Forgotten Sky
-		242394, -- Eradicating Arcanocore
+		249277, -- Bellamy's Final Judgement
+		237847, -- Blood Knight's Impetus
+		249952, -- Night Ender's Tusks
+		250247, -- Amulet of the Abyssal Hymn
+		249950, -- Night Ender's Pauldrons
+		249370, -- Draconic Nullcape
+		249955, -- Night Ender's Breastplate
+		237834, -- Spellbreaker's Bracers
+		251081, -- Embergrove Grasps
+		249949, -- Night Ender's Girdle
+		249951, -- Night Ender's Chausses
+		249954, -- Night Ender's Greatboots
+		249920, -- Eye of Midnight
+		249919, -- Sin'dorei Band of Hope
+		249343, -- Gaze of the Alnseer
+		249342, -- Heart of Ancient Hunger
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Fury Warrior",
@@ -110,20 +117,22 @@ FURY_WARRIOR_RAID_BIS = {
 
 FURY_WARRIOR_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		222443, -- Everforged Greataxe
-		234490, -- Circuit Breaker
-		178812, -- Wing Commander's Helmet
-		178827, -- Sin Stained Pendant
-		221155, -- Swarm Monarch's Spaulders
-		221161, -- Experimental Goresilk Chestguard
-		185792, -- Achillite's Unbreakable Grip
-		185806, -- Improvisational Cinch
-		178818, -- Halkias's Towering Pillars
-		185787, -- Implacable Weatherproof Treads
-		221200, -- Radiant Necromancer's Band
-		178824, -- Signet of the False Accuser
-		246344, -- Cursed Stone Idol
-		232541, -- Improvised Seaforium Pacemaker
+		251117, -- Whirling Voidcleaver
+		237847, -- Blood Knight's Impetus
+		251098, -- Fletcher's Faded Faceplate
+		151309, -- Necklace of the Twisting Void
+		251164, -- Amalgamation's Harness
+		260312, -- Defiant Defender's Drape
+		151329, -- Breastplate of the Dark Touch
+		237834, -- Spellbreaker's Bracers
+		151332, -- Voidclaw Gauntlets
+		151327, -- Girdle of the Shadowguard
+		251118, -- Legplates of Lingering Dusk
+		251107, -- Oathsworn Stompers
+		251115, -- Bifurcation Band
+		251093, -- Omission of Light
+		193701, -- Algeth'ar Puzzle Box
+		252420, -- Solarflare Prism
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Fury Warrior",
@@ -132,21 +141,23 @@ FURY_WARRIOR_MYTHIC_PLUS_BIS = {
 
 PROTECTION_WARRIOR_OVERALL_BIS = {
 	itemIDs = {
-		237610, -- Living Weapon's Faceshield
-		237569, -- Duskblaze's Desperation
-		237608, -- Living Weapon's Ramparts
-		178814, -- Breastplate of Otherworldly Influence
-		222435, -- Everforged Vambraces
-		237611, -- Living Weapon's Crushers
-		222431, -- Everforged Greatbelt
-		237609, -- Living Weapon's Legguards
-		243307, -- Interloper's Plated Sabatons
-		242405, -- Band of the Shattered Soul
-		237570, -- Logic Gate: Omega
-		219309, -- Tome of Light's Devotion
-		242401, -- Brand of Ceaseless Ire
-		237734, -- Oath-Breaker's Recompense
-		237723, -- Ward of the Weaving-Beast
+		249952, -- Night Ender's Tusks
+		249368, -- Eternal Voidsong Chain
+		249950, -- Night Ender's Pauldrons
+		239656, -- Adherent's Silken Shroud
+		249955, -- Night Ender's Breastplate
+		237834, -- Spellbreaker's Bracers
+		151332, -- Voidclaw Gauntlets
+		249949, -- Night Ender's Girdle
+		249951, -- Night Ender's Chausses
+		249954, -- Night Ender's Greatboots
+		249920, -- Eye of Midnight
+		251217, -- Occlusion of Void
+		249343, -- Gaze of the Alnseer
+		193701, -- Algeth'ar Puzzle Box
+		249806, -- Radiant Plume
+		249295, -- Turalyon's False Echo
+		251105, -- Ward of the Spellbreaker
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Protection Warrior",
@@ -155,21 +166,22 @@ PROTECTION_WARRIOR_OVERALL_BIS = {
 
 PROTECTION_WARRIOR_RAID_BIS = {
 	itemIDs = {
-		237610, -- Living Weapon's Faceshield
-		237569, -- Duskblaze's Desperation
-		237608, -- Living Weapon's Ramparts
-		237613, -- Living Weapon's Bulwark
-		237561, -- Yoke of Enveloping Hatred
-		237611, -- Living Weapon's Crushers
-		237550, -- Fresh Ethereal Fetters
-		237609, -- Living Weapon's Legguards
-		243307, -- Interloper's Plated Sabatons
-		242405, -- Band of the Shattered Soul
-		237570, -- Logic Gate: Omega
-		242395, -- Astral Antenna
-		242401, -- Brand of Ceaseless Ire
-		237734, -- Oath-Breaker's Recompense
-		237723, -- Ward of the Weaving-Beast
+		249952, -- Night Ender's Tusks
+		249368, -- Eternal Voidsong Chain
+		249950, -- Night Ender's Pauldrons
+		239656, -- Adherent's Silken Shroud
+		249955, -- Night Ender's Breastplate
+		237834, -- Spellbreaker's Bracers
+		249307, -- Emberborn Grasps
+		249949, -- Night Ender's Girdle
+		249951, -- Night Ender's Chausses
+		249954, -- Night Ender's Greatboots
+		249920, -- Eye of Midnight
+		249369, -- Bond of Light
+		249343, -- Gaze of the Alnseer
+		249806, -- Radiant Plume
+		249295, -- Turalyon's False Echo
+		249275, -- Bulwark of Noble Resolve
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Protection Warrior",
@@ -178,21 +190,22 @@ PROTECTION_WARRIOR_RAID_BIS = {
 
 PROTECTION_WARRIOR_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		237610, -- Living Weapon's Faceshield
-		185842, -- Ornately Engraved Amplifier
-		237608, -- Living Weapon's Ramparts
-		178814, -- Breastplate of Otherworldly Influence
-		185815, -- Vambraces of Verification
-		237611, -- Living Weapon's Crushers
-		234505, -- Venture Contractor's Floodlight
-		237609, -- Living Weapon's Legguards
-		185787, -- Implacable Weatherproof Treads
-		242491, -- Whispers of K'aresh
-		246281, -- Ring of the Panoply
-		219309, -- Tome of Light's Devotion
-		232541, -- Improvised Seaforium Pacemaker
-		221145, -- Shipwrecker's Bludgeon
-		221117, -- Sanctified Priory Wall
+		249952, -- Night Ender's Tusks
+		151309, -- Necklace of the Twisting Void
+		249950, -- Night Ender's Pauldrons
+		239656, -- Adherent's Silken Shroud
+		249955, -- Night Ender's Breastplate
+		237834, -- Spellbreaker's Bracers
+		151332, -- Voidclaw Gauntlets
+		251086, -- Riphook Defender
+		249951, -- Night Ender's Chausses
+		249954, -- Night Ender's Greatboots
+		251093, -- Omission of Light
+		251217, -- Occlusion of Void
+		193701, -- Algeth'ar Puzzle Box
+		250256, -- Heart of Wind
+		258525, -- Scepter of the Endless Night
+		251105, -- Ward of the Spellbreaker
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Protection Warrior",

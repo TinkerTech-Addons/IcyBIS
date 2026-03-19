@@ -1,20 +1,21 @@
 BALANCE_DRUID_OVERALL_BIS = {
 	itemIDs = {
-		237730, -- Voidglass Spire
-		237728, -- Voidglass Kris
-		237682, -- Skymane of the Mother Eagle
-		178827, -- Sin Stained Pendant
-		237680, -- Ritual Pauldrons of the Mother Eagle
-		237685, -- Vest of the Mother Eagle
-		237562, -- Time-Compressed Wristguards
-		237540, -- Winged Gamma Handlers
-		237533, -- Atomic Phasebelt
-		237681, -- Breeches of the Mother Eagle
-		243306, -- Interloper's Reinforced Sandals
-		237570, -- Logic Gate: Omega
-		178824, -- Signet of the False Accuser
-		242402, -- Araz's Ritual Forge
-		242395, -- Astral Antenna
+		249286, -- Brazier of the Dissonant Dirge
+		249283, -- Belo'melorn, the Shattered Talon
+		250024, -- Branches of the Luminous Bloom
+		250247, -- Amulet of the Abyssal Hymn
+		250022, -- Seedpods of the Luminous Bloom
+		250019, -- Leafdrape of the Luminous Bloom
+		250027, -- Trunk of the Luminous Bloom
+		249327, -- Void-Skinned Bracers
+		244575, -- Silvermoon Agent's Handwraps
+		249374, -- Scorn-Scarred Shul'ka's Belt
+		250023, -- Phloemwraps of the Luminous Bloom
+		244569, -- Silvermoon Agent's Sneakers
+		251217, -- Occlusion of Void
+		251093, -- Omission of Light
+		249343, -- Gaze of the Alnseer
+		249346, -- Vaelgor's Final Stare
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Balance Druid",
@@ -23,21 +24,22 @@ BALANCE_DRUID_OVERALL_BIS = {
 
 BALANCE_DRUID_RAID_BIS = {
 	itemIDs = {
-		237730, -- Voidglass Spire
-		237728, -- Voidglass Kris
-		237682, -- Skymane of the Mother Eagle
-		237569, -- Duskblaze's Desperation
-		237680, -- Ritual Pauldrons of the Mother Eagle
-		237685, -- Vest of the Mother Eagle
-		237562, -- Time-Compressed Wristguards
-		237540, -- Winged Gamma Handlers
-		237533, -- Atomic Phasebelt
-		237681, -- Breeches of the Mother Eagle
-		243306, -- Interloper's Reinforced Sandals
-		237570, -- Logic Gate: Omega
-		242405, -- Band of the Shattered Soul
-		242402, -- Araz's Ritual Forge
-		242395, -- Astral Antenna
+		249286, -- Brazier of the Dissonant Dirge
+		249283, -- Belo'melorn, the Shattered Talon
+		250024, -- Branches of the Luminous Bloom
+		250247, -- Amulet of the Abyssal Hymn
+		250022, -- Seedpods of the Luminous Bloom
+		250019, -- Leafdrape of the Luminous Bloom
+		250027, -- Trunk of the Luminous Bloom
+		249327, -- Void-Skinned Bracers
+		244575, -- Silvermoon Agent's Handwraps
+		249374, -- Scorn-Scarred Shul'ka's Belt
+		250023, -- Phloemwraps of the Luminous Bloom
+		244569, -- Silvermoon Agent's Sneakers
+		249920, -- Eye of Midnight
+		249369, -- Bond of Light
+		249343, -- Gaze of the Alnseer
+		249346, -- Vaelgor's Final Stare
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Balance Druid",
@@ -46,21 +48,22 @@ BALANCE_DRUID_RAID_BIS = {
 
 BALANCE_DRUID_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		185822, -- Staff of Fractured Spacetime
-		221122, -- Hand of Beledar
-		237682, -- Skymane of the Mother Eagle
-		178827, -- Sin Stained Pendant
-		237680, -- Ritual Pauldrons of the Mother Eagle
-		237685, -- Vest of the Mother Eagle
-		234499, -- Disturbed Kelp Wraps
-		185791, -- Knuckle-Dusting Handwraps
-		221134, -- Shadow Congregant's Belt
-		237681, -- Breeches of the Mother Eagle
-		221120, -- Stalwart Guardian's Boots
-		242491, -- Whispers of K'aresh
-		178824, -- Signet of the False Accuser
-		242497, -- Azhiccaran Parapodia
-		242494, -- Lily of the Eternal Weave
+		251201, -- Corespark Multitool
+		193709, -- Vexamus' Expulsion Rod
+		250024, -- Branches of the Luminous Bloom
+		50228, -- Barbed Ymirheim Choker
+		250022, -- Seedpods of the Luminous Bloom
+		260312, -- Defiant Defender's Drape
+		250027, -- Trunk of the Luminous Bloom
+		50264, -- Chewed Leather Wristguards
+		244575, -- Silvermoon Agent's Handwraps
+		251082, -- Snapvine Cinch
+		250023, -- Phloemwraps of the Luminous Bloom
+		244569, -- Silvermoon Agent's Sneakers
+		251115, -- Bifurcation Band
+		251093, -- Omission of Light
+		250144, -- Emberwing Feather
+		250223, -- Soulcatcher's Charm
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Balance Druid",
@@ -69,23 +72,24 @@ BALANCE_DRUID_MYTHIC_PLUS_BIS = {
 
 FERAL_DRUID_OVERALL_BIS = {
 	itemIDs = {
-		221159, -- Harvester's Interdiction
-		237739, -- Obliteration Beamglaive
-		222448, -- Charged Halberd
-		237682, -- Skymane of the Mother Eagle
-		242406, -- Salhadaar's Folly
-		237680, -- Ritual Pauldrons of the Mother Eagle
-		185786, -- So'azmi's Fractal Vest
-		219334, -- Rune-Branded Armbands
-		237683, -- Wings of the Mother Eagle
-		219331, -- Rune-Branded Waistband
-		237681, -- Breeches of the Mother Eagle
-		243306, -- Interloper's Reinforced Sandals
-		221200, -- Radiant Necromancer's Band
-		246281, -- Ring of the Panoply
-		242402, -- Araz's Ritual Forge
-		242395, -- Astral Antenna
-		185818, -- So'leah's Secret Technique
+		251077, -- Roostwarden's Bough
+		245771, -- Aln'hara Pikestaff
+		250024, -- Branches of the Luminous Bloom
+		250247, -- Amulet of the Abyssal Hymn
+		251092, -- Fallen Grunt's Mantle
+		239656, -- Adherent's Silken Shroud
+		250027, -- Trunk of the Luminous Bloom
+		244576, -- Silvermoon Agent's Deflectors
+		193714, -- Frenzyroot Cuffs
+		250025, -- Arbortenders of the Luminous Bloom
+		249374, -- Scorn-Scarred Shul'ka's Belt
+		250023, -- Phloemwraps of the Luminous Bloom
+		249382, -- Canopy Walker's Footwraps
+		251093, -- Omission of Light
+		251217, -- Occlusion of Void
+		249343, -- Gaze of the Alnseer
+		193701, -- Algeth'ar Puzzle Box
+		249806, -- Radiant Plume
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Feral Druid",
@@ -94,22 +98,23 @@ FERAL_DRUID_OVERALL_BIS = {
 
 FERAL_DRUID_RAID_BIS = {
 	itemIDs = {
-		237739, -- Obliteration Beamglaive
-		243365, -- Maw of the Void
-		237682, -- Skymane of the Mother Eagle
-		242406, -- Salhadaar's Folly
-		237680, -- Ritual Pauldrons of the Mother Eagle
-		237685, -- Vest of the Mother Eagle
-		237562, -- Time-Compressed Wristguards
-		237683, -- Wings of the Mother Eagle
-		237533, -- Atomic Phasebelt
-		237681, -- Breeches of the Mother Eagle
-		243306, -- Interloper's Reinforced Sandals
-		237567, -- Logic Gate: Alpha
-		237570, -- Logic Gate: Omega
-		242402, -- Araz's Ritual Forge
-		242395, -- Astral Antenna
-		242397, -- Sigil of the Cosmic Hunt
+		249302, -- Inescapable Reach
+		245771, -- Aln'hara Pikestaff
+		250024, -- Branches of the Luminous Bloom
+		250247, -- Amulet of the Abyssal Hymn
+		250022, -- Seedpods of the Luminous Bloom
+		239656, -- Adherent's Silken Shroud
+		250027, -- Trunk of the Luminous Bloom
+		244576, -- Silvermoon Agent's Deflectors
+		249327, -- Void-Skinned Bracers
+		250025, -- Arbortenders of the Luminous Bloom
+		249374, -- Scorn-Scarred Shul'ka's Belt
+		250023, -- Phloemwraps of the Luminous Bloom
+		249382, -- Canopy Walker's Footwraps
+		249920, -- Eye of Midnight
+		249369, -- Bond of Light
+		249343, -- Gaze of the Alnseer
+		249806, -- Radiant Plume
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Feral Druid",
@@ -118,22 +123,23 @@ FERAL_DRUID_RAID_BIS = {
 
 FERAL_DRUID_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221159, -- Harvester's Interdiction
-		242481, -- Spellstrike Warplance
-		221125, -- Helm of the Righteous Crusade
-		178827, -- Sin Stained Pendant
-		185802, -- Breakbeat Shoulderguards
-		185786, -- So'azmi's Fractal Vest
-		221157, -- Unbreakable Beetlebane Bindings
-		185791, -- Knuckle-Dusting Handwraps
-		221134, -- Shadow Congregant's Belt
-		178819, -- Skyterror's Stonehide Leggings
-		246280, -- Boots of Titanic Deconversion
-		221200, -- Radiant Necromancer's Band
-		246281, -- Ring of the Panoply
-		232541, -- Improvised Seaforium Pacemaker
-		242494, -- Lily of the Eternal Weave
-		185818, -- So'leah's Secret Technique
+		251077, -- Roostwarden's Bough
+		245771, -- Aln'hara Pikestaff
+		250024, -- Branches of the Luminous Bloom
+		50228, -- Barbed Ymirheim Choker
+		251092, -- Fallen Grunt's Mantle
+		239656, -- Adherent's Silken Shroud
+		250027, -- Trunk of the Luminous Bloom
+		244576, -- Silvermoon Agent's Deflectors
+		193714, -- Frenzyroot Cuffs
+		250025, -- Arbortenders of the Luminous Bloom
+		49806, -- Flayer's Black Belt
+		250023, -- Phloemwraps of the Luminous Bloom
+		258577, -- Boots of Burning Focus
+		251093, -- Omission of Light
+		251217, -- Occlusion of Void
+		193701, -- Algeth'ar Puzzle Box
+		250256, -- Heart of Wind
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Feral Druid",
@@ -142,20 +148,21 @@ FERAL_DRUID_MYTHIC_PLUS_BIS = {
 
 GUARDIAN_DRUID_OVERALL_BIS = {
 	itemIDs = {
-		221159, -- Harvester's Interdiction
-		237682, -- Skymane of the Mother Eagle
-		237569, -- Duskblaze's Desperation
-		237680, -- Ritual Pauldrons of the Mother Eagle
-		237685, -- Vest of the Mother Eagle
-		219334, -- Rune-Branded Armbands
-		237540, -- Winged Gamma Handlers
-		238027, -- Harvested Creephide Cord
-		237681, -- Breeches of the Mother Eagle
-		243306, -- Interloper's Reinforced Sandals
-		242405, -- Band of the Shattered Soul
-		215135, -- Ring of Earthen Craftsmanship
-		242401, -- Brand of Ceaseless Ire
-		185844, -- Ticking Sack of Terror
+		249278, -- Alnscorned Spire
+		151336, -- Voidlashed Hood
+		249368, -- Eternal Voidsong Chain
+		250022, -- Seedpods of the Luminous Bloom
+		249370, -- Draconic Nullcape
+		250027, -- Trunk of the Luminous Bloom
+		244576, -- Silvermoon Agent's Deflectors
+		250025, -- Arbortenders of the Luminous Bloom
+		244573, -- Silvermoon Agent's Utility Belt
+		250023, -- Phloemwraps of the Luminous Bloom
+		249334, -- Void-Claimed Shinkickers
+		251217, -- Occlusion of Void
+		251093, -- Omission of Light
+		249343, -- Gaze of the Alnseer
+		193701, -- Algeth'ar Puzzle Box
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Guardian Druid",
@@ -164,20 +171,21 @@ GUARDIAN_DRUID_OVERALL_BIS = {
 
 GUARDIAN_DRUID_RAID_BIS = {
 	itemIDs = {
-		237726, -- Marvel of Technomancy
-		237682, -- Skymane of the Mother Eagle
-		237569, -- Duskblaze's Desperation
-		237680, -- Ritual Pauldrons of the Mother Eagle
-		237685, -- Vest of the Mother Eagle
-		219334, -- Rune-Branded Armbands
-		237540, -- Winged Gamma Handlers
-		238027, -- Harvested Creephide Cord
-		237681, -- Breeches of the Mother Eagle
-		243306, -- Interloper's Reinforced Sandals
-		242405, -- Band of the Shattered Soul
-		215135, -- Ring of Earthen Craftsmanship
-		242401, -- Brand of Ceaseless Ire
-		242402, -- Araz's Ritual Forge
+		249278, -- Alnscorned Spire
+		249913, -- Mask of Darkest Intent
+		249368, -- Eternal Voidsong Chain
+		250022, -- Seedpods of the Luminous Bloom
+		249370, -- Draconic Nullcape
+		250027, -- Trunk of the Luminous Bloom
+		244576, -- Silvermoon Agent's Deflectors
+		250025, -- Arbortenders of the Luminous Bloom
+		244573, -- Silvermoon Agent's Utility Belt
+		250023, -- Phloemwraps of the Luminous Bloom
+		249334, -- Void-Claimed Shinkickers
+		249920, -- Eye of Midnight
+		249336, -- Signet of the Starved Beast
+		249343, -- Gaze of the Alnseer
+		249807, -- The Eternal Egg
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Guardian Druid",
@@ -186,20 +194,21 @@ GUARDIAN_DRUID_RAID_BIS = {
 
 GUARDIAN_DRUID_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		221159, -- Harvester's Interdiction
-		237682, -- Skymane of the Mother Eagle
-		185820, -- Cabochon of the Infinite Flight
-		237680, -- Ritual Pauldrons of the Mother Eagle
-		237685, -- Vest of the Mother Eagle
-		219334, -- Rune-Branded Armbands
-		178832, -- Gloves of Haunting Fixation
-		245964, -- Durable Information Securing Container
-		237681, -- Breeches of the Mother Eagle
-		221120, -- Stalwart Guardian's Boots
-		185813, -- Signet of Collapsing Stars
-		215135, -- Ring of Earthen Craftsmanship
-		219309, -- Tome of Light's Devotion
-		185844, -- Ticking Sack of Terror
+		251162, -- Traitor's Talon
+		151336, -- Voidlashed Hood
+		251096, -- Pendant of Aching Grief
+		250022, -- Seedpods of the Luminous Bloom
+		251161, -- Soulhunter's Mask
+		250027, -- Trunk of the Luminous Bloom
+		244576, -- Silvermoon Agent's Deflectors
+		250025, -- Arbortenders of the Luminous Bloom
+		244573, -- Silvermoon Agent's Utility Belt
+		250023, -- Phloemwraps of the Luminous Bloom
+		251210, -- Eclipse Espadrilles
+		251217, -- Occlusion of Void
+		251093, -- Omission of Light
+		250144, -- Emberwing Feather
+		193701, -- Algeth'ar Puzzle Box
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Guardian Druid",
@@ -208,21 +217,22 @@ GUARDIAN_DRUID_MYTHIC_PLUS_BIS = {
 
 RESTORATION_DRUID_OVERALL_BIS = {
 	itemIDs = {
-		237728, -- Voidglass Kris
-		222566, -- Vagabond's Torch
-		237682, -- Skymane of the Mother Eagle
-		237569, -- Duskblaze's Desperation
-		237680, -- Ritual Pauldrons of the Mother Eagle
-		237685, -- Vest of the Mother Eagle
-		237562, -- Time-Compressed Wristguards
-		237683, -- Wings of the Mother Eagle
-		219331, -- Rune-Branded Waistband
-		178819, -- Skyterror's Stonehide Leggings
-		243306, -- Interloper's Reinforced Sandals
-		242491, -- Whispers of K'aresh
-		242405, -- Band of the Shattered Soul
-		242392, -- Diamantine Voidcore
-		242400, -- Nexus-King's Command
+		250024, -- Branches of the Luminous Bloom
+		250247, -- Amulet of the Abyssal Hymn
+		250022, -- Seedpods of the Luminous Bloom
+		249370, -- Draconic Nullcape
+		251216, -- Maledict Vest
+		193714, -- Frenzyroot Cuffs
+		250025, -- Arbortenders of the Luminous Bloom
+		249314, -- Twisted Twilight Sash
+		250023, -- Phloemwraps of the Luminous Bloom
+		251210, -- Eclipse Espadrilles
+		249920, -- Eye of Midnight
+		251115, -- Bifurcation Band
+		249809, -- Locus-Walker's Ribbon
+		249343, -- Gaze of the Alnseer
+		249283, -- Belo'melorn, the Shattered Talon
+		249922, -- Tome of Alnscorned Regret
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Restoration Druid",
@@ -231,20 +241,22 @@ RESTORATION_DRUID_OVERALL_BIS = {
 
 RESTORATION_DRUID_RAID_BIS = {
 	itemIDs = {
-		237730, -- Voidglass Spire
-		237682, -- Skymane of the Mother Eagle
-		237569, -- Duskblaze's Desperation
-		237680, -- Ritual Pauldrons of the Mother Eagle
-		237685, -- Vest of the Mother Eagle
-		237562, -- Time-Compressed Wristguards
-		237683, -- Wings of the Mother Eagle
-		237679, -- Dreamsash of the Mother Eagle
-		237531, -- Elite Shadowguard Legwraps
-		243306, -- Interloper's Reinforced Sandals
-		242405, -- Band of the Shattered Soul
-		237570, -- Logic Gate: Omega
-		242392, -- Diamantine Voidcore
-		242400, -- Nexus-King's Command
+		249913, -- Mask of Darkest Intent
+		250247, -- Amulet of the Abyssal Hymn
+		250022, -- Seedpods of the Luminous Bloom
+		249370, -- Draconic Nullcape
+		250027, -- Trunk of the Luminous Bloom
+		250020, -- Bindings of the Luminous Bloom
+		250025, -- Arbortenders of the Luminous Bloom
+		249314, -- Twisted Twilight Sash
+		250023, -- Phloemwraps of the Luminous Bloom
+		249334, -- Void-Claimed Shinkickers
+		249369, -- Bond of Light
+		249920, -- Eye of Midnight
+		249343, -- Gaze of the Alnseer
+		249809, -- Locus-Walker's Ribbon
+		249283, -- Belo'melorn, the Shattered Talon
+		249922, -- Tome of Alnscorned Regret
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Restoration Druid",
@@ -253,20 +265,21 @@ RESTORATION_DRUID_RAID_BIS = {
 
 RESTORATION_DRUID_MYTHIC_PLUS_BIS = {
 	itemIDs = {
-		185822, -- Staff of Fractured Spacetime
-		237682, -- Skymane of the Mother Eagle
-		178827, -- Sin Stained Pendant
-		237680, -- Ritual Pauldrons of the Mother Eagle
-		237685, -- Vest of the Mother Eagle
-		234499, -- Disturbed Kelp Wraps
-		237683, -- Wings of the Mother Eagle
-		237679, -- Dreamsash of the Mother Eagle
-		178819, -- Skyterror's Stonehide Leggings
-		221120, -- Stalwart Guardian's Boots
-		242491, -- Whispers of K'aresh
-		178824, -- Signet of the False Accuser
-		219314, -- Ara-Kara Sacbrood
-		185818, -- So'leah's Secret Technique
+		250024, -- Branches of the Luminous Bloom
+		251096, -- Pendant of Aching Grief
+		250022, -- Seedpods of the Luminous Bloom
+		193712, -- Potion-Stained Cloak
+		251216, -- Maledict Vest
+		193714, -- Frenzyroot Cuffs
+		250025, -- Arbortenders of the Luminous Bloom
+		251166, -- Falconer's Cinch
+		250023, -- Phloemwraps of the Luminous Bloom
+		251121, -- Domanaar's Dire Treads
+		251093, -- Omission of Light
+		251115, -- Bifurcation Band
+		193718, -- Emerald Coach's Whistle
+		250256, -- Heart of Wind
+		193707, -- Final Grade
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Restoration Druid",
