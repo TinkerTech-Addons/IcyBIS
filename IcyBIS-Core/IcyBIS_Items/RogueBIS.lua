@@ -87,7 +87,7 @@ OUTLAW_ROGUE_OVERALL_BIS = {
 		249920, -- Eye of Midnight
 		240949, -- Masterwork Sin'dorei Band
 		260235, -- Umbral Plume
-		249343, -- Gaze of the Alnseer
+		249345, -- Ranger-Captain's Iridescent Insignia
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Outlaw Rogue",
@@ -111,7 +111,7 @@ OUTLAW_ROGUE_RAID_BIS = {
 		249920, -- Eye of Midnight
 		240949, -- Masterwork Sin'dorei Band
 		260235, -- Umbral Plume
-		249343, -- Gaze of the Alnseer
+		249345, -- Ranger-Captain's Iridescent Insignia
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Outlaw Rogue",

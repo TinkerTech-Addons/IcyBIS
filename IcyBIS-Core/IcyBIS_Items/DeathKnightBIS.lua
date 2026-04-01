@@ -101,7 +101,7 @@ FROST_DEATH_KNIGHT_RAID_BIS = {
 		249281, -- Blade of the Final Twilight
 		237841, -- Spellbreaker's Ultimatum
 		249970, -- Relentless Rider's Crown
-		249337, -- Ribbon of Coiled Malice
+		250247, -- Amulet of the Abyssal Hymn
 		249313, -- Light-Judged Spaulders
 		239656, -- Adherent's Silken Shroud
 		249973, -- Relentless Rider's Cuirass
@@ -172,7 +172,7 @@ UNHOLY_DEATH_KNIGHT_RAID_BIS = {
 	itemIDs = {
 		249277, -- Bellamy's Final Judgement
 		249970, -- Relentless Rider's Crown
-		249337, -- Ribbon of Coiled Malice
+		250247, -- Amulet of the Abyssal Hymn
 		249313, -- Light-Judged Spaulders
 		239656, -- Adherent's Silken Shroud
 		249973, -- Relentless Rider's Cuirass

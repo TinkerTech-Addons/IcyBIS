@@ -148,7 +148,7 @@ PRESERVATION_EVOKER_OVERALL_BIS = {
 		249369, -- Bond of Light
 		249920, -- Eye of Midnight
 		249346, -- Vaelgor's Final Stare
-		249343, -- Gaze of the Alnseer
+		249809, -- Locus-Walker's Ribbon
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Preservation Evoker",
@@ -171,7 +171,7 @@ PRESERVATION_EVOKER_RAID_BIS = {
 		249369, -- Bond of Light
 		249920, -- Eye of Midnight
 		249346, -- Vaelgor's Final Stare
-		249343, -- Gaze of the Alnseer
+		249809, -- Locus-Walker's Ribbon
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Preservation Evoker",

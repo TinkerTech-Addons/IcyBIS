@@ -15,7 +15,7 @@ DISCIPLINE_PRIEST_OVERALL_BIS = {
 		249920, -- Eye of Midnight
 		251093, -- Omission of Light
 		249346, -- Vaelgor's Final Stare
-		249341, -- Volatile Void Suffuser
+		249343, -- Gaze of the Alnseer
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Dicipline Priest",
@@ -39,7 +39,7 @@ DISCIPLINE_PRIEST_RAID_BIS = {
 		249920, -- Eye of Midnight
 		249369, -- Bond of Light
 		249346, -- Vaelgor's Final Stare
-		249341, -- Volatile Void Suffuser
+		249343, -- Gaze of the Alnseer
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Dicipline Priest",
@@ -72,6 +72,7 @@ DISCIPLINE_PRIEST_MYTHIC_PLUS_BIS = {
 
 HOLY_PRIEST_OVERALL_BIS = {
 	itemIDs = {
+		245770, -- Aln'hara Cane
 		250051, -- Blind Oath's Winged Crest
 		250247, -- Amulet of the Abyssal Hymn
 		250049, -- Blind Oath's Seraphguards
@@ -85,8 +86,6 @@ HOLY_PRIEST_OVERALL_BIS = {
 		249336, -- Signet of the Starved Beast
 		151308, -- Eredath Seal of Nobility
 		249808, -- Litany of Lightblind Wrath
-		249809, -- Locus-Walker's Ribbon
-		245770, -- Aln'hara Cane
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Holy Priest",
@@ -95,6 +94,8 @@ HOLY_PRIEST_OVERALL_BIS = {
 
 HOLY_PRIEST_RAID_BIS = {
 	itemIDs = {
+		245770, -- Aln'hara Cane
+		249276, -- Grimoire of the Eternal Light
 		250051, -- Blind Oath's Winged Crest
 		249337, -- Ribbon of Coiled Malice
 		250049, -- Blind Oath's Seraphguards
@@ -108,9 +109,6 @@ HOLY_PRIEST_RAID_BIS = {
 		249336, -- Signet of the Starved Beast
 		249919, -- Sin'dorei Band of Hope
 		249808, -- Litany of Lightblind Wrath
-		249809, -- Locus-Walker's Ribbon
-		245770, -- Aln'hara Cane
-		249276, -- Grimoire of the Eternal Light
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Holy Priest",
@@ -119,6 +117,7 @@ HOLY_PRIEST_RAID_BIS = {
 
 HOLY_PRIEST_MYTHIC_PLUS_BIS = {
 	itemIDs = {
+		245770, -- Aln'hara Cane
 		250051, -- Blind Oath's Winged Crest
 		50228, -- Barbed Ymirheim Choker
 		250049, -- Blind Oath's Seraphguards
@@ -133,7 +132,6 @@ HOLY_PRIEST_MYTHIC_PLUS_BIS = {
 		193708, -- Platinum Star Band
 		193718, -- Emerald Coach's Whistle
 		250256, -- Heart of Wind
-		245770, -- Aln'hara Cane
 	},
 	messageLeft = "M+ BIS:",
 	messageRight = "Holy Priest",

@@ -131,7 +131,7 @@ DEMONOLOGY_WARLOCK_MYTHIC_PLUS_BIS = {
 		251093, -- Omission of Light
 		251217, -- Occlusion of Void
 		250144, -- Emberwing Feather
-		250258, -- Vessel of Tortured Souls
+		250256, -- Heart of Wind
 		258047, -- Spire of the Furious Construct
 	},
 	messageLeft = "M+ BIS:",

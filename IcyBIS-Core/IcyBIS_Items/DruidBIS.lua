@@ -14,7 +14,7 @@ BALANCE_DRUID_OVERALL_BIS = {
 		244569, -- Silvermoon Agent's Sneakers
 		251217, -- Occlusion of Void
 		251093, -- Omission of Light
-		249343, -- Gaze of the Alnseer
+		249809, -- Locus-Walker's Ribbon
 		249346, -- Vaelgor's Final Stare
 	},
 	messageLeft = "Overall BIS:",
@@ -38,7 +38,7 @@ BALANCE_DRUID_RAID_BIS = {
 		244569, -- Silvermoon Agent's Sneakers
 		249920, -- Eye of Midnight
 		249369, -- Bond of Light
-		249343, -- Gaze of the Alnseer
+		249809, -- Locus-Walker's Ribbon
 		249346, -- Vaelgor's Final Stare
 	},
 	messageLeft = "Raid BIS:",

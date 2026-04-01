@@ -15,7 +15,7 @@ ELEMENTAL_SHAMAN_OVERALL_BIS = {
 		193708, -- Platinum Star Band
 		249919, -- Sin'dorei Band of Hope
 		250144, -- Emberwing Feather
-		249343, -- Gaze of the Alnseer
+		249809, -- Locus-Walker's Ribbon
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Elemental Shaman",
@@ -66,6 +66,7 @@ ELEMENTAL_SHAMAN_MYTHIC_PLUS_BIS = {
 		249369, -- Bond of Light
 		249919, -- Sin'dorei Band of Hope
 		249346, -- Vaelgor's Final Stare
+		249809, -- Locus-Walker's Ribbon
 		249343, -- Gaze of the Alnseer
 	},
 	messageLeft = "M+ BIS:",
@@ -153,16 +154,16 @@ RESTORATION_SHAMAN_OVERALL_BIS = {
 		249914, -- Oblivion Guise
 		249337, -- Ribbon of Coiled Malice
 		249977, -- Tempests of the Primal Core
-		249974, -- Guardian of the Primal Core
+		239656, -- Adherent's Silken Shroud
 		249982, -- Embrace of the Primal Core
-		249975, -- Cuffs of the Primal Core
+		244584, -- Farstrider's Plated Bracers
 		249980, -- Earthgrips of the Primal Core
-		244611, -- World Tender's Barkclasp
+		249303, -- Waistcord of the Judged
 		249978, -- Leggings of the Primal Core
-		244610, -- World Tender's Rootslippers
+		249320, -- Sabatons of Obscurement
 		151308, -- Eredath Seal of Nobility
 		151311, -- Band of the Triumvirate
-		249808, -- Litany of Lightblind Wrath
+		249809, -- Locus-Walker's Ribbon
 		249343, -- Gaze of the Alnseer
 	},
 	messageLeft = "Overall BIS:",
@@ -181,13 +182,13 @@ RESTORATION_SHAMAN_RAID_BIS = {
 		249982, -- Embrace of the Primal Core
 		249975, -- Cuffs of the Primal Core
 		249980, -- Earthgrips of the Primal Core
-		244611, -- World Tender's Barkclasp
+		249303, -- Waistcord of the Judged
 		249978, -- Leggings of the Primal Core
-		244610, -- World Tender's Rootslippers
+		249320, -- Sabatons of Obscurement
 		249919, -- Sin'dorei Band of Hope
 		249336, -- Signet of the Starved Beast
 		249343, -- Gaze of the Alnseer
-		249808, -- Litany of Lightblind Wrath
+		249809, -- Locus-Walker's Ribbon
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Restoration Shaman",
@@ -205,9 +206,9 @@ RESTORATION_SHAMAN_MYTHIC_PLUS_BIS = {
 		249982, -- Embrace of the Primal Core
 		151321, -- Darkfang Scale Wristguards
 		249980, -- Earthgrips of the Primal Core
-		244611, -- World Tender's Barkclasp
+		49810, -- Scabrous Zombie Leather Belt
 		249978, -- Leggings of the Primal Core
-		244610, -- World Tender's Rootslippers
+		258582, -- Rigid Scale Boots
 		151308, -- Eredath Seal of Nobility
 		151311, -- Band of the Triumvirate
 		193718, -- Emerald Coach's Whistle

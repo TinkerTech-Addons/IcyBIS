@@ -47,11 +47,11 @@ BEAST_MASTERY_HUNTER_RAID_BIS = {
 BEAST_MASTERY_HUNTER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		249988, -- Primal Sentry's Maw
-		151309, -- Necklace of the Twisting Void
+		50228, -- Barbed Ymirheim Choker
 		151323, -- Pauldrons of the Void Hunter
 		258575, -- Rigid Scale Greatcloak
 		249991, -- Primal Sentry's Scaleplate
-		251079, -- Amberfrond Bracers
+		151321, -- Darkfang Scale Wristguards
 		249989, -- Primal Sentry's Talonguards
 		244611, -- World Tender's Barkclasp
 		249987, -- Primal Sentry's Legguards
@@ -59,7 +59,7 @@ BEAST_MASTERY_HUNTER_MYTHIC_PLUS_BIS = {
 		251217, -- Occlusion of Void
 		251093, -- Omission of Light
 		193701, -- Algeth'ar Puzzle Box
-		250258, -- Vessel of Tortured Souls
+		252420, -- Solarflare Prism
 		251174, -- Deceiver's Rotbow
 	},
 	messageLeft = "M+ BIS:",
@@ -116,11 +116,11 @@ MARKSMANSHIP_HUNTER_RAID_BIS = {
 MARKSMANSHIP_HUNTER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		249988, -- Primal Sentry's Maw
-		151309, -- Necklace of the Twisting Void
+		50228, -- Barbed Ymirheim Choker
 		151323, -- Pauldrons of the Void Hunter
-		251206, -- Fluxweave Cloak
+		258575, -- Rigid Scale Greatcloak
 		249991, -- Primal Sentry's Scaleplate
-		251079, -- Amberfrond Bracers
+		151321, -- Darkfang Scale Wristguards
 		249989, -- Primal Sentry's Talonguards
 		244611, -- World Tender's Barkclasp
 		249987, -- Primal Sentry's Legguards
@@ -143,19 +143,18 @@ SURVIVAL_HUNTER_OVERALL_BIS = {
 		151323, -- Pauldrons of the Void Hunter
 		249370, -- Draconic Nullcape
 		249991, -- Primal Sentry's Scaleplate
-		244584, -- Farstrider's Plated Bracers
 		249304, -- Fallen King's Cuffs
 		249989, -- Primal Sentry's Talonguards
 		244611, -- World Tender's Barkclasp
 		249987, -- Primal Sentry's Legguards
 		244610, -- World Tender's Rootslippers
-		251217, -- Occlusion of Void
-		251093, -- Omission of Light
+		249920, -- Eye of Midnight
+		249369, -- Bond of Light
+		193701, -- Algeth'ar Puzzle Box
 		249806, -- Radiant Plume
-		249343, -- Gaze of the Alnseer
 		249302, -- Inescapable Reach
 		249925, -- Hungering Victory
-		237837, -- Farstrider's Mercy
+		249284, -- Belo'ren's Swift Talon
 	},
 	messageLeft = "Overall BIS:",
 	messageRight = "Survival Hunter",
@@ -169,7 +168,6 @@ SURVIVAL_HUNTER_RAID_BIS = {
 		249318, -- Nullwalker's Dread Epaulettes
 		249370, -- Draconic Nullcape
 		249991, -- Primal Sentry's Scaleplate
-		244584, -- Farstrider's Plated Bracers
 		249304, -- Fallen King's Cuffs
 		249989, -- Primal Sentry's Talonguards
 		244611, -- World Tender's Barkclasp
@@ -181,7 +179,7 @@ SURVIVAL_HUNTER_RAID_BIS = {
 		249343, -- Gaze of the Alnseer
 		249302, -- Inescapable Reach
 		249925, -- Hungering Victory
-		237837, -- Farstrider's Mercy
+		249284, -- Belo'ren's Swift Talon
 	},
 	messageLeft = "Raid BIS:",
 	messageRight = "Survival Hunter",
@@ -191,11 +189,11 @@ SURVIVAL_HUNTER_RAID_BIS = {
 SURVIVAL_HUNTER_MYTHIC_PLUS_BIS = {
 	itemIDs = {
 		249988, -- Primal Sentry's Maw
-		251096, -- Pendant of Aching Grief
+		50228, -- Barbed Ymirheim Choker
 		151323, -- Pauldrons of the Void Hunter
 		258575, -- Rigid Scale Greatcloak
 		249991, -- Primal Sentry's Scaleplate
-		251079, -- Amberfrond Bracers
+		151321, -- Darkfang Scale Wristguards
 		249989, -- Primal Sentry's Talonguards
 		244611, -- World Tender's Barkclasp
 		249987, -- Primal Sentry's Legguards
